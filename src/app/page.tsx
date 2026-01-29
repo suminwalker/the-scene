@@ -22,8 +22,41 @@ const SLIDES = [
 ];
 
 export default function OnboardingPage() {
-  const [currentSlide, setCurrentSlide] = useState(0);
+  const [[currentSlide, direction], setPage] = useState([0, 0]);
   const router = useRouter();
+
+  const paginate = (newDirection: number) => {
+    const nextSlide = currentSlide + newDirection;
+    if (nextSlide < 0) {
+      setPage([SLIDES.length - 1, newDirection]);
+    } else if (nextSlide >= SLIDES.length) {
+      setPage([0, newDirection]);
+    } else {
+      setPage([nextSlide, newDirection]);
+    }
+  };
+
+  const slideVariants = {
+    enter: (direction: number) => ({
+      x: direction > 0 ? 300 : -300,
+      opacity: 0
+    }),
+    center: {
+      zIndex: 1,
+      x: 0,
+      opacity: 1
+    },
+    exit: (direction: number) => ({
+      zIndex: 0,
+      x: direction < 0 ? 300 : -300,
+      opacity: 0
+    })
+  };
+
+  const swipeConfidenceThreshold = 10000;
+  const swipePower = (offset: number, velocity: number) => {
+    return Math.abs(offset) * velocity;
+  };
 
   return (
     <div className="flex justify-center min-h-screen bg-white w-full">
@@ -48,31 +81,53 @@ export default function OnboardingPage() {
           </div>
 
           {/* Carousel */}
-          <div className="w-full mb-12">
-            <AnimatePresence mode="wait">
-              <motion.div
-                key={currentSlide}
-                initial={{ opacity: 0, x: 20 }}
-                animate={{ opacity: 1, x: 0 }}
-                exit={{ opacity: 0, x: -20 }}
-                transition={{ duration: 0.4, ease: "easeOut" }}
-                className="text-center space-y-4"
-              >
-                <h2 className="text-5xl font-serif text-zinc-900 tracking-tight">
-                  {SLIDES[currentSlide].title}
-                </h2>
-                <p className="text-zinc-500 text-sm leading-relaxed max-w-[280px] mx-auto">
-                  {SLIDES[currentSlide].description}
-                </p>
-              </motion.div>
-            </AnimatePresence>
+          <div className="w-full mb-12 relative">
+            <div className="h-[180px] flex items-center justify-center">
+              <AnimatePresence initial={false} custom={direction} mode="wait">
+                <motion.div
+                  key={currentSlide}
+                  custom={direction}
+                  variants={slideVariants}
+                  initial="enter"
+                  animate="center"
+                  exit="exit"
+                  transition={{
+                    x: { type: "spring", stiffness: 300, damping: 30 },
+                    opacity: { duration: 0.2 }
+                  }}
+                  drag="x"
+                  dragConstraints={{ left: 0, right: 0 }}
+                  dragElastic={1}
+                  onDragEnd={(e, { offset, velocity }) => {
+                    const swipe = swipePower(offset.x, velocity.x);
+
+                    if (swipe < -swipeConfidenceThreshold) {
+                      paginate(1);
+                    } else if (swipe > swipeConfidenceThreshold) {
+                      paginate(-1);
+                    }
+                  }}
+                  className="absolute w-full px-8 cursor-grab active:cursor-grabbing"
+                >
+                  <h2 className="text-5xl font-serif text-zinc-900 tracking-tight mb-4">
+                    {SLIDES[currentSlide].title}
+                  </h2>
+                  <p className="text-zinc-500 text-sm leading-relaxed max-w-[280px] mx-auto select-none">
+                    {SLIDES[currentSlide].description}
+                  </p>
+                </motion.div>
+              </AnimatePresence>
+            </div>
 
             {/* Pagination Dots */}
-            <div className="flex justify-center gap-2 mt-12">
+            <div className="flex justify-center gap-2 mt-4">
               {SLIDES.map((_, i) => (
                 <button
                   key={i}
-                  onClick={() => setCurrentSlide(i)}
+                  onClick={() => {
+                    const newDirection = i > currentSlide ? 1 : -1;
+                    setPage([i, newDirection]);
+                  }}
                   className={cn(
                     "w-2 h-2 rounded-full transition-all duration-300",
                     currentSlide === i ? "bg-black w-4" : "bg-zinc-200"
