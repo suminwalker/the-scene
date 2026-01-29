@@ -83,10 +83,10 @@ export default function OnboardingPage() {
           </div>
 
           {/* Actions */}
-          <div className="w-full space-y-6">
+          <div className="w-full space-y-6 flex flex-col items-center">
             <button
               onClick={() => router.push("/auth/signup")}
-              className="w-full py-5 bg-black text-white rounded-2xl font-bold text-sm shadow-2xl active:scale-[0.98] transition-all"
+              className="w-full max-w-[200px] py-4 bg-black text-white rounded-3xl font-bold text-sm shadow-xl active:scale-[0.98] transition-all"
             >
               Get started
             </button>

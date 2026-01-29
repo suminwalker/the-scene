@@ -138,7 +138,7 @@ export default function SignupPage() {
 
     const slideVariants = {
         enter: (direction: number) => ({
-            x: direction > 0 ? 50 : -50,
+            x: direction > 0 ? 20 : -20,
             opacity: 0
         }),
         center: {
@@ -148,7 +148,7 @@ export default function SignupPage() {
         },
         exit: (direction: number) => ({
             zIndex: 0,
-            x: direction < 0 ? 50 : -50,
+            x: direction < 0 ? 20 : -20,
             opacity: 0
         })
     };
@@ -201,7 +201,7 @@ export default function SignupPage() {
                                         <div className="flex items-center gap-3 border-b-2 border-zinc-100 focus-within:border-black transition-all pb-2">
                                             <div
                                                 onClick={() => setShowCountryModal(true)}
-                                                className="flex items-center gap-1 text-zinc-900 font-mono text-lg cursor-pointer hover:bg-zinc-50 px-2 py-1 -ml-2 rounded-md transition-colors"
+                                                className="flex items-center gap-1 text-zinc-900 font-mono text-lg cursor-pointer hover:bg-zinc-50 px-2 py-1 rounded-md transition-colors"
                                             >
                                                 <span>{formData.countryCode}</span>
                                                 <ChevronDown className="w-4 h-4 text-zinc-400" />
@@ -740,7 +740,7 @@ export default function SignupPage() {
 
                             {/* Step: Social Discovery */}
                             {step === "social" && (
-                                <div className="flex-1 flex flex-col items-center justify-between pb-12 pt-8">
+                                <div className="flex-1 flex flex-col items-center justify-between pb-12 pt-8 overflow-y-auto no-scrollbar min-h-0">
                                     <div className="flex-1 flex flex-col items-center justify-center space-y-12 text-center">
                                         <div className="relative">
                                             <div className="w-48 h-48 bg-zinc-50 rounded-full flex items-center justify-center relative overflow-hidden border-2 border-zinc-100 shadow-inner">
