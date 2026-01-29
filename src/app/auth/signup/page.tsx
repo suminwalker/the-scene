@@ -172,7 +172,7 @@ export default function SignupPage() {
     }
 
     return (
-        <div className="flex justify-center min-h-screen bg-white text-black">
+        <div className="flex justify-center min-h-screen bg-white text-black w-full">
             <MobileContainer className="bg-white">
                 <TopBar onBack={handleBack} />
 

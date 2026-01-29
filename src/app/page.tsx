@@ -26,7 +26,7 @@ export default function OnboardingPage() {
   const router = useRouter();
 
   return (
-    <div className="flex justify-center min-h-screen bg-white">
+    <div className="flex justify-center min-h-screen bg-white w-full">
       <MobileContainer className="relative overflow-hidden bg-white">
         {/* Background Map (Blurred) */}
         <div className="absolute inset-0 z-0">
