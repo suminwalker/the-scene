@@ -39,6 +39,13 @@ body {
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+html {
+  overflow-x: hidden;
 }
 
 /* Glassmorphism Utilities */
