@@ -88,9 +88,8 @@ function BrowseContent() {
                 <main className="flex-1 overflow-y-auto pb-24 scrollbar-hide">
                     <header className="mb-6 text-center sm:text-left px-6 pt-8">
                         <h1 className="text-4xl font-serif leading-[1.1] mb-2">
-                            Browse
+                            All Featured Lists
                         </h1>
-                        <p className="text-zinc-500 text-lg font-sans font-normal italic">by Vibe Check</p>
                     </header>
 
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 px-1">
