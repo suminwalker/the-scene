@@ -8,6 +8,8 @@ import { getCombinedPlaces, Place } from "@/lib/data";
 import Link from "next/link";
 import { useCity } from "@/lib/city-context";
 import { useSearchParams, useRouter } from "next/navigation";
+import { SlidersHorizontal } from "lucide-react";
+import { FilterSheet } from "@/components/domain/FilterSheet";
 
 // New specialized structure
 import { FEATURED_SECTIONS } from "@/lib/featured-lists";
@@ -20,6 +22,11 @@ function BrowseContent() {
     const selectedAge = searchParams.get('age');
     const backHref = "/discover";
     const [localAddedPlaces, setLocalAddedPlaces] = useState<Place[]>([]);
+
+    // Filter State
+    const [isFilterOpen, setIsFilterOpen] = useState(false);
+    const [selectedWho, setSelectedWho] = useState<string[]>([]);
+    const [selectedAesthetic, setSelectedAesthetic] = useState<string[]>([]);
 
     // Initialize from localStorage
     const [onboardingData, setOnboardingData] = useState<{
@@ -57,12 +64,48 @@ function BrowseContent() {
         }
     }, [localAddedPlaces]);
 
+    // Handle URL Parameter for "Your Type" (Who tag)
+    useEffect(() => {
+        const crowdParam = searchParams.get('crowd');
+        if (crowdParam) {
+            setSelectedWho([crowdParam]);
+        }
+    }, [searchParams]);
+
     // Filter places logic
     const allPlaces = getCombinedPlaces().filter(p => p.city === city);
     let cityPlaces: Place[] = [];
 
     if (selectedAge && selectedAge !== 'all') {
         cityPlaces = allPlaces.filter(p => {
+            // 0. Global Filter Check (Who, Energy, Aesthetic)
+            // AND logic across categories, OR logic within categories
+
+            // WHO
+            if (selectedWho.length > 0) {
+                // Map legacy place.crowd to generic check, or assume place.crowd will be updated
+                const placeTags = [
+                    ...(p.crowd || []),
+                    ...(p.vibe || []) // Mix vibe/crowd for now as data migrates
+                ].map(t => t.toLowerCase());
+
+                const hasMatch = selectedWho.some(w => placeTags.some(pt => pt.includes(w.toLowerCase()) || w.toLowerCase().includes(pt)));
+                if (!hasMatch) return false;
+            }
+
+
+
+            // AESTHETIC
+            if (selectedAesthetic.length > 0) {
+                // Logic fallback since we don't have strict aesthetic tags yet
+                const placeTags = [
+                    ...(p.vibe || []),
+                    ...(p.crowd || [])
+                ].map(t => t.toLowerCase());
+                const hasMatch = selectedAesthetic.some(a => placeTags.some(pt => pt.includes(a.toLowerCase()) || a.toLowerCase().includes(pt)));
+                if (!hasMatch) return false;
+            }
+
             // Specialized Playlists
             if (selectedAge === 'recommended-match') {
                 // 1. Filter by Dislikes
@@ -70,8 +113,6 @@ function BrowseContent() {
                     const isDisliked = onboardingData.dislikes.some(dislike => {
                         const d = dislike.toLowerCase();
                         const pCat = p.category.toLowerCase();
-                        const pVibe = p.vibe?.map(v => v.toLowerCase()) || [];
-                        const pIntent = p.intent?.map(i => i.toLowerCase()) || [];
 
                         // Simple inclusion checks for common terms
                         if (d.includes("dive") && pCat.includes("dive")) return true;
@@ -142,6 +183,8 @@ function BrowseContent() {
     // Simple alphabetic sort or by rating
     cityPlaces.sort((a, b) => b.rating - a.rating);
 
+    const activeFilterCount = selectedWho.length + selectedAesthetic.length;
+
     // MODE 1: Categories (Root View)
     if (!selectedAge) {
         return (
@@ -191,17 +234,55 @@ function BrowseContent() {
     return (
         <>
             <TopBar backHref={backHref} />
+            <FilterSheet
+                isOpen={isFilterOpen}
+                onClose={() => setIsFilterOpen(false)}
+                selectedWho={selectedWho}
+                onWhoChange={setSelectedWho}
+                selectedAesthetic={selectedAesthetic}
+                onAestheticChange={setSelectedAesthetic}
+            />
+
             <main className="flex-1 overflow-y-auto pb-24 scrollbar-hide">
                 <header className="mb-6 relative flex flex-col sm:flex-row sm:items-end sm:justify-between items-center text-center sm:text-left gap-4 px-6 pt-8">
-                    <div className="flex flex-col items-center sm:items-start">
-                        <h1 className="text-3xl font-serif leading-tight">
-                            {categoryLabel}
-                        </h1>
-                        <p className="text-zinc-500 text-[10px] font-mono mt-1 uppercase tracking-[0.2em]">
-                            {cityPlaces.length} Results
-                        </p>
+                    <div className="flex flex-col items-center sm:items-start w-full">
+                        <div className="flex justify-between items-start w-full">
+                            <div>
+                                <h1 className="text-3xl font-serif leading-tight">
+                                    {categoryLabel}
+                                </h1>
+                                <p className="text-zinc-500 text-[10px] font-mono mt-1 uppercase tracking-[0.2em]">
+                                    {cityPlaces.length} Results
+                                </p>
+                            </div>
+
+                            <button
+                                onClick={() => setIsFilterOpen(true)}
+                                className={cn(
+                                    "flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider transition-colors",
+                                    activeFilterCount > 0
+                                        ? "bg-black text-white hover:bg-zinc-800"
+                                        : "bg-zinc-100 text-zinc-600 hover:bg-zinc-200"
+                                )}
+                            >
+                                <SlidersHorizontal className="w-3 h-3" />
+                                Filter
+                                {activeFilterCount > 0 && <span className="ml-0.5 opacity-80">({activeFilterCount})</span>}
+                            </button>
+                        </div>
                     </div>
                 </header>
+
+                {/* Active Filters Display */}
+                {activeFilterCount > 0 && (
+                    <div className="px-6 mb-4 flex flex-wrap gap-2">
+                        {[...selectedWho, ...selectedAesthetic].map(tag => (
+                            <span key={tag} className="px-2 py-1 bg-zinc-100 rounded text-[10px] font-medium text-zinc-600 flex items-center gap-1">
+                                {tag}
+                            </span>
+                        ))}
+                    </div>
+                )}
 
                 <div className="grid grid-cols-2 md:grid-cols-3 gap-1 px-1">
                     {cityPlaces.map((place) => (
@@ -222,13 +303,26 @@ function BrowseContent() {
 
                 {cityPlaces.length === 0 && (
                     <div className="py-20 text-center text-zinc-500">
-                        <p>No places found for this vibe.</p>
+                        <p className="font-serif italic text-lg mb-2">No places found</p>
+                        <p className="text-xs">Try adjusting your filters to find your scene.</p>
+                        <button
+                            onClick={() => {
+                                setSelectedWho([]);
+                                setSelectedAesthetic([]);
+                            }}
+                            className="mt-4 text-xs font-bold uppercase tracking-widest text-accent hover:underline"
+                        >
+                            Clear Filters
+                        </button>
                     </div>
                 )}
             </main>
         </>
     );
 }
+
+// Helper for cn
+import { cn } from "@/lib/utils";
 
 export default function BrowsePage() {
     return (

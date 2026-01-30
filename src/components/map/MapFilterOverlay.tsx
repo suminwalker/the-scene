@@ -7,6 +7,8 @@ import { cn } from "@/lib/utils";
 import { CitySelector } from "@/components/layout/CitySelector";
 import { Place } from "@/lib/data";
 
+import { WHO_TAGS, AESTHETIC_TAGS } from "@/lib/taxonomy";
+
 interface MapFilterOverlayProps {
     onFilterChange: (filters: Record<string, string[]>) => void;
     places: Place[];
@@ -14,8 +16,8 @@ interface MapFilterOverlayProps {
 
 const FILTERS = {
     age: ["21-24", "25-29", "30-34", "35-39"],
-    crowd: ["Young Professional", "Hipster", "International"],
-    vibe: ["Low-key", "High-Energy", "Classy", "Cozy", "Loud", "Divey-Cool"],
+    who: WHO_TAGS,
+    aesthetic: AESTHETIC_TAGS,
     season: ["All Year", "Spring", "Summer", "Fall", "Winter"],
     timeOfDay: ["Morning", "Afternoon", "Evening", "Late Night"]
 };
@@ -24,15 +26,15 @@ export function MapFilterOverlay({ onFilterChange, places }: MapFilterOverlayPro
     const [isOpen, setIsOpen] = useState(false);
     const [selected, setSelected] = useState<Record<string, string[]>>({
         age: [],
-        crowd: [],
-        vibe: [],
+        who: [],
+        aesthetic: [],
         season: [],
         timeOfDay: [],
         neighborhood: []
     });
 
     // Extract unique neighborhoods from current city data
-    const cityNeighborhoods = Array.from(new Set(places.map(p => p.neighborhood))).sort();
+    const cityNeighborhoods = Array.from(new Set((places || []).filter(p => p?.neighborhood).map(p => p.neighborhood))).sort();
 
     // Notify parent onChange
     useEffect(() => {
@@ -53,8 +55,8 @@ export function MapFilterOverlay({ onFilterChange, places }: MapFilterOverlayPro
     const clearAll = () => {
         setSelected({
             age: [],
-            crowd: [],
-            vibe: [],
+            who: [],
+            aesthetic: [],
             season: [],
             timeOfDay: [],
             neighborhood: []

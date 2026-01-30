@@ -36,6 +36,24 @@ export default function MapPage() {
             for (const [key, values] of Object.entries(filters) as [string, string[]][]) {
                 if (values.length === 0) continue;
 
+                if (key === 'who' || key === 'aesthetic') {
+                    // Logic: Map new taxonomy keys to existing data fields (crowd, vibe)
+                    // We check if ANY of the selected values exist in the place's tags (fuzzy match or direct)
+
+                    const placeTags = [
+                        ...(p.crowd || []),
+                        ...(p.vibe || [])
+                    ].map(t => t.toLowerCase());
+
+                    // Check if place matches ANY of the selected filter values
+                    const match = values.some(val =>
+                        placeTags.some(pt => pt.includes(val.toLowerCase()) || val.toLowerCase().includes(pt))
+                    );
+
+                    if (!match) return false;
+                    continue;
+                }
+
                 const placeValues = (p as Record<string, unknown>)[key]; // Dynamic access
                 if (!placeValues) return false; // If place doesn't have metadata, strict filter out
 

@@ -95,12 +95,14 @@ export default async function PlacePage({ params }: PlacePageProps) {
                         </div>
 
                         {/* Editorial */}
-                        <section>
-                            <h3 className="text-xs font-mono uppercase tracking-widest text-zinc-400 mb-3">The Edit</h3>
-                            <p className="text-lg font-serif leading-relaxed text-zinc-800 dark:text-zinc-200">
-                                {place.editorial}
-                            </p>
-                        </section>
+                        {place.editorial && (
+                            <section>
+                                <h3 className="text-xs font-mono uppercase tracking-widest text-zinc-400 mb-3">The Edit</h3>
+                                <p className="text-lg font-serif leading-relaxed text-zinc-800 dark:text-zinc-200">
+                                    {place.editorial}
+                                </p>
+                            </section>
+                        )}
 
                         {/* Address Snippet */}
                         <section className="bg-zinc-50 dark:bg-zinc-800/50 p-4 rounded-lg flex items-start gap-3">
@@ -112,28 +114,34 @@ export default async function PlacePage({ params }: PlacePageProps) {
                         </section>
 
                         {/* Tags */}
-                        <section className="space-y-4">
-                            <div>
-                                <h3 className="text-xs font-mono uppercase tracking-widest text-zinc-400 mb-2">Crowd</h3>
-                                <div className="flex flex-wrap gap-2">
-                                    {place.crowd.map(tag => (
-                                        <span key={tag} className="px-3 py-1 bg-zinc-100 dark:bg-zinc-800 rounded-full text-xs font-medium text-zinc-600 dark:text-zinc-300 border border-zinc-200 dark:border-zinc-700">
-                                            {tag}
-                                        </span>
-                                    ))}
-                                </div>
-                            </div>
-                            <div>
-                                <h3 className="text-xs font-mono uppercase tracking-widest text-zinc-400 mb-2">Vibe</h3>
-                                <div className="flex flex-wrap gap-2">
-                                    {place.vibe.map(tag => (
-                                        <span key={tag} className="px-3 py-1 bg-zinc-100 dark:bg-zinc-800 rounded-full text-xs font-medium text-zinc-600 dark:text-zinc-300 border border-zinc-200 dark:border-zinc-700">
-                                            {tag}
-                                        </span>
-                                    ))}
-                                </div>
-                            </div>
-                        </section>
+                        {(place.crowd.length > 0 || place.vibe.length > 0) && (
+                            <section className="space-y-4">
+                                {place.crowd.length > 0 && (
+                                    <div>
+                                        <h3 className="text-xs font-mono uppercase tracking-widest text-zinc-400 mb-2">Crowd</h3>
+                                        <div className="flex flex-wrap gap-2">
+                                            {place.crowd.map(tag => (
+                                                <span key={tag} className="px-3 py-1 bg-zinc-100 dark:bg-zinc-800 rounded-full text-xs font-medium text-zinc-600 dark:text-zinc-300 border border-zinc-200 dark:border-zinc-700">
+                                                    {tag}
+                                                </span>
+                                            ))}
+                                        </div>
+                                    </div>
+                                )}
+                                {place.vibe.length > 0 && (
+                                    <div>
+                                        <h3 className="text-xs font-mono uppercase tracking-widest text-zinc-400 mb-2">Vibe</h3>
+                                        <div className="flex flex-wrap gap-2">
+                                            {place.vibe.map(tag => (
+                                                <span key={tag} className="px-3 py-1 bg-zinc-100 dark:bg-zinc-800 rounded-full text-xs font-medium text-zinc-600 dark:text-zinc-300 border border-zinc-200 dark:border-zinc-700">
+                                                    {tag}
+                                                </span>
+                                            ))}
+                                        </div>
+                                    </div>
+                                )}
+                            </section>
+                        )}
 
                         <div className="h-px bg-zinc-100 dark:bg-zinc-800 w-full" />
 

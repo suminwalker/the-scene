@@ -4,10 +4,7 @@ import { useState } from "react";
 import { Star, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 
-// Structured Taxonomies for Review
-const VIBE_TAGS = ["Chill", "Buzzing", "Romantic", "Loud", "Intimate", "Trendy", "Cozy", "Party", "Business", "Divey"];
-const CROWD_TAGS = ["The Industry", "Downtown Set", "Uptown Polish", "Art & Design", "Locals Only", "International", "After Work", "Date Night", "Groups"];
-const ATTIRE_TAGS = ["Casual", "Smart Casual", "Dress to Impress", "Streetwear", "Business", "Formal"];
+import { WHO_TAGS, AESTHETIC_TAGS } from "@/lib/taxonomy";
 
 export function ReviewForm() {
     const [rating, setRating] = useState(0);
@@ -17,9 +14,8 @@ export function ReviewForm() {
     const [error, setError] = useState<string | null>(null);
 
     // New Structured State
-    const [selectedVibes, setSelectedVibes] = useState<string[]>([]);
-    const [selectedCrowd, setSelectedCrowd] = useState<string[]>([]);
-    const [selectedAttire, setSelectedAttire] = useState<string[]>([]);
+    const [selectedWho, setSelectedWho] = useState<string[]>([]);
+    const [selectedAesthetic, setSelectedAesthetic] = useState<string[]>([]);
 
     const toggleTag = (tag: string, current: string[], setter: (val: string[]) => void, max: number) => {
         if (current.includes(tag)) {
@@ -53,9 +49,8 @@ export function ReviewForm() {
         console.log("Submitting Review:", {
             rating,
             text: reviewText,
-            vibe: selectedVibes,
-            crowd: selectedCrowd,
-            attire: selectedAttire,
+            who: selectedWho,
+            aesthetic: selectedAesthetic,
             timestamp: new Date().toISOString()
         });
 
@@ -99,19 +94,19 @@ export function ReviewForm() {
                 ))}
             </div>
 
-            {/* Vibe Selection */}
+            {/* Who / Crowd Selection */}
             <div className="space-y-2">
                 <div className="flex justify-between items-baseline">
-                    <label className="text-xs font-mono uppercase tracking-widest text-zinc-500">The Vibe <span className="text-[10px] lowercase opacity-50">(Select up to 3)</span></label>
+                    <label className="text-xs font-mono uppercase tracking-widest text-zinc-500">Who You'll Run Into <span className="text-[10px] lowercase opacity-50">(Select up to 2)</span></label>
                 </div>
                 <div className="flex flex-wrap gap-2">
-                    {VIBE_TAGS.map(tag => (
+                    {WHO_TAGS.map(tag => (
                         <button
                             key={tag}
-                            onClick={() => toggleTag(tag, selectedVibes, setSelectedVibes, 3)}
+                            onClick={() => toggleTag(tag, selectedWho, setSelectedWho, 2)}
                             className={cn(
                                 "px-3 py-1.5 rounded-full text-xs font-medium transition-colors border",
-                                selectedVibes.includes(tag)
+                                selectedWho.includes(tag)
                                     ? "bg-black text-white border-black dark:bg-white dark:text-black"
                                     : "bg-white text-zinc-600 border-zinc-200 hover:border-zinc-400 dark:bg-zinc-800 dark:text-zinc-300 dark:border-zinc-700"
                             )}
@@ -122,42 +117,21 @@ export function ReviewForm() {
                 </div>
             </div>
 
-            {/* Crowd Selection */}
-            <div className="space-y-2">
-                <div className="flex justify-between items-baseline">
-                    <label className="text-xs font-mono uppercase tracking-widest text-zinc-500">The Crowd <span className="text-[10px] lowercase opacity-50">(Select up to 3)</span></label>
-                </div>
-                <div className="flex flex-wrap gap-2">
-                    {CROWD_TAGS.map(tag => (
-                        <button
-                            key={tag}
-                            onClick={() => toggleTag(tag, selectedCrowd, setSelectedCrowd, 3)}
-                            className={cn(
-                                "px-3 py-1.5 rounded-full text-xs font-medium transition-colors border",
-                                selectedCrowd.includes(tag)
-                                    ? "bg-black text-white border-black dark:bg-white dark:text-black"
-                                    : "bg-white text-zinc-600 border-zinc-200 hover:border-zinc-400 dark:bg-zinc-800 dark:text-zinc-300 dark:border-zinc-700"
-                            )}
-                        >
-                            {tag}
-                        </button>
-                    ))}
-                </div>
-            </div>
 
-            {/* Attire Selection */}
+
+            {/* Aesthetic Selection */}
             <div className="space-y-2">
                 <div className="flex justify-between items-baseline">
-                    <label className="text-xs font-mono uppercase tracking-widest text-zinc-500">Attire <span className="text-[10px] lowercase opacity-50">(Select up to 2)</span></label>
+                    <label className="text-xs font-mono uppercase tracking-widest text-zinc-500">Aesthetic <span className="text-[10px] lowercase opacity-50">(Select up to 2)</span></label>
                 </div>
                 <div className="flex flex-wrap gap-2">
-                    {ATTIRE_TAGS.map(tag => (
+                    {AESTHETIC_TAGS.map(tag => (
                         <button
                             key={tag}
-                            onClick={() => toggleTag(tag, selectedAttire, setSelectedAttire, 2)}
+                            onClick={() => toggleTag(tag, selectedAesthetic, setSelectedAesthetic, 2)}
                             className={cn(
                                 "px-3 py-1.5 rounded-full text-xs font-medium transition-colors border",
-                                selectedAttire.includes(tag)
+                                selectedAesthetic.includes(tag)
                                     ? "bg-black text-white border-black dark:bg-white dark:text-black"
                                     : "bg-white text-zinc-600 border-zinc-200 hover:border-zinc-400 dark:bg-zinc-800 dark:text-zinc-300 dark:border-zinc-700"
                             )}
