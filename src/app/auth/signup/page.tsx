@@ -675,7 +675,7 @@ export default function SignupPage() {
                                 <div className="space-y-10 flex-1 flex flex-col min-h-0">
                                     <div className="space-y-2">
                                         <h1 className="text-4xl font-serif tracking-tight leading-tight">
-                                            Any places you typically avoid?
+                                            Any places you don&apos;t like?
                                         </h1>
                                         <p className="text-sm text-zinc-400 leading-relaxed">
                                             The Scene won&apos;t recommend these types of venues to you. You can update this list whenever.
