@@ -74,16 +74,16 @@ export default function OnboardingPage() {
         {/* Content */}
         <div className="relative z-10 flex flex-col items-center h-full px-8 pt-24 pb-12">
           {/* Logo/Header Area */}
-          <div className="mb-auto text-center">
+          <div className="text-center">
             <h1 className="text-[14px] font-mono uppercase tracking-[0.5em] text-black font-black mb-1">
               The Scene
             </h1>
           </div>
 
           {/* Carousel */}
-          <div className="w-full mb-12 relative">
+          <div className="w-full flex-1 flex flex-col justify-center relative">
             <div className="h-[180px] flex items-center justify-center">
-              <AnimatePresence initial={false} custom={direction} mode="wait">
+              <AnimatePresence initial={false} custom={direction}>
                 <motion.div
                   key={currentSlide}
                   custom={direction}
@@ -107,7 +107,7 @@ export default function OnboardingPage() {
                       paginate(-1);
                     }
                   }}
-                  className="absolute w-full px-8 cursor-grab active:cursor-grabbing"
+                  className="absolute w-full px-8 cursor-grab active:cursor-grabbing text-center"
                 >
                   <h2 className="text-5xl font-serif text-zinc-900 tracking-tight mb-4">
                     {SLIDES[currentSlide].title}

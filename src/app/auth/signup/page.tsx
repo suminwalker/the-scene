@@ -775,7 +775,7 @@ export default function SignupPage() {
                                             ))}
                                         </div>
                                     </div>
-                                    <div className="w-full space-y-4">
+                                    <div className="w-full space-y-4 mt-10">
                                         <button
                                             onClick={handleNext}
                                             className="w-full py-5 bg-black text-white rounded-3xl font-bold text-sm shadow-xl active:scale-95 transition-all"
