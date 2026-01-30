@@ -7,6 +7,9 @@ export type Review = {
     rating: number;
     text: string;
     date: string;
+    vibe?: string[];
+    crowd?: string[];
+    attire?: string[];
 };
 
 export type Place = {

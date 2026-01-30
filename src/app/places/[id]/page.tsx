@@ -140,7 +140,7 @@ export default async function PlacePage({ params }: PlacePageProps) {
                         {/* Reviews */}
                         <section className="space-y-6">
                             <div className="flex justify-between items-center">
-                                <h3 className="text-lg font-serif font-bold">Vibe Checks</h3>
+                                <h3 className="text-lg font-serif font-bold">Reviews</h3>
                                 <span className="text-xs text-zinc-500">{place.reviews.length} Reviews</span>
                             </div>
 
@@ -150,7 +150,7 @@ export default async function PlacePage({ params }: PlacePageProps) {
                             {/* Trust & Safety Disclaimer */}
                             <div className="pt-6 border-t border-zinc-100 dark:border-zinc-800">
                                 <p className="text-[10px] text-zinc-400 text-center leading-relaxed max-w-xs mx-auto">
-                                    Crowd vibes are based on recent reports and historical trends.
+                                    Reviews are based on recent reports and historical trends.
                                     They are aggregated anonymously and are not guarantees of who is there right now.
                                 </p>
                             </div>

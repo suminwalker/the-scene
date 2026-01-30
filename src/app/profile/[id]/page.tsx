@@ -76,6 +76,49 @@ const SESSION_USERS: Record<string, ProfileUser> = {
         activity: [],
         ageBracket: "25-29",
         neighborhoods: []
+    },
+    // Mock Users for Feed Interaction
+    "alex-chen": {
+        id: "alex-chen",
+        name: "Alex Chen",
+        handle: "alexc",
+        avatar: "https://i.pravatar.cc/150?u=alex",
+        bio: "Always looking for the perfect negroni. NYC native.",
+        instagram: "alexc",
+        tiktok: "",
+        memberSince: "December 2025",
+        followers: "128",
+        following: "84",
+        rank: "#842",
+        streak: "3 weeks",
+        lastHandleChange: 0,
+        isFollowing: false,
+        challenge: { progress: 45, total: 250 },
+        stats: { been: 42, wantToTry: 15, mutual: 3 },
+        activity: [],
+        ageBracket: "25-29",
+        neighborhoods: ["NoHo", "West Village"]
+    },
+    "sarah-j": {
+        id: "sarah-j",
+        name: "Sarah Jenkins",
+        handle: "sarah.jenkins",
+        avatar: "https://i.pravatar.cc/150?u=sarah",
+        bio: "Design & natural wine.",
+        instagram: "sarahj_design",
+        tiktok: "",
+        memberSince: "November 2025",
+        followers: "342",
+        following: "210",
+        rank: "#125",
+        streak: "12 weeks",
+        lastHandleChange: 0,
+        isFollowing: true,
+        challenge: { progress: 89, total: 250 },
+        stats: { been: 67, wantToTry: 45, mutual: 8 },
+        activity: [],
+        ageBracket: "30-34",
+        neighborhoods: ["SoHo", "Lower East Side"]
     }
 };
 
@@ -626,287 +669,293 @@ export default function ProfilePage() {
                             </div>
                         )}
 
-                        <div className="flex justify-center gap-4 py-2">
-                            {user.instagram ? (
-                                <Link
-                                    href={isEditing ? "#" : `https://instagram.com/${user.instagram}`}
-                                    className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-400 hover:text-black hover:border-black transition-all bg-white shadow-sm"
-                                >
-                                    <Instagram className="w-5 h-5" />
-                                </Link>
-                            ) : (
-                                <div className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-300 bg-white shadow-sm cursor-default">
-                                    <Instagram className="w-5 h-5" />
-                                </div>
-                            )}
-
-                            {user.tiktok ? (
-                                <Link
-                                    href={isEditing ? "#" : `https://tiktok.com/@${user.tiktok}`}
-                                    className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-400 hover:text-black hover:border-black transition-all bg-white shadow-sm"
-                                >
-                                    <Music2 className="w-5 h-5" />
-                                </Link>
-                            ) : (
-                                <div className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-300 bg-white shadow-sm cursor-default">
-                                    <Music2 className="w-5 h-5" />
-                                </div>
-                            )}
-                        </div>
-                    </div>
-
-                    {/* Stats Row */}
-                    <div className="flex justify-center gap-12 py-4">
-                        <div className="text-center">
-                            <p className="text-lg font-black text-foreground">{user.followers}</p>
-                            <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Followers</p>
-                        </div>
-                        <div className="text-center">
-                            <p className="text-lg font-black text-foreground">{user.following}</p>
-                            <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Following</p>
-                        </div>
-                        <div className="text-center">
-                            <p className="text-lg font-black text-foreground">{user.rank}</p>
-                            <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Rank</p>
-                        </div>
-                    </div>
-
-                    {/* Owner UI Repositioned Buttons */}
-                    {isOwner && !isEditing && (
-                        <div className="flex gap-3 px-6 pt-2 pb-6">
-                            <button
-                                onClick={() => setIsEditing(true)}
-                                className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-zinc-50 transition-colors bg-white shadow-sm"
-                            >
-                                Edit profile
-                            </button>
-                            <button
-                                onClick={handleShare}
-                                className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-zinc-50 transition-colors bg-white shadow-sm"
-                            >
-                                Share profile
-                            </button>
-                        </div>
-                    )}
-
-                    {!isOwner && (
-                        <div className="flex gap-3 px-4 pt-2">
-                            <button
-                                onClick={() => setIsFollowing(!isFollowing)}
-                                className={cn(
-                                    "flex-1 py-3.5 rounded-2xl font-bold text-sm tracking-tight active:scale-95 transition-all",
-                                    isFollowing ? "bg-black text-white" : "bg-black text-white"
-                                )}
-                            >
-                                {isFollowing ? "Following" : "Follow"}
-                            </button>
-                            <button className="p-3.5 bg-white text-foreground rounded-2xl font-bold text-sm active:scale-95 transition-all border border-black/10 shadow-sm hover:bg-zinc-50">
-                                <ChevronRight className="w-5 h-5 rotate-90" />
-                            </button>
-                        </div>
-                    )}
-                </div>
-
-                {/* Lists Sections */}
-                <div className="px-4 py-6 space-y-2">
-                    {[
-                        { label: "Been", count: user.stats.been, href: "/saved" },
-                        { label: "Want to Try", count: user.stats.wantToTry, href: "/saved" },
-                        { label: "Places you both want to try", count: user.stats.mutual, href: "/saved" }
-                    ].map((item) => (
-                        <Link key={item.label} href={item.href} className="w-full flex justify-between items-center p-4 bg-white hover:bg-zinc-50 rounded-2xl border border-black/10 transition-colors group shadow-sm">
-                            <div className="flex items-center gap-4">
-                                <span className="text-sm font-semibold text-zinc-400">{item.label}</span>
-                            </div>
-                            <div className="flex items-center gap-3">
-                                <span className="text-sm font-black text-foreground">{item.count}</span>
-                                <ChevronRight className="w-4 h-4 text-zinc-300 group-hover:text-zinc-400 transition-colors" />
-                            </div>
-                        </Link>
-                    ))}
-                </div>
-
-                {/* Badges Cards */}
-                <div className="grid grid-cols-2 gap-3 px-4 py-2">
-                    <button
-                        onClick={() => alert("Leaderboard coming soon!")}
-                        className="p-5 rounded-3xl bg-white border border-black/10 space-y-2 text-left hover:bg-zinc-50 transition-colors shadow-sm"
-                    >
-                        <Trophy className="w-6 h-6 text-black mb-2" />
-                        <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Rank on The Scene</p>
-                        <p className="text-xl font-black text-black">{user.rank}</p>
-                    </button>
-                    <button
-                        onClick={() => alert("Keep the streak alive!")}
-                        className="p-5 rounded-3xl bg-white border border-black/10 space-y-2 text-left hover:bg-zinc-50 transition-colors shadow-sm"
-                    >
-                        <Flame className="w-6 h-6 text-black mb-2" />
-                        <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Current Streak</p>
-                        <p className="text-xl font-black text-black">{user.streak}</p>
-                    </button>
-                </div>
-
-                {/* Challenge Card */}
-                <div className="px-4 py-6">
-                    <div className="p-6 rounded-[32px] bg-white border border-black/10 space-y-4 shadow-sm">
-                        <div className="flex justify-between items-start">
-                            <div className="space-y-1">
-                                <h4 className="text-sm font-black text-foreground/50 tracking-[0.15em] font-mono uppercase">2026 Venue Challenge</h4>
-                                <p className="text-lg font-bold text-foreground leading-tight">
-                                    {user.challenge.progress} of {user.challenge.total} venues
-                                </p>
-                            </div>
-                        </div>
-                        <div className="w-full h-2 bg-zinc-200 rounded-full overflow-hidden">
-                            <div
-                                className="h-full bg-black transition-all duration-1000"
-                                style={{ width: `${(user.challenge.progress / user.challenge.total) * 100}%` }}
-                            />
-                        </div>
-                        <div className="flex justify-between items-center text-[10px] text-zinc-500 font-mono tracking-widest">
-                            <span>339 days left</span>
-                            <button
-                                onClick={() => alert("Goal setting coming soon in the 2026 update!")}
-                                className="text-black hover:underline"
-                            >
-                                Set your 2026 goal &gt;
-                            </button>
-                        </div>
-                    </div>
-                </div>
-
-                {/* Content Tabs */}
-                <div className="mt-4 border-t border-black/5">
-                    <div className="flex px-4 pt-4">
-                        <button
-                            onClick={() => setActiveTab("activity")}
-                            className={cn(
-                                "flex-1 py-3 text-[11px] font-mono uppercase tracking-[0.2em] border-b-2 transition-all",
-                                activeTab === "activity" ? "border-foreground text-foreground" : "border-transparent text-zinc-400"
-                            )}
-                        >
-                            📝 Recent Activity
-                        </button>
-                        <button
-                            onClick={() => setActiveTab("taste")}
-                            className={cn(
-                                "flex-1 py-3 text-[11px] font-mono uppercase tracking-[0.2em] border-b-2 transition-all",
-                                activeTab === "taste" ? "border-foreground text-foreground" : "border-transparent text-zinc-400"
-                            )}
-                        >
-                            📊 Taste Profile
-                        </button>
-                    </div>
-
-                    <div className="px-4 pt-6 divide-y divide-black/5">
-                        {activeTab === "activity" ? (
-                            user.activity.length > 0 ? (
-                                user.activity.map((item: ActivityItem) => (
-                                    <ActivityFeedItem key={item.id} {...item} />
-                                ))
-                            ) : (
-                                <div className="py-20 text-center space-y-2">
-                                    <p className="text-zinc-500 font-serif italic">No recent activity.</p>
-                                </div>
-                            )
-                        ) : (
-                            <div className="py-8 space-y-6">
-                                {user.stats.been > 0 ? (
-                                    <div className="p-6 rounded-3xl bg-white border border-black/10 space-y-4 shadow-sm">
-                                        <div className="flex justify-between items-start">
-                                            <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Last 30 Days</p>
-                                            <Share className="w-4 h-4 text-zinc-400" />
-                                        </div>
-                                        <h3 className="text-xl font-bold text-black tracking-tight">Top 36% Rank</h3>
-                                        <p className="text-xs text-zinc-500">New York</p>
-                                        <div className="flex gap-8 pt-2">
-                                            <div>
-                                                <p className="text-2xl font-black text-black">{user.stats.been}</p>
-                                                <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Venues</p>
-                                            </div>
-                                            <div>
-                                                <p className="text-2xl font-black text-black">9</p>
-                                                <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Cities</p>
-                                            </div>
-                                        </div>
-                                        <p className="text-[10px] italic text-indigo-400/80 pt-2 border-t border-indigo-100">
-                                            More active than 64% of members in New York
-                                        </p>
-                                        <div className="flex justify-center pt-2">
-                                            <span className="text-xs font-serif font-black tracking-widest italic opacity-20">THE SCENE</span>
-                                        </div>
-                                    </div>
+                        {!isEditing && (
+                            <div className="flex justify-center gap-4 py-2">
+                                {user.instagram ? (
+                                    <Link
+                                        href={`https://instagram.com/${user.instagram}`}
+                                        className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-400 hover:text-black hover:border-black transition-all bg-white shadow-sm"
+                                    >
+                                        <Instagram className="w-5 h-5" />
+                                    </Link>
                                 ) : (
-                                    <div className="p-8 rounded-3xl bg-zinc-50 border border-black/5 text-center space-y-3">
-                                        <div className="w-12 h-12 bg-zinc-100 rounded-full flex items-center justify-center mx-auto">
-                                            <TrendingUp className="w-6 h-6 text-zinc-300" />
-                                        </div>
-                                        <div className="space-y-1">
-                                            <h4 className="text-sm font-bold text-foreground">No data yet</h4>
-                                            <p className="text-xs text-zinc-500 px-4">Visit and rank 5 venues to unlock your personal Taste Profile & Scene Rank.</p>
-                                        </div>
+                                    <div className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-300 bg-white shadow-sm cursor-default">
+                                        <Instagram className="w-5 h-5" />
                                     </div>
                                 )}
 
-                                {/* Onboarding / Vibe Check Info */}
-                                {(user.ageBracket || (user.neighborhoods && user.neighborhoods.length > 0)) && (
-                                    <div className="p-6 rounded-3xl bg-zinc-50 border border-black/5 space-y-4">
-                                        <div className="flex justify-between items-center">
-                                            <h3 className="text-sm font-bold tracking-tight text-foreground">Vibe Check</h3>
-                                        </div>
-
-                                        <div className="space-y-3">
-                                            {user.ageBracket && (
-                                                <div className="flex items-center gap-3">
-                                                    <div className="w-8 h-8 rounded-full bg-white border border-zinc-200 flex items-center justify-center">
-                                                        <Calendar className="w-4 h-4 text-zinc-500" />
-                                                    </div>
-                                                    <div>
-                                                        <span className="text-xs text-zinc-500 block">Age Bracket</span>
-                                                        <span className="text-sm font-semibold">{user.ageBracket}</span>
-                                                    </div>
-                                                </div>
-                                            )}
-
-                                            {user.neighborhoods && user.neighborhoods.length > 0 && (
-                                                <div className="flex items-center gap-3">
-                                                    <div className="w-8 h-8 rounded-full bg-white border border-zinc-200 flex items-center justify-center">
-                                                        <MapPin className="w-4 h-4 text-zinc-500" />
-                                                    </div>
-                                                    <div>
-                                                        <span className="text-xs text-zinc-500 block">Frequent Spots</span>
-                                                        <span className="text-sm font-semibold">{user.neighborhoods.join(", ")}</span>
-                                                    </div>
-                                                </div>
-                                            )}
-                                        </div>
+                                {user.tiktok ? (
+                                    <Link
+                                        href={`https://tiktok.com/@${user.tiktok}`}
+                                        className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-400 hover:text-black hover:border-black transition-all bg-white shadow-sm"
+                                    >
+                                        <Music2 className="w-5 h-5" />
+                                    </Link>
+                                ) : (
+                                    <div className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-300 bg-white shadow-sm cursor-default">
+                                        <Music2 className="w-5 h-5" />
                                     </div>
                                 )}
-
-                                <div className="p-6 rounded-3xl bg-zinc-50 border border-black/5 space-y-6">
-                                    <div className="flex justify-between items-center">
-                                        <h3 className="text-sm font-bold tracking-tight text-foreground">{user.name.split(' ')[0]}&apos;s Scene Map</h3>
-                                        <Share className="w-4 h-4 text-zinc-400" />
-                                    </div>
-                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">
-                                        {isOwner ? "0 cities • 0 venues" : "97 cities • 1324 venues"}
-                                    </p>
-                                    <div className="aspect-video w-full bg-zinc-50 rounded-2xl overflow-hidden opacity-80 relative border border-black/5">
-                                        <img
-                                            src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?q=80&w=1200"
-                                            className="w-full h-full object-cover grayscale"
-                                            alt="Map"
-                                        />
-                                        <div className="absolute inset-0 flex items-center justify-center">
-                                            <div className="px-4 py-2 bg-white/80 backdrop-blur-md rounded-full border border-black/10 text-[10px] font-mono text-zinc-600">
-                                                {isOwner ? "Explore venues to populate your map" : "Interactive Map Available in App"}
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                         )}
                     </div>
+
+                    {/* Stats Row */}
+                    {!isEditing && (
+                        <>
+                            <div className="flex justify-center gap-12 py-4">
+                                <div className="text-center">
+                                    <p className="text-lg font-black text-foreground">{user.followers}</p>
+                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Followers</p>
+                                </div>
+                                <div className="text-center">
+                                    <p className="text-lg font-black text-foreground">{user.following}</p>
+                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Following</p>
+                                </div>
+                                <div className="text-center">
+                                    <p className="text-lg font-black text-foreground">{user.rank}</p>
+                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Rank</p>
+                                </div>
+                            </div>
+
+                            {/* Owner UI Repositioned Buttons */}
+                            {isOwner && !isEditing && (
+                                <div className="flex gap-3 px-6 pt-2 pb-6">
+                                    <button
+                                        onClick={() => setIsEditing(true)}
+                                        className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-zinc-50 transition-colors bg-white shadow-sm"
+                                    >
+                                        Edit profile
+                                    </button>
+                                    <button
+                                        onClick={handleShare}
+                                        className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-zinc-50 transition-colors bg-white shadow-sm"
+                                    >
+                                        Share profile
+                                    </button>
+                                </div>
+                            )}
+
+                            {!isOwner && (
+                                <div className="flex gap-3 px-4 pt-2">
+                                    <button
+                                        onClick={() => setIsFollowing(!isFollowing)}
+                                        className={cn(
+                                            "flex-1 py-3.5 rounded-2xl font-bold text-sm tracking-tight active:scale-95 transition-all",
+                                            isFollowing ? "bg-black text-white" : "bg-black text-white"
+                                        )}
+                                    >
+                                        {isFollowing ? "Following" : "Follow"}
+                                    </button>
+                                    <button className="p-3.5 bg-white text-foreground rounded-2xl font-bold text-sm active:scale-95 transition-all border border-black/10 shadow-sm hover:bg-zinc-50">
+                                        <ChevronRight className="w-5 h-5 rotate-90" />
+                                    </button>
+                                </div>
+                            )}
+
+                            {/* Lists Sections */}
+                            <div className="px-4 py-6 space-y-2">
+                                {[
+                                    { label: "Been", count: user.stats.been, href: "/saved" },
+                                    { label: "Want to Try", count: user.stats.wantToTry, href: "/saved" },
+                                    { label: "Places you both want to try", count: user.stats.mutual, href: "/saved" }
+                                ].map((item) => (
+                                    <Link key={item.label} href={item.href} className="w-full flex justify-between items-center p-4 bg-white hover:bg-zinc-50 rounded-2xl border border-black/10 transition-colors group shadow-sm">
+                                        <div className="flex items-center gap-4">
+                                            <span className="text-sm font-semibold text-zinc-400">{item.label}</span>
+                                        </div>
+                                        <div className="flex items-center gap-3">
+                                            <span className="text-sm font-black text-foreground">{item.count}</span>
+                                            <ChevronRight className="w-4 h-4 text-zinc-300 group-hover:text-zinc-400 transition-colors" />
+                                        </div>
+                                    </Link>
+                                ))}
+                            </div>
+
+                            {/* Badges Cards */}
+                            <div className="grid grid-cols-2 gap-3 px-4 py-2">
+                                <button
+                                    onClick={() => alert("Leaderboard coming soon!")}
+                                    className="p-5 rounded-3xl bg-white border border-black/10 space-y-2 text-left hover:bg-zinc-50 transition-colors shadow-sm"
+                                >
+                                    <Trophy className="w-6 h-6 text-black mb-2" />
+                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Rank on The Scene</p>
+                                    <p className="text-xl font-black text-black">{user.rank}</p>
+                                </button>
+                                <button
+                                    onClick={() => alert("Keep the streak alive!")}
+                                    className="p-5 rounded-3xl bg-white border border-black/10 space-y-2 text-left hover:bg-zinc-50 transition-colors shadow-sm"
+                                >
+                                    <Flame className="w-6 h-6 text-black mb-2" />
+                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Current Streak</p>
+                                    <p className="text-xl font-black text-black">{user.streak}</p>
+                                </button>
+                            </div>
+
+                            {/* Challenge Card */}
+                            <div className="px-4 py-6">
+                                <div className="p-6 rounded-[32px] bg-white border border-black/10 space-y-4 shadow-sm">
+                                    <div className="flex justify-between items-start">
+                                        <div className="space-y-1">
+                                            <h4 className="text-sm font-black text-foreground/50 tracking-[0.15em] font-mono uppercase">2026 Venue Challenge</h4>
+                                            <p className="text-lg font-bold text-foreground leading-tight">
+                                                {user.challenge.progress} of {user.challenge.total} venues
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div className="w-full h-2 bg-zinc-200 rounded-full overflow-hidden">
+                                        <div
+                                            className="h-full bg-black transition-all duration-1000"
+                                            style={{ width: `${(user.challenge.progress / user.challenge.total) * 100}%` }}
+                                        />
+                                    </div>
+                                    <div className="flex justify-between items-center text-[10px] text-zinc-500 font-mono tracking-widest">
+                                        <span>339 days left</span>
+                                        <button
+                                            onClick={() => alert("Goal setting coming soon in the 2026 update!")}
+                                            className="text-black hover:underline"
+                                        >
+                                            Set your 2026 goal &gt;
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            {/* Content Tabs */}
+                            <div className="mt-4 border-t border-black/5">
+                                <div className="flex px-4 pt-4">
+                                    <button
+                                        onClick={() => setActiveTab("activity")}
+                                        className={cn(
+                                            "flex-1 py-3 text-[11px] font-mono uppercase tracking-[0.2em] border-b-2 transition-all",
+                                            activeTab === "activity" ? "border-foreground text-foreground" : "border-transparent text-zinc-400"
+                                        )}
+                                    >
+                                        📝 Recent Activity
+                                    </button>
+                                    <button
+                                        onClick={() => setActiveTab("taste")}
+                                        className={cn(
+                                            "flex-1 py-3 text-[11px] font-mono uppercase tracking-[0.2em] border-b-2 transition-all",
+                                            activeTab === "taste" ? "border-foreground text-foreground" : "border-transparent text-zinc-400"
+                                        )}
+                                    >
+                                        📊 Taste Profile
+                                    </button>
+                                </div>
+
+                                <div className="px-4 pt-6 divide-y divide-black/5">
+                                    {activeTab === "activity" ? (
+                                        user.activity.length > 0 ? (
+                                            user.activity.map((item: ActivityItem) => (
+                                                <ActivityFeedItem key={item.id} {...item} />
+                                            ))
+                                        ) : (
+                                            <div className="py-20 text-center space-y-2">
+                                                <p className="text-zinc-500 font-serif italic">No recent activity.</p>
+                                            </div>
+                                        )
+                                    ) : (
+                                        <div className="py-8 space-y-6">
+                                            {user.stats.been > 0 ? (
+                                                <div className="p-6 rounded-3xl bg-white border border-black/10 space-y-4 shadow-sm">
+                                                    <div className="flex justify-between items-start">
+                                                        <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Last 30 Days</p>
+                                                        <Share className="w-4 h-4 text-zinc-400" />
+                                                    </div>
+                                                    <h3 className="text-xl font-bold text-black tracking-tight">Top 36% Rank</h3>
+                                                    <p className="text-xs text-zinc-500">New York</p>
+                                                    <div className="flex gap-8 pt-2">
+                                                        <div>
+                                                            <p className="text-2xl font-black text-black">{user.stats.been}</p>
+                                                            <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Venues</p>
+                                                        </div>
+                                                        <div>
+                                                            <p className="text-2xl font-black text-black">9</p>
+                                                            <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Cities</p>
+                                                        </div>
+                                                    </div>
+                                                    <p className="text-[10px] italic text-indigo-400/80 pt-2 border-t border-indigo-100">
+                                                        More active than 64% of members in New York
+                                                    </p>
+                                                    <div className="flex justify-center pt-2">
+                                                        <span className="text-xs font-serif font-black tracking-widest italic opacity-20">THE SCENE</span>
+                                                    </div>
+                                                </div>
+                                            ) : (
+                                                <div className="p-8 rounded-3xl bg-zinc-50 border border-black/5 text-center space-y-3">
+                                                    <div className="w-12 h-12 bg-zinc-100 rounded-full flex items-center justify-center mx-auto">
+                                                        <TrendingUp className="w-6 h-6 text-zinc-300" />
+                                                    </div>
+                                                    <div className="space-y-1">
+                                                        <h4 className="text-sm font-bold text-foreground">No data yet</h4>
+                                                        <p className="text-xs text-zinc-500 px-4">Visit and rank 5 venues to unlock your personal Taste Profile & Scene Rank.</p>
+                                                    </div>
+                                                </div>
+                                            )}
+
+                                            {/* Onboarding / Vibe Check Info */}
+                                            {(user.ageBracket || (user.neighborhoods && user.neighborhoods.length > 0)) && (
+                                                <div className="p-6 rounded-3xl bg-zinc-50 border border-black/5 space-y-4">
+                                                    <div className="flex justify-between items-center">
+                                                        <h3 className="text-sm font-bold tracking-tight text-foreground">Vibe Check</h3>
+                                                    </div>
+
+                                                    <div className="space-y-3">
+                                                        {user.ageBracket && (
+                                                            <div className="flex items-center gap-3">
+                                                                <div className="w-8 h-8 rounded-full bg-white border border-zinc-200 flex items-center justify-center">
+                                                                    <Calendar className="w-4 h-4 text-zinc-500" />
+                                                                </div>
+                                                                <div>
+                                                                    <span className="text-xs text-zinc-500 block">Age Bracket</span>
+                                                                    <span className="text-sm font-semibold">{user.ageBracket}</span>
+                                                                </div>
+                                                            </div>
+                                                        )}
+
+                                                        {user.neighborhoods && user.neighborhoods.length > 0 && (
+                                                            <div className="flex items-center gap-3">
+                                                                <div className="w-8 h-8 rounded-full bg-white border border-zinc-200 flex items-center justify-center">
+                                                                    <MapPin className="w-4 h-4 text-zinc-500" />
+                                                                </div>
+                                                                <div>
+                                                                    <span className="text-xs text-zinc-500 block">Frequent Spots</span>
+                                                                    <span className="text-sm font-semibold">{user.neighborhoods.join(", ")}</span>
+                                                                </div>
+                                                            </div>
+                                                        )}
+                                                    </div>
+                                                </div>
+                                            )}
+
+                                            <div className="p-6 rounded-3xl bg-zinc-50 border border-black/5 space-y-6">
+                                                <div className="flex justify-between items-center">
+                                                    <h3 className="text-sm font-bold tracking-tight text-foreground">{user.name.split(' ')[0]}&apos;s Scene Map</h3>
+                                                    <Share className="w-4 h-4 text-zinc-400" />
+                                                </div>
+                                                <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">
+                                                    {isOwner ? "0 cities • 0 venues" : "97 cities • 1324 venues"}
+                                                </p>
+                                                <div className="aspect-video w-full bg-zinc-50 rounded-2xl overflow-hidden opacity-80 relative border border-black/5">
+                                                    <img
+                                                        src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?q=80&w=1200"
+                                                        className="w-full h-full object-cover grayscale"
+                                                        alt="Map"
+                                                    />
+                                                    <div className="absolute inset-0 flex items-center justify-center">
+                                                        <div className="px-4 py-2 bg-white/80 backdrop-blur-md rounded-full border border-black/10 text-[10px] font-mono text-zinc-600">
+                                                            {isOwner ? "Explore venues to populate your map" : "Interactive Map Available in App"}
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    )}
+                                </div>
+                            </div>
+                        </>
+                    )}
                 </div>
             </div>
 

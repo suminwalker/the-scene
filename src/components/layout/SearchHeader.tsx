@@ -81,7 +81,7 @@ export function SearchHeader({ activeFilter, onFilterChange }: SearchHeaderProps
                         }}
                         onFocus={() => query.length > 1 && setIsOpen(true)}
                         placeholder="Search scene, venues, etc..."
-                        className="w-full bg-zinc-100 border border-black/5 rounded-full py-2.5 pl-10 pr-10 text-sm focus:outline-none focus:ring-1 focus:ring-accent/50 focus:border-accent/50 transition-all placeholder:text-zinc-400"
+                        className="w-full bg-white border border-black/10 rounded-full py-2.5 pl-10 pr-10 text-sm focus:outline-none focus:ring-1 focus:ring-accent/50 focus:border-accent/50 transition-all placeholder:text-zinc-400 shadow-sm"
                     />
                     {query && (
                         <button

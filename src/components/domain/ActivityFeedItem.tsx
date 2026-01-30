@@ -63,7 +63,7 @@ export function ActivityFeedItem({
                         <p className="text-sm font-medium leading-tight">
                             <Link href={`/profile/${user.id}`} className="text-foreground hover:text-accent transition-colors font-bold">{user.name}</Link>
                             {" "}
-                            <span className="text-zinc-500">{action}</span>
+                            <span className={action === "rated" ? "text-foreground font-medium" : "text-zinc-500"}>{action}</span>
                             {" "}
                             <Link href={`/places/${venueId}`} className="text-foreground font-bold hover:text-accent transition-colors">{venue}</Link>
                         </p>
