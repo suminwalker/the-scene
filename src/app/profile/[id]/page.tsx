@@ -7,7 +7,8 @@ import {
     ChevronRight, Trophy, Flame, TrendingUp, Menu, X,
     Mail, Gift, GraduationCap, Settings, Calendar, Crown,
     MessageCircle, Building2, AlertTriangle, HeartOff,
-    CloudUpload, Lock, FileText, LogOut, Check, Camera
+    CloudUpload, Lock, FileText, LogOut, Check, Camera,
+    MapPin
 } from "lucide-react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
@@ -817,6 +818,41 @@ export default function ProfilePage() {
                                         <div className="space-y-1">
                                             <h4 className="text-sm font-bold text-foreground">No data yet</h4>
                                             <p className="text-xs text-zinc-500 px-4">Visit and rank 5 venues to unlock your personal Taste Profile & Scene Rank.</p>
+                                        </div>
+                                    </div>
+                                )}
+
+                                {/* Onboarding / Vibe Check Info */}
+                                {(user.ageBracket || (user.neighborhoods && user.neighborhoods.length > 0)) && (
+                                    <div className="p-6 rounded-3xl bg-zinc-50 border border-black/5 space-y-4">
+                                        <div className="flex justify-between items-center">
+                                            <h3 className="text-sm font-bold tracking-tight text-foreground">Vibe Check</h3>
+                                        </div>
+
+                                        <div className="space-y-3">
+                                            {user.ageBracket && (
+                                                <div className="flex items-center gap-3">
+                                                    <div className="w-8 h-8 rounded-full bg-white border border-zinc-200 flex items-center justify-center">
+                                                        <Calendar className="w-4 h-4 text-zinc-500" />
+                                                    </div>
+                                                    <div>
+                                                        <span className="text-xs text-zinc-500 block">Age Bracket</span>
+                                                        <span className="text-sm font-semibold">{user.ageBracket}</span>
+                                                    </div>
+                                                </div>
+                                            )}
+
+                                            {user.neighborhoods && user.neighborhoods.length > 0 && (
+                                                <div className="flex items-center gap-3">
+                                                    <div className="w-8 h-8 rounded-full bg-white border border-zinc-200 flex items-center justify-center">
+                                                        <MapPin className="w-4 h-4 text-zinc-500" />
+                                                    </div>
+                                                    <div>
+                                                        <span className="text-xs text-zinc-500 block">Frequent Spots</span>
+                                                        <span className="text-sm font-semibold">{user.neighborhoods.join(", ")}</span>
+                                                    </div>
+                                                </div>
+                                            )}
                                         </div>
                                     </div>
                                 )}

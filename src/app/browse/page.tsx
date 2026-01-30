@@ -93,7 +93,7 @@ function BrowseContent() {
                         <p className="text-zinc-500 text-lg font-sans font-normal italic">by Vibe Check</p>
                     </header>
 
-                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 px-2">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 px-1">
                         {CATEGORIES.map((cat) => (
                             <Link key={cat.id} href={`/browse?age=${cat.id}`} className="block group">
                                 <div className="relative h-48 w-full rounded-xl overflow-hidden border border-white/5 shadow-lg">
@@ -104,7 +104,6 @@ function BrowseContent() {
 
                                     <div className="absolute inset-0 flex flex-col justify-end p-6 bg-gradient-to-t from-black/80 via-transparent to-transparent">
                                         <h3 className="text-2xl font-serif text-white mb-1 group-hover:underline decoration-accent/50 underline-offset-4">{cat.label}</h3>
-                                        <p className="text-xs text-zinc-300 font-medium font-mono uppercase tracking-tight">{cat.sub}</p>
                                     </div>
                                 </div>
                             </Link>
@@ -174,7 +173,7 @@ function BrowseContent() {
 
 export default function BrowsePage() {
     return (
-        <div className="flex justify-center min-h-screen bg-background">
+        <div className="flex justify-center min-h-screen bg-background w-full">
             <MobileContainer>
                 <Suspense fallback={<div className="p-10 text-center text-zinc-500 font-mono animate-pulse uppercase tracking-widest">Loading scene...</div>}>
                     <BrowseContent />

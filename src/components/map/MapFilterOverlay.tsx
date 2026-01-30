@@ -14,7 +14,7 @@ interface MapFilterOverlayProps {
 
 const FILTERS = {
     age: ["21-24", "25-29", "30-34", "35-39"],
-    crowd: ["Young Professional", "Intellectual", "Creative", "Edgy", "International"],
+    crowd: ["Young Professional", "Hipster", "International"],
     vibe: ["Low-key", "High-Energy", "Classy", "Cozy", "Loud", "Divey-Cool"],
     season: ["All Year", "Spring", "Summer", "Fall", "Winter"],
     timeOfDay: ["Morning", "Afternoon", "Evening", "Late Night"]

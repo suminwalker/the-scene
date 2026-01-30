@@ -70,7 +70,15 @@ export default function SignupPage() {
         else if (step === "city") setStep("location");
         else if (step === "location") setStep("dislikes");
         else if (step === "dislikes") setStep("social");
-        else if (step === "social") router.push("/discover");
+        else if (step === "social") {
+            // Save onboarding data for profile
+            localStorage.setItem("the_scene_onboarding_data", JSON.stringify({
+                ageBracket: formData.ageBracket,
+                neighborhoods: formData.neighborhoods,
+                dislikes: formData.dislikes
+            }));
+            router.push("/discover");
+        }
     };
 
     const requestLocation = () => {
