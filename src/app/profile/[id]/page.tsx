@@ -60,8 +60,8 @@ const SESSION_USERS: Record<string, ProfileUser> = {
         id: "suminwalker",
         name: "Sumin Walker",
         handle: "suminwalker",
-        avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=300&auto=format&fit=crop",
-        bio: "User #1",
+        avatar: "",
+        bio: "",
         instagram: "",
         tiktok: "",
         memberSince: "January 2026",
@@ -122,6 +122,9 @@ export default function ProfilePage() {
                     }
                     if (data.neighborhoods && data.neighborhoods.length > 0) {
                         SESSION_USERS.suminwalker.neighborhoods = data.neighborhoods;
+                    }
+                    if (data.photo) {
+                        SESSION_USERS.suminwalker.avatar = data.photo;
                     }
                 } catch (e) {
                     console.error("Failed to parse onboarding data", e);
@@ -248,13 +251,13 @@ export default function ProfilePage() {
                                     <p className="text-sm text-zinc-400 px-8">Share the scene with your inner circle. You have 2 invites left.</p>
                                 </div>
                                 <div className="p-4 bg-zinc-50 rounded-2xl border border-black/5 flex justify-between items-center">
-                                    <code className="text-accent font-mono font-bold">SCENE-SUMIN-2026</code>
+                                    <code className="text-black font-mono font-bold">SCENE-SUMIN-2026</code>
                                     <button
                                         onClick={() => {
                                             navigator.clipboard.writeText("SCENE-SUMIN-2026");
                                             alert("Invite code copied!");
                                         }}
-                                        className="text-xs font-bold text-white bg-zinc-800 px-4 py-2 rounded-full active:scale-95 transition-all"
+                                        className="text-xs font-bold text-white bg-black px-4 py-2 rounded-full active:scale-95 transition-all"
                                     >
                                         Copy
                                     </button>
@@ -268,7 +271,7 @@ export default function ProfilePage() {
                                 <div className="space-y-4">
                                     <input
                                         placeholder="Enter your university name..."
-                                        className="w-full bg-zinc-50 border border-black/5 rounded-2xl px-6 py-4 text-foreground focus:outline-none focus:border-accent"
+                                        className="w-full bg-white border border-black/10 rounded-2xl px-6 py-4 text-foreground focus:outline-none focus:border-accent shadow-sm"
                                     />
                                     <button
                                         onClick={() => setActiveMenuModal(null)}
@@ -288,7 +291,7 @@ export default function ProfilePage() {
                                         <button
                                             key={city}
                                             onClick={() => setActiveMenuModal(null)}
-                                            className="w-full p-4 flex justify-between items-center bg-zinc-50 hover:bg-zinc-100 rounded-2xl border border-black/5 transition-colors"
+                                            className="w-full p-4 flex justify-between items-center bg-white hover:bg-zinc-50 rounded-2xl border border-black/10 transition-colors shadow-sm"
                                         >
                                             <span className="text-foreground font-medium">{city}</span>
                                             {city === "New York, NY" && <Check className="w-5 h-5 text-accent" />}
@@ -305,7 +308,7 @@ export default function ProfilePage() {
                                     {["Vegan", "Vegetarian", "Gluten Free", "Dairy Free", "Nut Allergy", "Shellfish Free"].map((tag) => (
                                         <button
                                             key={tag}
-                                            className="p-4 bg-zinc-50 hover:border-accent border border-black/5 rounded-2xl text-sm font-medium text-zinc-600 transition-all"
+                                            className="p-4 bg-white hover:border-accent border border-black/10 rounded-2xl text-sm font-medium text-zinc-600 transition-all shadow-sm"
                                         >
                                             {tag}
                                         </button>
@@ -347,7 +350,7 @@ export default function ProfilePage() {
                                         { q: "What is Scene Rank?", a: "Your rank is calculated based on venue variety, frequency, and the weight of your reviews within The Scene community." },
                                         { q: "Are reviews anonymous?", a: "No, The Scene is built on trust. All reviews are tied to your public profile." }
                                     ].map((item, i) => (
-                                        <div key={i} className="p-5 bg-zinc-50 rounded-2xl border border-black/5 space-y-2">
+                                        <div key={i} className="p-5 bg-white rounded-2xl border border-black/10 space-y-2 shadow-sm">
                                             <p className="text-sm font-bold text-foreground">{item.q}</p>
                                             <p className="text-xs text-zinc-400 leading-relaxed">{item.a}</p>
                                         </div>
@@ -468,9 +471,9 @@ export default function ProfilePage() {
                     )}
 
                     {!isEditing ? (
-                        <h2 className="text-sm font-bold tracking-tight">{user.name}</h2>
+                        <div />
                     ) : (
-                        <h2 className="text-sm font-bold tracking-tight text-accent">Editing Profile</h2>
+                        <h2 className="text-sm font-bold tracking-tight text-zinc-500">Editing Profile</h2>
                     )}
 
                     <div className="flex gap-2">
@@ -479,9 +482,9 @@ export default function ProfilePage() {
                                 {!isOwner && (
                                     <button
                                         onClick={() => setNotified(!notified)}
-                                        className={cn("p-2 transition-colors", notified ? "text-accent" : "text-foreground/70 hover:text-foreground")}
+                                        className={cn("p-2 transition-colors", notified ? "text-black" : "text-foreground/70 hover:text-foreground")}
                                     >
-                                        <Bell className={cn("w-5 h-5", notified && "fill-accent")} />
+                                        <Bell className={cn("w-5 h-5", notified && "fill-black")} />
                                     </button>
                                 )}
                                 <button
@@ -502,7 +505,7 @@ export default function ProfilePage() {
                         ) : (
                             <button
                                 onClick={handleSave}
-                                className="px-4 py-1.5 bg-accent text-white text-xs font-bold rounded-full"
+                                className="px-4 py-1.5 bg-black text-white text-xs font-bold rounded-full"
                             >
                                 Done
                             </button>
@@ -513,10 +516,16 @@ export default function ProfilePage() {
                 {/* Profile Banner/Info */}
                 <div className="px-6 pt-8 pb-4 text-center space-y-4">
                     <div className="relative inline-block">
-                        <div
-                            className="w-24 h-24 mx-auto rounded-full bg-zinc-100 border-4 border-background shadow-xl bg-cover bg-center overflow-hidden"
-                            style={{ backgroundImage: `url(${formData.avatar})` }}
-                        />
+                        {formData.avatar ? (
+                            <div
+                                className="w-24 h-24 mx-auto rounded-full bg-zinc-100 border-4 border-background shadow-xl bg-cover bg-center overflow-hidden"
+                                style={{ backgroundImage: `url(${formData.avatar})` }}
+                            />
+                        ) : (
+                            <div className="w-24 h-24 mx-auto rounded-full bg-zinc-100 border-4 border-background shadow-xl flex items-center justify-center overflow-hidden">
+                                <div className="w-full h-full bg-zinc-50" />
+                            </div>
+                        )}
                         {isEditing && (
                             <button
                                 onClick={() => fileInputRef.current?.click()}
@@ -536,13 +545,13 @@ export default function ProfilePage() {
                                         key={index}
                                         onClick={() => setFormData({ ...formData, avatar: preset })}
                                         className={cn(
-                                            "relative flex-shrink-0 w-16 h-16 rounded-2xl bg-zinc-50 border-2 transition-all active:scale-95 overflow-hidden",
-                                            formData.avatar === preset ? "border-accent scale-105 shadow-[0_0_15px_rgba(255,107,0,0.3)]" : "border-black/5 grayscale-[0.3]"
+                                            "relative flex-shrink-0 w-16 h-16 rounded-2xl bg-white border-2 transition-all active:scale-95 overflow-hidden",
+                                            formData.avatar === preset ? "border-black scale-105 shadow-md" : "border-black/5 grayscale-[0.3]"
                                         )}
                                     >
                                         <img src={preset} className="w-full h-full object-cover" alt={`Preset ${index + 1}`} />
                                         {formData.avatar === preset && (
-                                            <div className="absolute top-1 right-1 bg-accent rounded-full p-0.5 shadow-lg">
+                                            <div className="absolute top-1 right-1 bg-black rounded-full p-0.5 shadow-lg">
                                                 <Check className="w-3 h-3 text-white" />
                                             </div>
                                         )}
@@ -555,9 +564,10 @@ export default function ProfilePage() {
                     <div className="space-y-4">
                         {!isEditing ? (
                             <div className="space-y-1">
-                                <p className="text-sm font-bold text-foreground tracking-widest uppercase font-mono">@{user.handle}</p>
+                                <h1 className="text-xl font-bold text-foreground font-serif">{user.name}</h1>
+                                <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em]">@{user.handle}</p>
                                 <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em]">Member since {user.memberSince}</p>
-                                <p className="text-sm font-serif italic text-zinc-300 py-1">{user.bio}</p>
+                                {user.bio && <p className="text-sm font-serif italic text-zinc-300 py-1">{user.bio}</p>}
                             </div>
                         ) : (
                             <div className="space-y-3 px-4 text-left">
@@ -566,7 +576,7 @@ export default function ProfilePage() {
                                     <input
                                         value={formData.name}
                                         onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                                        className="w-full bg-zinc-50 border border-black/5 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent"
+                                        className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
                                     />
                                 </div>
                                 <div className="space-y-1">
@@ -576,17 +586,21 @@ export default function ProfilePage() {
                                         <input
                                             value={formData.handle}
                                             onChange={(e) => setFormData({ ...formData, handle: e.target.value })}
-                                            className="w-full bg-zinc-50 border border-black/5 rounded-xl pl-8 pr-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent"
+                                            className="w-full bg-white border border-black/10 rounded-xl pl-8 pr-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
                                         />
                                     </div>
                                     {error && <p className="text-[10px] text-red-500 pt-1 font-mono">{error}</p>}
                                 </div>
                                 <div className="space-y-1">
-                                    <label className="text-[10px] font-mono text-zinc-500 uppercase">Bio</label>
+                                    <div className="flex justify-between items-center">
+                                        <label className="text-[10px] font-mono text-zinc-500 uppercase">Bio</label>
+                                        <span className="text-[10px] font-mono text-zinc-400">{formData.bio.length}/250</span>
+                                    </div>
                                     <textarea
                                         value={formData.bio}
                                         onChange={(e) => setFormData({ ...formData, bio: e.target.value })}
-                                        className="w-full bg-zinc-50 border border-black/5 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent h-20 resize-none"
+                                        maxLength={250}
+                                        className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent h-20 resize-none shadow-sm"
                                     />
                                 </div>
                                 <div className="grid grid-cols-2 gap-3">
@@ -596,7 +610,7 @@ export default function ProfilePage() {
                                             placeholder="handle"
                                             value={formData.instagram}
                                             onChange={(e) => setFormData({ ...formData, instagram: e.target.value })}
-                                            className="w-full bg-zinc-50 border border-black/5 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent"
+                                            className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
                                         />
                                     </div>
                                     <div className="space-y-1">
@@ -605,7 +619,7 @@ export default function ProfilePage() {
                                             placeholder="handle"
                                             value={formData.tiktok}
                                             onChange={(e) => setFormData({ ...formData, tiktok: e.target.value })}
-                                            className="w-full bg-zinc-50 border border-black/5 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent"
+                                            className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
                                         />
                                     </div>
                                 </div>
@@ -613,18 +627,31 @@ export default function ProfilePage() {
                         )}
 
                         <div className="flex justify-center gap-4 py-2">
-                            <Link
-                                href={isEditing ? "#" : `https://instagram.com/${user.instagram}`}
-                                className="w-10 h-10 rounded-full border border-black/5 flex items-center justify-center text-zinc-400 hover:text-accent hover:border-accent transition-all"
-                            >
-                                <Instagram className="w-5 h-5" />
-                            </Link>
-                            <Link
-                                href={isEditing ? "#" : `https://tiktok.com/@${user.tiktok}`}
-                                className="w-10 h-10 rounded-full border border-black/5 flex items-center justify-center text-zinc-400 hover:text-accent hover:border-accent transition-all"
-                            >
-                                <Music2 className="w-5 h-5" />
-                            </Link>
+                            {user.instagram ? (
+                                <Link
+                                    href={isEditing ? "#" : `https://instagram.com/${user.instagram}`}
+                                    className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-400 hover:text-black hover:border-black transition-all bg-white shadow-sm"
+                                >
+                                    <Instagram className="w-5 h-5" />
+                                </Link>
+                            ) : (
+                                <div className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-300 bg-white shadow-sm cursor-default">
+                                    <Instagram className="w-5 h-5" />
+                                </div>
+                            )}
+
+                            {user.tiktok ? (
+                                <Link
+                                    href={isEditing ? "#" : `https://tiktok.com/@${user.tiktok}`}
+                                    className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-400 hover:text-black hover:border-black transition-all bg-white shadow-sm"
+                                >
+                                    <Music2 className="w-5 h-5" />
+                                </Link>
+                            ) : (
+                                <div className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-300 bg-white shadow-sm cursor-default">
+                                    <Music2 className="w-5 h-5" />
+                                </div>
+                            )}
                         </div>
                     </div>
 
@@ -649,13 +676,13 @@ export default function ProfilePage() {
                         <div className="flex gap-3 px-6 pt-2 pb-6">
                             <button
                                 onClick={() => setIsEditing(true)}
-                                className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-black/5 transition-colors"
+                                className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-zinc-50 transition-colors bg-white shadow-sm"
                             >
                                 Edit profile
                             </button>
                             <button
                                 onClick={handleShare}
-                                className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-black/5 transition-colors"
+                                className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-zinc-50 transition-colors bg-white shadow-sm"
                             >
                                 Share profile
                             </button>
@@ -668,12 +695,12 @@ export default function ProfilePage() {
                                 onClick={() => setIsFollowing(!isFollowing)}
                                 className={cn(
                                     "flex-1 py-3.5 rounded-2xl font-bold text-sm tracking-tight active:scale-95 transition-all",
-                                    isFollowing ? "bg-black text-white" : "bg-accent text-white"
+                                    isFollowing ? "bg-black text-white" : "bg-black text-white"
                                 )}
                             >
                                 {isFollowing ? "Following" : "Follow"}
                             </button>
-                            <button className="p-3.5 bg-zinc-100 text-foreground rounded-2xl font-bold text-sm active:scale-95 transition-all border border-black/5">
+                            <button className="p-3.5 bg-white text-foreground rounded-2xl font-bold text-sm active:scale-95 transition-all border border-black/10 shadow-sm hover:bg-zinc-50">
                                 <ChevronRight className="w-5 h-5 rotate-90" />
                             </button>
                         </div>
@@ -683,14 +710,13 @@ export default function ProfilePage() {
                 {/* Lists Sections */}
                 <div className="px-4 py-6 space-y-2">
                     {[
-                        { label: "Been", count: user.stats.been, icon: "✅", href: "/saved" },
-                        { label: "Want to Try", count: user.stats.wantToTry, icon: "🔖", href: "/saved" },
-                        { label: "Places you both want to try", count: user.stats.mutual, icon: "✨", href: "/saved" }
+                        { label: "Been", count: user.stats.been, href: "/saved" },
+                        { label: "Want to Try", count: user.stats.wantToTry, href: "/saved" },
+                        { label: "Places you both want to try", count: user.stats.mutual, href: "/saved" }
                     ].map((item) => (
-                        <Link key={item.label} href={item.href} className="w-full flex justify-between items-center p-4 bg-zinc-50 hover:bg-zinc-100 rounded-2xl border border-black/5 transition-colors group">
+                        <Link key={item.label} href={item.href} className="w-full flex justify-between items-center p-4 bg-white hover:bg-zinc-50 rounded-2xl border border-black/10 transition-colors group shadow-sm">
                             <div className="flex items-center gap-4">
-                                <span className="text-xl">{item.icon}</span>
-                                <span className="text-sm font-semibold text-zinc-200">{item.label}</span>
+                                <span className="text-sm font-semibold text-zinc-400">{item.label}</span>
                             </div>
                             <div className="flex items-center gap-3">
                                 <span className="text-sm font-black text-foreground">{item.count}</span>
@@ -704,25 +730,25 @@ export default function ProfilePage() {
                 <div className="grid grid-cols-2 gap-3 px-4 py-2">
                     <button
                         onClick={() => alert("Leaderboard coming soon!")}
-                        className="p-5 rounded-3xl bg-zinc-50 border border-black/5 space-y-2 text-left hover:bg-zinc-100 transition-colors"
+                        className="p-5 rounded-3xl bg-white border border-black/10 space-y-2 text-left hover:bg-zinc-50 transition-colors shadow-sm"
                     >
-                        <Trophy className="w-6 h-6 text-accent mb-2" />
+                        <Trophy className="w-6 h-6 text-black mb-2" />
                         <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Rank on The Scene</p>
-                        <p className="text-xl font-black text-accent">{user.rank}</p>
+                        <p className="text-xl font-black text-black">{user.rank}</p>
                     </button>
                     <button
                         onClick={() => alert("Keep the streak alive!")}
-                        className="p-5 rounded-3xl bg-zinc-50 border border-black/5 space-y-2 text-left hover:bg-zinc-100 transition-colors"
+                        className="p-5 rounded-3xl bg-white border border-black/10 space-y-2 text-left hover:bg-zinc-50 transition-colors shadow-sm"
                     >
-                        <Flame className="w-6 h-6 text-orange-500 mb-2" />
+                        <Flame className="w-6 h-6 text-black mb-2" />
                         <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Current Streak</p>
-                        <p className="text-xl font-black text-orange-500">{user.streak}</p>
+                        <p className="text-xl font-black text-black">{user.streak}</p>
                     </button>
                 </div>
 
                 {/* Challenge Card */}
                 <div className="px-4 py-6">
-                    <div className="p-6 rounded-[32px] bg-zinc-50 border border-black/5 space-y-4">
+                    <div className="p-6 rounded-[32px] bg-white border border-black/10 space-y-4 shadow-sm">
                         <div className="flex justify-between items-start">
                             <div className="space-y-1">
                                 <h4 className="text-sm font-black text-foreground/50 tracking-[0.15em] font-mono uppercase">2026 Venue Challenge</h4>
@@ -733,7 +759,7 @@ export default function ProfilePage() {
                         </div>
                         <div className="w-full h-2 bg-zinc-200 rounded-full overflow-hidden">
                             <div
-                                className="h-full bg-accent transition-all duration-1000"
+                                className="h-full bg-black transition-all duration-1000"
                                 style={{ width: `${(user.challenge.progress / user.challenge.total) * 100}%` }}
                             />
                         </div>
@@ -741,7 +767,7 @@ export default function ProfilePage() {
                             <span>339 days left</span>
                             <button
                                 onClick={() => alert("Goal setting coming soon in the 2026 update!")}
-                                className="text-accent hover:underline"
+                                className="text-black hover:underline"
                             >
                                 Set your 2026 goal &gt;
                             </button>
@@ -786,21 +812,21 @@ export default function ProfilePage() {
                         ) : (
                             <div className="py-8 space-y-6">
                                 {user.stats.been > 0 ? (
-                                    <div className="p-6 rounded-3xl bg-indigo-50 border border-indigo-100 space-y-4">
+                                    <div className="p-6 rounded-3xl bg-white border border-black/10 space-y-4 shadow-sm">
                                         <div className="flex justify-between items-start">
-                                            <p className="text-[10px] text-indigo-400 font-mono uppercase tracking-widest">Last 30 Days</p>
-                                            <Share className="w-4 h-4 text-indigo-400" />
+                                            <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Last 30 Days</p>
+                                            <Share className="w-4 h-4 text-zinc-400" />
                                         </div>
-                                        <h3 className="text-xl font-bold text-indigo-950 tracking-tight">Top 36% Rank</h3>
-                                        <p className="text-xs text-indigo-700">New York</p>
+                                        <h3 className="text-xl font-bold text-black tracking-tight">Top 36% Rank</h3>
+                                        <p className="text-xs text-zinc-500">New York</p>
                                         <div className="flex gap-8 pt-2">
                                             <div>
-                                                <p className="text-2xl font-black text-indigo-950">{user.stats.been}</p>
-                                                <p className="text-[10px] text-indigo-300 font-mono uppercase tracking-widest">Venues</p>
+                                                <p className="text-2xl font-black text-black">{user.stats.been}</p>
+                                                <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Venues</p>
                                             </div>
                                             <div>
-                                                <p className="text-2xl font-black text-indigo-950">9</p>
-                                                <p className="text-[10px] text-indigo-400 font-mono uppercase tracking-widest">Cuisines</p>
+                                                <p className="text-2xl font-black text-black">9</p>
+                                                <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Cities</p>
                                             </div>
                                         </div>
                                         <p className="text-[10px] italic text-indigo-400/80 pt-2 border-t border-indigo-100">
