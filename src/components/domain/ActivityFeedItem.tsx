@@ -11,6 +11,7 @@ interface ActivityFeedItemProps {
         id: string;
         avatar: string;
         name: string;
+        badge?: string;
     };
     action: string;
     venue: string;
@@ -62,6 +63,14 @@ export function ActivityFeedItem({
                     <div className="space-y-0.5 min-w-0">
                         <p className="text-sm font-medium leading-tight">
                             <Link href={`/profile/${user.id}`} className="text-foreground hover:text-accent transition-colors font-bold">{user.name}</Link>
+                            {user.badge && (
+                                <span className={`inline-flex items-center px-1.5 py-0.5 ml-1.5 rounded-full text-[9px] font-bold uppercase tracking-wider ${user.badge === "Taste Maker"
+                                    ? "bg-amber-100 text-amber-700 border border-amber-200"
+                                    : "bg-zinc-100 text-zinc-600 border border-zinc-200"
+                                    }`}>
+                                    {user.badge}
+                                </span>
+                            )}
                             {" "}
                             <span className={action === "rated" ? "text-foreground font-medium" : "text-zinc-500"}>{action}</span>
                             {" "}

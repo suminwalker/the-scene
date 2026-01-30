@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 
 // Structured Taxonomies for Review
 const VIBE_TAGS = ["Chill", "Buzzing", "Romantic", "Loud", "Intimate", "Trendy", "Cozy", "Party", "Business", "Divey"];
-const CROWD_TAGS = ["Young Professionals", "Hipsters", "Creatives", "International", "Locals", "Tech", "Fashion", "Old Money", "Tourists", "Students"];
+const CROWD_TAGS = ["The Industry", "Downtown Set", "Uptown Polish", "Art & Design", "Locals Only", "International", "After Work", "Date Night", "Groups"];
 const ATTIRE_TAGS = ["Casual", "Smart Casual", "Dress to Impress", "Streetwear", "Business", "Formal"];
 
 export function ReviewForm() {

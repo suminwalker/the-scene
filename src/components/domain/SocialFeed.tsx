@@ -12,6 +12,7 @@ interface Activity {
         id: string;
         avatar: string;
         name: string;
+        badge?: string;
     };
     action: string;
     venue: string;
@@ -51,7 +52,8 @@ export function SocialFeed({ activeFilter }: SocialFeedProps) {
         user: {
             id: "suminwalker",
             name: "Sumin Walker",
-            avatar: "https://i.pravatar.cc/150?u=sumin"
+            avatar: "https://i.pravatar.cc/150?u=sumin",
+            badge: "Member"
         },
         action: "just discovered",
         venue: place.name,
@@ -70,7 +72,8 @@ export function SocialFeed({ activeFilter }: SocialFeedProps) {
             user: {
                 id: "alex-chen",
                 name: "Alex Chen",
-                avatar: "https://i.pravatar.cc/150?u=alex"
+                avatar: "https://i.pravatar.cc/150?u=alex",
+                badge: "Taste Maker"
             },
             action: "rated",
             venue: "The Nines",
@@ -87,7 +90,8 @@ export function SocialFeed({ activeFilter }: SocialFeedProps) {
             user: {
                 id: "sarah-j",
                 name: "Sarah Jenkins",
-                avatar: "https://i.pravatar.cc/150?u=sarah"
+                avatar: "https://i.pravatar.cc/150?u=sarah",
+                badge: "Curator"
             },
             action: "rated",
             venue: "Fanelli Cafe",
