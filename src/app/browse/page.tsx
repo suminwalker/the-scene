@@ -9,23 +9,8 @@ import Link from "next/link";
 import { useCity } from "@/lib/city-context";
 import { useSearchParams, useRouter } from "next/navigation";
 
-const CATEGORIES = [
-    { id: "bars-20s", label: "Best Bars for 20s", sub: "Loud, High Energy, Scene-y", image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b" },
-    { id: "bars-30s", label: "Best Bars for 30s", sub: "Craft Cocktails, Social, Mature", image: "https://images.unsplash.com/photo-1543007630-9710e4a00a20" },
-    { id: "rooftops-20s", label: "Best Rooftops for 20s", sub: "Views, Music, Crowd-y", image: "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3" },
-    { id: "rooftops-30s", label: "Best Rooftops for 30s", sub: "Sunset, Networking, Posh", image: "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2" },
-    { id: "mixed-bars", label: "Best Mixed Bars", sub: "Diverse Crowd, Local Vibes", image: "https://images.unsplash.com/photo-1559339352-11d035aa65de" },
-    { id: "mixed-rooftops", label: "Best Mixed Rooftops", sub: "All Ages, Skyline Views", image: "https://images.unsplash.com/photo-1565538810643-b5bdb714032a" },
-    { id: "clubs", label: "Best Clubs", sub: "Dancing, Late Night, Energy", image: "https://images.unsplash.com/photo-1566737236500-c8ac43014a67" },
-    { id: "daytime-early-20s", label: "Daytime: Early 20s", sub: "Brunch, High Energy, Social", image: "https://images.unsplash.com/photo-1577366366530-5bb287b94998" },
-    { id: "daytime-mid-20s", label: "Daytime: Mid 20s", sub: "Outdoor, Cafe Vibe, Chill", image: "https://images.unsplash.com/photo-1550966871-3ed3c47e2ce2" },
-    { id: "daytime-30s", label: "Daytime: 30s+", sub: "Sophisticated Brunch, Coffee", image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4" },
-    { id: "date-night", label: "Best Date Night", sub: "Intimate, Dimly Lit, Romantic", image: "https://images.unsplash.com/photo-1547620615-5d9c6e5a5286" },
-    { id: "late-night", label: "Best Late Night", sub: "After Hours, Night Owls", image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b" },
-    { id: "hidden-gems", label: "Hidden Gems", sub: "Speakeasies, No Signs", image: "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56" },
-    { id: "group-hangouts", label: "Group Hangouts", sub: "Large Tables, Fun Atmosphere", image: "https://images.unsplash.com/photo-1513104890138-7c749659a591" },
-    { id: "work-from-bar", label: "Work From Bar", sub: "Wi-Fi, Quiet, Daytime Vibe", image: "https://images.unsplash.com/photo-1571204829887-3b8d69f4b04c" },
-];
+// New specialized structure
+import { FEATURED_SECTIONS } from "@/lib/featured-lists";
 
 
 function BrowseContent() {
@@ -37,14 +22,30 @@ function BrowseContent() {
     const [localAddedPlaces, setLocalAddedPlaces] = useState<Place[]>([]);
 
     // Initialize from localStorage
+    const [onboardingData, setOnboardingData] = useState<{
+        ageBracket: string | null;
+        neighborhoods: string[];
+        dislikes: string[];
+    } | null>(null);
+
     useEffect(() => {
-        const saved = localStorage.getItem('the_scene_user_venues');
-        if (saved) {
+        // Load added places
+        const savedPlaces = localStorage.getItem('the_scene_user_venues');
+        if (savedPlaces) {
             try {
-                // eslint-disable-next-line react-hooks/set-state-in-effect
-                setLocalAddedPlaces(JSON.parse(saved));
+                setLocalAddedPlaces(JSON.parse(savedPlaces));
             } catch (e) {
                 console.error("Failed to load user venues", e);
+            }
+        }
+
+        // Load onboarding preferences
+        const savedOnboarding = localStorage.getItem('the_scene_onboarding_data');
+        if (savedOnboarding) {
+            try {
+                setOnboardingData(JSON.parse(savedOnboarding));
+            } catch (e) {
+                console.error("Failed to load onboarding data", e);
             }
         }
     }, []);
@@ -56,29 +57,90 @@ function BrowseContent() {
         }
     }, [localAddedPlaces]);
 
-    // Check if a category is selected via URL param
-    // (selectedAge is already declared at the top of the function)
-
     // Filter places logic
     const allPlaces = getCombinedPlaces().filter(p => p.city === city);
     let cityPlaces: Place[] = [];
 
     if (selectedAge && selectedAge !== 'all') {
-        cityPlaces = allPlaces.filter(p => p.age && p.age.includes(selectedAge));
+        cityPlaces = allPlaces.filter(p => {
+            // Specialized Playlists
+            if (selectedAge === 'recommended-match') {
+                // 1. Filter by Dislikes
+                if (onboardingData?.dislikes?.length) {
+                    const isDisliked = onboardingData.dislikes.some(dislike => {
+                        const d = dislike.toLowerCase();
+                        const pCat = p.category.toLowerCase();
+                        const pVibe = p.vibe?.map(v => v.toLowerCase()) || [];
+                        const pIntent = p.intent?.map(i => i.toLowerCase()) || [];
+
+                        // Simple inclusion checks for common terms
+                        if (d.includes("dive") && pCat.includes("dive")) return true;
+                        if (d.includes("sports") && pCat.includes("sports")) return true;
+                        if (d.includes("nightclub") && pCat.includes("nightclub")) return true;
+                        if (d.includes("rooftop") && (pCat.includes("rooftop") || pCat.includes("deck"))) return true;
+                        if (d.includes("wine") && pCat.includes("wine")) return true;
+                        if (d.includes("cocktail") && pCat.includes("cocktail")) return true;
+                        if (d.includes("hotel") && pCat.includes("hotel")) return true;
+
+                        return false;
+                    });
+                    if (isDisliked) return false;
+                }
+
+                // 2. Filter by Neighborhood (if any selected)
+                if (onboardingData?.neighborhoods?.length) {
+                    // Fuzzy match neighborhood
+                    const isMatch = onboardingData.neighborhoods.some(n =>
+                        p.neighborhood.toLowerCase().includes(n.toLowerCase()) ||
+                        n.toLowerCase().includes(p.neighborhood.toLowerCase())
+                    );
+                    if (!isMatch) return false;
+                }
+
+                // 3. Fallback / Rating Quality
+                return p.rating >= 4.0;
+            }
+
+            if (selectedAge === 'trending') return p.reviews && p.reviews.length > 0;
+
+            // General Filter Logic
+            // Checks age, intent, timeOfDay, category, crowd, neighborhood, and regular category string
+            const search = selectedAge.replace(/-/g, ' ').toLowerCase();
+            const tags = [
+                ...(p.age || []),
+                ...(p.intent || []),
+                ...(p.timeOfDay || []),
+                ...(p.crowd || []),
+                ...(p.vibe || []),
+                p.category,
+                p.neighborhood
+            ].map(t => t?.toLowerCase());
+
+            // Match if any tag includes the search term, or if the search term includes the tag (fuzzy)
+            // e.g. "cocktail" matches "Cocktail Bar"
+            return tags.some(t => t?.includes(search) || search.includes(t || ''));
+        });
     } else {
         cityPlaces = allPlaces;
     }
 
-    // Category label
-    const category = CATEGORIES.find(c => c.id === selectedAge);
-    const categoryLabel = category ? category.label : selectedAge === 'all' ? 'All Spots' : `Night Out: ${selectedAge}`;
+    // Category label lookup
+    let categoryLabel = 'All Spots';
+
+    if (selectedAge && selectedAge !== 'all') {
+        // Flatten sections to find the category
+        const allCats = FEATURED_SECTIONS.flatMap(s => s.categories);
+        const cat = allCats.find(c => c.id === selectedAge);
+        if (cat) {
+            categoryLabel = cat.label;
+        } else {
+            // Fallback nicely
+            categoryLabel = selectedAge.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+        }
+    }
 
     // Simple alphabetic sort or by rating
     cityPlaces.sort((a, b) => b.rating - a.rating);
-
-    const handleAddVenue = () => {
-        router.push(`/browse/add?category=${selectedAge || "all"}`);
-    };
 
     // MODE 1: Categories (Root View)
     if (!selectedAge) {
@@ -92,30 +154,35 @@ function BrowseContent() {
                         </h1>
                     </header>
 
-                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 px-1">
-                        {CATEGORIES.map((cat) => (
-                            <Link key={cat.id} href={`/browse?age=${cat.id}`} className="block group">
-                                <div className="relative h-48 w-full rounded-xl overflow-hidden border border-white/5 shadow-lg">
-                                    <div className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110"
-                                        style={{ backgroundImage: `url(${cat.image})` }}
-                                    />
-                                    <div className="absolute inset-0 bg-black/50 group-hover:bg-black/30 transition-colors" />
-
-                                    <div className="absolute inset-0 flex flex-col justify-end p-6 bg-gradient-to-t from-black/80 via-transparent to-transparent">
-                                        <h3 className="text-2xl font-serif text-white mb-1 group-hover:underline decoration-accent/50 underline-offset-4">{cat.label}</h3>
-                                    </div>
+                    <div className="space-y-10 px-6 pb-12">
+                        {FEATURED_SECTIONS.map((section, idx) => (
+                            <section key={idx} className="space-y-4">
+                                <h2 className="text-lg font-bold tracking-tight text-zinc-900 border-b border-zinc-100 pb-2">
+                                    {section.title}
+                                </h2>
+                                <div className="grid grid-cols-2 gap-3">
+                                    {section.categories.map((cat) => (
+                                        <Link key={cat.id} href={`/browse?age=${cat.id}`} className="block group">
+                                            <div className="relative h-32 w-full rounded-xl overflow-hidden border border-black/5 shadow-sm">
+                                                <div className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110"
+                                                    style={{ backgroundImage: `url(${cat.image})` }}
+                                                >
+                                                    <div className="absolute inset-0 bg-black/30 group-hover:bg-black/40 transition-colors" />
+                                                </div>
+                                                <div className="absolute inset-0 flex flex-col justify-end p-3">
+                                                    <h3 className="text-white font-bold text-sm leading-tight shadow-black/50 drop-shadow-sm">
+                                                        {cat.label}
+                                                    </h3>
+                                                </div>
+                                            </div>
+                                        </Link>
+                                    ))}
                                 </div>
-                            </Link>
+                            </section>
                         ))}
-
-                        {/* View All fallback */}
-                        <Link href={`/browse?age=all`} className="block group mt-8 text-center pb-8">
-                            <span className="text-zinc-500 text-sm font-mono uppercase tracking-widest hover:text-white transition-colors">
-                                View Everything ({cityPlaces.length})
-                            </span>
-                        </Link>
                     </div>
                 </main>
+                <BottomNav />
             </>
         );
     }
@@ -134,13 +201,6 @@ function BrowseContent() {
                             {cityPlaces.length} Results
                         </p>
                     </div>
-
-                    <button
-                        onClick={handleAddVenue}
-                        className="flex-none px-6 py-2.5 bg-white text-black rounded-full text-xs font-bold active:scale-95 transition-all shadow-xl"
-                    >
-                        Add a Venue
-                    </button>
                 </header>
 
                 <div className="grid grid-cols-2 md:grid-cols-3 gap-1 px-1">

@@ -4,28 +4,19 @@ import Link from "next/link";
 import { PLACES } from "@/lib/data";
 import { useCity } from "@/lib/city-context";
 
-const LISTS = [
-    {
-        id: "bars-20s",
-        title: "Best Bars for 20s",
-        image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=1000&auto=format&fit=crop",
-    },
-    {
-        id: "bars-30s",
-        title: "Best Bars for 30s",
-        image: "https://images.unsplash.com/photo-1543007630-9710e4a00a20?q=80&w=1000&auto=format&fit=crop",
-    },
-    {
-        id: "rooftops-20s",
-        title: "Best Rooftops for 20s",
-        image: "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=1000&auto=format&fit=crop",
-    },
-    {
-        id: "rooftops-30s",
-        title: "Best Rooftops for 30s",
-        image: "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?q=80&w=1000&auto=format&fit=crop",
-    }
-];
+import { FEATURED_SECTIONS } from "@/lib/featured-lists";
+
+// Select specific lists to show on the home feed
+const FEED_LIST_IDS = ["recommended-match", "trending", "date-night", "hidden-gems", "happy-hour"];
+
+const LISTS = FEATURED_SECTIONS
+    .flatMap(section => section.categories)
+    .filter(cat => FEED_LIST_IDS.includes(cat.id))
+    .map(cat => ({
+        id: cat.id,
+        title: cat.label,
+        image: cat.image
+    }));
 
 export function FeaturedLists() {
     const { city } = useCity();
@@ -39,11 +30,25 @@ export function FeaturedLists() {
 
             <div className="flex gap-4 overflow-x-auto pb-4 -mx-4 px-4 scrollbar-hide">
                 {LISTS.map((list) => {
-                    const totalCount = PLACES.filter(p =>
-                        p.city === city &&
-                        p.age &&
-                        p.age.includes(list.id)
-                    ).length;
+                    // Simplified counting logic for the cards (just count matching tags)
+                    const totalCount = PLACES.filter(p => {
+                        if (p.city !== city) return false;
+                        if (list.id === 'recommended-match') return p.rating >= 4.5;
+                        if (list.id === 'trending') return p.reviews && p.reviews.length > 0;
+
+                        const search = list.id.replace(/-/g, ' ').toLowerCase();
+                        const tags = [
+                            ...(p.age || []),
+                            ...(p.intent || []),
+                            ...(p.timeOfDay || []),
+                            ...(p.crowd || []),
+                            ...(p.vibe || []),
+                            p.category,
+                            p.neighborhood
+                        ].map(t => t?.toLowerCase());
+
+                        return tags.some(t => t?.includes(search) || search.includes(t || ''));
+                    }).length;
 
                     return (
                         <Link
