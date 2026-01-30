@@ -8,7 +8,7 @@ import { TopBar } from "@/components/layout/TopBar";
 import { ChevronDown, Eye, EyeOff, Camera, Check, MapPin, Users, Search, MinusCircle, ChevronRight, X as CloseIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
 
-type SignupStep = "phone" | "email" | "password" | "name" | "username" | "photo" | "city" | "location" | "dislikes" | "social";
+type SignupStep = "phone" | "email" | "password" | "name" | "username" | "photo" | "age" | "city" | "location" | "dislikes" | "social";
 type LocationPermission = "always" | "while_using" | "never";
 
 export default function SignupPage() {
@@ -28,6 +28,7 @@ export default function SignupPage() {
         countryCode: "+1",
         countryName: "United States",
         neighborhoods: [] as string[],
+        ageBracket: null as string | null,
         dislikes: [] as string[],
         location: null as { lat: number; lng: number } | null,
         locationPermission: null as LocationPermission | null
@@ -64,7 +65,8 @@ export default function SignupPage() {
         else if (step === "email") setStep("password");
         else if (step === "password") setStep("name");
         else if (step === "name") setStep("photo");
-        else if (step === "photo") setStep("city");
+        else if (step === "photo") setStep("age");
+        else if (step === "age") setStep("city");
         else if (step === "city") setStep("location");
         else if (step === "location") setStep("dislikes");
         else if (step === "dislikes") setStep("social");
@@ -106,7 +108,8 @@ export default function SignupPage() {
         else if (step === "password") setStep("email");
         else if (step === "name") setStep("password");
         else if (step === "photo") setStep("name");
-        else if (step === "city") setStep("photo");
+        else if (step === "city") setStep("age");
+        else if (step === "age") setStep("photo");
         else if (step === "location") setStep("city");
         else if (step === "dislikes") setStep("location");
         else if (step === "social") setStep("dislikes");
@@ -129,6 +132,7 @@ export default function SignupPage() {
         if (step === "name") return formData.firstName.trim() !== "" && formData.lastName.trim() !== "";
         if (step === "username") return formData.username.length >= 6 || ALLOWED_TEST_DATA.usernames.includes(formData.username);
         if (step === "photo") return true; // Skipable
+        if (step === "age") return formData.ageBracket !== null;
         if (step === "city") return formData.neighborhoods.length > 0;
         if (step === "location") return true; // Handled by buttons
         if (step === "dislikes") return true; // Skipable
@@ -163,10 +167,11 @@ export default function SignupPage() {
             password: 3,
             name: 4,
             photo: 5,
-            city: 6,
-            location: 7,
-            dislikes: 8,
-            social: 9
+            age: 6,
+            city: 7,
+            location: 8,
+            dislikes: 9,
+            social: 10
         };
         return orders[s];
     }
@@ -424,6 +429,37 @@ export default function SignupPage() {
                                 </div>
                             )}
 
+                            {/* Step: Age */}
+                            {step === "age" && (
+                                <div className="space-y-12">
+                                    <div className="space-y-2">
+                                        <h1 className="text-4xl font-serif tracking-tight leading-tight">
+                                            How old are you?
+                                        </h1>
+                                        <p className="text-sm text-zinc-400">
+                                            This helps us recommend the right crowd for you.
+                                        </p>
+                                    </div>
+                                    <div className="space-y-4">
+                                        {["21-24", "25-29", "30-34", "35-39"].map((age) => (
+                                            <button
+                                                key={age}
+                                                onClick={() => setFormData({ ...formData, ageBracket: age })}
+                                                className={cn(
+                                                    "w-full py-5 text-xl font-serif italic border-b transition-all text-left px-4 flex justify-between items-center",
+                                                    formData.ageBracket === age
+                                                        ? "border-black text-black font-bold bg-zinc-50"
+                                                        : "border-zinc-100 text-zinc-400 hover:text-zinc-600 hover:bg-zinc-50/50"
+                                                )}
+                                            >
+                                                <span>{age}</span>
+                                                {formData.ageBracket === age && <Check className="w-5 h-5" />}
+                                            </button>
+                                        ))}
+                                    </div>
+                                </div>
+                            )}
+
                             {/* Step: Home City */}
                             {step === "city" && (
                                 <div className="space-y-6 flex-1 flex flex-col pb-10 min-h-0">
@@ -639,7 +675,7 @@ export default function SignupPage() {
                                 <div className="space-y-10 flex-1 flex flex-col min-h-0">
                                     <div className="space-y-2">
                                         <h1 className="text-4xl font-serif tracking-tight leading-tight">
-                                            Any scenes you *don&apos;t* like?
+                                            Any places you typically avoid?
                                         </h1>
                                         <p className="text-sm text-zinc-400 leading-relaxed">
                                             The Scene won&apos;t recommend these types of venues to you. You can update this list whenever.

@@ -85,18 +85,18 @@ function BrowseContent() {
         return (
             <>
                 <TopBar backHref={backHref} />
-                <main className="flex-1 overflow-y-auto pb-24 px-6 py-8 scrollbar-hide">
-                    <header className="mb-10 text-center sm:text-left">
+                <main className="flex-1 overflow-y-auto pb-24 scrollbar-hide">
+                    <header className="mb-6 text-center sm:text-left px-6 pt-8">
                         <h1 className="text-4xl font-serif leading-[1.1] mb-2">
                             Browse
                         </h1>
                         <p className="text-zinc-500 text-lg font-sans font-normal italic">by Vibe Check</p>
                     </header>
 
-                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 px-2">
                         {CATEGORIES.map((cat) => (
                             <Link key={cat.id} href={`/browse?age=${cat.id}`} className="block group">
-                                <div className="relative h-48 w-full rounded-2xl overflow-hidden border border-white/5 shadow-lg">
+                                <div className="relative h-48 w-full rounded-xl overflow-hidden border border-white/5 shadow-lg">
                                     <div className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110"
                                         style={{ backgroundImage: `url(${cat.image})` }}
                                     />
@@ -111,7 +111,7 @@ function BrowseContent() {
                         ))}
 
                         {/* View All fallback */}
-                        <Link href={`/browse?age=all`} className="block group mt-8 text-center">
+                        <Link href={`/browse?age=all`} className="block group mt-8 text-center pb-8">
                             <span className="text-zinc-500 text-sm font-mono uppercase tracking-widest hover:text-white transition-colors">
                                 View Everything ({cityPlaces.length})
                             </span>
@@ -126,8 +126,8 @@ function BrowseContent() {
     return (
         <>
             <TopBar backHref={backHref} />
-            <main className="flex-1 overflow-y-auto pb-24 px-4 py-8 scrollbar-hide">
-                <header className="mb-8 relative flex flex-col sm:flex-row sm:items-end sm:justify-between items-center text-center sm:text-left gap-4">
+            <main className="flex-1 overflow-y-auto pb-24 scrollbar-hide">
+                <header className="mb-6 relative flex flex-col sm:flex-row sm:items-end sm:justify-between items-center text-center sm:text-left gap-4 px-6 pt-8">
                     <div className="flex flex-col items-center sm:items-start">
                         <h1 className="text-3xl font-serif leading-tight">
                             {categoryLabel}
@@ -145,17 +145,17 @@ function BrowseContent() {
                     </button>
                 </header>
 
-                <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+                <div className="grid grid-cols-2 md:grid-cols-3 gap-1 px-1">
                     {cityPlaces.map((place) => (
                         <Link key={place.id} href={`/places/${place.id}`}>
-                            <div className="aspect-[3/4] bg-zinc-900 relative group overflow-hidden rounded-xl border border-white/5">
+                            <div className="aspect-[3/4] bg-zinc-900 relative group overflow-hidden rounded-md border border-white/5">
                                 <div
                                     className="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-110"
                                     style={{ backgroundImage: `url(${place.image})` }}
                                 />
-                                <div className="absolute inset-x-0 bottom-0 p-4 bg-gradient-to-t from-black/90 via-black/40 to-transparent pt-12">
+                                <div className="absolute inset-x-0 bottom-0 p-3 bg-gradient-to-t from-black/90 via-black/40 to-transparent pt-12">
                                     <p className="font-serif text-white text-sm font-medium leading-tight truncate">{place.name}</p>
-                                    <p className="text-[10px] text-zinc-400 mt-1 truncate font-mono">{place.neighborhood} • {place.price}</p>
+                                    <p className="text-[10px] text-zinc-400 mt-0.5 truncate font-mono">{place.neighborhood} • {place.price}</p>
                                 </div>
                             </div>
                         </Link>

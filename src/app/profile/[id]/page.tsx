@@ -11,7 +11,7 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
-import { useState, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 import { cn } from "@/lib/utils";
 import { ActivityFeedItem } from "@/components/domain/ActivityFeedItem";
 
@@ -33,6 +33,8 @@ interface ProfileUser {
     challenge: { progress: number; total: number };
     stats: { been: number; wantToTry: number; mutual: number };
     activity: ActivityItem[];
+    ageBracket?: string;
+    neighborhoods?: string[];
 }
 
 interface ActivityItem {
@@ -70,7 +72,9 @@ const SESSION_USERS: Record<string, ProfileUser> = {
         isFollowing: false,
         challenge: { progress: 0, total: 250 },
         stats: { been: 0, wantToTry: 0, mutual: 0 },
-        activity: []
+        activity: [],
+        ageBracket: "25-29",
+        neighborhoods: []
     }
 };
 
@@ -103,6 +107,27 @@ export default function ProfilePage() {
     const [isFollowing, setIsFollowing] = useState(initialUser.isFollowing);
     const [notified, setNotified] = useState(false);
     const fileInputRef = useRef<HTMLInputElement>(null);
+
+    // Load onboarding data if valid
+    useEffect(() => {
+        if (isOwner) {
+            const savedOnboarding = localStorage.getItem("the_scene_onboarding_data");
+            if (savedOnboarding) {
+                try {
+                    const data = JSON.parse(savedOnboarding);
+                    // Update session user if data exists and is different
+                    if (data.ageBracket && SESSION_USERS.suminwalker.ageBracket !== data.ageBracket) {
+                        SESSION_USERS.suminwalker.ageBracket = data.ageBracket;
+                    }
+                    if (data.neighborhoods && data.neighborhoods.length > 0) {
+                        SESSION_USERS.suminwalker.neighborhoods = data.neighborhoods;
+                    }
+                } catch (e) {
+                    console.error("Failed to parse onboarding data", e);
+                }
+            }
+        }
+    }, [isOwner]);
 
     // Form State
     const [formData, setFormData] = useState({

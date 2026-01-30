@@ -10,7 +10,6 @@ export function BottomNav() {
 
     const tabs = [
         { name: "Feed", href: "/discover", icon: Compass },
-        { name: "Search", href: "/search", icon: Search },
         { name: "Map", href: "/map", icon: MapIcon },
         { name: "Your Lists", href: "/saved", icon: Bookmark },
         { name: "Profile", href: "/profile", icon: User },
