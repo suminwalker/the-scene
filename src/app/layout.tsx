@@ -28,7 +28,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body
         className={`${inter.variable} ${libreBaskerville.variable} antialiased bg-zinc-100 dark:bg-black min-h-screen flex justify-center`}
       >

@@ -16,8 +16,11 @@ export function CitySelector() {
     const [query, setQuery] = React.useState("");
 
     // Dynamic cities derived from data
-    // Use useMemo in real app, but fine here
+    // TO-DO: When ready to launch other cities, remove the filter here to show all `sortedCities`
     const sortedCities = Array.from(new Set(PLACES.map(p => p.city))).sort();
+
+    // For now, only show NYC
+    const enabledCities = sortedCities.filter(c => c === 'nyc');
 
     const formatCity = (slug: string) => {
         if (slug === "nyc") return "New York City";
@@ -27,7 +30,7 @@ export function CitySelector() {
         return slug.split(' ').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' ');
     };
 
-    const allCities: CityOption[] = sortedCities.map(c => ({
+    const allCities: CityOption[] = enabledCities.map(c => ({
         value: c,
         label: formatCity(c)
     }));
@@ -37,7 +40,7 @@ export function CitySelector() {
     );
 
     return (
-        <div className="relative flex-1 max-w-sm ml-4">
+        <div className="relative flex-1 max-w-sm">
             <div className="relative group">
                 <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-400 group-focus-within:text-white transition-colors" />
                 <input

@@ -112,9 +112,55 @@ export function MapFilterOverlay({ onFilterChange, places }: MapFilterOverlayPro
                         <CitySelector />
 
                         <div className="pt-2">
-                            <p className="text-xs text-zinc-400 mb-2">Neighborhoods</p>
-                            <div className="flex flex-wrap gap-2 max-h-40 overflow-y-auto pr-2 custom-scrollbar">
-                                {cityNeighborhoods.map((hood) => {
+                            {/* Neighborhood Grouping Logic */}
+                            {(() => {
+                                // NYC Borough Taxonomy
+                                const NYC_BOROUGHS: Record<string, string[]> = {
+                                    Manhattan: [
+                                        "Chelsea", "Chelsea / Garment District", "Chinatown", "East Village",
+                                        "Financial District", "Flatiron", "Lower East Side", "Meatpacking District",
+                                        "Midtown", "NoHo", "SoHo", "Tribeca", "West Village", "Greenwich Village",
+                                        "Little Italy", "Nolita", "Gramercy", "Union Square", "Hell's Kitchen",
+                                        "Upper East Side", "Upper West Side", "Harlem"
+                                    ],
+                                    Brooklyn: [
+                                        "Bed-Stuy", "Boerum Hill", "Brooklyn Heights", "Bushwick",
+                                        "Carroll Gardens", "Clinton Hill", "Cobble Hill", "DUMBO",
+                                        "Fort Greene", "Greenpoint", "Williamsburg", "Park Slope",
+                                        "Prospect Heights", "Red Hook", "Crown Heights"
+                                    ],
+                                    Queens: ["Astoria", "Long Island City", "Sunnyside", "Ridgewood", "Jackson Heights"],
+                                    The_Bronx: ["Mott Haven", "Riverdale"],
+                                };
+
+                                // Group neighborhoods
+                                const grouped: Record<string, string[]> = {};
+                                const others: string[] = [];
+
+                                // Only strictly group for NYC for now to avoid confusion in other cities
+                                const showSections = cityNeighborhoods.some(n =>
+                                    Object.values(NYC_BOROUGHS).flat().includes(n)
+                                );
+
+                                if (showSections) {
+                                    cityNeighborhoods.forEach(hood => {
+                                        let found = false;
+                                        for (const [borough, hoods] of Object.entries(NYC_BOROUGHS)) {
+                                            if (hoods.includes(hood)) {
+                                                if (!grouped[borough]) grouped[borough] = [];
+                                                grouped[borough].push(hood);
+                                                found = true;
+                                                break;
+                                            }
+                                        }
+                                        if (!found) others.push(hood);
+                                    });
+                                } else {
+                                    others.push(...cityNeighborhoods);
+                                }
+
+                                // Render Helper
+                                const renderHoodButton = (hood: string) => {
                                     const isActive = selected.neighborhood?.includes(hood);
                                     return (
                                         <button
@@ -130,8 +176,44 @@ export function MapFilterOverlay({ onFilterChange, places }: MapFilterOverlayPro
                                             {hood}
                                         </button>
                                     );
-                                })}
-                            </div>
+                                };
+
+                                if (!showSections) {
+                                    return (
+                                        <>
+                                            <p className="text-xs text-zinc-400 mb-2">Neighborhoods</p>
+                                            <div className="flex flex-wrap gap-2 max-h-40 overflow-y-auto pr-2 custom-scrollbar">
+                                                {cityNeighborhoods.map(renderHoodButton)}
+                                            </div>
+                                        </>
+                                    );
+                                }
+
+                                return (
+                                    <div className="space-y-4 max-h-60 overflow-y-auto pr-2 custom-scrollbar">
+                                        {Object.entries(grouped).map(([borough, hoods]) => (
+                                            <div key={borough}>
+                                                <p className="text-[10px] font-bold font-mono uppercase tracking-widest text-zinc-400 mb-2">
+                                                    {borough.replace('_', ' ')}
+                                                </p>
+                                                <div className="flex flex-wrap gap-2">
+                                                    {hoods.sort().map(renderHoodButton)}
+                                                </div>
+                                            </div>
+                                        ))}
+                                        {others.length > 0 && (
+                                            <div>
+                                                <p className="text-[10px] font-bold font-mono uppercase tracking-widest text-zinc-400 mb-2">
+                                                    Other
+                                                </p>
+                                                <div className="flex flex-wrap gap-2">
+                                                    {others.sort().map(renderHoodButton)}
+                                                </div>
+                                            </div>
+                                        )}
+                                    </div>
+                                );
+                            })()}
                         </div>
                     </div>
 
@@ -171,7 +253,7 @@ export function MapFilterOverlay({ onFilterChange, places }: MapFilterOverlayPro
                 <div className="p-6 border-t border-black/5 bg-zinc-50">
                     <button
                         onClick={() => setIsOpen(false)}
-                        className="w-full py-3 bg-accent text-white font-medium rounded-lg hover:bg-accent/90 transition-colors"
+                        className="w-full py-3 bg-black text-white font-medium rounded-lg hover:bg-black/90 transition-colors"
                     >
                         Show Results
                     </button>

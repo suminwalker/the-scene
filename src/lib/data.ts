@@ -97,7 +97,7 @@ export const CURATED_PLACES: Place[] = [
         name: "Soho House",
         city: "nyc",
         category: "Lounge",
-        neighborhood: "Meatpacking",
+        neighborhood: "Meatpacking District",
         price: "$$$",
         crowd: ["International creative", "Members"],
         vibe: ["Exclusive", "Dim connection"],
