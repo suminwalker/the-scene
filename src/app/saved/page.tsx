@@ -85,9 +85,9 @@ export default function SavedPage() {
                 {/* Create List Modal */}
                 {isModalOpen && (
                     <div className="absolute inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm animate-in fade-in duration-200">
-                        <div className="w-full max-w-sm bg-white dark:bg-zinc-900 rounded-2xl p-6 shadow-2xl animate-in zoom-in-95 duration-200">
+                        <div className="w-full max-w-sm bg-white rounded-2xl p-6 shadow-2xl animate-in zoom-in-95 duration-200">
                             <div className="flex justify-between items-center mb-6">
-                                <h3 className="text-lg font-bold font-serif">New List</h3>
+                                <h3 className="text-lg font-bold font-serif text-black">New List</h3>
                                 <button onClick={() => setIsModalOpen(false)} className="text-zinc-400 hover:text-black">
                                     <X className="w-5 h-5" />
                                 </button>
@@ -101,7 +101,7 @@ export default function SavedPage() {
                                         value={newListTitle}
                                         onChange={(e) => setNewListTitle(e.target.value)}
                                         placeholder="e.g. Summer Spots"
-                                        className="w-full px-4 py-3 bg-zinc-50 dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 rounded-xl focus:outline-none focus:ring-2 focus:ring-black/5"
+                                        className="w-full px-4 py-3 bg-zinc-100 border-transparent rounded-xl focus:outline-none focus:ring-2 focus:ring-black/5 text-black placeholder:text-zinc-400"
                                     />
                                 </div>
                                 <div className="space-y-2">
@@ -110,7 +110,7 @@ export default function SavedPage() {
                                         value={newListCategory}
                                         onChange={(e) => setNewListCategory(e.target.value)}
                                         placeholder="e.g. Date Night"
-                                        className="w-full px-4 py-3 bg-zinc-50 dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 rounded-xl focus:outline-none focus:ring-2 focus:ring-black/5"
+                                        className="w-full px-4 py-3 bg-zinc-100 border-transparent rounded-xl focus:outline-none focus:ring-2 focus:ring-black/5 text-black placeholder:text-zinc-400"
                                     />
                                 </div>
                                 <button
