@@ -64,12 +64,7 @@ export default function MapCanvas({ places }: MapCanvasProps) {
         "Fort Greene": [40.688, -73.972],
         "Clinton Hill": [40.689, -73.963],
         "Bed-Stuy": [40.687, -73.941],
-        "Red Hook": [40.673, -74.010],
-        // Queens
-        "Astoria": [40.764, -73.923],
-        "Long Island City": [40.744, -73.948],
-        "Sunnyside": [40.743, -73.918],
-        "Ridgewood": [40.710, -73.902]
+        "Red Hook": [40.673, -74.010]
     };
 
     const getCoords = (id: string, neighborhood: string): [number, number] => {

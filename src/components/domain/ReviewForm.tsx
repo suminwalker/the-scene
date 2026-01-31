@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Star, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 
-import { WHO_TAGS, AESTHETIC_TAGS } from "@/lib/taxonomy";
+import { AESTHETIC_TAGS } from "@/lib/taxonomy";
 
 export function ReviewForm() {
     const [rating, setRating] = useState(0);
@@ -14,7 +14,6 @@ export function ReviewForm() {
     const [error, setError] = useState<string | null>(null);
 
     // New Structured State
-    const [selectedWho, setSelectedWho] = useState<string[]>([]);
     const [selectedAesthetic, setSelectedAesthetic] = useState<string[]>([]);
 
     const toggleTag = (tag: string, current: string[], setter: (val: string[]) => void, max: number) => {
@@ -49,7 +48,6 @@ export function ReviewForm() {
         console.log("Submitting Review:", {
             rating,
             text: reviewText,
-            who: selectedWho,
             aesthetic: selectedAesthetic,
             timestamp: new Date().toISOString()
         });
@@ -94,28 +92,7 @@ export function ReviewForm() {
                 ))}
             </div>
 
-            {/* Who / Crowd Selection */}
-            <div className="space-y-2">
-                <div className="flex justify-between items-baseline">
-                    <label className="text-xs font-mono uppercase tracking-widest text-zinc-500">Who You'll Run Into <span className="text-[10px] lowercase opacity-50">(Select up to 2)</span></label>
-                </div>
-                <div className="flex flex-wrap gap-2">
-                    {WHO_TAGS.map(tag => (
-                        <button
-                            key={tag}
-                            onClick={() => toggleTag(tag, selectedWho, setSelectedWho, 2)}
-                            className={cn(
-                                "px-3 py-1.5 rounded-full text-xs font-medium transition-colors border",
-                                selectedWho.includes(tag)
-                                    ? "bg-black text-white border-black dark:bg-white dark:text-black"
-                                    : "bg-white text-zinc-600 border-zinc-200 hover:border-zinc-400 dark:bg-zinc-800 dark:text-zinc-300 dark:border-zinc-700"
-                            )}
-                        >
-                            {tag}
-                        </button>
-                    ))}
-                </div>
-            </div>
+
 
 
 

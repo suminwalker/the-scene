@@ -488,10 +488,6 @@ export default function SignupPage() {
                                             {
                                                 borough: "Brooklyn",
                                                 neighborhoods: ["Williamsburg", "Bushwick", "Greenpoint", "Brooklyn Heights", "Fort Greene", "Dumbo"]
-                                            },
-                                            {
-                                                borough: "Queens",
-                                                neighborhoods: ["Astoria", "Long Island City", "Ridgewood"]
                                             }
                                         ].map((group) => {
                                             const allSelected = group.neighborhoods.every(n => formData.neighborhoods.includes(n));

@@ -114,20 +114,8 @@ export default async function PlacePage({ params }: PlacePageProps) {
                         </section>
 
                         {/* Tags */}
-                        {(place.crowd.length > 0 || place.vibe.length > 0) && (
+                        {(place.vibe.length > 0) && (
                             <section className="space-y-4">
-                                {place.crowd.length > 0 && (
-                                    <div>
-                                        <h3 className="text-xs font-mono uppercase tracking-widest text-zinc-400 mb-2">Crowd</h3>
-                                        <div className="flex flex-wrap gap-2">
-                                            {place.crowd.map(tag => (
-                                                <span key={tag} className="px-3 py-1 bg-zinc-100 dark:bg-zinc-800 rounded-full text-xs font-medium text-zinc-600 dark:text-zinc-300 border border-zinc-200 dark:border-zinc-700">
-                                                    {tag}
-                                                </span>
-                                            ))}
-                                        </div>
-                                    </div>
-                                )}
                                 {place.vibe.length > 0 && (
                                     <div>
                                         <h3 className="text-xs font-mono uppercase tracking-widest text-zinc-400 mb-2">Vibe</h3>

@@ -1,5 +1,6 @@
 import { Place, PLACES } from "./data";
 import { City } from "./city-context";
+import { QUEENS_NEIGHBORHOODS } from "./taxonomy";
 
 export function getValidPlaces(city: City): Place[] {
     return PLACES.filter((place) => {
@@ -13,6 +14,9 @@ export function getValidPlaces(city: City): Place[] {
 
         // 3. Must not be a placeholder image (optional check, but good for "real" vibe)
         if (place.image.includes("/placeholder/")) return false; // Filter out local placeholders if any remain
+
+        // 4. Exclude Queens
+        if (QUEENS_NEIGHBORHOODS.includes(place.neighborhood)) return false;
 
         return true;
     });

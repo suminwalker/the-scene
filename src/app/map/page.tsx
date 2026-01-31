@@ -36,7 +36,7 @@ export default function MapPage() {
             for (const [key, values] of Object.entries(filters) as [string, string[]][]) {
                 if (values.length === 0) continue;
 
-                if (key === 'who' || key === 'aesthetic') {
+                if (key === 'aesthetic') {
                     // Logic: Map new taxonomy keys to existing data fields (crowd, vibe)
                     // We check if ANY of the selected values exist in the place's tags (fuzzy match or direct)
 

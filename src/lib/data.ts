@@ -559,24 +559,30 @@ export const CURATED_PLACES: Place[] = [
 
 export const PLACES: Place[] = [...CURATED_PLACES, ...(GENERATED_PLACES as unknown as Place[])];
 
+import { QUEENS_NEIGHBORHOODS } from "./taxonomy";
+
 /**
  * Utility to get all places including user-added ones from localStorage
  * This ensures consistency across Browse, Search, and Feed.
  */
 export function getCombinedPlaces(): Place[] {
-    if (typeof window === 'undefined') return PLACES;
+    let allPlaces = PLACES;
 
-    const saved = localStorage.getItem('the_scene_user_venues');
-    if (!saved) return PLACES;
-
-    try {
-        const localPlaces = JSON.parse(saved) as Place[];
-        // Filter out any potential duplicates by ID if necessary
-        const localIds = new Set(localPlaces.map(p => p.id));
-        const filteredPlaces = PLACES.filter(p => !localIds.has(p.id));
-        return [...localPlaces, ...filteredPlaces];
-    } catch (e) {
-        console.error("Failed to parse local venues", e);
-        return PLACES;
+    if (typeof window !== 'undefined') {
+        const saved = localStorage.getItem('the_scene_user_venues');
+        if (saved) {
+            try {
+                const localPlaces = JSON.parse(saved) as Place[];
+                // Filter out any potential duplicates by ID if necessary
+                const localIds = new Set(localPlaces.map(p => p.id));
+                const filteredPlaces = PLACES.filter(p => !localIds.has(p.id));
+                allPlaces = [...localPlaces, ...filteredPlaces];
+            } catch (e) {
+                console.error("Failed to parse local venues", e);
+            }
+        }
     }
+
+    // Global Queens Filter
+    return allPlaces.filter(p => !QUEENS_NEIGHBORHOODS.includes(p.neighborhood));
 }

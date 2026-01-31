@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils";
 import { CitySelector } from "@/components/layout/CitySelector";
 import { Place } from "@/lib/data";
 
-import { WHO_TAGS, AESTHETIC_TAGS } from "@/lib/taxonomy";
+import { AESTHETIC_TAGS } from "@/lib/taxonomy";
 
 interface MapFilterOverlayProps {
     onFilterChange: (filters: Record<string, string[]>) => void;
@@ -16,7 +16,6 @@ interface MapFilterOverlayProps {
 
 const FILTERS = {
     age: ["21-24", "25-29", "30-34", "35-39"],
-    who: WHO_TAGS,
     aesthetic: AESTHETIC_TAGS,
     season: ["All Year", "Spring", "Summer", "Fall", "Winter"],
     timeOfDay: ["Morning", "Afternoon", "Evening", "Late Night"]
@@ -26,7 +25,6 @@ export function MapFilterOverlay({ onFilterChange, places }: MapFilterOverlayPro
     const [isOpen, setIsOpen] = useState(false);
     const [selected, setSelected] = useState<Record<string, string[]>>({
         age: [],
-        who: [],
         aesthetic: [],
         season: [],
         timeOfDay: [],
@@ -55,7 +53,6 @@ export function MapFilterOverlay({ onFilterChange, places }: MapFilterOverlayPro
     const clearAll = () => {
         setSelected({
             age: [],
-            who: [],
             aesthetic: [],
             season: [],
             timeOfDay: [],
@@ -131,7 +128,6 @@ export function MapFilterOverlay({ onFilterChange, places }: MapFilterOverlayPro
                                         "Fort Greene", "Greenpoint", "Williamsburg", "Park Slope",
                                         "Prospect Heights", "Red Hook", "Crown Heights"
                                     ],
-                                    Queens: ["Astoria", "Long Island City", "Sunnyside", "Ridgewood", "Jackson Heights"],
                                     The_Bronx: ["Mott Haven", "Riverdale"],
                                 };
 

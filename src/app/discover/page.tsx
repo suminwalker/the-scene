@@ -5,7 +5,6 @@ import { TopBar } from "@/components/layout/TopBar";
 import { BottomNav } from "@/components/layout/BottomNav";
 import { SearchHeader } from "@/components/layout/SearchHeader";
 import { FeaturedLists } from "@/components/domain/FeaturedLists";
-import { CrowdRecommendations } from "@/components/domain/CrowdRecommendations";
 import { SocialFeed } from "@/components/domain/SocialFeed";
 import { Suspense, useState } from "react";
 
@@ -23,7 +22,6 @@ function DiscoverContent() {
                 {/* Only show featured lists on trending for cleaner UI or keep always? 
                     User requested features, usually lists are part of discovery. */}
                 <FeaturedLists />
-                <CrowdRecommendations />
                 <SocialFeed activeFilter={activeFilter} />
             </div>
         </main>

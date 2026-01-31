@@ -25,7 +25,6 @@ function BrowseContent() {
 
     // Filter State
     const [isFilterOpen, setIsFilterOpen] = useState(false);
-    const [selectedWho, setSelectedWho] = useState<string[]>([]);
     const [selectedAesthetic, setSelectedAesthetic] = useState<string[]>([]);
 
     // Initialize from localStorage
@@ -64,36 +63,13 @@ function BrowseContent() {
         }
     }, [localAddedPlaces]);
 
-    // Handle URL Parameter for "Your Type" (Who tag)
-    useEffect(() => {
-        const crowdParam = searchParams.get('crowd');
-        if (crowdParam) {
-            setSelectedWho([crowdParam]);
-        }
-    }, [searchParams]);
-
     // Filter places logic
     const allPlaces = getCombinedPlaces().filter(p => p.city === city);
     let cityPlaces: Place[] = [];
 
     if (selectedAge && selectedAge !== 'all') {
         cityPlaces = allPlaces.filter(p => {
-            // 0. Global Filter Check (Who, Energy, Aesthetic)
-            // AND logic across categories, OR logic within categories
-
-            // WHO
-            if (selectedWho.length > 0) {
-                // Map legacy place.crowd to generic check, or assume place.crowd will be updated
-                const placeTags = [
-                    ...(p.crowd || []),
-                    ...(p.vibe || []) // Mix vibe/crowd for now as data migrates
-                ].map(t => t.toLowerCase());
-
-                const hasMatch = selectedWho.some(w => placeTags.some(pt => pt.includes(w.toLowerCase()) || w.toLowerCase().includes(pt)));
-                if (!hasMatch) return false;
-            }
-
-
+            // 0. Global Filter Check (Aesthetic)
 
             // AESTHETIC
             if (selectedAesthetic.length > 0) {
@@ -183,7 +159,7 @@ function BrowseContent() {
     // Simple alphabetic sort or by rating
     cityPlaces.sort((a, b) => b.rating - a.rating);
 
-    const activeFilterCount = selectedWho.length + selectedAesthetic.length;
+    const activeFilterCount = selectedAesthetic.length;
 
     // MODE 1: Categories (Root View)
     if (!selectedAge) {
@@ -237,8 +213,6 @@ function BrowseContent() {
             <FilterSheet
                 isOpen={isFilterOpen}
                 onClose={() => setIsFilterOpen(false)}
-                selectedWho={selectedWho}
-                onWhoChange={setSelectedWho}
                 selectedAesthetic={selectedAesthetic}
                 onAestheticChange={setSelectedAesthetic}
             />
@@ -276,7 +250,7 @@ function BrowseContent() {
                 {/* Active Filters Display */}
                 {activeFilterCount > 0 && (
                     <div className="px-6 mb-4 flex flex-wrap gap-2">
-                        {[...selectedWho, ...selectedAesthetic].map(tag => (
+                        {[...selectedAesthetic].map(tag => (
                             <span key={tag} className="px-2 py-1 bg-zinc-100 rounded text-[10px] font-medium text-zinc-600 flex items-center gap-1">
                                 {tag}
                             </span>
@@ -307,7 +281,6 @@ function BrowseContent() {
                         <p className="text-xs">Try adjusting your filters to find your scene.</p>
                         <button
                             onClick={() => {
-                                setSelectedWho([]);
                                 setSelectedAesthetic([]);
                             }}
                             className="mt-4 text-xs font-bold uppercase tracking-widest text-accent hover:underline"

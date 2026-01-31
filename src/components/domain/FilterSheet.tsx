@@ -2,14 +2,12 @@
 
 import { X } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { WHO_TAGS, AESTHETIC_TAGS } from "@/lib/taxonomy";
+import { AESTHETIC_TAGS } from "@/lib/taxonomy";
 
 interface FilterSheetProps {
     isOpen: boolean;
     onClose: () => void;
     // New State Props
-    selectedWho: string[];
-    onWhoChange: (tags: string[]) => void;
     selectedAesthetic: string[];
     onAestheticChange: (tags: string[]) => void;
 }
@@ -17,8 +15,6 @@ interface FilterSheetProps {
 export function FilterSheet({
     isOpen,
     onClose,
-    selectedWho,
-    onWhoChange,
     selectedAesthetic,
     onAestheticChange
 }: FilterSheetProps) {
@@ -33,11 +29,10 @@ export function FilterSheet({
     };
 
     const clearAll = () => {
-        onWhoChange([]);
         onAestheticChange([]);
     };
 
-    const activeCount = selectedWho.length + selectedAesthetic.length;
+    const activeCount = selectedAesthetic.length;
 
     return (
         <div className="fixed inset-0 z-50 flex justify-end pointer-events-none">
@@ -62,29 +57,6 @@ export function FilterSheet({
 
                 {/* Content */}
                 <div className="flex-1 overflow-y-auto px-6 py-8 space-y-10">
-
-                    {/* Who You'll Run Into */}
-                    <section>
-                        <h3 className="text-xs font-mono font-bold uppercase tracking-widest text-zinc-400 mb-4">
-                            Who You'll Run Into
-                        </h3>
-                        <div className="flex flex-wrap gap-2">
-                            {WHO_TAGS.map(tag => (
-                                <button
-                                    key={tag}
-                                    onClick={() => toggleTag(tag, selectedWho, onWhoChange)}
-                                    className={cn(
-                                        "px-4 py-2 rounded-full text-sm font-medium transition-all duration-200 border",
-                                        selectedWho.includes(tag)
-                                            ? "bg-black text-white border-black shadow-sm"
-                                            : "bg-zinc-50 text-zinc-600 border-zinc-200 hover:border-zinc-300 hover:bg-zinc-100"
-                                    )}
-                                >
-                                    {tag}
-                                </button>
-                            ))}
-                        </div>
-                    </section>
 
                     {/* Aesthetic */}
                     <section>
