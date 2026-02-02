@@ -41,6 +41,9 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
     ];
 
     useEffect(() => {
+        let cleanupRef: (() => void) | null | undefined = null;
+        let isMounted = true;
+
         // --- DYNAMIC SCRIPT LOADING ---
         const loadScripts = async () => {
             const loadScript = (src: string, globalName: string) => new Promise<void>((res, rej) => {
@@ -67,7 +70,10 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 console.error('Failed to load base scripts:', e);
             }
 
-            initApplication();
+            if (isMounted) {
+                // Initialize and capture cleanup function
+                cleanupRef = await initApplication();
+            }
         };
 
         const initApplication = async () => {
@@ -93,6 +99,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
             let currentSlideIndex = 0;
             let isTransitioning = false;
             let shaderMaterial: any, renderer: any, scene: any, camera: any;
+            let removeMouseListeners: (() => void) | null = null;
             let slideTextures: any[] = [];
             let texturesLoaded = false;
             let autoSlideTimer: any = null;
@@ -423,10 +430,21 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                     if (!isHovering) isHovering = true;
                 };
 
-                // Add listener to the parent container to catch mouse even if heavy usage
-                canvas.parentElement?.addEventListener('mousemove', updateMouse);
-                canvas.parentElement?.addEventListener('mouseenter', () => { isHovering = true; });
-                canvas.parentElement?.addEventListener('mouseleave', () => { isHovering = false; });
+                // Add listener to the parent container
+                const onMouseEnter = () => { isHovering = true; };
+                const onMouseLeave = () => { isHovering = false; };
+
+                if (canvas.parentElement) {
+                    canvas.parentElement.addEventListener('mousemove', updateMouse);
+                    canvas.parentElement.addEventListener('mouseenter', onMouseEnter);
+                    canvas.parentElement.addEventListener('mouseleave', onMouseLeave);
+
+                    removeMouseListeners = () => {
+                        canvas.parentElement?.removeEventListener('mousemove', updateMouse);
+                        canvas.parentElement?.removeEventListener('mouseenter', onMouseEnter);
+                        canvas.parentElement?.removeEventListener('mouseleave', onMouseLeave);
+                    };
+                }
 
                 shaderMaterial = new THREE.ShaderMaterial({
                     uniforms: {
@@ -503,11 +521,43 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
 
             initRenderer();
 
-            document.addEventListener("visibilitychange", () => document.hidden ? stopAutoSlideTimer() : (!isTransitioning && safeStartTimer()));
-            window.addEventListener("resize", () => { if (renderer) { renderer.setSize(window.innerWidth, window.innerHeight); shaderMaterial.uniforms.uResolution.value.set(window.innerWidth, window.innerHeight); } });
+            const onVisibilityChange = () => document.hidden ? stopAutoSlideTimer() : (!isTransitioning && safeStartTimer());
+            const onWindowResize = () => { if (renderer) { renderer.setSize(window.innerWidth, window.innerHeight); shaderMaterial.uniforms.uResolution.value.set(window.innerWidth, window.innerHeight); } };
+
+            document.addEventListener("visibilitychange", onVisibilityChange);
+            window.addEventListener("resize", onWindowResize);
+
+            // Cleanup Closure
+            return () => {
+                stopAutoSlideTimer();
+                document.removeEventListener("visibilitychange", onVisibilityChange);
+                window.removeEventListener("resize", onWindowResize);
+                if (removeMouseListeners) removeMouseListeners();
+
+                if (window.gsap) window.gsap.killTweensOf("*");
+
+                if (renderer) {
+                    renderer.dispose();
+                    if (renderer.forceContextLoss) renderer.forceContextLoss();
+                }
+                if (scene) {
+                    scene.traverse((object: any) => {
+                        if (object.geometry) object.geometry.dispose();
+                        if (object.material) {
+                            if (object.material.map) object.material.map.dispose();
+                            object.material.dispose();
+                        }
+                    });
+                }
+            };
         };
 
         loadScripts();
+
+        return () => {
+            isMounted = false;
+            if (cleanupRef) cleanupRef();
+        };
     }, []);
 
     return (
