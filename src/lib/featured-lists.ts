@@ -13,7 +13,7 @@ export const FEATURED_SECTIONS = [
             { id: "date-night", label: "Date Night", sub: "Intimate & Romantic", image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&q=80" },
             { id: "group-hangouts", label: "Group Hangouts", sub: "Fun & Lively", image: "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?w=800&q=80" },
             { id: "casual", label: "Casual Catch-Up", sub: "Low Key & Relaxed", image: "https://images.unsplash.com/photo-1546171753-97d7676e4602?w=800&q=80" },
-            { id: "big-night-out", label: "Big Night Out", sub: "Energy & Music", image: "https://images.unsplash.com/photo-1574436544078-4c8d7b32d56a?w=800&q=80" }
+            { id: "big-night-out", label: "Big Night Out", sub: "Energy & Music", image: "https://images.unsplash.com/photo-1545128485-c400e7702796?w=800&q=80" }
         ]
     },
     {
@@ -28,7 +28,7 @@ export const FEATURED_SECTIONS = [
         title: "By Venue Type",
         categories: [
             { id: "bar", label: "Bars", sub: "Just Good Drinks", image: "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800&q=80" },
-            { id: "rooftop", label: "Rooftops", sub: "Skyline Views", image: "https://images.unsplash.com/photo-1519671482538-518b5c2a9184?w=800&q=80" },
+            { id: "rooftop", label: "Rooftops", sub: "Skyline Views", image: "https://images.unsplash.com/photo-1595842859424-4d872cb0ace8?w=800&q=80" },
             { id: "cocktail", label: "Cocktail Bars", sub: "Mixology & Craft", image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&q=80" },
             { id: "wine", label: "Wine Bars", sub: "Vino & Bites", image: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&q=80" }
         ]
