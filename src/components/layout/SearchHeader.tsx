@@ -7,8 +7,9 @@ import { getCombinedPlaces } from "@/lib/data";
 import { useRouter } from "next/navigation";
 import { useCity } from "@/lib/city-context";
 
-{ id: "trending", label: "Trending", icon: TrendingUp },
-{ id: "following", label: "Following", icon: Users },
+const FILTERS = [
+    { id: "trending", label: "Trending", icon: TrendingUp },
+    { id: "following", label: "Following", icon: Users },
 ];
 
 interface SearchHeaderProps {
