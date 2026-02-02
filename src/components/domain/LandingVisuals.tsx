@@ -128,7 +128,6 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
             uniform float uTime;
             uniform vec2 uMouse;
             uniform float uMouseActive;
-            uniform float uMouseActive;
             uniform vec2 uResolution, uTexture1Size, uTexture2Size;
             uniform float uZoom1, uZoom2;
             uniform vec2 uFocus1, uFocus2;
@@ -437,7 +436,6 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                         // New Uniforms
                         uTime: { value: 0 },
                         uMouse: { value: mouse },
-                        uMouseActive: { value: 0 },
                         uMouseActive: { value: 0 },
 
                         // Config (User defaults)
