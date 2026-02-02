@@ -12,6 +12,8 @@ declare global {
 
 export function LandingVisuals({ children }: { children?: React.ReactNode }) {
     const containerRef = useRef<HTMLDivElement>(null);
+    const [activeIndex, setActiveIndex] = React.useState(0);
+    const navigateRef = useRef<(idx: number) => void>(() => { });
 
     // "Track, Share, Discover" Slides
     const slides = [
@@ -21,14 +23,18 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
             media: "/track-bg-friends.jpg",
             zoom: 1.0,
             grain: 0.15,
-            brightness: 0.9
+            brightness: 0.9,
+            focusX: 0.5,
+            focusY: 0.5
         },
         {
             title: "Share",
             description: "Send your spots to friends or newcomers to your city.",
             media: "/share-bg-g7x-v2.png",
             zoom: 1.0,
-            brightness: 1.2
+            brightness: 1.2,
+            focusX: 0.5,
+            focusY: 0.5
         },
         {
             title: "Discover",
@@ -36,7 +42,9 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
             media: "/discover-bg-couch.jpg",
             zoom: 1.0,
             grain: 0.15,
-            brightness: 1.2
+            brightness: 1.2,
+            focusX: 0.5,
+            focusY: 0.5
         }
     ];
 
@@ -120,8 +128,10 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
             uniform float uTime;
             uniform vec2 uMouse;
             uniform float uMouseActive;
+            uniform float uPressActive;
             uniform vec2 uResolution, uTexture1Size, uTexture2Size;
             uniform float uZoom1, uZoom2;
+            uniform vec2 uFocus1, uFocus2;
             uniform float uGrain;
             uniform float uBrightness;
 
@@ -154,11 +164,11 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 return 0.0;
             }
 
-            vec2 getCoverUV(vec2 uv, vec2 textureSize, float zoom) {
+            vec2 getCoverUV(vec2 uv, vec2 textureSize, float zoom, vec2 focus) {
                 vec2 s = uResolution / textureSize;
                 float scale = max(s.x, s.y) * zoom;
                 vec2 scaledSize = textureSize * scale;
-                vec2 offset = (uResolution - scaledSize) * 0.5;
+                vec2 offset = (uResolution - scaledSize) * focus;
                 return (uv * uResolution - offset) / scaledSize;
             }
             
@@ -199,10 +209,12 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 }
                 
                 // Calculate cover UVs for both textures using the distorted coordinate and zooms
-                vec2 uv1 = getCoverUV(distortedUv, uTexture1Size, uZoom1);
-                vec2 uv2 = getCoverUV(distortedUv, uTexture2Size, uZoom2);
+                vec2 uv1 = getCoverUV(distortedUv, uTexture1Size, uZoom1, uFocus1);
+                vec2 uv2 = getCoverUV(distortedUv, uTexture2Size, uZoom2, uFocus2);
 
-                // Texture sampling with bounds check for "contain/zoom-out" support (black bars)
+                // Texture sampling with bounds check for "contain/zoom-out" support (black bars/background)
+                // When zooming out (< 1.0 relative to cover), we might see edges. 
+                // We'll fade edges or clamp. Here we default to black (0,0,0,1).
                 vec4 t1 = (uv1.x < 0.0 || uv1.x > 1.0 || uv1.y < 0.0 || uv1.y > 1.0) 
                           ? vec4(0.0, 0.0, 0.0, 1.0) 
                           : texture2D(uTexture1, uv1);
@@ -223,7 +235,23 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 // Brightness / Flash Effect
                 color.rgb *= uBrightness;
                 
-                // Output full color directly (removed B&W/Dither/Reveal)
+                // Dithering / B&W Effect on Press
+                if (uPressActive > 0.0) {
+                    float gray = dot(color.rgb, vec3(0.299, 0.587, 0.114));
+                    // Boost contrast slightly for clearer dither
+                    gray = (gray - 0.5) * 1.2 + 0.5;
+                    
+                    float dither = bayer4x4(gl_FragCoord.xy);
+                    // Quantize to black/white-ish based on dither threshold
+                    float dithered = step(dither, gray);
+                    
+                    vec3 ditherColor = vec3(dithered);
+                    
+                    // Mix original color with dithered B&W based on press intensity
+                    color.rgb = mix(color.rgb, ditherColor, uPressActive * 0.8); // 80% strength at max
+                }
+
+                // Output full color directly
                 gl_FragColor = vec4(color.rgb, 1.0);
             }
             `;
@@ -270,8 +298,9 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 shaderMaterial.uniforms.uTexture1Size.value = currentTexture.userData.size;
                 shaderMaterial.uniforms.uTexture2Size.value = targetTexture.userData.size;
                 shaderMaterial.uniforms.uZoom1.value = slides[currentSlideIndex].zoom || 1.0;
-                shaderMaterial.uniforms.uZoom1.value = slides[currentSlideIndex].zoom || 1.0;
                 shaderMaterial.uniforms.uZoom2.value = slides[targetIndex].zoom || 1.0;
+                shaderMaterial.uniforms.uFocus1.value.set(slides[currentSlideIndex].focusX ?? 0.5, slides[currentSlideIndex].focusY ?? 0.5);
+                shaderMaterial.uniforms.uFocus2.value.set(slides[targetIndex].focusX ?? 0.5, slides[targetIndex].focusY ?? 0.5);
 
                 // Animate Grain
                 gsap.to(shaderMaterial.uniforms.uGrain, {
@@ -294,7 +323,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 setTimeout(() => {
                     currentSlideIndex = targetIndex;
                     updateCounter(currentSlideIndex);
-                    updateNavigationState(currentSlideIndex);
+                    setActiveIndex(currentSlideIndex);
                     // Start bar filling exactly when text/nav updates
                     safeStartTimer();
                 }, 500);
@@ -310,6 +339,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                             shaderMaterial.uniforms.uTexture1.value = targetTexture;
                             shaderMaterial.uniforms.uTexture1Size.value = targetTexture.userData.size;
                             shaderMaterial.uniforms.uZoom1.value = slides[targetIndex].zoom || 1.0;
+                            shaderMaterial.uniforms.uFocus1.value.set(slides[targetIndex].focusX ?? 0.5, slides[targetIndex].focusY ?? 0.5);
                             isTransitioning = false;
                             // Timer already started at sync point
                         }
@@ -322,44 +352,12 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 navigateToSlide((currentSlideIndex + 1) % slides.length);
             };
 
-            const createSlidesNavigation = () => {
-                const nav = document.getElementById("slidesNav"); if (!nav) return;
-                nav.innerHTML = "";
-                slides.forEach((slide, i) => {
-                    const item = document.createElement("div");
-                    // Wrapper for click area
-                    item.className = `slide-nav-item cursor-pointer p-2 group`;
-                    item.dataset.slideIndex = String(i);
-
-                    // Bubble element
-                    const bubble = document.createElement("div");
-                    bubble.className = `nav-bubble h-2 bg-white rounded-full transition-all duration-300 ${i === 0 ? 'w-8 opacity-100' : 'w-2 opacity-30 group-hover:opacity-60'}`;
-                    item.appendChild(bubble);
-
-                    item.addEventListener("click", (e) => {
-                        e.stopPropagation();
-                        if (!isTransitioning && i !== currentSlideIndex) {
-                            stopAutoSlideTimer();
-                            navigateToSlide(i);
-                        }
-                    });
-                    nav.appendChild(item);
-                });
-            };
-
-            const updateNavigationState = (idx: number) => {
-                document.querySelectorAll(".slide-nav-item").forEach((el, i) => {
-                    const bubble = el.querySelector(".nav-bubble");
-                    if (bubble) {
-                        if (i === idx) {
-                            bubble.classList.remove("w-2", "opacity-30", "group-hover:opacity-60");
-                            bubble.classList.add("w-8", "opacity-100");
-                        } else {
-                            bubble.classList.remove("w-8", "opacity-100");
-                            bubble.classList.add("w-2", "opacity-30", "group-hover:opacity-60");
-                        }
-                    }
-                });
+            // Expose navigation to React ref
+            navigateRef.current = (idx: number) => {
+                if (!isTransitioning && idx !== currentSlideIndex) {
+                    stopAutoSlideTimer();
+                    navigateToSlide(idx);
+                }
             };
 
             // Progress bars removed, these are now no-ops to prevent errors if called by timer
@@ -417,6 +415,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 // Mouse interaction state
                 const mouse = new THREE.Vector2(-10, -10); // Start off-screen
                 let mouseActive = 0;
+                let pressActive = 0;
                 let isHovering = false;
                 const clock = new THREE.Clock();
 
@@ -430,6 +429,10 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                     if (!isHovering) isHovering = true;
                 };
 
+                let isPressed = false;
+                const onPressStart = () => { isPressed = true; };
+                const onPressEnd = () => { isPressed = false; };
+
                 // Add listener to the parent container
                 const onMouseEnter = () => { isHovering = true; };
                 const onMouseLeave = () => { isHovering = false; };
@@ -439,10 +442,21 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                     canvas.parentElement.addEventListener('mouseenter', onMouseEnter);
                     canvas.parentElement.addEventListener('mouseleave', onMouseLeave);
 
+                    canvas.parentElement.addEventListener('mousedown', onPressStart);
+                    canvas.parentElement.addEventListener('mouseup', onPressEnd);
+                    canvas.parentElement.addEventListener('touchstart', onPressStart);
+                    canvas.parentElement.addEventListener('touchend', onPressEnd);
+                    canvas.parentElement.addEventListener('touchcancel', onPressEnd);
+
                     removeMouseListeners = () => {
                         canvas.parentElement?.removeEventListener('mousemove', updateMouse);
                         canvas.parentElement?.removeEventListener('mouseenter', onMouseEnter);
                         canvas.parentElement?.removeEventListener('mouseleave', onMouseLeave);
+                        canvas.parentElement?.removeEventListener('mousedown', onPressStart);
+                        canvas.parentElement?.removeEventListener('mouseup', onPressEnd);
+                        canvas.parentElement?.removeEventListener('touchstart', onPressStart);
+                        canvas.parentElement?.removeEventListener('touchend', onPressEnd);
+                        canvas.parentElement?.removeEventListener('touchcancel', onPressEnd);
                     };
                 }
 
@@ -452,6 +466,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                         uResolution: { value: new THREE.Vector2(window.innerWidth, window.innerHeight) },
                         uTexture1Size: { value: new THREE.Vector2(1, 1) }, uTexture2Size: { value: new THREE.Vector2(1, 1) },
                         uZoom1: { value: 1.0 }, uZoom2: { value: 1.0 },
+                        uFocus1: { value: new THREE.Vector2(0.5, 0.5) }, uFocus2: { value: new THREE.Vector2(0.5, 0.5) },
                         uGrain: { value: 0.0 },
                         uBrightness: { value: 1.0 },
 
@@ -459,6 +474,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                         uTime: { value: 0 },
                         uMouse: { value: mouse },
                         uMouseActive: { value: 0 },
+                        uPressActive: { value: 0 },
 
                         // Config (User defaults)
                         uRevealRadius: { value: 0.2 },
@@ -482,6 +498,8 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                     shaderMaterial.uniforms.uTexture2Size.value = slideTextures[1].userData.size;
                     shaderMaterial.uniforms.uZoom1.value = slides[0].zoom || 1.0;
                     shaderMaterial.uniforms.uZoom2.value = slides[1].zoom || 1.0;
+                    shaderMaterial.uniforms.uFocus1.value.set(slides[0].focusX ?? 0.5, slides[0].focusY ?? 0.5);
+                    shaderMaterial.uniforms.uFocus2.value.set(slides[1].focusX ?? 0.5, slides[1].focusY ?? 0.5);
                     shaderMaterial.uniforms.uGrain.value = slides[0].grain || 0.0;
                     shaderMaterial.uniforms.uBrightness.value = slides[0].brightness || 1.0;
                     texturesLoaded = true; sliderEnabled = true;
@@ -502,12 +520,18 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                     shaderMaterial.uniforms.uMouseActive.value = mouseActive;
                     shaderMaterial.uniforms.uMouse.value.copy(mouse);
 
+                    // Smooth Press Active
+                    const targetPress = isPressed ? 1.0 : 0.0;
+                    pressActive += (targetPress - pressActive) * 0.1; // Slightly faster reaction
+                    shaderMaterial.uniforms.uPressActive.value = pressActive;
+
                     renderer.render(scene, camera);
                 };
                 render();
             };
 
-            createSlidesNavigation(); updateCounter(0);
+            updateCounter(0);
+            setActiveIndex(0);
 
             // Init text content
             const tEl = document.getElementById('mainTitle');
@@ -575,16 +599,29 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
 
             {/* Overlay: Content */}
             <div className="absolute inset-0 z-10 flex flex-col items-center justify-center p-8 pointer-events-none">
-                <div className="text-center slide-content max-w-sm mt-[-100px]">
-                    <h1 className="text-5xl md:text-6xl font-serif tracking-tight mb-4 text-white drop-shadow-xl" id="mainTitle"></h1>
-                    <p className="text-zinc-200 text-sm md:text-base leading-relaxed max-w-[280px] mx-auto drop-shadow-md" id="mainDesc"></p>
+                <div className="text-center slide-content w-full max-w-lg mx-auto mt-[-100px] flex flex-col items-center">
+                    <h1 className="text-5xl md:text-6xl font-serif tracking-tight mb-4 text-white drop-shadow-xl text-center w-full" id="mainTitle"></h1>
+                    <p className="text-zinc-200 text-sm md:text-base leading-relaxed w-full max-w-[280px] mx-auto drop-shadow-md text-center" id="mainDesc"></p>
                 </div>
             </div>
 
             {/* Action Overlay: Buttons passed from parent */}
             <div className="absolute bottom-12 left-0 right-0 z-30 px-8 flex flex-col items-center gap-6">
                 {/* Navigation - Horizontal Bottom */}
-                <nav className="flex justify-center gap-2 w-full mb-6" id="slidesNav"></nav>
+                <nav className="flex justify-center gap-2 w-full mb-6" id="slidesNav">
+                    {slides.map((_, i) => (
+                        <div
+                            key={i}
+                            className="slide-nav-item cursor-pointer p-2 group"
+                            onClick={(e) => {
+                                e.stopPropagation();
+                                navigateRef.current(i);
+                            }}
+                        >
+                            <div className={`nav-bubble h-2 bg-white rounded-full transition-all duration-300 ${i === activeIndex ? 'w-8 opacity-100' : 'w-2 opacity-30 group-hover:opacity-60'}`} />
+                        </div>
+                    ))}
+                </nav>
 
                 {children}
             </div>
