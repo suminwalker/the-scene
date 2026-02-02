@@ -806,34 +806,7 @@ export default function ProfilePage() {
                                 </button>
                             </div>
 
-                            {/* Challenge Card */}
-                            <div className="px-4 py-6">
-                                <div className="p-6 rounded-[32px] bg-white border border-black/10 space-y-4 shadow-sm">
-                                    <div className="flex justify-between items-start">
-                                        <div className="space-y-1">
-                                            <h4 className="text-sm font-black text-foreground/50 tracking-[0.15em] font-mono uppercase">2026 Venue Challenge</h4>
-                                            <p className="text-lg font-bold text-foreground leading-tight">
-                                                {user.challenge.progress} of {user.challenge.total} venues
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div className="w-full h-2 bg-zinc-200 rounded-full overflow-hidden">
-                                        <div
-                                            className="h-full bg-black transition-all duration-1000"
-                                            style={{ width: `${(user.challenge.progress / user.challenge.total) * 100}%` }}
-                                        />
-                                    </div>
-                                    <div className="flex justify-between items-center text-[10px] text-zinc-500 font-mono tracking-widest">
-                                        <span>339 days left</span>
-                                        <button
-                                            onClick={() => alert("Goal setting coming soon in the 2026 update!")}
-                                            className="text-black hover:underline"
-                                        >
-                                            Set your 2026 goal &gt;
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
+
 
                             {/* Content Tabs */}
                             <div className="mt-4 border-t border-black/5">
