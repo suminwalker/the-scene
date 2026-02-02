@@ -786,25 +786,7 @@ export default function ProfilePage() {
                                 ))}
                             </div>
 
-                            {/* Badges Cards */}
-                            <div className="grid grid-cols-2 gap-3 px-4 py-2">
-                                <button
-                                    onClick={() => alert("Leaderboard coming soon!")}
-                                    className="p-5 rounded-3xl bg-white border border-black/10 space-y-2 text-left hover:bg-zinc-50 transition-colors shadow-sm"
-                                >
-                                    <Trophy className="w-6 h-6 text-black mb-2" />
-                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Rank on The Scene</p>
-                                    <p className="text-xl font-black text-black">{user.rank}</p>
-                                </button>
-                                <button
-                                    onClick={() => alert("Keep the streak alive!")}
-                                    className="p-5 rounded-3xl bg-white border border-black/10 space-y-2 text-left hover:bg-zinc-50 transition-colors shadow-sm"
-                                >
-                                    <Flame className="w-6 h-6 text-black mb-2" />
-                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Current Streak</p>
-                                    <p className="text-xl font-black text-black">{user.streak}</p>
-                                </button>
-                            </div>
+
 
 
 
