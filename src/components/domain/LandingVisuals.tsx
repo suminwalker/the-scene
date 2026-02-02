@@ -21,7 +21,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
             media: "/track-bg-friends.jpg",
             zoom: 1.0,
             grain: 0.15,
-            brightness: 1.2
+            brightness: 0.9
         },
         {
             title: "Share",
