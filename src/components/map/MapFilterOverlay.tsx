@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils";
 import { CitySelector } from "@/components/layout/CitySelector";
 import { Place } from "@/lib/data";
 
-import { AESTHETIC_TAGS } from "@/lib/taxonomy";
+
 
 interface MapFilterOverlayProps {
     onFilterChange: (filters: Record<string, string[]>) => void;
@@ -16,7 +16,6 @@ interface MapFilterOverlayProps {
 
 const FILTERS = {
     age: ["21-24", "25-29", "30-34", "35-39"],
-    aesthetic: AESTHETIC_TAGS,
     season: ["All Year", "Spring", "Summer", "Fall", "Winter"],
     timeOfDay: ["Morning", "Afternoon", "Evening", "Late Night"]
 };
@@ -25,7 +24,6 @@ export function MapFilterOverlay({ onFilterChange, places }: MapFilterOverlayPro
     const [isOpen, setIsOpen] = useState(false);
     const [selected, setSelected] = useState<Record<string, string[]>>({
         age: [],
-        aesthetic: [],
         season: [],
         timeOfDay: [],
         neighborhood: []
@@ -53,7 +51,6 @@ export function MapFilterOverlay({ onFilterChange, places }: MapFilterOverlayPro
     const clearAll = () => {
         setSelected({
             age: [],
-            aesthetic: [],
             season: [],
             timeOfDay: [],
             neighborhood: []
