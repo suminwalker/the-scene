@@ -2,17 +2,15 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Compass, Search, Map as MapIcon, Bookmark, User } from "lucide-react";
+import { Compass, Search, Map as MapIcon, User } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export function BottomNav() {
     const pathname = usePathname();
 
-    const tabs = [
-        { name: "Feed", href: "/discover", icon: Compass },
-        { name: "Map", href: "/map", icon: MapIcon },
-        { name: "Your Lists", href: "/saved", icon: Bookmark },
-        { name: "Profile", href: "/profile", icon: User },
+    { name: "Feed", href: "/discover", icon: Compass },
+    { name: "Map", href: "/map", icon: MapIcon },
+    { name: "Profile", href: "/profile", icon: User },
     ];
 
     return (
