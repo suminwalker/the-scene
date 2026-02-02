@@ -18,8 +18,9 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
         {
             title: "Track",
             description: "Keep a running list of your favorite places to go out.",
-            media: "/track-bg-g7x.png",
-            zoom: 1.0
+            media: "/track-bg-friends.jpg",
+            zoom: 1.0,
+            grain: 0.15
         },
         {
             title: "Share",
@@ -110,6 +111,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
             uniform float uMouseActive;
             uniform vec2 uResolution, uTexture1Size, uTexture2Size;
             uniform float uZoom1, uZoom2;
+            uniform float uGrain;
 
             // Config uniforms
             uniform float uRevealRadius;
@@ -200,6 +202,12 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 // Mix textures based on progress
                 vec4 color = mix(t1, t2, uProgress);
                 
+                // Film Grain
+                if (uGrain > 0.001) {
+                    float noise = fract(sin(dot(uv + mod(uTime, 10.0), vec2(12.9898, 78.233))) * 43758.5453);
+                    color.rgb += (noise - 0.5) * uGrain;
+                }
+                
                 // Output full color directly (removed B&W/Dither/Reveal)
                 gl_FragColor = vec4(color.rgb, 1.0);
             }
@@ -247,7 +255,15 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 shaderMaterial.uniforms.uTexture1Size.value = currentTexture.userData.size;
                 shaderMaterial.uniforms.uTexture2Size.value = targetTexture.userData.size;
                 shaderMaterial.uniforms.uZoom1.value = slides[currentSlideIndex].zoom || 1.0;
+                shaderMaterial.uniforms.uZoom1.value = slides[currentSlideIndex].zoom || 1.0;
                 shaderMaterial.uniforms.uZoom2.value = slides[targetIndex].zoom || 1.0;
+
+                // Animate Grain
+                gsap.to(shaderMaterial.uniforms.uGrain, {
+                    value: slides[targetIndex].grain || 0.0,
+                    duration: TRANSITION_DURATION(),
+                    ease: "power2.inOut"
+                });
 
                 // Start text exit animation immediately
                 updateContent(targetIndex);
@@ -403,6 +419,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                         uResolution: { value: new THREE.Vector2(window.innerWidth, window.innerHeight) },
                         uTexture1Size: { value: new THREE.Vector2(1, 1) }, uTexture2Size: { value: new THREE.Vector2(1, 1) },
                         uZoom1: { value: 1.0 }, uZoom2: { value: 1.0 },
+                        uGrain: { value: 0.0 },
 
                         // New Uniforms
                         uTime: { value: 0 },
@@ -431,6 +448,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                     shaderMaterial.uniforms.uTexture2Size.value = slideTextures[1].userData.size;
                     shaderMaterial.uniforms.uZoom1.value = slides[0].zoom || 1.0;
                     shaderMaterial.uniforms.uZoom2.value = slides[1].zoom || 1.0;
+                    shaderMaterial.uniforms.uGrain.value = slides[0].grain || 0.0;
                     texturesLoaded = true; sliderEnabled = true;
 
                     safeStartTimer(500);
