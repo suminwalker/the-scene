@@ -128,7 +128,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
             uniform float uTime;
             uniform vec2 uMouse;
             uniform float uMouseActive;
-            uniform float uPressActive;
+            uniform float uMouseActive;
             uniform vec2 uResolution, uTexture1Size, uTexture2Size;
             uniform float uZoom1, uZoom2;
             uniform vec2 uFocus1, uFocus2;
@@ -146,23 +146,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
             
             varying vec2 vUv;
             
-            // Bayer 4x4 dithering pattern
-            float bayer4x4(vec2 pos) {
-                int x = int(mod(pos.x, 4.0));
-                int y = int(mod(pos.y, 4.0));
-                int index = x + y * 4;
-                
-                float pattern[16];
-                pattern[0] = 0.0;    pattern[1] = 8.0;    pattern[2] = 2.0;    pattern[3] = 10.0;
-                pattern[4] = 12.0;   pattern[5] = 4.0;    pattern[6] = 14.0;   pattern[7] = 6.0;
-                pattern[8] = 3.0;    pattern[9] = 11.0;   pattern[10] = 1.0;   pattern[11] = 9.0;
-                pattern[12] = 15.0;  pattern[13] = 7.0;   pattern[14] = 13.0;  pattern[15] = 5.0;
-                
-                for (int i = 0; i < 16; i++) {
-                    if (i == index) return pattern[i] / 16.0;
-                }
-                return 0.0;
-            }
+
 
             vec2 getCoverUV(vec2 uv, vec2 textureSize, float zoom, vec2 focus) {
                 vec2 s = uResolution / textureSize;
@@ -235,21 +219,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 // Brightness / Flash Effect
                 color.rgb *= uBrightness;
                 
-                // Dithering / B&W Effect on Press
-                if (uPressActive > 0.0) {
-                    float gray = dot(color.rgb, vec3(0.299, 0.587, 0.114));
-                    // Boost contrast slightly for clearer dither
-                    gray = (gray - 0.5) * 1.2 + 0.5;
-                    
-                    float dither = bayer4x4(gl_FragCoord.xy);
-                    // Quantize to black/white-ish based on dither threshold
-                    float dithered = step(dither, gray);
-                    
-                    vec3 ditherColor = vec3(dithered);
-                    
-                    // Mix original color with dithered B&W based on press intensity
-                    color.rgb = mix(color.rgb, ditherColor, uPressActive * 0.8); // 80% strength at max
-                }
+
 
                 // Output full color directly
                 gl_FragColor = vec4(color.rgb, 1.0);
@@ -415,7 +385,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 // Mouse interaction state
                 const mouse = new THREE.Vector2(-10, -10); // Start off-screen
                 let mouseActive = 0;
-                let pressActive = 0;
+
                 let isHovering = false;
                 const clock = new THREE.Clock();
 
@@ -429,9 +399,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                     if (!isHovering) isHovering = true;
                 };
 
-                let isPressed = false;
-                const onPressStart = () => { isPressed = true; };
-                const onPressEnd = () => { isPressed = false; };
+
 
                 // Add listener to the parent container
                 const onMouseEnter = () => { isHovering = true; };
@@ -442,21 +410,17 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                     canvas.parentElement.addEventListener('mouseenter', onMouseEnter);
                     canvas.parentElement.addEventListener('mouseleave', onMouseLeave);
 
-                    canvas.parentElement.addEventListener('mousedown', onPressStart);
-                    canvas.parentElement.addEventListener('mouseup', onPressEnd);
-                    canvas.parentElement.addEventListener('touchstart', onPressStart);
-                    canvas.parentElement.addEventListener('touchend', onPressEnd);
-                    canvas.parentElement.addEventListener('touchcancel', onPressEnd);
+                    canvas.parentElement.addEventListener('mousemove', updateMouse);
+                    canvas.parentElement.addEventListener('mouseenter', onMouseEnter);
+                    canvas.parentElement.addEventListener('mouseleave', onMouseLeave);
 
                     removeMouseListeners = () => {
                         canvas.parentElement?.removeEventListener('mousemove', updateMouse);
                         canvas.parentElement?.removeEventListener('mouseenter', onMouseEnter);
                         canvas.parentElement?.removeEventListener('mouseleave', onMouseLeave);
-                        canvas.parentElement?.removeEventListener('mousedown', onPressStart);
-                        canvas.parentElement?.removeEventListener('mouseup', onPressEnd);
-                        canvas.parentElement?.removeEventListener('touchstart', onPressStart);
-                        canvas.parentElement?.removeEventListener('touchend', onPressEnd);
-                        canvas.parentElement?.removeEventListener('touchcancel', onPressEnd);
+                        canvas.parentElement?.removeEventListener('mousemove', updateMouse);
+                        canvas.parentElement?.removeEventListener('mouseenter', onMouseEnter);
+                        canvas.parentElement?.removeEventListener('mouseleave', onMouseLeave);
                     };
                 }
 
@@ -474,7 +438,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                         uTime: { value: 0 },
                         uMouse: { value: mouse },
                         uMouseActive: { value: 0 },
-                        uPressActive: { value: 0 },
+                        uMouseActive: { value: 0 },
 
                         // Config (User defaults)
                         uRevealRadius: { value: 0.2 },
@@ -520,10 +484,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                     shaderMaterial.uniforms.uMouseActive.value = mouseActive;
                     shaderMaterial.uniforms.uMouse.value.copy(mouse);
 
-                    // Smooth Press Active
-                    const targetPress = isPressed ? 1.0 : 0.0;
-                    pressActive += (targetPress - pressActive) * 0.1; // Slightly faster reaction
-                    shaderMaterial.uniforms.uPressActive.value = pressActive;
+
 
                     renderer.render(scene, camera);
                 };
@@ -599,14 +560,14 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
 
             {/* Overlay: Content */}
             <div className="absolute inset-0 z-10 flex flex-col items-center justify-center p-8 pointer-events-none">
-                <div className="text-center slide-content w-full max-w-lg mx-auto mt-[-100px] flex flex-col items-center">
-                    <h1 className="text-5xl md:text-6xl font-serif tracking-tight mb-4 text-white drop-shadow-xl text-center w-full" id="mainTitle"></h1>
-                    <p className="text-zinc-200 text-sm md:text-base leading-relaxed w-full max-w-[280px] mx-auto drop-shadow-md text-center" id="mainDesc"></p>
+                <div className="text-center slide-content w-full max-w-3xl mx-auto mt-[-120px] flex flex-col items-center">
+                    <h1 className="text-6xl md:text-8xl font-serif tracking-tight mb-6 text-white drop-shadow-xl text-center w-full" id="mainTitle"></h1>
+                    <p className="text-zinc-200 text-lg md:text-2xl leading-relaxed w-full max-w-[400px] mx-auto drop-shadow-md text-center" id="mainDesc"></p>
                 </div>
             </div>
 
             {/* Action Overlay: Buttons passed from parent */}
-            <div className="absolute bottom-12 left-0 right-0 z-30 px-8 flex flex-col items-center gap-6">
+            <div className="absolute bottom-4 left-0 right-0 z-30 px-8 flex flex-col items-center gap-6">
                 {/* Navigation - Horizontal Bottom */}
                 <nav className="flex justify-center gap-2 w-full mb-6" id="slidesNav">
                     {slides.map((_, i) => (

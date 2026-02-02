@@ -16,10 +16,10 @@ export function SlideButton({ onSuccess, className, text = "Get Started" }: Slid
     const x = useMotionValue(0);
 
     // Dimensions
-    const containerWidth = 210;
-    const knobWidth = 39;
-    const padding = 3; // 1.5px each side
-    const maxDrag = containerWidth - knobWidth - padding; // 210 - 39 - 3 = 168
+    const containerWidth = 315;
+    const knobWidth = 58;
+    const padding = 5; // Increased padding slightly
+    const maxDrag = containerWidth - knobWidth - padding;
     const threshold = maxDrag * 0.9; // Trigger at 90% of completion
 
     // Opacity of the text fades as we drag
@@ -66,7 +66,7 @@ export function SlideButton({ onSuccess, className, text = "Get Started" }: Slid
     };
 
     return (
-        <div className={cn("relative w-full max-w-[210px] h-[42px] rounded-full overflow-hidden select-none", className)}>
+        <div className={cn("relative w-full max-w-[315px] h-[64px] rounded-full overflow-hidden select-none", className)}>
             {/* Track Background */}
             <motion.div
                 className="absolute inset-0 bg-neutral-950/80 backdrop-blur-xl border border-white/5 rounded-full"
@@ -75,7 +75,7 @@ export function SlideButton({ onSuccess, className, text = "Get Started" }: Slid
 
             {/* Shimmering Text Label */}
             <motion.div
-                className="absolute inset-0 flex items-center justify-center font-medium text-sm text-white pointer-events-none"
+                className="absolute inset-0 flex items-center justify-center font-medium text-lg text-white pointer-events-none"
                 style={{ opacity: textOpacity }}
             >
                 <span className="ml-6 relative overflow-hidden bg-gradient-to-r from-white/40 via-white to-white/40 bg-[length:200%_auto] bg-clip-text text-transparent animate-shimmer">
@@ -101,21 +101,21 @@ export function SlideButton({ onSuccess, className, text = "Get Started" }: Slid
                     top: 0,
                     bottom: 0
                 } : {
-                    width: 39,
-                    height: 39,
+                    width: 58,
+                    height: 58,
                     borderRadius: 9999
                 }}
                 whileTap={!completed ? { scale: 1.05, boxShadow: "0 0 20px rgba(255,255,255,0.5)" } : undefined}
                 transition={completed ? { type: "spring", stiffness: 400, damping: 30 } : undefined}
                 style={{ x }}
                 className={cn(
-                    "absolute top-[1.5px] left-[1.5px] bg-white flex items-center justify-center cursor-grab active:cursor-grabbing shadow-[0_2px_10px_rgba(0,0,0,0.3)] z-10",
+                    "absolute top-[3px] left-[3px] bg-white flex items-center justify-center cursor-grab active:cursor-grabbing shadow-[0_2px_10px_rgba(0,0,0,0.3)] z-10",
                     completed && "cursor-default"
                 )}
             >
                 {/* Arrow Icon - Fades out on success */}
                 <motion.div animate={{ opacity: completed ? 0 : 1 }}>
-                    <ArrowRight className="w-4 h-4 text-black" />
+                    <ArrowRight className="w-6 h-6 text-black" />
                 </motion.div>
             </motion.div>
         </div>

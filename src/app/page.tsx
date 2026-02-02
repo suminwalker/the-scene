@@ -57,7 +57,7 @@ export default function OnboardingPage() {
             So I can place a logo absolute here.
         */}
         <div className="absolute top-12 left-0 right-0 z-40 text-center pointer-events-none">
-          <h1 className="text-[14px] font-mono uppercase tracking-[0.5em] text-white font-black mb-1 drop-shadow-lg">
+          <h1 className="text-lg font-mono uppercase tracking-[0.5em] text-white font-black mb-1 drop-shadow-lg">
             The Scene
           </h1>
         </div>
