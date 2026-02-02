@@ -4,6 +4,7 @@ import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { MobileContainer } from "@/components/layout/MobileContainer";
 import { LandingVisuals } from "@/components/domain/LandingVisuals";
+import { SlideButton } from "@/components/ui/SlideButton";
 
 export default function OnboardingPage() {
   const router = useRouter();
@@ -23,12 +24,7 @@ export default function OnboardingPage() {
           */}
 
           <div className="w-full space-y-6 flex flex-col items-center">
-            <button
-              onClick={() => router.push("/auth/signup")}
-              className="w-full max-w-[280px] py-4 bg-white text-black rounded-3xl font-bold text-sm shadow-xl active:scale-[0.98] transition-all"
-            >
-              Get started
-            </button>
+            <SlideButton onSuccess={() => router.push("/auth/signup")} />
 
             <div className="text-center">
               <button

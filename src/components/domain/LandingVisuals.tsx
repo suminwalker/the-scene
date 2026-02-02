@@ -20,19 +20,23 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
             description: "Keep a running list of your favorite places to go out.",
             media: "/track-bg-friends.jpg",
             zoom: 1.0,
-            grain: 0.15
+            grain: 0.15,
+            brightness: 1.2
         },
         {
             title: "Share",
             description: "Send your spots to friends or newcomers to your city.",
             media: "/share-bg-g7x-v2.png",
-            zoom: 1.0
+            zoom: 1.0,
+            brightness: 1.2
         },
         {
             title: "Discover",
             description: "See where people are going and what's worth showing up for.",
-            media: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=1200", // Event/Crowd
-            zoom: 1.0
+            media: "/discover-bg-couch.jpg",
+            zoom: 1.0,
+            grain: 0.15,
+            brightness: 1.2
         }
     ];
 
@@ -112,6 +116,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
             uniform vec2 uResolution, uTexture1Size, uTexture2Size;
             uniform float uZoom1, uZoom2;
             uniform float uGrain;
+            uniform float uBrightness;
 
             // Config uniforms
             uniform float uRevealRadius;
@@ -207,6 +212,9 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                     float noise = fract(sin(dot(uv + mod(uTime, 10.0), vec2(12.9898, 78.233))) * 43758.5453);
                     color.rgb += (noise - 0.5) * uGrain;
                 }
+
+                // Brightness / Flash Effect
+                color.rgb *= uBrightness;
                 
                 // Output full color directly (removed B&W/Dither/Reveal)
                 gl_FragColor = vec4(color.rgb, 1.0);
@@ -261,6 +269,13 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                 // Animate Grain
                 gsap.to(shaderMaterial.uniforms.uGrain, {
                     value: slides[targetIndex].grain || 0.0,
+                    duration: TRANSITION_DURATION(),
+                    ease: "power2.inOut"
+                });
+
+                // Animate Brightness
+                gsap.to(shaderMaterial.uniforms.uBrightness, {
+                    value: slides[targetIndex].brightness || 1.0,
                     duration: TRANSITION_DURATION(),
                     ease: "power2.inOut"
                 });
@@ -420,6 +435,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                         uTexture1Size: { value: new THREE.Vector2(1, 1) }, uTexture2Size: { value: new THREE.Vector2(1, 1) },
                         uZoom1: { value: 1.0 }, uZoom2: { value: 1.0 },
                         uGrain: { value: 0.0 },
+                        uBrightness: { value: 1.0 },
 
                         // New Uniforms
                         uTime: { value: 0 },
@@ -449,6 +465,7 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
                     shaderMaterial.uniforms.uZoom1.value = slides[0].zoom || 1.0;
                     shaderMaterial.uniforms.uZoom2.value = slides[1].zoom || 1.0;
                     shaderMaterial.uniforms.uGrain.value = slides[0].grain || 0.0;
+                    shaderMaterial.uniforms.uBrightness.value = slides[0].brightness || 1.0;
                     texturesLoaded = true; sliderEnabled = true;
 
                     safeStartTimer(500);
