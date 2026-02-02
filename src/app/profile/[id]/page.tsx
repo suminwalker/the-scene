@@ -614,8 +614,9 @@ export default function ProfilePage() {
                             <div className="space-y-1">
                                 <h1 className="text-xl font-bold text-foreground font-serif">{user.name}</h1>
                                 <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em]">@{user.handle}</p>
-                                {user.city && <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em]">{user.city}</p>}
-                                <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em]">Member since {user.memberSince}</p>
+                                <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em]">
+                                    {user.city ? `${user.city} · ` : ""}{user.stats.been} places
+                                </p>
                                 {user.bio && <p className="text-sm font-serif italic text-zinc-300 py-1">{user.bio}</p>}
                             </div>
                         ) : (
