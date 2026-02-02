@@ -5,13 +5,13 @@ import { BottomNav } from "@/components/layout/BottomNav";
 import { Search, PenSquare, ChevronLeft, X, MessageCircle } from "lucide-react";
 import { useState } from "react";
 import { cn } from "@/lib/utils";
-import { MOCK_CONVERSATIONS, MOCK_MUTUALS, User } from "@/lib/mock-messages";
-import Link from "next/link";
+import { MOCK_CONVERSATIONS, MOCK_MUTUALS } from "@/lib/mock-messages";
 
 export default function MessagesPage() {
     const [query, setQuery] = useState("");
     const [isComposeOpen, setIsComposeOpen] = useState(false);
     const [composeQuery, setComposeQuery] = useState("");
+    const [selectedUserIds, setSelectedUserIds] = useState<string[]>([]);
 
     // Filter conversations based on search
     const filteredConversations = MOCK_CONVERSATIONS.filter(c =>
@@ -24,6 +24,29 @@ export default function MessagesPage() {
         u.name.toLowerCase().includes(composeQuery.toLowerCase()) ||
         u.handle.toLowerCase().includes(composeQuery.toLowerCase())
     );
+
+    const toggleUserSelection = (userId: string) => {
+        setSelectedUserIds(prev =>
+            prev.includes(userId)
+                ? prev.filter(id => id !== userId)
+                : [...prev, userId]
+        );
+    };
+
+    const handleCreateChat = () => {
+        if (selectedUserIds.length === 0) return;
+
+        if (selectedUserIds.length === 1) {
+            const user = MOCK_MUTUALS.find(u => u.id === selectedUserIds[0]);
+            alert(`Starting chat with ${user?.name}`);
+        } else {
+            const users = MOCK_MUTUALS.filter(u => selectedUserIds.includes(u.id));
+            const names = users.map(u => u.name).join(", ");
+            alert(`Creating group chat with: ${names}`);
+        }
+        setIsComposeOpen(false);
+        setSelectedUserIds([]);
+    };
 
     return (
         <div className="flex justify-center min-h-screen bg-zinc-100 w-full text-foreground">
@@ -128,12 +151,29 @@ export default function MessagesPage() {
 
                             {/* Search Mutuals */}
                             <div className="p-6 border-b border-zinc-100 bg-zinc-50/50">
-                                <p className="text-xs font-bold font-mono uppercase tracking-widest text-zinc-500 mb-3">To:</p>
+                                <div className="flex items-center gap-2 mb-3">
+                                    <p className="text-xs font-bold font-mono uppercase tracking-widest text-zinc-500">To:</p>
+                                    {selectedUserIds.length > 0 && (
+                                        <div className="flex gap-1 overflow-x-auto no-scrollbar">
+                                            {selectedUserIds.map(id => {
+                                                const u = MOCK_MUTUALS.find(m => m.id === id);
+                                                return u ? (
+                                                    <span key={id} className="text-xs bg-black text-white px-2 py-1 rounded-full whitespace-nowrap flex items-center gap-1">
+                                                        {u.name.split(' ')[0]}
+                                                        <button onClick={(e) => { e.stopPropagation(); toggleUserSelection(id); }} className="hover:text-zinc-300">
+                                                            <X className="w-3 h-3" />
+                                                        </button>
+                                                    </span>
+                                                ) : null;
+                                            })}
+                                        </div>
+                                    )}
+                                </div>
                                 <input
                                     autoFocus
                                     value={composeQuery}
                                     onChange={(e) => setComposeQuery(e.target.value)}
-                                    placeholder="Search people..."
+                                    placeholder={selectedUserIds.length > 0 ? "Add more people..." : "Search people..."}
                                     className="w-full bg-transparent text-lg font-serif placeholder:font-sans placeholder:text-zinc-300 focus:outline-none text-foreground"
                                 />
                             </div>
@@ -142,35 +182,51 @@ export default function MessagesPage() {
                             <div className="flex-1 overflow-y-auto p-6 bg-white">
                                 <p className="text-[10px] font-mono font-bold uppercase tracking-widest text-zinc-400 mb-4">Suggested</p>
                                 <div className="space-y-2">
-                                    {filteredMutuals.map((user) => (
-                                        <button
-                                            key={user.id}
-                                            onClick={() => {
-                                                alert(`Starting chat with ${user.name}`);
-                                                setIsComposeOpen(false);
-                                            }}
-                                            className="w-full flex items-center gap-4 p-3 hover:bg-zinc-50 rounded-2xl transition-colors text-left group"
-                                        >
-                                            <img
-                                                src={user.avatar}
-                                                alt={user.name}
-                                                className="w-12 h-12 rounded-full object-cover border border-zinc-100"
-                                            />
-                                            <div className="flex-1">
-                                                <p className="text-sm font-bold text-foreground font-serif">{user.name}</p>
-                                                <p className="text-[10px] font-mono text-zinc-400 uppercase tracking-wider">@{user.handle}</p>
-                                            </div>
-                                            <div className="w-8 h-8 rounded-full border border-zinc-200 flex items-center justify-center group-hover:bg-black group-hover:border-black transition-all">
-                                                <MessageCircle className="w-4 h-4 text-zinc-300 group-hover:text-white" />
-                                            </div>
-                                        </button>
-                                    ))}
+                                    {filteredMutuals.map((user) => {
+                                        const isSelected = selectedUserIds.includes(user.id);
+                                        return (
+                                            <button
+                                                key={user.id}
+                                                onClick={() => toggleUserSelection(user.id)}
+                                                className={cn(
+                                                    "w-full flex items-center gap-4 p-3 rounded-2xl transition-colors text-left group",
+                                                    isSelected ? "bg-zinc-100" : "hover:bg-zinc-50"
+                                                )}
+                                            >
+                                                <img
+                                                    src={user.avatar}
+                                                    alt={user.name}
+                                                    className="w-12 h-12 rounded-full object-cover border border-zinc-100"
+                                                />
+                                                <div className="flex-1">
+                                                    <p className="text-sm font-bold text-foreground font-serif">{user.name}</p>
+                                                    <p className="text-[10px] font-mono text-zinc-400 uppercase tracking-wider">@{user.handle}</p>
+                                                </div>
+                                                <div className={cn(
+                                                    "w-6 h-6 rounded-full border flex items-center justify-center transition-all",
+                                                    isSelected ? "bg-black border-black" : "border-zinc-200 group-hover:border-black"
+                                                )}>
+                                                    {isSelected && <div className="w-2.5 h-2.5 bg-white rounded-full" />}
+                                                </div>
+                                            </button>
+                                        );
+                                    })}
                                     {filteredMutuals.length === 0 && (
                                         <div className="text-center py-10 opacity-50">
                                             <p className="font-serif italic text-zinc-400">No people found.</p>
                                         </div>
                                     )}
                                 </div>
+                            </div>
+
+                            <div className="p-4 border-t border-zinc-100 bg-white">
+                                <button
+                                    onClick={handleCreateChat}
+                                    disabled={selectedUserIds.length === 0}
+                                    className="w-full py-4 bg-black text-white font-bold rounded-xl active:scale-95 transition-all disabled:opacity-50 disabled:cursor-not-allowed"
+                                >
+                                    {selectedUserIds.length > 1 ? `Create Group (${selectedUserIds.length})` : "Chat"}
+                                </button>
                             </div>
                         </div>
                     </div>
