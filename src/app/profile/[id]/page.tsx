@@ -36,6 +36,7 @@ interface ProfileUser {
     activity: ActivityItem[];
     ageBracket?: string;
     neighborhoods?: string[];
+    city?: string;
 }
 
 interface ActivityItem {
@@ -75,7 +76,8 @@ const SESSION_USERS: Record<string, ProfileUser> = {
         stats: { been: 0, wantToTry: 0, mutual: 0 },
         activity: [],
         ageBracket: "25-29",
-        neighborhoods: []
+        neighborhoods: [],
+        city: "New York, NY"
     },
     // Mock Users for Feed Interaction
     "alex-chen": {
@@ -97,7 +99,8 @@ const SESSION_USERS: Record<string, ProfileUser> = {
         stats: { been: 42, wantToTry: 15, mutual: 3 },
         activity: [],
         ageBracket: "25-29",
-        neighborhoods: ["NoHo", "West Village"]
+        neighborhoods: ["NoHo", "West Village"],
+        city: "New York, NY"
     },
     "sarah-j": {
         id: "sarah-j",
@@ -118,7 +121,8 @@ const SESSION_USERS: Record<string, ProfileUser> = {
         stats: { been: 67, wantToTry: 45, mutual: 8 },
         activity: [],
         ageBracket: "30-34",
-        neighborhoods: ["SoHo", "Lower East Side"]
+        neighborhoods: ["SoHo", "Lower East Side"],
+        city: "New York, NY"
     }
 };
 
@@ -183,7 +187,8 @@ export default function ProfilePage() {
         bio: initialUser.bio,
         avatar: initialUser.avatar,
         instagram: initialUser.instagram,
-        tiktok: initialUser.tiktok
+        tiktok: initialUser.tiktok,
+        city: initialUser.city || ""
     });
 
     const [lastHandleChange, setLastHandleChange] = useState(initialUser.lastHandleChange);
@@ -609,6 +614,7 @@ export default function ProfilePage() {
                             <div className="space-y-1">
                                 <h1 className="text-xl font-bold text-foreground font-serif">{user.name}</h1>
                                 <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em]">@{user.handle}</p>
+                                {user.city && <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em]">{user.city}</p>}
                                 <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em]">Member since {user.memberSince}</p>
                                 {user.bio && <p className="text-sm font-serif italic text-zinc-300 py-1">{user.bio}</p>}
                             </div>
@@ -633,6 +639,14 @@ export default function ProfilePage() {
                                         />
                                     </div>
                                     {error && <p className="text-[10px] text-red-500 pt-1 font-mono">{error}</p>}
+                                </div>
+                                <div className="space-y-1">
+                                    <label className="text-[10px] font-mono text-zinc-500 uppercase">City</label>
+                                    <input
+                                        value={formData.city}
+                                        onChange={(e) => setFormData({ ...formData, city: e.target.value })}
+                                        className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
+                                    />
                                 </div>
                                 <div className="space-y-1">
                                     <div className="flex justify-between items-center">
