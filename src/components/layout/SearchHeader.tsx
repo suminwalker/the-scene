@@ -1,16 +1,14 @@
 "use client";
 
-import { Search, MapPin, TrendingUp, Users, Bell, X, ChevronLeft } from "lucide-react";
+import { Search, TrendingUp, Users, Bell, X, ChevronLeft } from "lucide-react";
 import { useState, useEffect, useRef, useMemo } from "react";
 import { cn } from "@/lib/utils";
 import { getCombinedPlaces } from "@/lib/data";
 import { useRouter } from "next/navigation";
 import { useCity } from "@/lib/city-context";
 
-const FILTERS = [
-    { id: "nearby", label: "Recs Nearby", icon: MapPin },
-    { id: "trending", label: "Trending", icon: TrendingUp },
-    { id: "following", label: "Following", icon: Users },
+{ id: "trending", label: "Trending", icon: TrendingUp },
+{ id: "following", label: "Following", icon: Users },
 ];
 
 interface SearchHeaderProps {
