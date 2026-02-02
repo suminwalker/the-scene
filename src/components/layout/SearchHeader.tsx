@@ -70,6 +70,51 @@ export function SearchHeader({ activeFilter, onFilterChange }: SearchHeaderProps
             <div className="flex gap-3 items-center">
                 <div className="relative group flex-1">
                     <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500 group-focus-within:text-accent transition-colors" />
+
+                    {/* City Selector (Integrated) */}
+                    <div className="absolute left-9 top-1/2 -translate-y-1/2 z-20">
+                        <div className="relative">
+                            <button
+                                onClick={() => setShowCitySelector(!showCitySelector)}
+                                className="flex items-center gap-1 py-1 px-1.5 rounded hover:bg-zinc-100 transition-colors"
+                            >
+                                <span className="text-[10px] font-mono font-bold uppercase tracking-widest whitespace-nowrap text-zinc-800">
+                                    {currentCityName}
+                                </span>
+                                <ChevronLeft className={cn("w-3 h-3 transition-transform text-zinc-400", showCitySelector ? "rotate-90" : "-rotate-90")} />
+                            </button>
+
+                            {/* City Selector Overlay */}
+                            {showCitySelector && (
+                                <div className="absolute top-[calc(100%+12px)] left-0 w-48 bg-white backdrop-blur-xl border border-black/5 rounded-2xl shadow-2xl overflow-hidden animate-in fade-in slide-in-from-top-2 duration-200 z-[60]">
+                                    <div className="p-2 space-y-1">
+                                        {CITIES_LIST.map((c) => (
+                                            <button
+                                                key={c.id}
+                                                onClick={() => {
+                                                    setCity(c.id);
+                                                    setShowCitySelector(false);
+                                                }}
+                                                className={cn(
+                                                    "w-full text-left px-4 py-2.5 rounded-xl text-[10px] font-mono uppercase tracking-widest transition-colors",
+                                                    city === c.id
+                                                        ? "bg-zinc-100 text-accent font-bold"
+                                                        : "text-zinc-500 hover:bg-zinc-50 hover:text-black"
+                                                )}
+                                            >
+                                                {c.name}
+                                            </button>
+                                        ))}
+                                    </div>
+                                </div>
+                            )}
+                        </div>
+                    </div>
+
+                    <div className="w-px h-5 bg-zinc-200 absolute left-[calc(2.25rem+110px)] top-1/2 -translate-y-1/2" />
+
+
+
                     <input
                         type="text"
                         value={query}
@@ -79,8 +124,8 @@ export function SearchHeader({ activeFilter, onFilterChange }: SearchHeaderProps
                             setIsOpen(val.length > 1);
                         }}
                         onFocus={() => query.length > 1 && setIsOpen(true)}
-                        placeholder="Search scene, venues, etc..."
-                        className="w-full bg-white border border-black/10 rounded-full py-2.5 pl-10 pr-10 text-sm focus:outline-none focus:ring-1 focus:ring-accent/50 focus:border-accent/50 transition-all placeholder:text-zinc-400 shadow-sm"
+                        placeholder="Search scene, venues..."
+                        className="w-full bg-white border border-black/10 rounded-full py-2.5 pl-[160px] pr-10 text-sm focus:outline-none focus:ring-1 focus:ring-accent/50 focus:border-accent/50 transition-all placeholder:text-zinc-400 shadow-sm"
                     />
                     {query && (
                         <button
@@ -178,46 +223,7 @@ export function SearchHeader({ activeFilter, onFilterChange }: SearchHeaderProps
             {/* Filter Chips */}
             <div className="flex items-center justify-between gap-4">
                 <div className="flex gap-2 overflow-x-auto scrollbar-hide pb-2 flex-1 items-center">
-                    {/* City Label */}
-                    <div className="relative">
-                        <button
-                            onClick={() => setShowCitySelector(!showCitySelector)}
-                            className={cn(
-                                "flex items-center gap-1 px-3 py-2 rounded-full text-[10px] font-mono font-bold uppercase tracking-widest transition-colors border mr-1 whitespace-nowrap",
-                                showCitySelector
-                                    ? "bg-black border-black text-white"
-                                    : "bg-zinc-100 border-black/5 text-zinc-500 hover:text-black"
-                            )}
-                        >
-                            {currentCityName}
-                            <ChevronLeft className={cn("w-3 h-3 transition-transform", showCitySelector ? "rotate-90 text-black" : "-rotate-90 text-zinc-600")} />
-                        </button>
-
-                        {/* City Selector Overlay */}
-                        {showCitySelector && (
-                            <div className="absolute top-[calc(100%+8px)] left-0 w-48 bg-white backdrop-blur-xl border border-black/5 rounded-2xl shadow-2xl overflow-hidden animate-in fade-in slide-in-from-top-2 duration-200 z-[60]">
-                                <div className="p-2 space-y-1">
-                                    {CITIES_LIST.map((c) => (
-                                        <button
-                                            key={c.id}
-                                            onClick={() => {
-                                                setCity(c.id);
-                                                setShowCitySelector(false);
-                                            }}
-                                            className={cn(
-                                                "w-full text-left px-4 py-2.5 rounded-xl text-[10px] font-mono uppercase tracking-widest transition-colors",
-                                                city === c.id
-                                                    ? "bg-zinc-100 text-accent font-bold"
-                                                    : "text-zinc-500 hover:bg-zinc-50 hover:text-black"
-                                            )}
-                                        >
-                                            {c.name}
-                                        </button>
-                                    ))}
-                                </div>
-                            </div>
-                        )}
-                    </div>
+                    {/* City removed from here */}
 
                     {FILTERS.map((filter) => {
                         const Icon = filter.icon;
