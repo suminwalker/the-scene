@@ -845,7 +845,7 @@ export default function ProfilePage() {
                                             activeTab === "activity" ? "border-foreground text-foreground" : "border-transparent text-zinc-400"
                                         )}
                                     >
-                                        📝 Recent Activity
+                                        Recent Activity
                                     </button>
                                     <button
                                         onClick={() => setActiveTab("taste")}
@@ -854,7 +854,7 @@ export default function ProfilePage() {
                                             activeTab === "taste" ? "border-foreground text-foreground" : "border-transparent text-zinc-400"
                                         )}
                                     >
-                                        📊 Taste Profile
+                                        Taste Profile
                                     </button>
                                 </div>
 
