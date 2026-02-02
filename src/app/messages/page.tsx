@@ -2,7 +2,7 @@
 
 import { MobileContainer } from "@/components/layout/MobileContainer";
 import { BottomNav } from "@/components/layout/BottomNav";
-import { Search, PenSquare, Camera, ChevronLeft, X, MessageCircle } from "lucide-react";
+import { Search, PenSquare, ChevronLeft, X, MessageCircle } from "lucide-react";
 import { useState } from "react";
 import { cn } from "@/lib/utils";
 import { MOCK_CONVERSATIONS, MOCK_MUTUALS, User } from "@/lib/mock-messages";
@@ -29,7 +29,7 @@ export default function MessagesPage() {
         <div className="flex justify-center min-h-screen bg-zinc-100 w-full text-foreground">
             <MobileContainer>
                 {/* Header */}
-                <div className="px-6 py-6 flex justify-between items-center sticky top-0 bg-zinc-100/90 backdrop-blur-md z-10">
+                <div className="px-6 py-6 flex justify-between items-center sticky top-0 bg-zinc-100/90 backdrop-blur-md z-10 mb-6">
                     <div className="flex items-center gap-2">
                         <h1 className="text-xl font-bold font-serif">suminwalker</h1>
                         <span className="w-2 h-2 bg-red-500 rounded-full" />
@@ -94,7 +94,6 @@ export default function MessagesPage() {
                                             {convo.lastMessage.content.includes("·") ? "" : <span>· {convo.lastMessage.timestamp}</span>}
                                         </div>
                                     </div>
-                                    <Camera className="w-5 h-5 text-zinc-300 group-hover:text-black transition-colors" />
                                 </button>
                             );
                         })}
