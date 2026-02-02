@@ -18,13 +18,13 @@ export function LandingVisuals({ children }: { children?: React.ReactNode }) {
         {
             title: "Track",
             description: "Keep a running list of your favorite places to go out.",
-            media: "/track-bg.jpg",
+            media: "/track-bg-g7x.png",
             zoom: 1.0
         },
         {
             title: "Share",
             description: "Send your spots to friends or newcomers to your city.",
-            media: "https://images.unsplash.com/photo-1543007630-9710e4a00a20?q=80&w=1200", // Friends toasting
+            media: "/share-bg-g7x-v2.png",
             zoom: 1.0
         },
         {
