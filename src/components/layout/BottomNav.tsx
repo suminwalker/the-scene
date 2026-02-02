@@ -8,9 +8,10 @@ import { cn } from "@/lib/utils";
 export function BottomNav() {
     const pathname = usePathname();
 
-    { name: "Feed", href: "/discover", icon: Compass },
-    { name: "Map", href: "/map", icon: MapIcon },
-    { name: "Profile", href: "/profile", icon: User },
+    const tabs = [
+        { name: "Feed", href: "/discover", icon: Compass },
+        { name: "Map", href: "/map", icon: MapIcon },
+        { name: "Profile", href: "/profile", icon: User },
     ];
 
     return (
