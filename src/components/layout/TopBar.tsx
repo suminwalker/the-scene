@@ -4,9 +4,10 @@ import Link from "next/link";
 interface TopBarProps {
     backHref?: string;
     onBack?: () => void;
+    title?: string;
 }
 
-export function TopBar({ backHref, onBack }: TopBarProps) {
+export function TopBar({ backHref, onBack, title = "THE SCENE" }: TopBarProps) {
     const content = (
         <ChevronLeft className="w-6 h-6 text-foreground" />
     );
@@ -26,7 +27,7 @@ export function TopBar({ backHref, onBack }: TopBarProps) {
             </div>
 
             <h1 className="text-xl font-serif font-bold tracking-[0.2em] text-foreground absolute left-1/2 -translate-x-1/2">
-                THE SCENE
+                {title.toUpperCase()}
             </h1>
 
             <div className="w-10" />
