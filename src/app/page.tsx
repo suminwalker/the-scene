@@ -9,8 +9,8 @@ export default function OnboardingPage() {
   const router = useRouter();
 
   return (
-    <div className="flex justify-center min-h-screen bg-black w-full">
-      <MobileContainer className="relative overflow-hidden bg-black h-screen">
+    <div className="flex justify-center min-h-[100dvh] bg-black w-full">
+      <MobileContainer className="relative overflow-hidden bg-black h-[100dvh]">
         <LandingVisuals>
           {/* Logo/Header Fixed Top (Absolute in this slot relative to the container, or just place it here and let visual handle layout?) 
              The Visuals component puts children in a bottom flex-col div.
