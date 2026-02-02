@@ -23,46 +23,46 @@ export interface Conversation {
 
 export const MOCK_MUTUALS: User[] = [
     {
-        id: "grace",
-        name: "Grace Victoria",
-        handle: "grace.vic",
-        avatar: "https://i.pravatar.cc/150?u=grace"
+        id: "isabella",
+        name: "Isabella Rossi",
+        handle: "bella.rossi",
+        avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop&crop=faces"
     },
     {
-        id: "elise",
-        name: "Elise Alexander",
-        handle: "elise.alex",
-        avatar: "https://i.pravatar.cc/150?u=elise"
+        id: "julian",
+        name: "Julian Cole",
+        handle: "jcole_nyc",
+        avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=faces"
     },
     {
-        id: "sinead",
-        name: "Sinéad",
-        handle: "sinead_nyc",
-        avatar: "https://i.pravatar.cc/150?u=sinead"
+        id: "maya",
+        name: "Maya Brooks",
+        handle: "mayabrooks",
+        avatar: "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&h=150&fit=crop&crop=faces"
     },
     {
-        id: "aidan",
-        name: "Aidan Thomas",
-        handle: "aidan.t",
-        avatar: "https://i.pravatar.cc/150?u=aidan"
+        id: "liam",
+        name: "Liam Carter",
+        handle: "liam.carter",
+        avatar: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150&fit=crop&crop=faces"
     },
     {
-        id: "joey",
-        name: "Joey Mulcahy",
-        handle: "joey.mulcahy",
-        avatar: "https://i.pravatar.cc/150?u=joey"
+        id: "sophie",
+        name: "Sophie Chen",
+        handle: "sophie.c",
+        avatar: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=150&h=150&fit=crop&crop=faces"
     },
     {
-        id: "sarah",
-        name: "Sarah Jenkins",
-        handle: "sarah.jenkins",
-        avatar: "https://i.pravatar.cc/150?u=sarah"
+        id: "lucas",
+        name: "Lucas Silva",
+        handle: "lucas.silva",
+        avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=faces"
     },
     {
-        id: "alex",
-        name: "Alex Chen",
-        handle: "alexc",
-        avatar: "https://i.pravatar.cc/150?u=alex"
+        id: "emma",
+        name: "Emma Davis",
+        handle: "emmad",
+        avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces"
     }
 ];
 
@@ -72,8 +72,8 @@ export const MOCK_CONVERSATIONS: Conversation[] = [
         participants: [MOCK_MUTUALS[0]],
         lastMessage: {
             id: "m1",
-            content: "Seen 15h ago", // Mimicking the screenshot style where sometimes it just says status
-            senderId: "suminwalker", // User sent last
+            content: "Seen 15h ago",
+            senderId: "suminwalker",
             timestamp: "15h ago",
             isRead: true
         },
@@ -97,7 +97,7 @@ export const MOCK_CONVERSATIONS: Conversation[] = [
         lastMessage: {
             id: "m3",
             content: "Have you been to that new spot in SoHo?",
-            senderId: "sinead",
+            senderId: "maya",
             timestamp: "Friday",
             isRead: false
         },
