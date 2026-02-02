@@ -107,7 +107,7 @@ export function SearchHeader({ }: SearchHeaderProps) {
                         </div>
                     </div>
 
-                    <div className="w-px h-5 bg-zinc-200 absolute left-[calc(2.25rem+110px)] top-1/2 -translate-y-1/2" />
+                    <div className="w-px h-5 bg-zinc-200 absolute left-[calc(2.25rem+130px)] top-1/2 -translate-y-1/2" />
 
 
 
@@ -121,7 +121,7 @@ export function SearchHeader({ }: SearchHeaderProps) {
                         }}
                         onFocus={() => query.length > 1 && setIsOpen(true)}
                         placeholder="Search scene, venues..."
-                        className="w-full bg-white border border-black/10 rounded-full py-2.5 pl-[160px] pr-10 text-sm focus:outline-none focus:ring-1 focus:ring-accent/50 focus:border-accent/50 transition-all placeholder:text-zinc-400 shadow-sm"
+                        className="w-full bg-white border border-black/10 rounded-full py-2.5 pl-[185px] pr-10 text-sm focus:outline-none focus:ring-1 focus:ring-accent/50 focus:border-accent/50 transition-all placeholder:text-zinc-400 shadow-sm"
                     />
                     {query && (
                         <button
