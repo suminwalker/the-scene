@@ -40,8 +40,8 @@ export default function SavedPage() {
             <MobileContainer>
                 <div className="flex-1 overflow-y-auto pb-24 px-6 pt-12">
                     <header className="flex justify-between items-center mb-8">
-                        <h1 className="text-3xl font-serif leading-tight">
-                            Your <br /> Lists.
+                        <h1 className="text-3xl font-serif leading-tight tracking-tighter">
+                            Your Lists.
                         </h1>
                         <button
                             onClick={() => setIsModalOpen(true)}
@@ -54,15 +54,15 @@ export default function SavedPage() {
                     <div className="space-y-6">
                         {savedLists.length > 0 ? (
                             savedLists.map((list) => (
-                                <div key={list.id} className="p-6 bg-white dark:bg-zinc-900 border border-zinc-100 dark:border-zinc-800 rounded-xl shadow-sm hover:border-black/10 transition-colors cursor-pointer group">
+                                <div key={list.id} className="p-6 bg-zinc-50 border border-zinc-200 rounded-xl shadow-sm hover:border-black/10 transition-colors cursor-pointer group">
                                     <div className="flex justify-between items-start mb-4">
                                         <div>
-                                            <h3 className="font-serif text-xl group-hover:underline decoration-zinc-300 underline-offset-4">{list.title}</h3>
-                                            <p className="text-xs text-zinc-400 font-mono mt-1 uppercase tracking-wider">{list.category}</p>
+                                            <h3 className="font-serif text-xl text-black group-hover:underline decoration-zinc-300 underline-offset-4">{list.title}</h3>
+                                            <p className="text-xs text-zinc-500 font-mono mt-1 uppercase tracking-wider">{list.category}</p>
                                         </div>
                                         <span className="text-xs font-mono text-zinc-400">{list.placeCount} PLACES</span>
                                     </div>
-                                    <div className="h-32 bg-zinc-50 dark:bg-zinc-800/50 rounded-lg flex items-center justify-center text-zinc-300 border border-dashed border-zinc-200 dark:border-zinc-700">
+                                    <div className="h-32 bg-white rounded-lg flex items-center justify-center text-zinc-300 border border-dashed border-zinc-200">
                                         Empty List
                                     </div>
                                 </div>
