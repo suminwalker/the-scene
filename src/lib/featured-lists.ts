@@ -28,7 +28,7 @@ export const FEATURED_SECTIONS = [
         title: "By Venue Type",
         categories: [
             { id: "bar", label: "Bars", sub: "Just Good Drinks", image: "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800&q=80" },
-            { id: "rooftop", label: "Rooftops", sub: "Skyline Views", image: "https://images.unsplash.com/photo-1595842859424-4d872cb0ace8?w=800&q=80" },
+            { id: "rooftop", label: "Rooftops", sub: "Skyline Views", image: "https://images.unsplash.com/photo-1571597438372-9a0d339bcedc?w=800&q=80" },
             { id: "cocktail", label: "Cocktail Bars", sub: "Mixology & Craft", image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&q=80" },
             { id: "wine", label: "Wine Bars", sub: "Vino & Bites", image: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&q=80" }
         ]
