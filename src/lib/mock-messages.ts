@@ -50,7 +50,7 @@ export const MOCK_MUTUALS: User[] = [
         id: "sophie",
         name: "Sophie Chen",
         handle: "sophie.c",
-        avatar: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=150&h=150&fit=crop&crop=faces"
+        avatar: "https://images.unsplash.com/photo-1554151228-14d9def656ec?w=150&h=150&fit=crop&crop=faces"
     },
     {
         id: "lucas",
