@@ -9,20 +9,20 @@ import { SocialFeed } from "@/components/domain/SocialFeed";
 import { Suspense, useState } from "react";
 
 function DiscoverContent() {
-    const [activeFilter, setActiveFilter] = useState("trending");
+    const [activeFilter, setActiveFilter] = useState("new");
 
     return (
         <main className="flex-1 overflow-y-auto pb-24 scrollbar-hide">
             <div className="space-y-10">
-                <SearchHeader
-                    activeFilter={activeFilter}
-                    onFilterChange={setActiveFilter}
-                />
+                <SearchHeader />
 
                 {/* Only show featured lists on trending for cleaner UI or keep always? 
                     User requested features, usually lists are part of discovery. */}
                 <FeaturedLists />
-                <SocialFeed activeFilter={activeFilter} />
+                <SocialFeed
+                    activeFilter={activeFilter}
+                    onFilterChange={setActiveFilter}
+                />
             </div>
         </main>
     );

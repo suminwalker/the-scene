@@ -7,17 +7,13 @@ import { getCombinedPlaces } from "@/lib/data";
 import { useRouter } from "next/navigation";
 import { useCity } from "@/lib/city-context";
 
-const FILTERS = [
-    { id: "trending", label: "Trending", icon: TrendingUp },
-    { id: "following", label: "Following", icon: Users },
-];
+
 
 interface SearchHeaderProps {
-    activeFilter: string;
-    onFilterChange: (id: string) => void;
+    // Props removed as filters are moved
 }
 
-export function SearchHeader({ activeFilter, onFilterChange }: SearchHeaderProps) {
+export function SearchHeader({ }: SearchHeaderProps) {
     const [query, setQuery] = useState("");
     const [isOpen, setIsOpen] = useState(false);
     const [showNotifications, setShowNotifications] = useState(false);
@@ -220,33 +216,7 @@ export function SearchHeader({ activeFilter, onFilterChange }: SearchHeaderProps
                 </div>
             </div>
 
-            {/* Filter Chips */}
-            <div className="flex items-center justify-between gap-4">
-                <div className="flex gap-2 overflow-x-auto scrollbar-hide pb-2 flex-1 items-center">
-                    {/* City removed from here */}
 
-                    {FILTERS.map((filter) => {
-                        const Icon = filter.icon;
-                        const isActive = activeFilter === filter.id;
-
-                        return (
-                            <button
-                                key={filter.id}
-                                onClick={() => onFilterChange(filter.id)}
-                                className={cn(
-                                    "flex items-center gap-1.5 px-4 py-2 rounded-full text-xs font-medium whitespace-nowrap transition-all border",
-                                    isActive
-                                        ? "bg-accent border-accent text-white shadow-lg shadow-accent/20"
-                                        : "bg-zinc-100 border-black/5 text-zinc-500 hover:bg-zinc-200 hover:text-black"
-                                )}
-                            >
-                                <Icon className="w-3.5 h-3.5" />
-                                {filter.label}
-                            </button>
-                        );
-                    })}
-                </div>
-            </div>
         </div>
     );
 }
