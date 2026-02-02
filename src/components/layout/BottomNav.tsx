@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Compass, Search, Map as MapIcon, User } from "lucide-react";
+import { Compass, Search, Map as MapIcon, User, MessageCircle } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export function BottomNav() {
@@ -11,6 +11,7 @@ export function BottomNav() {
     const tabs = [
         { name: "Feed", href: "/discover", icon: Compass },
         { name: "Map", href: "/map", icon: MapIcon },
+        { name: "Messages", href: "/messages", icon: MessageCircle },
         { name: "Profile", href: "/profile", icon: User },
     ];
 
