@@ -14,14 +14,19 @@ interface SlideButtonProps {
 export function SlideButton({ onSuccess, className, text = "Get Started" }: SlideButtonProps) {
     const [completed, setCompleted] = useState(false);
     const x = useMotionValue(0);
-    const maxWidth = 260; // Approximate max drag width
-    const threshold = maxWidth * 0.9;
+
+    // Dimensions
+    const containerWidth = 280;
+    const knobWidth = 52;
+    const padding = 4; // 2px each side
+    const maxDrag = containerWidth - knobWidth - padding; // 224px
+    const threshold = maxDrag * 0.9; // Trigger at 90% of completion
 
     // Opacity of the text fades as we drag
-    const textOpacity = useTransform(x, [0, maxWidth / 2], [1, 0]);
+    const textOpacity = useTransform(x, [0, maxDrag / 2], [1, 0]);
 
     // Background opacity or color shift could also be linked
-    const bgOpacity = useTransform(x, [0, maxWidth], [0.6, 1]);
+    const bgOpacity = useTransform(x, [0, maxDrag], [0.6, 1]);
 
     // Clip Path to "erase" the track from the left as we drag
     // Clipping at 'value' (x) ensures the track starts 2px to the left of the knob (which is at x+2),
@@ -58,8 +63,8 @@ export function SlideButton({ onSuccess, className, text = "Get Started" }: Slid
             {/* Draggable Knob / Success Fill */}
             <motion.div
                 drag={!completed ? "x" : false}
-                dragConstraints={{ left: 0, right: maxWidth - 56 }} // 280 - (52 + 2 + 2) = 224
-                dragElastic={0.05}
+                dragConstraints={{ left: 0, right: maxDrag }}
+                dragElastic={0.1} // Increased elasticity for better feel
                 dragMomentum={false}
                 onDragEnd={handleDragEnd}
                 animate={completed ? {
