@@ -771,8 +771,7 @@ export default function ProfilePage() {
                             <div className="px-4 py-6 space-y-2">
                                 {[
                                     { label: "Been", count: user.stats.been, href: "/saved" },
-                                    { label: "Want to Try", count: user.stats.wantToTry, href: "/saved" },
-                                    { label: "Places you both want to try", count: user.stats.mutual, href: "/saved" }
+                                    { label: "Want to Try", count: user.stats.wantToTry, href: "/saved" }
                                 ].map((item) => (
                                     <Link key={item.label} href={item.href} className="w-full flex justify-between items-center p-4 bg-white hover:bg-zinc-50 rounded-2xl border border-black/10 transition-colors group shadow-sm">
                                         <div className="flex items-center gap-4">
