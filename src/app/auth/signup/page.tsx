@@ -5,8 +5,9 @@ import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { MobileContainer } from "@/components/layout/MobileContainer";
 import { TopBar } from "@/components/layout/TopBar";
-import { ChevronDown, Eye, EyeOff, Camera, Check, MapPin, Users, Search, MinusCircle, ChevronRight, X as CloseIcon } from "lucide-react";
+import { ChevronDown, Eye, EyeOff, Camera, Check, MapPin, Users, Search, MinusCircle, ChevronRight, X as CloseIcon, Loader2 } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { supabase } from "@/lib/supabase";
 
 type SignupStep = "phone" | "email" | "password" | "name" | "username" | "photo" | "age" | "city" | "location" | "dislikes" | "social";
 type LocationPermission = "always" | "while_using" | "never";
@@ -15,6 +16,7 @@ export default function SignupPage() {
     const router = useRouter();
     const [step, setStep] = useState<SignupStep>("phone");
     const [prevStep, setPrevStep] = useState<SignupStep | null>(null);
+    const [isLoading, setIsLoading] = useState(false);
 
     // Form State
     const [formData, setFormData] = useState({
@@ -28,6 +30,7 @@ export default function SignupPage() {
         countryCode: "+1",
         countryName: "United States",
         neighborhoods: [] as string[],
+        notFamiliar: false,
         ageBracket: null as string | null,
         dislikes: [] as string[],
         location: null as { lat: number; lng: number } | null,
@@ -71,13 +74,68 @@ export default function SignupPage() {
         else if (step === "location") setStep("dislikes");
         else if (step === "dislikes") setStep("social");
         else if (step === "social") {
-            // Save onboarding data for profile
+            handleCompleteSignup();
+        }
+    };
+
+    const handleCompleteSignup = async () => {
+        setIsLoading(true);
+        try {
+            // 1. Sign up the user (or sign in if testing)
+            // For this prototype, we'll try to sign up. 
+            // In a real app, you'd handle "User already exists" gracefully.
+            const { data: authData, error: authError } = await supabase.auth.signUp({
+                email: formData.email,
+                password: formData.password,
+            });
+
+            if (authError) {
+                console.error("Signup error:", authError.message);
+                // For prototype, continue even if auth fails (e.g. user already exists)
+                // or alert the user.
+                alert(`Signup failed: ${authError.message}`);
+                setIsLoading(false);
+                return;
+            }
+
+            if (authData.user) {
+                // 2. Create the profile
+                const { error: profileError } = await supabase
+                    .from('profiles')
+                    .insert({
+                        id: authData.user.id,
+                        username: formData.username,
+                        first_name: formData.firstName,
+                        last_name: formData.lastName,
+                        phone: formData.phone,
+                        country_code: formData.countryCode,
+                        age_bracket: formData.ageBracket,
+                        neighborhoods: formData.neighborhoods,
+                        not_familiar: formData.notFamiliar,
+                        dislikes: formData.dislikes,
+                        location_permission: formData.locationPermission,
+                        updated_at: new Date().toISOString(),
+                    });
+
+                if (profileError) {
+                    console.error("Profile creation error:", profileError);
+                    // Depending on RLS, this might fail if the user manages to get created but profile doesn't.
+                }
+            }
+
+            // Keep localStorage logic as fallback/cache for Immediate UI
             localStorage.setItem("the_scene_onboarding_data", JSON.stringify({
                 ageBracket: formData.ageBracket,
                 neighborhoods: formData.neighborhoods,
+                notFamiliar: formData.notFamiliar,
                 dislikes: formData.dislikes
             }));
+
             router.push("/discover");
+        } catch (e) {
+            console.error("Unexpected error:", e);
+            alert("Something went wrong. Please try again.");
+            setIsLoading(false);
         }
     };
 
@@ -141,7 +199,7 @@ export default function SignupPage() {
         if (step === "username") return formData.username.length >= 6 || ALLOWED_TEST_DATA.usernames.includes(formData.username);
         if (step === "photo") return true; // Skipable
         if (step === "age") return formData.ageBracket !== null;
-        if (step === "city") return formData.neighborhoods.length > 0;
+        if (step === "city") return formData.neighborhoods.length > 0 || formData.notFamiliar;
         if (step === "location") return true; // Handled by buttons
         if (step === "dislikes") return true; // Skipable
         if (step === "social") return true; // Skipable
@@ -449,7 +507,7 @@ export default function SignupPage() {
                                         </p>
                                     </div>
                                     <div className="space-y-4">
-                                        {["21-24", "25-29", "30-34", "35-39"].map((age) => (
+                                        {["21-24", "25-29", "30-34", "35-39", "40-49", "50-59", "60+"].map((age) => (
                                             <button
                                                 key={age}
                                                 onClick={() => setFormData({ ...formData, ageBracket: age })}
@@ -480,89 +538,129 @@ export default function SignupPage() {
                                         </p>
                                     </div>
                                     <div className="space-y-0 -mx-8 overflow-y-auto flex-1 no-scrollbar pb-10 min-h-0">
-                                        {[
-                                            {
-                                                borough: "Manhattan",
-                                                neighborhoods: ["West Village", "East Village", "Soho", "Chelsea", "Upper East Side", "Tribeca", "Murray Hill"]
-                                            },
-                                            {
-                                                borough: "Brooklyn",
-                                                neighborhoods: ["Williamsburg", "Bushwick", "Greenpoint", "Brooklyn Heights", "Fort Greene", "Dumbo"]
-                                            }
-                                        ].map((group) => {
-                                            const allSelected = group.neighborhoods.every(n => formData.neighborhoods.includes(n));
-                                            return (
-                                                <div key={group.borough} className="space-y-0">
-                                                    <div
-                                                        onClick={() => {
-                                                            if (allSelected) {
-                                                                setFormData(prev => ({
-                                                                    ...prev,
-                                                                    neighborhoods: prev.neighborhoods.filter(n => !group.neighborhoods.includes(n))
-                                                                }));
-                                                            } else {
-                                                                setFormData(prev => ({
-                                                                    ...prev,
-                                                                    neighborhoods: [...new Set([...prev.neighborhoods, ...group.neighborhoods])]
-                                                                }));
-                                                            }
-                                                        }}
-                                                        className={cn(
-                                                            "px-8 py-3 border-b flex justify-between items-center cursor-pointer transition-colors",
-                                                            allSelected ? "bg-zinc-100 border-zinc-200/50" : "bg-zinc-50/50 border-zinc-100/50 hover:bg-zinc-100/30"
-                                                        )}
-                                                    >
-                                                        <h3 className="text-[10px] font-bold tracking-[0.2em] text-zinc-400 uppercase">
-                                                            {group.borough}
-                                                        </h3>
-                                                        <div className={cn(
-                                                            "w-5 h-5 rounded border flex items-center justify-center transition-all",
-                                                            allSelected ? "bg-zinc-900 border-zinc-900" : "border-zinc-200"
-                                                        )}>
-                                                            {allSelected && <Check className="w-3.5 h-3.5 text-white" />}
-                                                        </div>
-                                                    </div>
-                                                    {group.neighborhoods.map((name) => (
-                                                        <button
-                                                            key={name}
+                                        <div className="px-8 pb-6 border-b border-zinc-50">
+                                            <button
+                                                onClick={() => {
+                                                    const newState = !formData.notFamiliar;
+                                                    setFormData({
+                                                        ...formData,
+                                                        notFamiliar: newState,
+                                                        neighborhoods: newState ? [] : formData.neighborhoods
+                                                    });
+                                                }}
+                                                className={cn(
+                                                    "w-full py-4 px-6 flex items-center justify-between rounded-xl border-2 transition-all",
+                                                    formData.notFamiliar
+                                                        ? "border-black bg-zinc-50"
+                                                        : "border-zinc-100 hover:border-zinc-200"
+                                                )}
+                                            >
+                                                <div className="flex flex-col items-start text-left">
+                                                    <span className={cn(
+                                                        "text-lg font-serif italic transition-colors",
+                                                        formData.notFamiliar ? "text-black font-bold" : "text-zinc-600"
+                                                    )}>
+                                                        I&apos;m not familiar with the city
+                                                    </span>
+                                                    <span className="text-xs text-zinc-400 mt-1">
+                                                        We&apos;ll curate based on your vibe instead
+                                                    </span>
+                                                </div>
+                                                <div className={cn(
+                                                    "w-6 h-6 rounded-full border-2 flex items-center justify-center transition-all",
+                                                    formData.notFamiliar ? "bg-black border-black" : "border-zinc-200"
+                                                )}>
+                                                    {formData.notFamiliar && <Check className="w-4 h-4 text-white" />}
+                                                </div>
+                                            </button>
+                                        </div>
+
+                                        <div className={cn("transition-opacity duration-200", formData.notFamiliar && "opacity-30 pointer-events-none")}>
+                                            {[
+                                                {
+                                                    borough: "Manhattan",
+                                                    neighborhoods: ["West Village", "East Village", "Soho", "Chelsea", "Upper East Side", "Tribeca", "Murray Hill"]
+                                                },
+                                                {
+                                                    borough: "Brooklyn",
+                                                    neighborhoods: ["Williamsburg", "Bushwick", "Greenpoint", "Brooklyn Heights", "Fort Greene", "Dumbo"]
+                                                }
+                                            ].map((group) => {
+                                                const allSelected = group.neighborhoods.every(n => formData.neighborhoods.includes(n));
+                                                return (
+                                                    <div key={group.borough} className="space-y-0">
+                                                        <div
                                                             onClick={() => {
-                                                                setFormData(prev => {
-                                                                    const current = prev.neighborhoods;
-                                                                    if (current.includes(name)) {
-                                                                        return { ...prev, neighborhoods: current.filter(n => n !== name) };
-                                                                    } else {
-                                                                        return { ...prev, neighborhoods: [...current, name] };
-                                                                    }
-                                                                });
+                                                                if (allSelected) {
+                                                                    setFormData(prev => ({
+                                                                        ...prev,
+                                                                        neighborhoods: prev.neighborhoods.filter(n => !group.neighborhoods.includes(n))
+                                                                    }));
+                                                                } else {
+                                                                    setFormData(prev => ({
+                                                                        ...prev,
+                                                                        neighborhoods: [...new Set([...prev.neighborhoods, ...group.neighborhoods])]
+                                                                    }));
+                                                                }
                                                             }}
                                                             className={cn(
-                                                                "w-full px-8 py-5 flex justify-between items-center transition-all border-b border-zinc-50 group",
-                                                                formData.neighborhoods.includes(name) ? "bg-zinc-100/50" : "hover:bg-zinc-100/10"
+                                                                "px-8 py-3 border-b flex justify-between items-center cursor-pointer transition-colors",
+                                                                allSelected ? "bg-zinc-100 border-zinc-200/50" : "bg-zinc-50/50 border-zinc-100/50 hover:bg-zinc-100/30"
                                                             )}
                                                         >
-                                                            <span className={cn(
-                                                                "text-lg transition-colors font-serif italic",
-                                                                formData.neighborhoods.includes(name) ? "text-zinc-900 font-bold" : "text-zinc-600"
-                                                            )}>{name}</span>
+                                                            <h3 className="text-[10px] font-bold tracking-[0.2em] text-zinc-400 uppercase">
+                                                                {group.borough}
+                                                            </h3>
                                                             <div className={cn(
                                                                 "w-5 h-5 rounded border flex items-center justify-center transition-all",
-                                                                formData.neighborhoods.includes(name) ? "bg-zinc-900 border-zinc-900" : "border-zinc-200 group-hover:border-zinc-300"
+                                                                allSelected ? "bg-zinc-900 border-zinc-900" : "border-zinc-200"
                                                             )}>
-                                                                {formData.neighborhoods.includes(name) && <Check className="w-3.5 h-3.5 text-white" />}
+                                                                {allSelected && <Check className="w-3.5 h-3.5 text-white" />}
                                                             </div>
-                                                        </button>
-                                                    ))}
-                                                </div>
-                                            );
-                                        })}
+                                                        </div>
+                                                        {group.neighborhoods.map((name) => (
+                                                            <button
+                                                                key={name}
+                                                                onClick={() => {
+                                                                    setFormData(prev => {
+                                                                        const current = prev.neighborhoods;
+                                                                        if (current.includes(name)) {
+                                                                            return { ...prev, neighborhoods: current.filter(n => n !== name) };
+                                                                        } else {
+                                                                            return { ...prev, neighborhoods: [...current, name] };
+                                                                        }
+                                                                    });
+                                                                }}
+                                                                className={cn(
+                                                                    "w-full px-8 py-5 flex justify-between items-center transition-all border-b border-zinc-50 group",
+                                                                    formData.neighborhoods.includes(name) ? "bg-zinc-100/50" : "hover:bg-zinc-100/10"
+                                                                )}
+                                                            >
+                                                                <span className={cn(
+                                                                    "text-lg transition-colors font-serif italic",
+                                                                    formData.neighborhoods.includes(name) ? "text-zinc-900 font-bold" : "text-zinc-600"
+                                                                )}>{name}</span>
+                                                                <div className={cn(
+                                                                    "w-5 h-5 rounded border flex items-center justify-center transition-all",
+                                                                    formData.neighborhoods.includes(name) ? "bg-zinc-900 border-zinc-900" : "border-zinc-200 group-hover:border-zinc-300"
+                                                                )}>
+                                                                    {formData.neighborhoods.includes(name) && <Check className="w-3.5 h-3.5 text-white" />}
+                                                                </div>
+                                                            </button>
+                                                        ))}
+                                                    </div>
+                                                );
+                                            })}
+                                        </div>
                                     </div>
+
                                     <div className="pt-4">
                                         <button
                                             onClick={handleNext}
                                             disabled={!isStepValid()}
                                             className="w-full bg-black text-white py-6 rounded-3xl font-medium text-lg active:scale-[0.98] transition-all disabled:opacity-50 disabled:cursor-not-allowed"
                                         >
-                                            Continue
+                                            {isLoading ? <Loader2 className="w-5 h-5 animate-spin mx-auto" /> : "Continue"}
                                         </button>
                                     </div>
                                 </div>
@@ -930,7 +1028,7 @@ export default function SignupPage() {
                     )}
                 </AnimatePresence>
             </MobileContainer>
-        </div>
+        </div >
     );
 }
 

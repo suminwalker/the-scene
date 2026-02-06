@@ -30,6 +30,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body
+        suppressHydrationWarning={true}
         className={`${inter.variable} ${libreBaskerville.variable} antialiased bg-zinc-100 dark:bg-black min-h-screen flex justify-center`}
       >
         <CityProvider>

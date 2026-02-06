@@ -141,7 +141,7 @@ export default async function PlacePage({ params }: PlacePageProps) {
                             </div>
 
                             <ReviewList reviews={place.reviews} />
-                            <ReviewForm />
+                            <ReviewForm venueName={place.name} venueCity={place.city} />
 
                             {/* Trust & Safety Disclaimer */}
                             <div className="pt-6 border-t border-zinc-100 dark:border-zinc-800">

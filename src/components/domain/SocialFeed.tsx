@@ -37,6 +37,12 @@ interface SocialFeedProps {
 export function SocialFeed({ activeFilter, onFilterChange }: SocialFeedProps) {
     const [localAddedPlaces, setLocalAddedPlaces] = useState<Place[]>([]);
     const [showFilterMenu, setShowFilterMenu] = useState(false);
+    const [onboardingData, setOnboardingData] = useState<{
+        ageBracket: string | null;
+        neighborhoods: string[];
+        notFamiliar?: boolean;
+        dislikes: string[];
+    } | null>(null);
     const filterRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
@@ -47,6 +53,8 @@ export function SocialFeed({ activeFilter, onFilterChange }: SocialFeedProps) {
         };
         document.addEventListener("mousedown", handleClickOutside);
         return () => document.removeEventListener("mousedown", handleClickOutside);
+
+
     }, []);
 
     useEffect(() => {
@@ -56,6 +64,15 @@ export function SocialFeed({ activeFilter, onFilterChange }: SocialFeedProps) {
                 setLocalAddedPlaces(JSON.parse(saved));
             } catch (e) {
                 console.error("Failed to load user venues for feed", e);
+            }
+        }
+
+        const onboarding = localStorage.getItem("the_scene_onboarding_data");
+        if (onboarding) {
+            try {
+                setOnboardingData(JSON.parse(onboarding));
+            } catch (e) {
+                console.error("Failed to parse onboarding data", e);
             }
         }
     }, []);
@@ -127,6 +144,24 @@ export function SocialFeed({ activeFilter, onFilterChange }: SocialFeedProps) {
                     activeFilter === "following" ? item.tags.includes("following") :
                         true
         )
+        .filter(item => {
+            // Curation Logic: Exclude dislikes
+            if (onboardingData?.dislikes && onboardingData.dislikes.length > 0) {
+                if (item.category) {
+                    // Check if category partially matches any dislike (e.g. "Dive Bar" matches "Bars")
+                    // Actually the dislikes are specific strings like "Dive Bars", "Cocktail Bars".
+                    // The categories in data are like "Dive-ish Bar", "Lounge".
+                    // Let's do a loose check.
+                    const category = item.category.toLowerCase();
+                    const isDisliked = onboardingData.dislikes.some(dislike => {
+                        const d = dislike.toLowerCase().replace(/s$/, ""); // Remove plural 's'
+                        return category.includes(d);
+                    });
+                    if (isDisliked) return false;
+                }
+            }
+            return true;
+        })
         .sort((a, b) => b.rawTimestamp - a.rawTimestamp); // Sort by new
 
     return (

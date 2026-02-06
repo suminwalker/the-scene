@@ -3,15 +3,21 @@
 import { useState } from "react";
 import { Star, X } from "lucide-react";
 import { cn } from "@/lib/utils";
-
 import { AESTHETIC_TAGS } from "@/lib/taxonomy";
+import { supabase } from "@/lib/supabase";
 
-export function ReviewForm() {
+interface ReviewFormProps {
+    venueName?: string;
+    venueCity?: string;
+}
+
+export function ReviewForm({ venueName, venueCity }: ReviewFormProps) {
     const [rating, setRating] = useState(0);
     const [hoveredRating, setHoveredRating] = useState(0);
     const [submitted, setSubmitted] = useState(false);
     const [reviewText, setReviewText] = useState("");
     const [error, setError] = useState<string | null>(null);
+    const [isSubmitting, setIsSubmitting] = useState(false);
 
     // New Structured State
     const [selectedAesthetic, setSelectedAesthetic] = useState<string[]>([]);
@@ -28,31 +34,85 @@ export function ReviewForm() {
 
     const BLOCKED_TERMS = ["hate", "stupid", "ugly", "fat", "race", "religion", "jew", "black", "white", "asian", "latino"];
 
-    const handleSubmit = () => {
+    const handleSubmit = async () => {
+        setIsSubmitting(true);
+        setError(null);
+
         // 1. Check for blocked terms
         const lowerText = reviewText.toLowerCase();
         const foundBlock = BLOCKED_TERMS.find(term => lowerText.includes(term));
 
         if (foundBlock) {
             setError(`We can't post that. Please remove references to protected groups or targeting language.`);
+            setIsSubmitting(false);
             return;
         }
 
         // 2. Check completeness
         if (reviewText.length < 5) {
             setError("Please add a bit more detail about your experience.");
+            setIsSubmitting(false);
             return;
         }
 
-        // Log the structured data for now (simulating API payload)
-        console.log("Submitting Review:", {
-            rating,
-            text: reviewText,
-            aesthetic: selectedAesthetic,
-            timestamp: new Date().toISOString()
-        });
+        try {
+            // 3. Get User
+            const { data: { user } } = await supabase.auth.getUser();
+            if (!user) {
+                setError("You must be logged in to leave a review.");
+                setIsSubmitting(false);
+                return;
+            }
 
-        setSubmitted(true);
+            // 4. Get Venue ID (since we don't have UUID on frontend yet)
+            if (!venueName) {
+                throw new Error("Venue name missing");
+            }
+
+            // We look up by name + city to be safe, or just name
+            const { data: venueData, error: venueError } = await supabase
+                .from('venues')
+                .select('id')
+                .ilike('name', venueName) // Case insensitive match
+                .maybeSingle();
+
+            if (venueError || !venueData) {
+                console.error("Venue lookup failed:", venueError);
+                setError("Could not match this venue to our database. Try again later.");
+                setIsSubmitting(false);
+                return;
+            }
+
+            // 5. Insert Review
+            const { error: insertError } = await supabase.from('user_venue_activity').insert({
+                user_id: user.id,
+                venue_id: venueData.id,
+                activity_type: 'review',
+                rating: rating,
+                review_text: reviewText,
+                tags: selectedAesthetic
+            });
+
+            if (insertError) {
+                // Handle unique constraint (user already reviewed this place)
+                if (insertError.code === '23505') { // Postgres unique_violation
+                    setError("You've already reviewed this place!");
+                } else {
+                    console.error("Review submission failed:", insertError);
+                    setError("Something went wrong. Please try again.");
+                }
+                setIsSubmitting(false);
+                return;
+            }
+
+            setSubmitted(true);
+
+        } catch (err) {
+            console.error("Unexpected error:", err);
+            setError("An unexpected error occurred.");
+        } finally {
+            setIsSubmitting(false);
+        }
     };
 
     if (submitted) {
@@ -60,6 +120,7 @@ export function ReviewForm() {
             <div className="p-6 bg-green-50 dark:bg-green-900/20 rounded-xl text-center border border-green-100 dark:border-green-900/30">
                 <p className="text-green-700 dark:text-green-300 font-medium font-serif">Thanks for the review!</p>
                 <p className="text-xs text-green-600 dark:text-green-400 mt-2 font-mono">Your insights help the community find their scene.</p>
+                <p className="text-[10px] text-green-500/80 mt-4 uppercase tracking-widest">Reputation Points Added</p>
             </div>
         );
     }
