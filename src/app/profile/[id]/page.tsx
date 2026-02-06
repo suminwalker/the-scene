@@ -456,7 +456,7 @@ export default function ProfilePage() {
             {/* Menu Drawer */}
             <div
                 className={cn(
-                    "fixed inset-0 z-[100] transition-opacity duration-300 pointer-events-none",
+                    "fixed inset-0 z-[100] transition-opacity duration-300 pointer-events-none md:hidden",
                     isMenuOpen ? "opacity-100 pointer-events-auto" : "opacity-0"
                 )}
             >
@@ -544,7 +544,7 @@ export default function ProfilePage() {
                                 {isOwner && (
                                     <button
                                         onClick={() => setIsMenuOpen(true)}
-                                        className="p-2 text-foreground/70 hover:text-foreground transition-colors"
+                                        className="p-2 text-foreground/70 hover:text-foreground transition-colors md:hidden"
                                     >
                                         <Menu className="w-5 h-5" />
                                     </button>

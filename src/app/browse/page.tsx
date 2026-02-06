@@ -1,7 +1,7 @@
 "use client";
 
 import { Suspense, useState, useEffect } from "react";
-import { MobileContainer } from "@/components/layout/MobileContainer";
+import { ResponsiveContainer } from "@/components/layout/ResponsiveContainer";
 import { TopBar } from "@/components/layout/TopBar";
 import { BottomNav } from "@/components/layout/BottomNav";
 import { getCombinedPlaces, Place } from "@/lib/data";
@@ -167,19 +167,19 @@ function BrowseContent() {
             <>
                 <TopBar backHref={backHref} />
                 <main className="flex-1 overflow-y-auto pb-24 scrollbar-hide">
-                    <header className="mb-6 text-center sm:text-left px-6 pt-8">
+                    <header className="mb-6 text-center sm:text-left px-6 md:px-8 pt-8">
                         <h1 className="text-4xl font-serif leading-[1.1] mb-2">
                             All Featured Lists
                         </h1>
                     </header>
 
-                    <div className="space-y-10 px-6 pb-12">
+                    <div className="space-y-10 px-6 md:px-8 pb-12">
                         {FEATURED_SECTIONS.map((section, idx) => (
                             <section key={idx} className="space-y-4">
                                 <h2 className="text-lg font-bold tracking-tight text-zinc-900 border-b border-zinc-100 pb-2">
                                     {section.title}
                                 </h2>
-                                <div className="grid grid-cols-2 gap-3">
+                                <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-3">
                                     {section.categories.map((cat) => (
                                         <Link key={cat.id} href={`/browse?age=${cat.id}`} className="block group">
                                             <div className="relative h-32 w-full rounded-xl overflow-hidden border border-black/5 shadow-sm">
@@ -218,7 +218,7 @@ function BrowseContent() {
             />
 
             <main className="flex-1 overflow-y-auto pb-24 scrollbar-hide">
-                <header className="mb-6 relative flex flex-col sm:flex-row sm:items-end sm:justify-between items-center text-center sm:text-left gap-4 px-6 pt-8">
+                <header className="mb-6 relative flex flex-col sm:flex-row sm:items-end sm:justify-between items-center text-center sm:text-left gap-4 px-6 md:px-8 pt-8">
                     <div className="flex flex-col items-center sm:items-start w-full">
                         <div className="flex justify-between items-start w-full">
                             <div>
@@ -249,7 +249,7 @@ function BrowseContent() {
 
                 {/* Active Filters Display */}
                 {activeFilterCount > 0 && (
-                    <div className="px-6 mb-4 flex flex-wrap gap-2">
+                    <div className="px-6 md:px-8 mb-4 flex flex-wrap gap-2">
                         {[...selectedAesthetic].map(tag => (
                             <span key={tag} className="px-2 py-1 bg-zinc-100 rounded text-[10px] font-medium text-zinc-600 flex items-center gap-1">
                                 {tag}
@@ -258,7 +258,7 @@ function BrowseContent() {
                     </div>
                 )}
 
-                <div className="grid grid-cols-2 md:grid-cols-3 gap-1 px-1">
+                <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-1 px-1 md:px-8">
                     {cityPlaces.map((place) => (
                         <Link key={place.id} href={`/places/${place.id}`}>
                             <div className="aspect-[3/4] bg-zinc-900 relative group overflow-hidden rounded-md border border-white/5">
@@ -299,13 +299,11 @@ import { cn } from "@/lib/utils";
 
 export default function BrowsePage() {
     return (
-        <div className="flex justify-center min-h-screen bg-background w-full">
-            <MobileContainer>
-                <Suspense fallback={<div className="p-10 text-center text-zinc-500 font-mono animate-pulse uppercase tracking-widest">Loading scene...</div>}>
-                    <BrowseContent />
-                </Suspense>
-                <BottomNav />
-            </MobileContainer>
-        </div>
+        <ResponsiveContainer>
+            <Suspense fallback={<div className="p-10 text-center text-zinc-500 font-mono animate-pulse uppercase tracking-widest">Loading scene...</div>}>
+                <BrowseContent />
+            </Suspense>
+            <BottomNav />
+        </ResponsiveContainer>
     );
 }
