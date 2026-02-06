@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "db:exec": "node scripts/manage_db.js",
+    "db:query": "node scripts/manage_db.js",
+    "db:migrate-venues": "node scripts/migrate_venues.js"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.94.1",

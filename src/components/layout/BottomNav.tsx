@@ -16,7 +16,7 @@ export function BottomNav() {
     ];
 
     return (
-        <nav className="fixed bottom-0 left-0 right-0 z-50 glass border-t border-black/5 safe-area-bottom w-full max-w-[480px] mx-auto">
+        <nav className="fixed bottom-0 left-0 right-0 z-50 glass border-t border-black/5 safe-area-bottom w-full max-w-[480px] mx-auto md:hidden">
             <div className="flex justify-around items-center h-16">
                 {tabs.map((tab) => {
                     const isActive = pathname.startsWith(tab.href);

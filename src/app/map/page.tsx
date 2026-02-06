@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import dynamic from "next/dynamic";
+import { ResponsiveContainer } from "@/components/layout/ResponsiveContainer";
 import { BottomNav } from "@/components/layout/BottomNav";
 import { useCity } from "@/lib/city-context";
 import { getValidPlaces } from "@/lib/filter-utils";
@@ -69,7 +70,7 @@ export default function MapPage() {
     }
 
     return (
-        <div className="relative w-full h-screen bg-background overflow-hidden">
+        <ResponsiveContainer className="relative h-screen bg-background overflow-hidden p-0">
             <div className="absolute inset-0 z-0">
                 <MapCanvas places={filteredCityPlaces} />
             </div>
@@ -86,6 +87,6 @@ export default function MapPage() {
             </div>
 
             <BottomNav />
-        </div>
+        </ResponsiveContainer>
     );
 }

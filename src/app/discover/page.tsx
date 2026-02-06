@@ -1,6 +1,6 @@
 "use client";
 
-import { MobileContainer } from "@/components/layout/MobileContainer";
+import { ResponsiveContainer } from "@/components/layout/ResponsiveContainer";
 import { TopBar } from "@/components/layout/TopBar";
 import { BottomNav } from "@/components/layout/BottomNav";
 import { SearchHeader } from "@/components/layout/SearchHeader";
@@ -30,12 +30,12 @@ function DiscoverContent() {
 
 export default function DiscoverPage() {
     return (
-        <MobileContainer>
+        <ResponsiveContainer>
             <TopBar />
             <Suspense fallback={<div className="p-10 text-center text-zinc-500 font-mono animate-pulse">Loading scene...</div>}>
                 <DiscoverContent />
             </Suspense>
             <BottomNav />
-        </MobileContainer>
+        </ResponsiveContainer>
     );
 }

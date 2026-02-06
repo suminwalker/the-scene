@@ -13,7 +13,7 @@ export function TopBar({ backHref, onBack, title = "THE SCENE" }: TopBarProps) {
     );
 
     return (
-        <header className="sticky top-0 z-40 w-full glass border-b border-black/5 px-4 h-14 flex items-center justify-between">
+        <header className="sticky top-0 z-40 w-full glass border-b border-black/5 px-4 h-14 flex items-center justify-between md:hidden">
             <div className="w-10">
                 {onBack ? (
                     <button onClick={onBack} className="p-2 -ml-2 rounded-full hover:bg-black/5 transition-colors block">

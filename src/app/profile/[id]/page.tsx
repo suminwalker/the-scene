@@ -1,6 +1,6 @@
 "use client";
 
-import { MobileContainer } from "@/components/layout/MobileContainer";
+import { ResponsiveContainer } from "@/components/layout/ResponsiveContainer";
 import { BottomNav } from "@/components/layout/BottomNav";
 import {
     ArrowLeft, Bell, Share, Instagram, Music2,
@@ -280,7 +280,7 @@ export default function ProfilePage() {
     };
 
     return (
-        <MobileContainer>
+        <ResponsiveContainer>
             {/* Menu Action Modals */}
             {/* Menu Action Modals */}
             {activeMenuModal && (
@@ -929,6 +929,6 @@ export default function ProfilePage() {
             </div>
 
             <BottomNav />
-        </MobileContainer>
+        </ResponsiveContainer>
     );
 }
