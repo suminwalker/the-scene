@@ -70,7 +70,15 @@ async function run() {
         const res = await client.query(query);
 
         console.log('\n✅ Success!');
-        if (res.rows.length > 0) {
+        if (Array.isArray(res)) {
+            // If multiple queries were executed, res is an array of results
+            res.forEach((r, i) => {
+                if (r.rows && r.rows.length > 0) {
+                    console.log(`Query ${i + 1} results:`);
+                    console.table(r.rows);
+                }
+            });
+        } else if (res && res.rows && res.rows.length > 0) {
             console.table(res.rows);
         } else {
             console.log('No rows returned.');

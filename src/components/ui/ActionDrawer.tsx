@@ -4,21 +4,118 @@ import { motion, AnimatePresence } from "framer-motion";
 import { X, Bell, Hash, FileText, Lock, ChevronDown, Check } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useState } from "react";
+import { supabase } from "@/lib/supabase";
 
 interface ActionDrawerProps {
     isOpen: boolean;
     onClose: () => void;
     mode: "rank" | "bookmark";
     venue: {
+        id?: string;
         name: string;
         price: string;
         category: string;
+        image?: string;
+        neighborhood?: string;
     };
 }
 
 export function ActionDrawer({ isOpen, onClose, mode, venue }: ActionDrawerProps) {
     const [selectedList] = useState("Restaurants");
     const [rating, setRating] = useState<string | null>(null);
+    const [isSubmitting, setIsSubmitting] = useState(false);
+
+    const handleRankSubmit = async () => {
+        if (!rating || !venue.id) return;
+        setIsSubmitting(true);
+
+        try {
+            const { data: { user } } = await supabase.auth.getUser();
+            if (!user) {
+                console.error("User not logged in");
+                return;
+            }
+
+            // Map UI rating to database value
+            let numericRating = 0;
+            switch (rating) {
+                case 'liked': numericRating = 5; break; // 5 stars
+                case 'fine': numericRating = 3; break; // 3 stars
+                case 'disliked': numericRating = 1; break; // 1 star
+            }
+
+            const { error } = await supabase.from('activities').insert({
+                user_id: user.id,
+                venue_id: venue.id,
+                venue_name: venue.name,
+                venue_image: venue.image || null,
+                venue_location: venue.neighborhood || null,
+                venue_category: venue.category,
+                action_type: 'check_in',
+                rating: numericRating,
+                content: rating
+            });
+
+            if (error) throw error;
+
+            onClose();
+        } catch (error) {
+            console.error("Error submitting rank:", error);
+        } finally {
+            setIsSubmitting(false);
+        }
+    };
+
+    const handleBookmarkSubmit = async () => {
+        if (!venue.id) return;
+        setIsSubmitting(true);
+
+        try {
+            const { data: { user } } = await supabase.auth.getUser();
+            if (!user) {
+                console.error("User not logged in");
+                return;
+            }
+
+            // Check if exists logic
+            const { data: existing } = await supabase
+                .from('saved_venues')
+                .select('id')
+                .eq('user_id', user.id)
+                .eq('venue_id', venue.id)
+                .eq('list_type', selectedList)
+                .maybeSingle();
+
+            if (existing) {
+                // Delete
+                const { error } = await supabase
+                    .from('saved_venues')
+                    .delete()
+                    .eq('id', existing.id);
+                if (error) throw error;
+            } else {
+                // Insert
+                const { error } = await supabase
+                    .from('saved_venues')
+                    .insert({
+                        user_id: user.id,
+                        venue_id: venue.id,
+                        venue_name: venue.name,
+                        venue_image: venue.image || null,
+                        venue_location: venue.neighborhood || null,
+                        venue_category: venue.category,
+                        list_type: selectedList
+                    });
+                if (error) throw error;
+            }
+
+            onClose();
+        } catch (error) {
+            console.error("Error saving bookmark:", error);
+        } finally {
+            setIsSubmitting(false);
+        }
+    };
 
     return (
         <AnimatePresence>
@@ -104,16 +201,17 @@ export function ActionDrawer({ isOpen, onClose, mode, venue }: ActionDrawerProps
                                     </div>
 
                                     <button
-                                        onClick={onClose}
-                                        disabled={!rating}
+                                        onClick={handleRankSubmit}
+                                        disabled={!rating || isSubmitting}
                                         className={cn(
                                             "w-full py-4 rounded-2xl font-bold transition-all mt-8",
                                             rating
                                                 ? "bg-accent text-white shadow-lg shadow-accent/20"
-                                                : "bg-zinc-800 text-zinc-500 cursor-not-allowed"
+                                                : "bg-zinc-800 text-zinc-500 cursor-not-allowed",
+                                            isSubmitting && "opacity-50 cursor-wait"
                                         )}
                                     >
-                                        Finish Ranking
+                                        {isSubmitting ? "Saving..." : "Finish Ranking"}
                                     </button>
                                 </div>
                             ) : (
@@ -177,10 +275,14 @@ export function ActionDrawer({ isOpen, onClose, mode, venue }: ActionDrawerProps
                                     </div>
 
                                     <button
-                                        onClick={onClose}
-                                        className="w-full py-4 bg-accent text-white rounded-2xl font-bold shadow-lg shadow-accent/20 active:scale-95 transition-all"
+                                        onClick={handleBookmarkSubmit}
+                                        disabled={isSubmitting}
+                                        className={cn(
+                                            "w-full py-4 bg-accent text-white rounded-2xl font-bold shadow-lg shadow-accent/20 active:scale-95 transition-all",
+                                            isSubmitting && "opacity-50 cursor-wait"
+                                        )}
                                     >
-                                        Save Changes
+                                        {isSubmitting ? "Saving..." : "Save Changes"}
                                     </button>
                                 </div>
                             )}

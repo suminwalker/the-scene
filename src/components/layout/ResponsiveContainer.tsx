@@ -3,6 +3,7 @@
 import React from "react";
 import { cn } from "@/lib/utils";
 import { DesktopSidebar } from "./DesktopSidebar";
+import { AppContainer } from "./AppContainer";
 
 interface ResponsiveContainerProps {
     children: React.ReactNode;
@@ -15,21 +16,14 @@ export function ResponsiveContainer({ children, className }: ResponsiveContainer
             {/* Desktop Sidebar (Self-manages hidden state) */}
             <DesktopSidebar />
 
-            <div className={cn(
-                // Mobile Styles (Default)
-                // Strictly matching MobileContainer behavior: 
-                // max-w-[480px], centred, fixed height/scroll behavior
-                "w-full max-w-[480px] h-[100dvh] bg-background text-foreground relative shadow-2xl overflow-hidden flex flex-col mx-auto",
-
-                // Desktop Styles (md+)
-                // Relax width, keep "App" feel (fixed height) but use full window height 
-                // Add padding for sidebar (64 usually 16rem = 256px? No w-64 is 256px)
-                "md:max-w-none md:w-auto md:ml-64 md:shadow-none md:h-screen md:rounded-none md:border-none",
-
+            <AppContainer className={cn(
+                // Override desktop max-width to respect sidebar
+                // AppContainer is normally centered, but here we want it pushed right by sidebar
+                "md:ml-64 md:w-auto md:max-w-none md:h-screen md:rounded-none md:border-none",
                 className
             )}>
                 {children}
-            </div>
+            </AppContainer>
         </div>
     );
 }

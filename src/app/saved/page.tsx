@@ -2,9 +2,10 @@
 
 import { MobileContainer } from "@/components/layout/MobileContainer";
 import { BottomNav } from "@/components/layout/BottomNav";
-import { Plus, X } from "lucide-react";
-import { useState } from "react";
+import { Plus, X, Loader2 } from "lucide-react";
+import { useState, useEffect } from "react";
 import { cn } from "@/lib/utils";
+import { createClient } from "@/lib/supabase/client";
 
 interface SavedList {
     id: string;
@@ -14,25 +15,78 @@ interface SavedList {
 }
 
 export default function SavedPage() {
+    const supabase = createClient();
+    const [loading, setLoading] = useState(true);
     const [savedLists, setSavedLists] = useState<SavedList[]>([]);
     const [isModalOpen, setIsModalOpen] = useState(false);
     const [newListTitle, setNewListTitle] = useState("");
     const [newListCategory, setNewListCategory] = useState("");
 
-    const handleCreateList = () => {
+    // Fetch Lists
+    useEffect(() => {
+        async function fetchLists() {
+            try {
+                const { data: { session } } = await supabase.auth.getSession();
+                if (!session) return;
+
+                const { data, error } = await supabase
+                    .from('lists')
+                    .select('*, list_items(count)')
+                    .eq('user_id', session.user.id)
+                    .order('created_at', { ascending: false });
+
+                if (data) {
+                    setSavedLists(data.map((list: any) => ({
+                        id: list.id,
+                        title: list.title,
+                        category: list.category || "General",
+                        placeCount: list.list_items?.[0]?.count || 0
+                    })));
+                }
+            } catch (err) {
+                console.error("Error fetching lists:", err);
+            } finally {
+                setLoading(false);
+            }
+        }
+        fetchLists();
+    }, []);
+
+    const handleCreateList = async () => {
         if (!newListTitle.trim()) return;
 
-        const newList: SavedList = {
-            id: Date.now().toString(),
-            title: newListTitle,
-            category: newListCategory || "General",
-            placeCount: 0
-        };
+        try {
+            const { data: { session } } = await supabase.auth.getSession();
+            if (!session) return;
 
-        setSavedLists([...savedLists, newList]);
-        setNewListTitle("");
-        setNewListCategory("");
-        setIsModalOpen(false);
+            const category = newListCategory || "General";
+
+            const { data, error } = await supabase
+                .from('lists')
+                .insert({
+                    user_id: session.user.id,
+                    title: newListTitle,
+                    category: category,
+                    is_public: true
+                })
+                .select()
+                .single();
+
+            if (data) {
+                const newList: SavedList = {
+                    id: data.id,
+                    title: data.title,
+                    category: data.category,
+                    placeCount: 0
+                };
+                setSavedLists([newList, ...savedLists]);
+                setNewListTitle("");
+                setNewListCategory("");
+                setIsModalOpen(false);
+            }
+        } catch (err) {
+            console.error("Error creating list:", err);
+        }
     };
 
     return (
@@ -52,7 +106,11 @@ export default function SavedPage() {
                     </header>
 
                     <div className="space-y-6">
-                        {savedLists.length > 0 ? (
+                        {loading ? (
+                            <div className="flex justify-center py-20">
+                                <Loader2 className="w-6 h-6 animate-spin text-zinc-300" />
+                            </div>
+                        ) : savedLists.length > 0 ? (
                             savedLists.map((list) => (
                                 <div key={list.id} className="p-6 bg-zinc-50 border border-zinc-200 rounded-xl shadow-sm hover:border-black/10 transition-colors cursor-pointer group">
                                     <div className="flex justify-between items-start mb-4">
@@ -84,7 +142,7 @@ export default function SavedPage() {
 
                 {/* Create List Modal */}
                 {isModalOpen && (
-                    <div className="absolute inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm animate-in fade-in duration-200">
+                    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm animate-in fade-in duration-200">
                         <div className="w-full max-w-sm bg-white rounded-2xl p-6 shadow-2xl animate-in zoom-in-95 duration-200">
                             <div className="flex justify-between items-center mb-6">
                                 <h3 className="text-lg font-bold font-serif text-black">New List</h3>

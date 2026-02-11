@@ -2,28 +2,48 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { MobileContainer } from "@/components/layout/MobileContainer";
+import { AppContainer } from "@/components/layout/AppContainer";
 import { TopBar } from "@/components/layout/TopBar";
-import { Eye, EyeOff } from "lucide-react";
+import { Eye, EyeOff, Loader2 } from "lucide-react";
+import { createClient } from "@/lib/supabase/client";
 
 export default function LoginPage() {
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
     const [showPassword, setShowPassword] = useState(false);
+    const [loading, setLoading] = useState(false);
+    const [error, setError] = useState<string | null>(null);
     const router = useRouter();
+    const supabase = createClient();
 
-    const handleSubmit = (e: React.FormEvent) => {
+    const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
-        // Mock login
-        setTimeout(() => {
-            router.push("/discover");
-        }, 800);
+        setLoading(true);
+        setError(null);
+
+        try {
+            const { error } = await supabase.auth.signInWithPassword({
+                email,
+                password,
+            });
+
+            if (error) {
+                setError(error.message);
+                setLoading(false);
+            } else {
+                router.push("/discover");
+                router.refresh();
+            }
+        } catch (err) {
+            setError("An unexpected error occurred");
+            setLoading(false);
+        }
     };
 
     return (
         <div className="flex justify-center min-h-screen bg-white text-black w-full">
-            <MobileContainer className="bg-white">
-                <TopBar backHref="/" />
+            <AppContainer className="bg-white">
+                <TopBar backHref="/" className="md:flex" />
 
                 <main className="px-8 pt-12 animate-in fade-in slide-in-from-bottom-4 duration-700">
                     <header className="mb-12 space-y-2">
@@ -76,19 +96,25 @@ export default function LoginPage() {
                             </button>
                         </div>
 
+                        {error && (
+                            <div className="p-3 rounded-lg bg-red-50 border border-red-100 text-sm text-red-600">
+                                {error}
+                            </div>
+                        )}
+
                         <div className="pt-12 space-y-6">
                             <button
                                 type="submit"
-                                disabled={!email || !password}
-                                className="w-full py-5 bg-black text-white rounded-2xl font-bold text-sm shadow-2xl active:scale-[0.98] transition-all disabled:opacity-20 flex items-center justify-center"
+                                disabled={!email || !password || loading}
+                                className="w-full py-5 bg-black text-white rounded-2xl font-bold text-sm shadow-2xl active:scale-[0.98] transition-all disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center"
                             >
-                                Log in
+                                {loading ? <Loader2 className="w-4 h-4 animate-spin" /> : 'Log in'}
                             </button>
 
                             <div className="text-center">
                                 <button
                                     type="button"
-                                    onClick={() => router.push("/auth/signup")}
+                                    onClick={() => router.push("/signup")}
                                     className="text-sm font-medium text-zinc-400 active:opacity-60 transition-opacity"
                                 >
                                     Not on The Scene yet? <span className="text-zinc-900 font-bold underline underline-offset-4">Create an account</span>
@@ -97,7 +123,7 @@ export default function LoginPage() {
                         </div>
                     </form>
                 </main>
-            </MobileContainer>
+            </AppContainer>
         </div>
     );
 }

@@ -16,9 +16,10 @@ interface ActivityFeedItemProps {
     action: string;
     venue: string;
     venueId?: string;
+    venueImage?: string;
     timestamp: string;
     category?: string;
-    location?: string;
+    location?: string; // This is usually neighborhood
     score?: number;
     likes?: number;
     comments?: number;
@@ -31,6 +32,7 @@ export function ActivityFeedItem({
     action,
     venue,
     venueId: passedVenueId,
+    venueImage,
     timestamp,
     category = "Restaurant",
     location,
@@ -52,7 +54,7 @@ export function ActivityFeedItem({
     const venueId = passedVenueId || venue.toLowerCase().replace(/ /g, "-").replace(/'/g, "");
 
     return (
-        <div className="py-6 border-b border-black/5 space-y-4">
+        <div className="py-6 border-b border-black/5 space-y-4 md:border md:rounded-xl md:p-6 md:shadow-sm md:hover:shadow-md transition-all md:bg-white md:h-full flex flex-col justify-between">
             <div className="flex justify-between items-start">
                 <div className="flex gap-3">
                     <Link
@@ -129,11 +131,15 @@ export function ActivityFeedItem({
                 onClose={() => setDrawerOpen(false)}
                 mode={drawerMode}
                 venue={{
+                    id: venueId,
                     name: venue,
                     price: price,
-                    category: category
+                    category: category,
+                    image: venueImage,
+                    neighborhood: location
                 }}
             />
         </div>
     );
 }
+

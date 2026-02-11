@@ -8,13 +8,15 @@ import {
     Mail, Gift, GraduationCap, Settings, Calendar, Crown,
     MessageCircle, Building2, AlertTriangle, HeartOff,
     CloudUpload, Lock, FileText, LogOut, Check, Camera,
-    MapPin
+    MapPin, Loader2
 } from "lucide-react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import { useState, useRef, useEffect } from "react";
 import { cn } from "@/lib/utils";
 import { ActivityFeedItem } from "@/components/domain/ActivityFeedItem";
+import { createClient } from "@/lib/supabase/client";
+import { updateProfile } from "@/lib/supabase/profiles";
 
 interface ProfileUser {
     id: string;
@@ -48,84 +50,18 @@ interface ActivityItem {
         avatar: string;
     };
     venue: string;
+    venueId?: string; // Added
+    venueImage?: string; // Added
     timestamp: string;
     category?: string;
     location?: string;
+    score?: number; // Added
     likes?: number;
     comments?: number;
+    tags?: string[]; // Added
 }
 
-// Mock global store for persistence in session
-const SESSION_USERS: Record<string, ProfileUser> = {
-    suminwalker: {
-        id: "suminwalker",
-        name: "Sumin Walker",
-        handle: "suminwalker",
-        avatar: "",
-        bio: "",
-        instagram: "",
-        tiktok: "",
-        memberSince: "January 2026",
-        followers: "0",
-        following: "0",
-        rank: "N/A",
-        streak: "0 weeks",
-        lastHandleChange: 0,
-        isFollowing: false,
-        challenge: { progress: 0, total: 250 },
-        stats: { been: 0, wantToTry: 0, mutual: 0 },
-        activity: [],
-        ageBracket: "25-29",
-        neighborhoods: [],
-        city: "New York, NY"
-    },
-    // Mock Users for Feed Interaction
-    "alex-chen": {
-        id: "alex-chen",
-        name: "Alex Chen",
-        handle: "alexc",
-        avatar: "https://i.pravatar.cc/150?u=alex",
-        bio: "Always looking for the perfect negroni. NYC native.",
-        instagram: "alexc",
-        tiktok: "",
-        memberSince: "December 2025",
-        followers: "128",
-        following: "84",
-        rank: "#842",
-        streak: "3 weeks",
-        lastHandleChange: 0,
-        isFollowing: false,
-        challenge: { progress: 45, total: 250 },
-        stats: { been: 42, wantToTry: 15, mutual: 3 },
-        activity: [],
-        ageBracket: "25-29",
-        neighborhoods: ["NoHo", "West Village"],
-        city: "New York, NY"
-    },
-    "sarah-j": {
-        id: "sarah-j",
-        name: "Sarah Jenkins",
-        handle: "sarah.jenkins",
-        avatar: "https://i.pravatar.cc/150?u=sarah",
-        bio: "Design & natural wine.",
-        instagram: "sarahj_design",
-        tiktok: "",
-        memberSince: "November 2025",
-        followers: "342",
-        following: "210",
-        rank: "#125",
-        streak: "12 weeks",
-        lastHandleChange: 0,
-        isFollowing: true,
-        challenge: { progress: 89, total: 250 },
-        stats: { been: 67, wantToTry: 45, mutual: 8 },
-        activity: [],
-        ageBracket: "30-34",
-        neighborhoods: ["SoHo", "Lower East Side"],
-        city: "New York, NY"
-    }
-};
-
+// Removed Mock SESSION_USERS and AVATAR_PRESETS
 const AVATAR_PRESETS = [
     "/avatars/presets/avatar1.png",
     "/avatars/presets/avatar2.png",
@@ -143,81 +79,259 @@ export default function ProfilePage() {
     const params = useParams();
     const id = params.id as string;
 
-    // For demo purposes, assume 'suminwalker' is the currentUser
-    const isOwner = id === "suminwalker";
-    const initialUser = (SESSION_USERS[id] || SESSION_USERS.suminwalker) as ProfileUser;
+    const [user, setUser] = useState<ProfileUser | null>(null);
+    const [loading, setLoading] = useState(true);
+    const supabase = createClient();
+
+
+    // Fetch Profile Data
+    useEffect(() => {
+        async function loadProfile() {
+            setLoading(true);
+            try {
+                // 1. Get Session User to determine ownership
+                const { data: { session } } = await supabase.auth.getSession();
+                const sessionUserId = session?.user?.id;
+
+                // 2. Resolve target Profile ID
+                let { data: profileData, error: profileError } = await supabase
+                    .from('profiles')
+                    .select('*')
+                    .or(`id.eq.${id},handle.eq.${id}`)
+                    .single();
+
+                if (profileError) {
+                    console.error("Error fetching profile:", profileError);
+                    setLoading(false);
+                    return;
+                }
+
+                if (profileData) {
+                    const isCurrentUser = sessionUserId === profileData.id;
+
+                    // 3. Fetch Stats (Counts)
+                    const { count: beenCount } = await supabase
+                        .from('activities')
+                        .select('*', { count: 'exact', head: true })
+                        .eq('user_id', profileData.id)
+                        .in('action_type', ['check_in', 'review', 'rate']);
+
+                    const { count: wantToTryCount } = await supabase
+                        .from('saved_venues')
+                        .select('*', { count: 'exact', head: true })
+                        .eq('user_id', profileData.id);
+
+                    // 4. Fetch User Activity
+                    const { data: activityData } = await supabase
+                        .from('activities')
+                        .select('*')
+                        .eq('user_id', profileData.id)
+                        .order('created_at', { ascending: false })
+                        .limit(10);
+
+                    const mappedActivity = activityData?.map((item: any) => ({
+                        id: item.id,
+                        action: mapActionType(item.action_type),
+                        user: {
+                            id: profileData.id,
+                            name: profileData.name || "User",
+                            avatar: profileData.avatar_url || "https://i.pravatar.cc/150",
+                        },
+                        venue: item.venue_name,
+                        venueId: item.venue_id,
+                        venueImage: item.venue_image,
+                        timestamp: new Date(item.created_at).toLocaleDateString(), // Simple format
+                        category: item.venue_category,
+                        location: item.venue_location,
+                        score: item.rating
+                    })) || [];
+
+                    // 5. Fetch Follow Data
+                    const { count: followersCount } = await supabase
+                        .from('follows')
+                        .select('*', { count: 'exact', head: true })
+                        .eq('following_id', profileData.id);
+
+                    const { count: followingCount } = await supabase
+                        .from('follows')
+                        .select('*', { count: 'exact', head: true })
+                        .eq('follower_id', profileData.id);
+
+                    let amIFollowing = false;
+                    if (sessionUserId && !isCurrentUser) {
+                        const { data: followData } = await supabase
+                            .from('follows')
+                            .select('*')
+                            .eq('follower_id', sessionUserId)
+                            .eq('following_id', profileData.id)
+                            .single();
+                        amIFollowing = !!followData;
+                    }
+
+                    const mappedUser: ProfileUser = {
+                        id: profileData.id,
+                        name: profileData.name || "Scene Member",
+                        handle: profileData.handle || "user",
+                        avatar: profileData.avatar_url || "",
+                        bio: profileData.bio || "",
+                        instagram: profileData.instagram || "",
+                        tiktok: profileData.tiktok || "",
+                        memberSince: new Date(profileData.created_at).toLocaleDateString('en-US', { month: 'long', year: 'numeric' }),
+                        followers: followersCount?.toString() || "0",
+                        following: followingCount?.toString() || "0",
+                        rank: "N/A",
+                        streak: "0 weeks",
+                        lastHandleChange: profileData.last_handle_change ? new Date(profileData.last_handle_change).getTime() : 0,
+                        isFollowing: amIFollowing,
+                        challenge: { progress: 0, total: 250 },
+                        stats: { been: beenCount || 0, wantToTry: wantToTryCount || 0, mutual: 0 },
+                        activity: mappedActivity,
+                        ageBracket: profileData.age_bracket,
+                        neighborhoods: profileData.neighborhoods || [],
+                        city: profileData.home_city || "New York, NY"
+                    };
+
+                    setUser(mappedUser);
+                    setIsFollowing(amIFollowing);
+
+                    // ... (rest of state updates)
+                }
+
+            } catch (err) {
+                console.error("Profile load error:", err);
+            } finally {
+                setLoading(false);
+            }
+        }
+        loadProfile();
+    }, [id, supabase]);
+
+    // Handle Follow/Unfollow
+    const handleFollowToggle = async () => {
+        if (!user || !currentSessionUserId) return;
+
+        // Optimistic UI Update
+        const newStatus = !isFollowing;
+        setIsFollowing(newStatus);
+        setUser(prev => prev ? ({
+            ...prev,
+            followers: (parseInt(prev.followers) + (newStatus ? 1 : -1)).toString()
+        }) : null);
+
+        try {
+            if (newStatus) {
+                // Follow
+                const { error } = await supabase
+                    .from('follows')
+                    .insert({
+                        follower_id: currentSessionUserId,
+                        following_id: user.id
+                    });
+                if (error) throw error;
+            } else {
+                // Unfollow
+                const { error } = await supabase
+                    .from('follows')
+                    .delete()
+                    .eq('follower_id', currentSessionUserId)
+                    .eq('following_id', user.id);
+                if (error) throw error;
+            }
+        } catch (err) {
+            console.error("Error toggling follow:", err);
+            // Revert on error
+            setIsFollowing(!newStatus);
+            setUser(prev => prev ? ({
+                ...prev,
+                followers: (parseInt(prev.followers) + (!newStatus ? 1 : -1)).toString()
+            }) : null);
+        }
+    };
+
+
+    // Construct mapActionType helper inside or import
+    const mapActionType = (type: string) => {
+        switch (type) {
+            case 'check_in': return 'visited';
+            case 'rate': return 'rated';
+            case 'review': return 'reviewed';
+            case 'list_add': return 'added to list';
+            default: return 'visited';
+        }
+    };
+
+    // Derived State
+    const [currentSessionUserId, setCurrentSessionUserId] = useState<string | null>(null);
+    useEffect(() => {
+        supabase.auth.getUser().then(({ data }) => {
+            setCurrentSessionUserId(data.user?.id || null);
+        });
+    }, [supabase]);
+
+    const isOwner = user && currentSessionUserId ? user.id === currentSessionUserId : false;
 
     // UI State
     const [activeTab, setActiveTab] = useState<"activity" | "taste">("activity");
     const [isEditing, setIsEditing] = useState(false);
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const [activeMenuModal, setActiveMenuModal] = useState<string | null>(null);
-    const [isFollowing, setIsFollowing] = useState(initialUser.isFollowing);
+    const [isFollowing, setIsFollowing] = useState(false);
     const [notified, setNotified] = useState(false);
     const fileInputRef = useRef<HTMLInputElement>(null);
 
-    // Load onboarding data if valid
-    useEffect(() => {
-        if (isOwner) {
-            const savedOnboarding = localStorage.getItem("the_scene_onboarding_data");
-            if (savedOnboarding) {
-                try {
-                    const data = JSON.parse(savedOnboarding);
-                    // Update session user if data exists and is different
-                    if (data.ageBracket && SESSION_USERS.suminwalker.ageBracket !== data.ageBracket) {
-                        SESSION_USERS.suminwalker.ageBracket = data.ageBracket;
-                    }
-                    if (data.neighborhoods && data.neighborhoods.length > 0) {
-                        SESSION_USERS.suminwalker.neighborhoods = data.neighborhoods;
-                    }
-                    if (data.photo) {
-                        SESSION_USERS.suminwalker.avatar = data.photo;
-                    }
-                } catch (e) {
-                    console.error("Failed to parse onboarding data", e);
-                }
-            }
-        }
-    }, [isOwner]);
-
     // Form State
     const [formData, setFormData] = useState({
-        name: initialUser.name,
-        handle: initialUser.handle,
-        bio: initialUser.bio,
-        avatar: initialUser.avatar,
-        instagram: initialUser.instagram,
-        tiktok: initialUser.tiktok,
-        city: initialUser.city || ""
+        name: "",
+        handle: "",
+        bio: "",
+        avatar: "",
+        instagram: "",
+        tiktok: "",
+        city: ""
     });
 
-    const [lastHandleChange, setLastHandleChange] = useState(initialUser.lastHandleChange);
+    const [lastHandleChange, setLastHandleChange] = useState(0);
     const [error, setError] = useState<string | null>(null);
 
-    const handleSave = () => {
+    const handleSave = async () => {
+        if (!user || !isOwner) return;
+
+        // Validations...
         const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
         const now = Date.now();
 
-        if (formData.handle !== initialUser.handle && (now - lastHandleChange < THIRTY_DAYS_MS)) {
+        if (formData.handle !== user.handle && (now - lastHandleChange < THIRTY_DAYS_MS)) {
             const daysLeft = Math.ceil((THIRTY_DAYS_MS - (now - lastHandleChange)) / (1000 * 60 * 60 * 24));
             setError(`You can change your handle again in ${daysLeft} days.`);
             return;
         }
 
-        if (formData.handle !== initialUser.handle) {
-            setLastHandleChange(now);
+        try {
+            await updateProfile(user.id, {
+                name: formData.name,
+                handle: formData.handle,
+                bio: formData.bio,
+                // avatar: formData.avatar, // Need to handle image upload separately later, likely base64 or bucket
+                instagram: formData.instagram,
+                tiktok: formData.tiktok,
+                city: formData.city
+            });
+
+            // Optimistic Update
+            setUser(prev => prev ? ({
+                ...prev,
+                ...formData,
+                lastHandleChange: formData.handle !== prev.handle ? now : prev.lastHandleChange
+            }) : null);
+
+            setIsEditing(false);
+            setError(null);
+        } catch (e: any) {
+            console.error("Save failed:", e);
+            setError(e.message || "Failed to update profile");
         }
-
-        // Persist to session store
-        SESSION_USERS[id] = {
-            ...initialUser,
-            ...formData,
-            lastHandleChange: formData.handle !== initialUser.handle ? now : lastHandleChange
-        };
-
-        setIsEditing(false);
-        setError(null);
     };
+
 
     const handlePhotoChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         const file = e.target.files?.[0];
@@ -231,6 +345,7 @@ export default function ProfilePage() {
     };
 
     const handleShare = async () => {
+        if (!user) return;
         if (typeof navigator !== 'undefined' && navigator.share) {
             try {
                 await navigator.share({
@@ -239,7 +354,6 @@ export default function ProfilePage() {
                     url: window.location.href,
                 });
             } catch {
-                // Fallback to clipboard if share fails
                 copyToClipboard();
             }
         } else {
@@ -250,8 +364,8 @@ export default function ProfilePage() {
     const copyToClipboard = async () => {
         try {
             await navigator.clipboard.writeText(window.location.href);
+            alert("Profile link copied!");
         } catch {
-            // Last resort
             const textArea = document.createElement("textarea");
             textArea.value = window.location.href;
             document.body.appendChild(textArea);
@@ -260,12 +374,6 @@ export default function ProfilePage() {
             document.body.removeChild(textArea);
             alert("Profile link copied!");
         }
-    };
-
-    const user = {
-        ...initialUser,
-        ...formData,
-        isFollowing
     };
 
     const handleMenuAction = (action: string) => {
@@ -278,6 +386,14 @@ export default function ProfilePage() {
             window.location.href = "/";
         }
     };
+
+    if (loading) {
+        return <div className="min-h-screen flex items-center justify-center"><Loader2 className="animate-spin" /></div>;
+    }
+
+    if (!user) {
+        return <div className="min-h-screen flex items-center justify-center">User not found</div>;
+    }
 
     return (
         <ResponsiveContainer>
@@ -507,15 +623,24 @@ export default function ProfilePage() {
                 onChange={handlePhotoChange}
             />
 
-            <div className="flex-1 overflow-y-auto pb-24 relative bg-background">
-                {/* Header Nav */}
-                <div className="sticky top-0 z-30 bg-background/80 backdrop-blur-md px-4 py-4 flex justify-between items-center border-b border-black/5">
+            {/* Desktop: Hidden File Input acts same */}
+            <input
+                type="file"
+                ref={fileInputRef}
+                className="hidden"
+                accept="image/*"
+                onChange={handlePhotoChange}
+            />
+
+            <div className="flex-1 overflow-y-auto pb-24 relative bg-background md:pb-0">
+                {/* Mobile Header Nav - Hidden on Desktop */}
+                <div className="sticky top-0 z-30 bg-background/80 backdrop-blur-md px-4 py-4 flex justify-between items-center border-b border-black/5 md:hidden">
                     {!isOwner ? (
                         <Link href="/discover" className="p-2 -ml-2 text-foreground/70 hover:text-foreground transition-colors">
                             <ArrowLeft className="w-6 h-6" />
                         </Link>
                     ) : (
-                        <div className="w-10" /> // Spacer to balance header
+                        <div className="w-10" />
                     )}
 
                     {!isEditing ? (
@@ -561,370 +686,402 @@ export default function ProfilePage() {
                     </div>
                 </div>
 
-                {/* Profile Banner/Info */}
-                <div className="px-6 pt-8 pb-4 text-center space-y-4">
-                    <div className="relative inline-block">
-                        {formData.avatar ? (
-                            <div
-                                className="w-24 h-24 mx-auto rounded-full bg-zinc-100 border-4 border-background shadow-xl bg-cover bg-center overflow-hidden"
-                                style={{ backgroundImage: `url(${formData.avatar})` }}
-                            />
-                        ) : (
-                            <div className="w-24 h-24 mx-auto rounded-full bg-zinc-100 border-4 border-background shadow-xl flex items-center justify-center overflow-hidden">
-                                <div className="w-full h-full bg-zinc-50" />
-                            </div>
-                        )}
-                        {isEditing && (
-                            <button
-                                onClick={() => fileInputRef.current?.click()}
-                                className="absolute inset-0 bg-black/40 rounded-full flex items-center justify-center cursor-pointer transition-opacity hover:bg-black/60"
-                            >
-                                <Camera className="w-6 h-6 text-white" />
-                            </button>
-                        )}
-                    </div>
+                {/* Main Content Grid for Desktop */}
+                <div className="md:grid md:grid-cols-12 md:gap-10 md:p-8 md:max-w-7xl md:mx-auto items-start">
 
-                    {isEditing && (
-                        <div className="space-y-4 px-2">
-                            <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em] text-center">Character Presets</p>
-                            <div className="flex overflow-x-auto gap-4 py-2 px-4 no-scrollbar scroll-smooth">
-                                {AVATAR_PRESETS.map((preset, index) => (
+                    {/* Left Column: Profile Card (Sticky on Desktop) */}
+                    <div className="md:col-span-4 lg:col-span-3 md:sticky md:top-8 space-y-6">
+                        {/* Profile Banner/Info */}
+                        <div className="px-6 pt-8 pb-4 md:p-0 text-center md:text-left space-y-4 md:space-y-6">
+                            <div className="relative inline-block md:block md:w-full md:text-center">
+                                {formData.avatar ? (
+                                    <div
+                                        className="w-24 h-24 md:w-40 md:h-40 mx-auto rounded-full bg-zinc-100 border-4 border-background shadow-xl bg-cover bg-center overflow-hidden"
+                                        style={{ backgroundImage: `url(${formData.avatar})` }}
+                                    />
+                                ) : (
+                                    <div className="w-24 h-24 md:w-40 md:h-40 mx-auto rounded-full bg-zinc-100 border-4 border-background shadow-xl flex items-center justify-center overflow-hidden">
+                                        <div className="w-full h-full bg-zinc-50" />
+                                    </div>
+                                )}
+                                {isEditing && (
                                     <button
-                                        key={index}
-                                        onClick={() => setFormData({ ...formData, avatar: preset })}
-                                        className={cn(
-                                            "relative flex-shrink-0 w-16 h-16 rounded-2xl bg-white border-2 transition-all active:scale-95 overflow-hidden",
-                                            formData.avatar === preset ? "border-black scale-105 shadow-md" : "border-black/5 grayscale-[0.3]"
-                                        )}
+                                        onClick={() => fileInputRef.current?.click()}
+                                        className="absolute inset-0 bg-black/40 rounded-full flex items-center justify-center cursor-pointer transition-opacity hover:bg-black/60 md:w-40 md:h-40 md:mx-auto"
                                     >
-                                        <img src={preset} className="w-full h-full object-cover" alt={`Preset ${index + 1}`} />
-                                        {formData.avatar === preset && (
-                                            <div className="absolute top-1 right-1 bg-black rounded-full p-0.5 shadow-lg">
-                                                <Check className="w-3 h-3 text-white" />
+                                        <Camera className="w-6 h-6 text-white" />
+                                    </button>
+                                )}
+                            </div>
+
+                            {/* Desktop Edit Controls showing Presets inline if editing */}
+                            {isEditing && (
+                                <div className="space-y-4 px-2 md:px-0">
+                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em] text-center md:text-left">Character Presets</p>
+                                    <div className="flex overflow-x-auto gap-4 py-2 px-4 md:px-0 no-scrollbar scroll-smooth">
+                                        {AVATAR_PRESETS.map((preset, index) => (
+                                            <button
+                                                key={index}
+                                                onClick={() => setFormData({ ...formData, avatar: preset })}
+                                                className={cn(
+                                                    "relative flex-shrink-0 w-16 h-16 rounded-2xl bg-white border-2 transition-all active:scale-95 overflow-hidden",
+                                                    formData.avatar === preset ? "border-black scale-105 shadow-md" : "border-black/5 grayscale-[0.3]"
+                                                )}
+                                            >
+                                                <img src={preset} className="w-full h-full object-cover" alt={`Preset ${index + 1}`} />
+                                                {formData.avatar === preset && (
+                                                    <div className="absolute top-1 right-1 bg-black rounded-full p-0.5 shadow-lg">
+                                                        <Check className="w-3 h-3 text-white" />
+                                                    </div>
+                                                )}
+                                            </button>
+                                        ))}
+                                    </div>
+                                </div>
+                            )}
+
+                            <div className="space-y-4">
+                                {!isEditing ? (
+                                    <div className="space-y-1 md:text-center text-center">
+                                        <h1 className="text-xl md:text-3xl font-bold text-foreground font-serif">{user.name}</h1>
+                                        <p className="text-[10px] md:text-xs text-zinc-500 font-mono uppercase tracking-[0.2em] relative">
+                                            @{user.handle}
+                                            {isOwner && (
+                                                <button onClick={() => setIsEditing(true)} className="hidden md:inline-flex ml-2 p-1 text-zinc-400 hover:text-black">
+                                                    <Settings className="w-3 h-3" />
+                                                    <span className="sr-only">Edit</span>
+                                                </button>
+                                            )}
+                                        </p>
+                                        <p className="text-[10px] md:text-xs text-zinc-500 font-mono uppercase tracking-[0.2em]">
+                                            {user.city ? `${user.city} · ` : ""}{user.stats.been} places
+                                        </p>
+                                        {user.bio && <p className="text-sm md:text-base font-serif italic text-zinc-300 py-1 md:py-4 leading-relaxed">{user.bio}</p>}
+                                    </div>
+                                ) : (
+                                    <div className="space-y-3 px-4 md:px-0 text-left">
+                                        <div className="space-y-1">
+                                            <label className="text-[10px] font-mono text-zinc-500 uppercase">Name</label>
+                                            <input
+                                                value={formData.name}
+                                                onChange={(e) => setFormData({ ...formData, name: e.target.value })}
+                                                className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
+                                            />
+                                        </div>
+                                        <div className="space-y-1">
+                                            <label className="text-[10px] font-mono text-zinc-500 uppercase">Username</label>
+                                            <div className="relative">
+                                                <span className="absolute left-4 top-2 text-zinc-500 text-sm">@</span>
+                                                <input
+                                                    value={formData.handle}
+                                                    onChange={(e) => setFormData({ ...formData, handle: e.target.value })}
+                                                    className="w-full bg-white border border-black/10 rounded-xl pl-8 pr-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
+                                                />
+                                            </div>
+                                            {error && <p className="text-[10px] text-red-500 pt-1 font-mono">{error}</p>}
+                                        </div>
+                                        <div className="space-y-1">
+                                            <label className="text-[10px] font-mono text-zinc-500 uppercase">City</label>
+                                            <input
+                                                value={formData.city}
+                                                onChange={(e) => setFormData({ ...formData, city: e.target.value })}
+                                                className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
+                                            />
+                                        </div>
+                                        <div className="space-y-1">
+                                            <div className="flex justify-between items-center">
+                                                <label className="text-[10px] font-mono text-zinc-500 uppercase">Bio</label>
+                                                <span className="text-[10px] font-mono text-zinc-400">{formData.bio.length}/250</span>
+                                            </div>
+                                            <textarea
+                                                value={formData.bio}
+                                                onChange={(e) => setFormData({ ...formData, bio: e.target.value })}
+                                                maxLength={250}
+                                                className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent h-20 resize-none shadow-sm"
+                                            />
+                                        </div>
+                                        {/* Desktop-specific: Social inputs in column or grid? */}
+                                        <div className="grid grid-cols-2 gap-3">
+                                            <div className="space-y-1">
+                                                <label className="text-[10px] font-mono text-zinc-500 uppercase">Instagram</label>
+                                                <input
+                                                    placeholder="handle"
+                                                    value={formData.instagram}
+                                                    onChange={(e) => setFormData({ ...formData, instagram: e.target.value })}
+                                                    className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
+                                                />
+                                            </div>
+                                            <div className="space-y-1">
+                                                <label className="text-[10px] font-mono text-zinc-500 uppercase">TikTok</label>
+                                                <input
+                                                    placeholder="handle"
+                                                    value={formData.tiktok}
+                                                    onChange={(e) => setFormData({ ...formData, tiktok: e.target.value })}
+                                                    className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
+                                                />
+                                            </div>
+                                        </div>
+                                        {/* Desktop Edit Save Button */}
+                                        <div className="pt-2 hidden md:block">
+                                            <button
+                                                onClick={handleSave}
+                                                className="w-full py-2 bg-black text-white text-sm font-bold rounded-xl"
+                                            >
+                                                Save Changes
+                                            </button>
+                                        </div>
+                                    </div>
+                                )}
+
+                                {!isEditing && (
+                                    <div className="flex justify-center gap-4 py-2">
+                                        {user.instagram ? (
+                                            <Link
+                                                href={`https://instagram.com/${user.instagram}`}
+                                                className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-400 hover:text-black hover:border-black transition-all bg-white shadow-sm"
+                                            >
+                                                <Instagram className="w-5 h-5" />
+                                            </Link>
+                                        ) : (
+                                            <div className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-300 bg-white shadow-sm cursor-default">
+                                                <Instagram className="w-5 h-5" />
                                             </div>
                                         )}
-                                    </button>
-                                ))}
+
+                                        {user.tiktok ? (
+                                            <Link
+                                                href={`https://tiktok.com/@${user.tiktok}`}
+                                                className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-400 hover:text-black hover:border-black transition-all bg-white shadow-sm"
+                                            >
+                                                <Music2 className="w-5 h-5" />
+                                            </Link>
+                                        ) : (
+                                            <div className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-300 bg-white shadow-sm cursor-default">
+                                                <Music2 className="w-5 h-5" />
+                                            </div>
+                                        )}
+                                    </div>
+                                )}
                             </div>
+
+                            {/* Stats Row - Centered in Left Col on Desktop */}
+                            {!isEditing && (
+                                <>
+                                    <div className="flex justify-center gap-12 py-4 border-t border-b border-black/5 md:border-0 md:py-2">
+                                        <div className="text-center">
+                                            <p className="text-lg font-black text-foreground">{user.followers}</p>
+                                            <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Followers</p>
+                                        </div>
+                                        <div className="text-center">
+                                            <p className="text-lg font-black text-foreground">{user.following}</p>
+                                            <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Following</p>
+                                        </div>
+                                        <div className="text-center">
+                                            <p className="text-lg font-black text-foreground">{user.rank}</p>
+                                            <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Rank</p>
+                                        </div>
+                                    </div>
+
+                                    {/* Mobile/Desktop Owner Tools */}
+                                    {isOwner && !isEditing && (
+                                        <div className="flex gap-3 px-6 pt-2 pb-6 md:px-0 md:pb-0">
+                                            <button
+                                                onClick={() => setIsEditing(true)}
+                                                className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-zinc-50 transition-colors bg-white shadow-sm md:hidden"
+                                            >
+                                                Edit profile
+                                            </button>
+                                            <button
+                                                onClick={handleShare}
+                                                className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-zinc-50 transition-colors bg-white shadow-sm w-full"
+                                            >
+                                                Share profile
+                                            </button>
+                                        </div>
+                                    )}
+
+                                    {!isOwner && (
+                                        <div className="flex gap-3 px-4 pt-2 md:px-0 md:pt-4">
+                                            <button
+                                                onClick={handleFollowToggle}
+                                                className={cn(
+                                                    "flex-1 py-3.5 rounded-2xl font-bold text-sm tracking-tight active:scale-95 transition-all",
+                                                    isFollowing ? "bg-black text-white" : "bg-black text-white"
+                                                )}
+                                            >
+                                                {isFollowing ? "Following" : "Follow"}
+                                            </button>
+                                            <button className="p-3.5 bg-white text-foreground rounded-2xl font-bold text-sm active:scale-95 transition-all border border-black/10 shadow-sm hover:bg-zinc-50">
+                                                <ChevronRight className="w-5 h-5 rotate-90" />
+                                            </button>
+                                        </div>
+                                    )}
+                                </>
+                            )}
                         </div>
-                    )}
-
-                    <div className="space-y-4">
-                        {!isEditing ? (
-                            <div className="space-y-1">
-                                <h1 className="text-xl font-bold text-foreground font-serif">{user.name}</h1>
-                                <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em]">@{user.handle}</p>
-                                <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-[0.2em]">
-                                    {user.city ? `${user.city} · ` : ""}{user.stats.been} places
-                                </p>
-                                {user.bio && <p className="text-sm font-serif italic text-zinc-300 py-1">{user.bio}</p>}
-                            </div>
-                        ) : (
-                            <div className="space-y-3 px-4 text-left">
-                                <div className="space-y-1">
-                                    <label className="text-[10px] font-mono text-zinc-500 uppercase">Name</label>
-                                    <input
-                                        value={formData.name}
-                                        onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                                        className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
-                                    />
-                                </div>
-                                <div className="space-y-1">
-                                    <label className="text-[10px] font-mono text-zinc-500 uppercase">Username</label>
-                                    <div className="relative">
-                                        <span className="absolute left-4 top-2 text-zinc-500 text-sm">@</span>
-                                        <input
-                                            value={formData.handle}
-                                            onChange={(e) => setFormData({ ...formData, handle: e.target.value })}
-                                            className="w-full bg-white border border-black/10 rounded-xl pl-8 pr-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
-                                        />
-                                    </div>
-                                    {error && <p className="text-[10px] text-red-500 pt-1 font-mono">{error}</p>}
-                                </div>
-                                <div className="space-y-1">
-                                    <label className="text-[10px] font-mono text-zinc-500 uppercase">City</label>
-                                    <input
-                                        value={formData.city}
-                                        onChange={(e) => setFormData({ ...formData, city: e.target.value })}
-                                        className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
-                                    />
-                                </div>
-                                <div className="space-y-1">
-                                    <div className="flex justify-between items-center">
-                                        <label className="text-[10px] font-mono text-zinc-500 uppercase">Bio</label>
-                                        <span className="text-[10px] font-mono text-zinc-400">{formData.bio.length}/250</span>
-                                    </div>
-                                    <textarea
-                                        value={formData.bio}
-                                        onChange={(e) => setFormData({ ...formData, bio: e.target.value })}
-                                        maxLength={250}
-                                        className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent h-20 resize-none shadow-sm"
-                                    />
-                                </div>
-                                <div className="grid grid-cols-2 gap-3">
-                                    <div className="space-y-1">
-                                        <label className="text-[10px] font-mono text-zinc-500 uppercase">Instagram</label>
-                                        <input
-                                            placeholder="handle"
-                                            value={formData.instagram}
-                                            onChange={(e) => setFormData({ ...formData, instagram: e.target.value })}
-                                            className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
-                                        />
-                                    </div>
-                                    <div className="space-y-1">
-                                        <label className="text-[10px] font-mono text-zinc-500 uppercase">TikTok</label>
-                                        <input
-                                            placeholder="handle"
-                                            value={formData.tiktok}
-                                            onChange={(e) => setFormData({ ...formData, tiktok: e.target.value })}
-                                            className="w-full bg-white border border-black/10 rounded-xl px-4 py-2 text-sm text-foreground focus:outline-none focus:border-accent shadow-sm"
-                                        />
-                                    </div>
-                                </div>
-                            </div>
-                        )}
-
-                        {!isEditing && (
-                            <div className="flex justify-center gap-4 py-2">
-                                {user.instagram ? (
-                                    <Link
-                                        href={`https://instagram.com/${user.instagram}`}
-                                        className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-400 hover:text-black hover:border-black transition-all bg-white shadow-sm"
-                                    >
-                                        <Instagram className="w-5 h-5" />
-                                    </Link>
-                                ) : (
-                                    <div className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-300 bg-white shadow-sm cursor-default">
-                                        <Instagram className="w-5 h-5" />
-                                    </div>
-                                )}
-
-                                {user.tiktok ? (
-                                    <Link
-                                        href={`https://tiktok.com/@${user.tiktok}`}
-                                        className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-400 hover:text-black hover:border-black transition-all bg-white shadow-sm"
-                                    >
-                                        <Music2 className="w-5 h-5" />
-                                    </Link>
-                                ) : (
-                                    <div className="w-10 h-10 rounded-full border border-black/10 flex items-center justify-center text-zinc-300 bg-white shadow-sm cursor-default">
-                                        <Music2 className="w-5 h-5" />
-                                    </div>
-                                )}
-                            </div>
-                        )}
                     </div>
 
-                    {/* Stats Row */}
-                    {!isEditing && (
-                        <>
-                            <div className="flex justify-center gap-12 py-4">
-                                <div className="text-center">
-                                    <p className="text-lg font-black text-foreground">{user.followers}</p>
-                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Followers</p>
-                                </div>
-                                <div className="text-center">
-                                    <p className="text-lg font-black text-foreground">{user.following}</p>
-                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Following</p>
-                                </div>
-                                <div className="text-center">
-                                    <p className="text-lg font-black text-foreground">{user.rank}</p>
-                                    <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">Rank</p>
-                                </div>
-                            </div>
 
-                            {/* Owner UI Repositioned Buttons */}
-                            {isOwner && !isEditing && (
-                                <div className="flex gap-3 px-6 pt-2 pb-6">
-                                    <button
-                                        onClick={() => setIsEditing(true)}
-                                        className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-zinc-50 transition-colors bg-white shadow-sm"
-                                    >
-                                        Edit profile
-                                    </button>
-                                    <button
-                                        onClick={handleShare}
-                                        className="flex-1 py-3 px-4 rounded-xl border border-black/10 text-foreground text-sm font-bold hover:bg-zinc-50 transition-colors bg-white shadow-sm"
-                                    >
-                                        Share profile
-                                    </button>
-                                </div>
-                            )}
+                    {/* Right Column: Feed & Data (Desktop) */}
+                    <div className="md:col-span-8 lg:col-span-9 md:space-y-8">
 
-                            {!isOwner && (
-                                <div className="flex gap-3 px-4 pt-2">
-                                    <button
-                                        onClick={() => setIsFollowing(!isFollowing)}
-                                        className={cn(
-                                            "flex-1 py-3.5 rounded-2xl font-bold text-sm tracking-tight active:scale-95 transition-all",
-                                            isFollowing ? "bg-black text-white" : "bg-black text-white"
-                                        )}
-                                    >
-                                        {isFollowing ? "Following" : "Follow"}
-                                    </button>
-                                    <button className="p-3.5 bg-white text-foreground rounded-2xl font-bold text-sm active:scale-95 transition-all border border-black/10 shadow-sm hover:bg-zinc-50">
-                                        <ChevronRight className="w-5 h-5 rotate-90" />
-                                    </button>
-                                </div>
-                            )}
-
-                            {/* Lists Sections */}
-                            <div className="px-4 py-6 space-y-2">
+                        {/* Lists Sections - Horizontal Grid on Desktop */}
+                        {!isEditing && (
+                            <div className="px-4 py-6 md:p-0 space-y-2 md:space-y-0 md:grid md:grid-cols-2 md:gap-4">
                                 {[
                                     { label: "Been", count: user.stats.been, href: "/saved" },
                                     { label: "Want to Try", count: user.stats.wantToTry, href: "/saved" }
                                 ].map((item) => (
-                                    <Link key={item.label} href={item.href} className="w-full flex justify-between items-center p-4 bg-white hover:bg-zinc-50 rounded-2xl border border-black/10 transition-colors group shadow-sm">
+                                    <Link key={item.label} href={item.href} className="w-full flex justify-between items-center p-4 bg-white hover:bg-zinc-50 rounded-2xl border border-black/10 transition-colors group shadow-sm md:p-6">
                                         <div className="flex items-center gap-4">
-                                            <span className="text-sm font-semibold text-zinc-400">{item.label}</span>
+                                            <span className="text-sm font-semibold text-zinc-400 font-mono uppercase tracking-widest">{item.label}</span>
                                         </div>
                                         <div className="flex items-center gap-3">
-                                            <span className="text-sm font-black text-foreground">{item.count}</span>
+                                            <span className="text-xl md:text-2xl font-black text-foreground">{item.count}</span>
                                             <ChevronRight className="w-4 h-4 text-zinc-300 group-hover:text-zinc-400 transition-colors" />
                                         </div>
                                     </Link>
                                 ))}
                             </div>
+                        )}
 
+                        {/* Content Tabs */}
+                        <div className="mt-4 border-t border-black/5 md:border-0 md:mt-0">
+                            <div className="flex px-4 pt-4 md:px-0 md:border-b md:border-black/5">
+                                <button
+                                    onClick={() => setActiveTab("activity")}
+                                    className={cn(
+                                        "flex-1 py-3 text-[11px] font-mono uppercase tracking-[0.2em] border-b-2 transition-all md:text-xs md:py-4 hover:text-black",
+                                        activeTab === "activity" ? "border-foreground text-foreground" : "border-transparent text-zinc-400"
+                                    )}
+                                >
+                                    Recent Activity
+                                </button>
+                                <button
+                                    onClick={() => setActiveTab("taste")}
+                                    className={cn(
+                                        "flex-1 py-3 text-[11px] font-mono uppercase tracking-[0.2em] border-b-2 transition-all md:text-xs md:py-4 hover:text-black",
+                                        activeTab === "taste" ? "border-foreground text-foreground" : "border-transparent text-zinc-400"
+                                    )}
+                                >
+                                    Taste Profile
+                                </button>
+                            </div>
 
-
-
-
-                            {/* Content Tabs */}
-                            <div className="mt-4 border-t border-black/5">
-                                <div className="flex px-4 pt-4">
-                                    <button
-                                        onClick={() => setActiveTab("activity")}
-                                        className={cn(
-                                            "flex-1 py-3 text-[11px] font-mono uppercase tracking-[0.2em] border-b-2 transition-all",
-                                            activeTab === "activity" ? "border-foreground text-foreground" : "border-transparent text-zinc-400"
-                                        )}
-                                    >
-                                        Recent Activity
-                                    </button>
-                                    <button
-                                        onClick={() => setActiveTab("taste")}
-                                        className={cn(
-                                            "flex-1 py-3 text-[11px] font-mono uppercase tracking-[0.2em] border-b-2 transition-all",
-                                            activeTab === "taste" ? "border-foreground text-foreground" : "border-transparent text-zinc-400"
-                                        )}
-                                    >
-                                        Taste Profile
-                                    </button>
-                                </div>
-
-                                <div className="px-4 pt-6 divide-y divide-black/5">
-                                    {activeTab === "activity" ? (
-                                        user.activity.length > 0 ? (
-                                            user.activity.map((item: ActivityItem) => (
+                            <div className="px-4 pt-6 divide-y divide-black/5 md:px-0 md:divide-none md:space-y-4">
+                                {activeTab === "activity" ? (
+                                    user.activity.length > 0 ? (
+                                        // Desktop: Use Grid for Activities
+                                        <div className="md:grid md:grid-cols-2 lg:grid-cols-2 gap-4">
+                                            {user.activity.map((item: ActivityItem) => (
                                                 <ActivityFeedItem key={item.id} {...item} />
-                                            ))
-                                        ) : (
-                                            <div className="py-20 text-center space-y-2">
-                                                <p className="text-zinc-500 font-serif italic">No recent activity.</p>
-                                            </div>
-                                        )
+                                            ))}
+                                        </div>
                                     ) : (
-                                        <div className="py-8 space-y-6">
-                                            {user.stats.been > 0 ? (
-                                                <div className="p-6 rounded-3xl bg-white border border-black/10 space-y-4 shadow-sm">
-                                                    <div className="flex justify-between items-start">
-                                                        <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Last 30 Days</p>
-                                                        <Share className="w-4 h-4 text-zinc-400" />
-                                                    </div>
-                                                    <h3 className="text-xl font-bold text-black tracking-tight">Top 36% Rank</h3>
-                                                    <p className="text-xs text-zinc-500">New York</p>
-                                                    <div className="flex gap-8 pt-2">
-                                                        <div>
-                                                            <p className="text-2xl font-black text-black">{user.stats.been}</p>
-                                                            <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Venues</p>
-                                                        </div>
-                                                        <div>
-                                                            <p className="text-2xl font-black text-black">9</p>
-                                                            <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Cities</p>
-                                                        </div>
-                                                    </div>
-                                                    <p className="text-[10px] italic text-indigo-400/80 pt-2 border-t border-indigo-100">
-                                                        More active than 64% of members in New York
-                                                    </p>
-                                                    <div className="flex justify-center pt-2">
-                                                        <span className="text-xs font-serif font-black tracking-widest italic opacity-20">THE SCENE</span>
-                                                    </div>
-                                                </div>
-                                            ) : (
-                                                <div className="p-8 rounded-3xl bg-zinc-50 border border-black/5 text-center space-y-3">
-                                                    <div className="w-12 h-12 bg-zinc-100 rounded-full flex items-center justify-center mx-auto">
-                                                        <TrendingUp className="w-6 h-6 text-zinc-300" />
-                                                    </div>
-                                                    <div className="space-y-1">
-                                                        <h4 className="text-sm font-bold text-foreground">No data yet</h4>
-                                                        <p className="text-xs text-zinc-500 px-4">Visit and rank 5 venues to unlock your personal Taste Profile & Scene Rank.</p>
-                                                    </div>
-                                                </div>
-                                            )}
-
-                                            {/* Onboarding / Vibe Check Info */}
-                                            {(user.ageBracket || (user.neighborhoods && user.neighborhoods.length > 0)) && (
-                                                <div className="p-6 rounded-3xl bg-zinc-50 border border-black/5 space-y-4">
-                                                    <div className="flex justify-between items-center">
-                                                        <h3 className="text-sm font-bold tracking-tight text-foreground">Vibe Check</h3>
-                                                    </div>
-
-                                                    <div className="space-y-3">
-                                                        {user.ageBracket && (
-                                                            <div className="flex items-center gap-3">
-                                                                <div className="w-8 h-8 rounded-full bg-white border border-zinc-200 flex items-center justify-center">
-                                                                    <Calendar className="w-4 h-4 text-zinc-500" />
-                                                                </div>
-                                                                <div>
-                                                                    <span className="text-xs text-zinc-500 block">Age Bracket</span>
-                                                                    <span className="text-sm font-semibold">{user.ageBracket}</span>
-                                                                </div>
-                                                            </div>
-                                                        )}
-
-                                                        {user.neighborhoods && user.neighborhoods.length > 0 && (
-                                                            <div className="flex items-center gap-3">
-                                                                <div className="w-8 h-8 rounded-full bg-white border border-zinc-200 flex items-center justify-center">
-                                                                    <MapPin className="w-4 h-4 text-zinc-500" />
-                                                                </div>
-                                                                <div>
-                                                                    <span className="text-xs text-zinc-500 block">Frequent Spots</span>
-                                                                    <span className="text-sm font-semibold">{user.neighborhoods.join(", ")}</span>
-                                                                </div>
-                                                            </div>
-                                                        )}
-                                                    </div>
-                                                </div>
-                                            )}
-
-                                            <div className="p-6 rounded-3xl bg-zinc-50 border border-black/5 space-y-6">
-                                                <div className="flex justify-between items-center">
-                                                    <h3 className="text-sm font-bold tracking-tight text-foreground">{user.name.split(' ')[0]}&apos;s Scene Map</h3>
+                                        <div className="py-20 text-center space-y-2">
+                                            <p className="text-zinc-500 font-serif italic">No recent activity.</p>
+                                        </div>
+                                    )
+                                ) : (
+                                    <div className="py-8 space-y-6 md:py-0 md:grid md:grid-cols-2 md:gap-6 md:space-y-0">
+                                        {user.stats.been > 0 ? (
+                                            <div className="p-6 rounded-3xl bg-white border border-black/10 space-y-4 shadow-sm h-full">
+                                                <div className="flex justify-between items-start">
+                                                    <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Last 30 Days</p>
                                                     <Share className="w-4 h-4 text-zinc-400" />
                                                 </div>
-                                                <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">
-                                                    {isOwner ? "0 cities • 0 venues" : "97 cities • 1324 venues"}
+                                                <h3 className="text-xl font-bold text-black tracking-tight">Top 36% Rank</h3>
+                                                <p className="text-xs text-zinc-500">New York</p>
+                                                <div className="flex gap-8 pt-2">
+                                                    <div>
+                                                        <p className="text-2xl font-black text-black">{user.stats.been}</p>
+                                                        <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Venues</p>
+                                                    </div>
+                                                    <div>
+                                                        <p className="text-2xl font-black text-black">9</p>
+                                                        <p className="text-[10px] text-zinc-400 font-mono uppercase tracking-widest">Cities</p>
+                                                    </div>
+                                                </div>
+                                                <p className="text-[10px] italic text-indigo-400/80 pt-2 border-t border-indigo-100">
+                                                    More active than 64% of members in New York
                                                 </p>
-                                                <div className="aspect-video w-full bg-zinc-50 rounded-2xl overflow-hidden opacity-80 relative border border-black/5">
-                                                    <img
-                                                        src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?q=80&w=1200"
-                                                        className="w-full h-full object-cover grayscale"
-                                                        alt="Map"
-                                                    />
-                                                    <div className="absolute inset-0 flex items-center justify-center">
-                                                        <div className="px-4 py-2 bg-white/80 backdrop-blur-md rounded-full border border-black/10 text-[10px] font-mono text-zinc-600">
-                                                            {isOwner ? "Explore venues to populate your map" : "Interactive Map Available in App"}
+                                                <div className="flex justify-center pt-2">
+                                                    <span className="text-xs font-serif font-black tracking-widest italic opacity-20">THE SCENE</span>
+                                                </div>
+                                            </div>
+                                        ) : (
+                                            <div className="p-8 rounded-3xl bg-zinc-50 border border-black/5 text-center space-y-3 h-full flex flex-col justify-center items-center">
+                                                <div className="w-12 h-12 bg-zinc-100 rounded-full flex items-center justify-center mx-auto">
+                                                    <TrendingUp className="w-6 h-6 text-zinc-300" />
+                                                </div>
+                                                <div className="space-y-1">
+                                                    <h4 className="text-sm font-bold text-foreground">No data yet</h4>
+                                                    <p className="text-xs text-zinc-500 px-4">Visit and rank 5 venues to unlock your personal Taste Profile & Scene Rank.</p>
+                                                </div>
+                                            </div>
+                                        )}
+
+                                        {/* Onboarding / Vibe Check Info */}
+                                        {(user.ageBracket || (user.neighborhoods && user.neighborhoods.length > 0)) && (
+                                            <div className="p-6 rounded-3xl bg-zinc-50 border border-black/5 space-y-4 h-full">
+                                                <div className="flex justify-between items-center">
+                                                    <h3 className="text-sm font-bold tracking-tight text-foreground">Vibe Check</h3>
+                                                </div>
+
+                                                <div className="space-y-3">
+                                                    {user.ageBracket && (
+                                                        <div className="flex items-center gap-3">
+                                                            <div className="w-8 h-8 rounded-full bg-white border border-zinc-200 flex items-center justify-center">
+                                                                <Calendar className="w-4 h-4 text-zinc-500" />
+                                                            </div>
+                                                            <div>
+                                                                <span className="text-xs text-zinc-500 block">Age Bracket</span>
+                                                                <span className="text-sm font-semibold">{user.ageBracket}</span>
+                                                            </div>
                                                         </div>
+                                                    )}
+
+                                                    {user.neighborhoods && user.neighborhoods.length > 0 && (
+                                                        <div className="flex items-center gap-3">
+                                                            <div className="w-8 h-8 rounded-full bg-white border border-zinc-200 flex items-center justify-center">
+                                                                <MapPin className="w-4 h-4 text-zinc-500" />
+                                                            </div>
+                                                            <div>
+                                                                <span className="text-xs text-zinc-500 block">Frequent Spots</span>
+                                                                <span className="text-sm font-semibold">{user.neighborhoods.join(", ")}</span>
+                                                            </div>
+                                                        </div>
+                                                    )}
+                                                </div>
+                                            </div>
+                                        )}
+
+                                        <div className="p-6 rounded-3xl bg-zinc-50 border border-black/5 space-y-6 md:col-span-2">
+                                            <div className="flex justify-between items-center">
+                                                <h3 className="text-sm font-bold tracking-tight text-foreground">{user.name.split(' ')[0]}&apos;s Scene Map</h3>
+                                                <Share className="w-4 h-4 text-zinc-400" />
+                                            </div>
+                                            <p className="text-[10px] text-zinc-500 font-mono uppercase tracking-widest">
+                                                {isOwner ? "0 cities • 0 venues" : "97 cities • 1324 venues"}
+                                            </p>
+                                            <div className="aspect-video w-full bg-zinc-50 rounded-2xl overflow-hidden opacity-80 relative border border-black/5">
+                                                <img
+                                                    src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?q=80&w=1200"
+                                                    className="w-full h-full object-cover grayscale"
+                                                    alt="Map"
+                                                />
+                                                <div className="absolute inset-0 flex items-center justify-center">
+                                                    <div className="px-4 py-2 bg-white/80 backdrop-blur-md rounded-full border border-black/10 text-[10px] font-mono text-zinc-600">
+                                                        {isOwner ? "Explore venues to populate your map" : "Interactive Map Available in App"}
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    )}
-                                </div>
+                                    </div>
+                                )}
                             </div>
-                        </>
-                    )}
+                        </div>
+                    </div>
                 </div>
             </div>
 

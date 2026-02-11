@@ -7,11 +7,12 @@ import { AESTHETIC_TAGS } from "@/lib/taxonomy";
 import { supabase } from "@/lib/supabase";
 
 interface ReviewFormProps {
+    venueId?: string;
     venueName?: string;
     venueCity?: string;
 }
 
-export function ReviewForm({ venueName, venueCity }: ReviewFormProps) {
+export function ReviewForm({ venueId, venueName, venueCity }: ReviewFormProps) {
     const [rating, setRating] = useState(0);
     const [hoveredRating, setHoveredRating] = useState(0);
     const [submitted, setSubmitted] = useState(false);
@@ -64,43 +65,28 @@ export function ReviewForm({ venueName, venueCity }: ReviewFormProps) {
                 return;
             }
 
-            // 4. Get Venue ID (since we don't have UUID on frontend yet)
-            if (!venueName) {
-                throw new Error("Venue name missing");
+            // 4. Use provided ID or fallback (removed venue lookup for now as we have denormalized data)
+            // If we needed to lookup, we'd do it here, but we prefer passing ID.
+            if (!venueId && !venueName) {
+                throw new Error("Venue identity missing");
             }
+            const targetVenueId = venueId || venueName?.toLowerCase().replace(/ /g, '-');
 
-            // We look up by name + city to be safe, or just name
-            const { data: venueData, error: venueError } = await supabase
-                .from('venues')
-                .select('id')
-                .ilike('name', venueName) // Case insensitive match
-                .maybeSingle();
-
-            if (venueError || !venueData) {
-                console.error("Venue lookup failed:", venueError);
-                setError("Could not match this venue to our database. Try again later.");
-                setIsSubmitting(false);
-                return;
-            }
-
-            // 5. Insert Review
-            const { error: insertError } = await supabase.from('user_venue_activity').insert({
+            // 5. Insert Review into 'activities'
+            const { error: insertError } = await supabase.from('activities').insert({
                 user_id: user.id,
-                venue_id: venueData.id,
-                activity_type: 'review',
+                venue_id: targetVenueId,
+                venue_name: venueName || "Unknown Venue",
+                venue_location: venueCity, // mapping city to location roughly
+                action_type: 'review',
                 rating: rating,
-                review_text: reviewText,
-                tags: selectedAesthetic
+                venue_category: "Review", // Fallback or passed prop? Ideally passed.
+                content: (selectedAesthetic.length > 0 ? `[${selectedAesthetic.join(', ')}] ` : "") + reviewText
             });
 
             if (insertError) {
-                // Handle unique constraint (user already reviewed this place)
-                if (insertError.code === '23505') { // Postgres unique_violation
-                    setError("You've already reviewed this place!");
-                } else {
-                    console.error("Review submission failed:", insertError);
-                    setError("Something went wrong. Please try again.");
-                }
+                console.error("Review submission failed:", insertError);
+                setError("Something went wrong. Please try again.");
                 setIsSubmitting(false);
                 return;
             }

@@ -3,9 +3,10 @@ import { BottomNav } from "@/components/layout/BottomNav";
 import { PLACES } from "@/lib/data";
 import { ReviewList } from "@/components/domain/ReviewList";
 import { ReviewForm } from "@/components/domain/ReviewForm";
-import { ArrowLeft, MapPin, Share, Bookmark, Globe, Phone, Star } from "lucide-react";
+import { ArrowLeft, MapPin, Globe, Phone, Star } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { PlaceActions } from "@/components/domain/PlaceActions";
 
 interface PlacePageProps {
     params: {
@@ -43,14 +44,7 @@ export default async function PlacePage({ params }: PlacePageProps) {
                         </Link>
 
                         {/* Actions */}
-                        <div className="absolute top-4 right-4 flex gap-2 z-20">
-                            <button className="p-2 rounded-full bg-black/20 backdrop-blur text-white hover:bg-black/40 transition-colors">
-                                <Share className="w-5 h-5" />
-                            </button>
-                            <button className="p-2 rounded-full bg-black/20 backdrop-blur text-white hover:bg-black/40 transition-colors">
-                                <Bookmark className="w-5 h-5" />
-                            </button>
-                        </div>
+                        <PlaceActions place={place} />
 
                         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent pointer-events-none z-10" />
 
@@ -141,7 +135,7 @@ export default async function PlacePage({ params }: PlacePageProps) {
                             </div>
 
                             <ReviewList reviews={place.reviews} />
-                            <ReviewForm venueName={place.name} venueCity={place.city} />
+                            <ReviewForm venueId={place.id} venueName={place.name} venueCity={place.city} />
 
                             {/* Trust & Safety Disclaimer */}
                             <div className="pt-6 border-t border-zinc-100 dark:border-zinc-800">

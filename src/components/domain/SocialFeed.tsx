@@ -1,10 +1,9 @@
 import { useRef, useState, useEffect } from "react";
-import { SortDesc, TrendingUp, Users, Check, Filter } from "lucide-react";
+import { SortDesc, TrendingUp, Users, Check, Filter, Loader2 } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { Place } from "@/lib/data";
 import { ActivityFeedItem } from "./ActivityFeedItem";
 import { UserSearch } from "./UserSearch";
-
+import { supabase } from "@/lib/supabase";
 
 interface Activity {
     id: string;
@@ -17,14 +16,15 @@ interface Activity {
     action: string;
     venue: string;
     venueId?: string;
+    venueImage?: string;
     timestamp: string;
-    rawTimestamp: number; // Added for sorting
+    rawTimestamp: number;
     category?: string;
     location?: string;
     score?: number;
-    likes?: number;
-    comments?: number;
-    bookmarks?: number;
+    likes?: number; // Not yet implemented in DB
+    comments?: number; // Not yet implemented in DB
+    bookmarks?: number; // Not yet implemented in DB
     price?: string;
     tags: string[];
 }
@@ -35,14 +35,9 @@ interface SocialFeedProps {
 }
 
 export function SocialFeed({ activeFilter, onFilterChange }: SocialFeedProps) {
-    const [localAddedPlaces, setLocalAddedPlaces] = useState<Place[]>([]);
+    const [activities, setActivities] = useState<Activity[]>([]);
+    const [loading, setLoading] = useState(true);
     const [showFilterMenu, setShowFilterMenu] = useState(false);
-    const [onboardingData, setOnboardingData] = useState<{
-        ageBracket: string | null;
-        neighborhoods: string[];
-        notFamiliar?: boolean;
-        dislikes: string[];
-    } | null>(null);
     const filterRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
@@ -53,116 +48,156 @@ export function SocialFeed({ activeFilter, onFilterChange }: SocialFeedProps) {
         };
         document.addEventListener("mousedown", handleClickOutside);
         return () => document.removeEventListener("mousedown", handleClickOutside);
-
-
     }, []);
 
+    // Fetch Real Activities & Recommendations
     useEffect(() => {
-        const saved = localStorage.getItem('the_scene_user_venues');
-        if (saved) {
+        async function fetchContent() {
+            setLoading(true);
             try {
-                setLocalAddedPlaces(JSON.parse(saved));
-            } catch (e) {
-                console.error("Failed to load user venues for feed", e);
-            }
-        }
+                // 1. Get User Profile for Personalization
+                const { data: { session } } = await supabase.auth.getSession();
+                let userPrefs = null;
 
-        const onboarding = localStorage.getItem("the_scene_onboarding_data");
-        if (onboarding) {
-            try {
-                setOnboardingData(JSON.parse(onboarding));
-            } catch (e) {
-                console.error("Failed to parse onboarding data", e);
-            }
-        }
-    }, []);
+                if (session) {
+                    const { data: profile } = await supabase
+                        .from('profiles')
+                        .select('age_bracket, dislikes, not_familiar, neighborhoods')
+                        .eq('id', session.user.id)
+                        .single();
 
-    const userActivities: Activity[] = localAddedPlaces.map((place, idx) => ({
-        id: `user-add-${place.id}`,
-        user: {
-            id: "suminwalker",
-            name: "Sumin Walker",
-            avatar: "https://i.pravatar.cc/150?u=sumin",
-            badge: "Member"
-        },
-        action: "just discovered",
-        venue: place.name,
-        venueId: place.id,
-        timestamp: "Just now",
-        rawTimestamp: Date.now() - (idx * 1000), // Recent, slightly staggered
-        category: place.category,
-        location: place.neighborhood,
-        tags: ["following", "trending"]
-    }));
-
-    // Mock Rated Visits for Trending Algorithm Visualization
-    const mockRatedVisits: Activity[] = [
-        {
-            id: "mock-rated-1",
-            user: {
-                id: "alex-chen",
-                name: "Alex Chen",
-                avatar: "https://i.pravatar.cc/150?u=alex",
-                badge: "Taste Maker"
-            },
-            action: "rated",
-            venue: "The Nines",
-            venueId: "the-nines",
-            timestamp: "2h ago",
-            rawTimestamp: Date.now() - (2 * 60 * 60 * 1000), // 2 hours ago
-            category: "Lounge",
-            location: "NoHo",
-            score: 9.2,
-            tags: ["following", "trending"]
-        },
-        {
-            id: "mock-rated-2",
-            user: {
-                id: "sarah-j",
-                name: "Sarah Jenkins",
-                avatar: "https://i.pravatar.cc/150?u=sarah",
-                badge: "Curator"
-            },
-            action: "rated",
-            venue: "Fanelli Cafe",
-            venueId: "fanelli-cafe",
-            timestamp: "4h ago",
-            rawTimestamp: Date.now() - (4 * 60 * 60 * 1000), // 4 hours ago
-            category: "Dive Bar",
-            location: "SoHo",
-            score: 8.5,
-            tags: ["following"]
-        }
-    ];
-
-    const combinedActivity = [...mockRatedVisits, ...userActivities];
-
-    const filteredActivity = combinedActivity
-        .filter(item =>
-            activeFilter === "trending" ? item.tags.includes("trending") :
-                activeFilter === "nearby" ? item.tags.includes("nearby") :
-                    activeFilter === "following" ? item.tags.includes("following") :
-                        true
-        )
-        .filter(item => {
-            // Curation Logic: Exclude dislikes
-            if (onboardingData?.dislikes && onboardingData.dislikes.length > 0) {
-                if (item.category) {
-                    // Check if category partially matches any dislike (e.g. "Dive Bar" matches "Bars")
-                    // Actually the dislikes are specific strings like "Dive Bars", "Cocktail Bars".
-                    // The categories in data are like "Dive-ish Bar", "Lounge".
-                    // Let's do a loose check.
-                    const category = item.category.toLowerCase();
-                    const isDisliked = onboardingData.dislikes.some(dislike => {
-                        const d = dislike.toLowerCase().replace(/s$/, ""); // Remove plural 's'
-                        return category.includes(d);
-                    });
-                    if (isDisliked) return false;
+                    if (profile) {
+                        userPrefs = profile;
+                    }
                 }
+
+                // 2. Fetch Activities (Standard Feed)
+                let query = supabase
+                    .from('activities')
+                    .select(`
+                        *,
+                        profiles:user_id (
+                            id,
+                            name,
+                            handle,
+                            avatar_url
+                        )
+                    `)
+                    .order('created_at', { ascending: false })
+                    .limit(20);
+
+                const { data: activityData, error } = await query;
+
+                let mappedActivities: Activity[] = [];
+
+                if (activityData) {
+                    mappedActivities = activityData.map((item: any) => {
+                        const profile = item.profiles || {};
+                        const date = new Date(item.created_at);
+                        const timeString = getTimeString(date);
+
+                        return {
+                            id: item.id,
+                            user: {
+                                id: profile.id || "unknown",
+                                name: profile.name || "Anonymous",
+                                avatar: profile.avatar_url || "https://i.pravatar.cc/150",
+                                badge: "Member"
+                            },
+                            action: mapActionType(item.action_type),
+                            venue: item.venue_name,
+                            venueId: item.venue_id,
+                            venueImage: item.venue_image,
+                            timestamp: timeString,
+                            rawTimestamp: date.getTime(),
+                            category: item.venue_category,
+                            location: item.venue_location,
+                            score: item.rating || undefined,
+                            tags: ["trending"]
+                        };
+                    });
+                }
+
+                // 3. Inject Recommendations if "Not Familiar" OR Feed is Empty
+                // We treat recommendations as "System Activities" to blend them into the feed
+                if (userPrefs?.not_familiar || mappedActivities.length === 0) {
+                    // Import dynamically to avoid SSR issues if any, though filter-utils is pure JS
+                    const { getRecommendedPlaces } = await import("@/lib/filter-utils");
+
+                    // Default city 'nyc' for now, could get from context if passed prop
+                    const recs = getRecommendedPlaces("nyc", {
+                        ageBracket: userPrefs?.age_bracket || "25-29", // Default fallback
+                        dislikes: userPrefs?.dislikes || [],
+                        neighborhoods: []
+                    });
+
+                    // Take top 5 recs
+                    const topRecs = recs.slice(0, 5).map(place => ({
+                        id: `rec-${place.id}`,
+                        user: {
+                            id: "system",
+                            name: "The Scene",
+                            avatar: "/icon.png", // Or a system logo
+                            badge: "Curator"
+                        },
+                        action: "recommends",
+                        venue: place.name,
+                        venueId: place.id,
+                        venueImage: place.image,
+                        timestamp: "Just for you",
+                        rawTimestamp: Date.now(),
+                        category: place.category,
+                        location: place.neighborhood,
+                        score: place.rating,
+                        tags: ["recommended", ...(place.age || [])]
+                    }));
+
+                    // Interleave or append?
+                    // If not familiar, prioritize recs. 
+                    if (userPrefs?.not_familiar) {
+                        mappedActivities = [...topRecs, ...mappedActivities];
+                    } else if (mappedActivities.length === 0) {
+                        mappedActivities = topRecs;
+                    }
+                }
+
+                setActivities(mappedActivities);
+
+            } catch (err) {
+                console.error("Unexpected error fetching feed:", err);
+            } finally {
+                setLoading(false);
             }
-            return true;
-        })
-        .sort((a, b) => b.rawTimestamp - a.rawTimestamp); // Sort by new
+        }
+
+        fetchContent();
+    }, [activeFilter]);
+
+    // Helper: Map DB action types to UI strings
+    const mapActionType = (type: string) => {
+        switch (type) {
+            case 'check_in': return 'just visited';
+            case 'rate': return 'rated';
+            case 'review': return 'reviewed';
+            case 'list_add': return 'added to list';
+            default: return 'visited';
+        }
+    };
+
+    // Helper: Time formatting
+    const getTimeString = (date: Date) => {
+        const now = new Date();
+        const diffMs = now.getTime() - date.getTime();
+        const diffMins = Math.floor(diffMs / 60000);
+        const diffHours = Math.floor(diffMins / 60);
+        const diffDays = Math.floor(diffHours / 24);
+
+        if (diffMins < 1) return "Just now";
+        if (diffMins < 60) return `${diffMins}m ago`;
+        if (diffHours < 24) return `${diffHours}h ago`;
+        if (diffDays < 7) return `${diffDays}d ago`;
+        return date.toLocaleDateString();
+    };
 
     return (
         <div className="px-4 pb-12">
@@ -220,23 +255,32 @@ export function SocialFeed({ activeFilter, onFilterChange }: SocialFeedProps) {
                 </div>
             </div>
 
-            {activeFilter === "following" && filteredActivity.length < 3 && (
-                <div className="mb-10 p-6 rounded-2xl bg-zinc-50 border border-black/5">
-                    <UserSearch />
+            {loading ? (
+                <div className="flex justify-center py-20">
+                    <Loader2 className="w-6 h-6 animate-spin text-zinc-300" />
                 </div>
-            )}
+            ) : (
+                <>
+                    {activeFilter === "following" && activities.length < 3 && (
+                        <div className="mb-10 p-6 rounded-2xl bg-zinc-50 border border-black/5">
+                            <UserSearch />
+                        </div>
+                    )}
 
-            <div className="divide-y divide-white/5">
-                {filteredActivity.map((activity) => (
-                    <ActivityFeedItem key={activity.id} {...activity} />
-                ))}
-                {filteredActivity.length === 0 && (
-                    <div className="py-20 text-center space-y-4">
-                        <p className="text-zinc-500 font-serif italic">Nothing to see here yet.</p>
-                        <p className="text-xs text-zinc-600 font-mono uppercase tracking-widest">Try another filter</p>
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                        {activities.map((activity) => (
+                            <ActivityFeedItem key={activity.id} {...activity} />
+                        ))}
                     </div>
-                )}
-            </div>
+
+                    {activities.length === 0 && (
+                        <div className="py-20 text-center space-y-4 col-span-full">
+                            <p className="text-zinc-500 font-serif italic">Nothing to see here yet.</p>
+                            <p className="text-xs text-zinc-600 font-mono uppercase tracking-widest">Be the first to check in somewhere!</p>
+                        </div>
+                    )}
+                </>
+            )}
         </div>
     );
 }
