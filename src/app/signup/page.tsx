@@ -25,6 +25,8 @@ export default function SignupPage() {
     const [step, setStep] = useState<SignupStep>("phone");
     const [prevStep, setPrevStep] = useState<SignupStep | null>(null);
     const [isLoading, setIsLoading] = useState(false);
+    const [isCheckingPhone, setIsCheckingPhone] = useState(false);
+    const [serverError, setServerError] = useState<string | null>(null);
 
     // Form State
     const [formData, setFormData] = useState({
@@ -69,9 +71,38 @@ export default function SignupPage() {
         return null;
     };
 
-    const error = getStepError();
+    const error = getStepError() || serverError;
 
-    const handleNext = () => {
+    const handleNext = async () => {
+        if (step === "phone") {
+            setIsCheckingPhone(true);
+            setServerError(null);
+
+            try {
+                // Check if phone already exists
+                const { count, error: countError } = await supabase
+                    .from('profiles')
+                    .select('id', { count: 'exact', head: true })
+                    .eq('phone', formData.phone);
+
+                if (countError) {
+                    console.error("Error checking phone:", countError);
+                    // Optionally handle network error, for now proceeding or standardizing error
+                } else if (count && count > 0) {
+                    setServerError("An account with this phone number already exists.");
+                    setIsCheckingPhone(false);
+                    return;
+                }
+            } catch (e) {
+                console.error("Check phone exception:", e);
+            } finally {
+                setIsCheckingPhone(false);
+            }
+
+            // Only proceed if no server error was set (double check logic above)
+            // If we returned above, we won't get here.
+        }
+
         setPrevStep(step);
         if (step === "phone") setStep("username");
         else if (step === "username") setStep("email");
