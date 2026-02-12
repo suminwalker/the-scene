@@ -3,23 +3,104 @@
 import Link from "next/link";
 import { PLACES } from "@/lib/data";
 import { useCity } from "@/lib/city-context";
-
 import { FEATURED_SECTIONS } from "@/lib/featured-lists";
+import { createClient } from "@/lib/supabase/client";
+import { useEffect, useState } from "react";
 
-// Select specific lists to show on the home feed
-const FEED_LIST_IDS = ["recommended-match", "trending", "date-night", "hidden-gems", "happy-hour"];
+// Mapping from signup preference names to list IDs
+const PREFERENCE_TO_LIST_ID: Record<string, string> = {
+    "Date Night": "date-night",
+    "Group Hangouts": "group-hangouts",
+    "Casual Catch-Up": "casual",
+    "Big Night Out": "big-night-out",
+    "Daytime": "daytime",
+    "Happy Hour": "happy-hour",
+    "Late Night": "late-night",
+    "Bars": "bar",
+    "Rooftops": "rooftop",
+    "Cocktail Bars": "cocktail",
+    "Wine Bars": "wine",
+    "Hidden Gems": "hidden-gems",
+    "Work From Bar": "work-from-bar"
+};
 
-const LISTS = FEATURED_SECTIONS
-    .flatMap(section => section.categories)
-    .filter(cat => FEED_LIST_IDS.includes(cat.id))
-    .map(cat => ({
-        id: cat.id,
-        title: cat.label,
-        image: cat.image
-    }));
+// Default lists to show if user has no preferences
+const DEFAULT_LIST_IDS = ["recommended-match", "trending", "date-night", "hidden-gems", "happy-hour"];
 
 export function FeaturedLists() {
     const { city } = useCity();
+    const supabase = createClient();
+    const [userPreferences, setUserPreferences] = useState<string[]>([]);
+    const [isLoading, setIsLoading] = useState(true);
+
+    useEffect(() => {
+        async function fetchPreferences() {
+            try {
+                const { data: { user } } = await supabase.auth.getUser();
+
+                if (user) {
+                    const { data: profile } = await supabase
+                        .from('profiles')
+                        .select('dislikes')
+                        .eq('id', user.id)
+                        .single();
+
+                    if (profile?.dislikes) {
+                        setUserPreferences(profile.dislikes);
+                    }
+                }
+            } catch (error) {
+                console.error("Error fetching user preferences:", error);
+            } finally {
+                setIsLoading(false);
+            }
+        }
+
+        fetchPreferences();
+    }, []);
+
+    // Convert user preferences to list IDs
+    const preferredListIds = userPreferences
+        .map(pref => PREFERENCE_TO_LIST_ID[pref])
+        .filter(Boolean);
+
+    // Add recommended/trending to the beginning if not already there
+    const prioritizedListIds = [
+        "recommended-match",
+        "trending",
+        ...preferredListIds.filter(id => id !== "recommended-match" && id !== "trending")
+    ];
+
+    // Use user preferences if available, otherwise use defaults
+    const listIdsToShow = preferredListIds.length > 0
+        ? prioritizedListIds.slice(0, 5)
+        : DEFAULT_LIST_IDS;
+
+    const LISTS = FEATURED_SECTIONS
+        .flatMap(section => section.categories)
+        .filter(cat => listIdsToShow.includes(cat.id))
+        .map(cat => ({
+            id: cat.id,
+            title: cat.label,
+            image: cat.image
+        }))
+        // Sort by the order in listIdsToShow
+        .sort((a, b) => listIdsToShow.indexOf(a.id) - listIdsToShow.indexOf(b.id));
+
+    if (isLoading) {
+        return (
+            <section className="space-y-4 px-4">
+                <div className="flex justify-between items-end">
+                    <h3 className="text-sm font-mono uppercase tracking-widest text-zinc-500">Featured Lists</h3>
+                </div>
+                <div className="flex gap-4 overflow-x-auto pb-4 -mx-4 px-4 scrollbar-hide">
+                    {[1, 2, 3, 4, 5].map(i => (
+                        <div key={i} className="flex-none w-48 aspect-[4/5] rounded-lg bg-zinc-100 animate-pulse" />
+                    ))}
+                </div>
+            </section>
+        );
+    }
 
     return (
         <section className="space-y-4 px-4">

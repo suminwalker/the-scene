@@ -79,16 +79,20 @@ export default function SignupPage() {
             setServerError(null);
 
             try {
-                // Check if phone already exists
-                const { count, error: countError } = await supabase
-                    .from('profiles')
-                    .select('id', { count: 'exact', head: true })
-                    .eq('phone', formData.phone);
+                // Formatting the phone number if needed - assuming basic digits for now
+                const phoneToCheck = formData.phone.trim();
 
-                if (countError) {
-                    console.error("Error checking phone:", countError);
-                    // Optionally handle network error, for now proceeding or standardizing error
-                } else if (count && count > 0) {
+                // Use the new secure RPC to check for existence
+                const { data: exists, error: rpcError } = await supabase
+                    .rpc('check_phone_exists', { p_phone: phoneToCheck });
+
+                if (rpcError) {
+                    console.error("Error checking phone:", rpcError);
+                    // On error, we might want to let them proceed but log it, or block.
+                    // Blocking is safer for duplicates but worse for UX if DB is flaky.
+                    // For now, let's just log and proceed if it's a transient error, 
+                    // but if it exists = true, we block.
+                } else if (exists) {
                     setServerError("An account with this phone number already exists.");
                     setIsCheckingPhone(false);
                     return;
@@ -98,9 +102,6 @@ export default function SignupPage() {
             } finally {
                 setIsCheckingPhone(false);
             }
-
-            // Only proceed if no server error was set (double check logic above)
-            // If we returned above, we won't get here.
         }
 
         setPrevStep(step);
@@ -136,7 +137,9 @@ export default function SignupPage() {
 
             if (authError) {
                 console.error("Signup error:", authError.message);
-                alert(`Signup failed: ${authError.message}`);
+                // Handle "User already registered" specifically if possible, though Auth API does checks too.
+                // The RPC check above is a UX optimization.
+                setServerError(authError.message); // Set form error instead of alert
                 setIsLoading(false);
                 return;
             }
@@ -651,12 +654,13 @@ export default function SignupPage() {
                                 {/* Step: Dislikes */}
                                 {step === "dislikes" && (
                                     <div className="space-y-10 flex-1 flex flex-col min-h-0">
-                                        <h1 className="text-4xl font-serif tracking-tight leading-tight">Any places you don&apos;t like?</h1>
+                                        <h1 className="text-4xl font-serif tracking-tight leading-tight">What are you into?</h1>
                                         <div className="space-y-0 -mx-8 overflow-y-auto flex-1 pb-10 min-h-0">
                                             {[
-                                                { name: "Bars", options: ["Dive Bars", "Sports Bars", "Cocktail Bars"] },
-                                                { name: "Clubs", options: ["Nightclubs", "Techno Clubs"] },
-                                                { name: "Vibe", options: ["Too Loud", "Too Crowded", "Expensive"] }
+                                                { name: "By Occasion", options: ["Date Night", "Group Hangouts", "Casual Catch-Up", "Big Night Out"] },
+                                                { name: "By Time", options: ["Daytime", "Happy Hour", "Late Night"] },
+                                                { name: "By Venue Type", options: ["Bars", "Rooftops", "Cocktail Bars", "Wine Bars"] },
+                                                { name: "Discovery", options: ["Hidden Gems", "Work From Bar"] }
                                             ].map(category => (
                                                 <div key={category.name} className="px-8 py-4">
                                                     <h3 className="text-xs font-bold uppercase tracking-widest text-zinc-400 mb-4">{category.name}</h3>
