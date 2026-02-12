@@ -4,7 +4,7 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { AppContainer } from "@/components/layout/AppContainer";
 import { TopBar } from "@/components/layout/TopBar";
-import { Eye, EyeOff, Loader2 } from "lucide-react";
+import { Eye, EyeOff, Loader2, Check } from "lucide-react";
 import { createClient } from "@/lib/supabase/client";
 
 export default function LoginPage() {
@@ -15,11 +15,40 @@ export default function LoginPage() {
     const [error, setError] = useState<string | null>(null);
     const router = useRouter();
     const supabase = createClient();
+    const [resendSuccess, setResendSuccess] = useState(false);
+    const [resendLoading, setResendLoading] = useState(false);
+
+    const handleResendConfirmation = async () => {
+        if (!email) return;
+        setResendLoading(true);
+        setResendSuccess(false);
+        try {
+            const { error: resendError } = await supabase.auth.resend({
+                type: 'signup',
+                email: email,
+                options: {
+                    emailRedirectTo: `${location.origin}/auth/callback`
+                }
+            });
+
+            if (resendError) {
+                setError(resendError.message);
+            } else {
+                setResendSuccess(true);
+                setError(null);
+            }
+        } catch (err) {
+            setError("Failed to resend confirmation.");
+        } finally {
+            setResendLoading(false);
+        }
+    };
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
         setLoading(true);
         setError(null);
+        setResendSuccess(false);
 
         try {
             const { error } = await supabase.auth.signInWithPassword({
@@ -98,8 +127,32 @@ export default function LoginPage() {
                         </div>
 
                         {error && (
-                            <div className="p-3 rounded-lg bg-red-50 border border-red-100 text-sm text-red-600">
-                                {error}
+                            <div className="p-4 rounded-xl bg-red-50 border border-red-100 space-y-3">
+                                <p className="text-sm text-red-600 flex items-center gap-2">
+                                    <span className="w-1.5 h-1.5 rounded-full bg-red-500" />
+                                    {error}
+                                </p>
+                                {error.includes("Email not confirmed") && (
+                                    <button
+                                        type="button"
+                                        onClick={handleResendConfirmation}
+                                        disabled={resendLoading}
+                                        className="text-xs font-bold text-red-700 underline underline-offset-2 hover:text-red-800 disabled:opacity-50"
+                                    >
+                                        {resendLoading ? "Sending..." : "Resend Confirmation Email"}
+                                    </button>
+                                )}
+                            </div>
+                        )}
+
+                        {resendSuccess && (
+                            <div className="p-4 rounded-xl bg-green-50 border border-green-100 flex items-center gap-3">
+                                <div className="w-6 h-6 rounded-full bg-green-100 flex items-center justify-center flex-none">
+                                    <Check className="w-3 h-3 text-green-600" />
+                                </div>
+                                <p className="text-sm text-green-700">
+                                    Confirmation email sent! Please check your inbox.
+                                </p>
                             </div>
                         )}
 

@@ -8,8 +8,12 @@ import {
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 
+import { useSession } from "@/lib/supabase/client";
+
 export function DesktopSidebar() {
     const pathname = usePathname();
+    const { session } = useSession();
+    const user = session?.user;
 
     const tabs = [
         { name: "Feed", href: "/discover", icon: Compass },
@@ -19,7 +23,7 @@ export function DesktopSidebar() {
     ];
 
     return (
-        <aside className="hidden md:flex flex-col w-64 h-screen fixed left-0 top-0 border-r border-black/5 bg-zinc-50/50 backdrop-blur-xl z-50">
+        <aside className="hidden md:flex flex-col w-64 h-screen fixed left-0 top-0 border-r border-black/5 bg-white z-50">
             {/* Logo Area */}
             <div className="p-8 pb-8">
                 <h1 className="text-xl font-mono uppercase tracking-[0.3em] font-black text-black">
@@ -95,14 +99,22 @@ export function DesktopSidebar() {
             </nav>
 
             {/* User Footer */}
-            <div className="p-6 border-t border-black/5 mt-auto bg-zinc-50/80">
-                <Link href="/profile/suminwalker" className="flex items-center gap-3 p-3 rounded-xl hover:bg-white hover:shadow-sm transition-all cursor-pointer group border border-transparent hover:border-black/5">
-                    <div className="w-10 h-10 rounded-full bg-black/5 overflow-hidden">
-                        <img src="https://i.pravatar.cc/150?u=sumin" alt="User" className="w-full h-full object-cover" />
+            <div className="p-6 border-t border-black/5 mt-auto bg-white">
+                <Link href={user ? `/profile/${user.user_metadata?.username || 'user'}` : '/login'} className="flex items-center gap-3 p-3 rounded-xl hover:bg-zinc-50 hover:shadow-sm transition-all cursor-pointer group border border-transparent hover:border-black/5">
+                    <div className="w-10 h-10 rounded-full bg-black/5 overflow-hidden flex items-center justify-center text-zinc-400">
+                        {user?.user_metadata?.photo ? (
+                            <img src={user.user_metadata.photo} alt="User" className="w-full h-full object-cover" />
+                        ) : (
+                            <User className="w-5 h-5" />
+                        )}
                     </div>
                     <div className="flex-1 min-w-0">
-                        <p className="text-sm font-bold text-zinc-900 truncate">Sumin Walker</p>
-                        <p className="text-xs text-zinc-500 truncate">View Profile</p>
+                        <p className="text-sm font-bold text-zinc-900 truncate">
+                            {user?.user_metadata?.full_name || user?.email || "Guest User"}
+                        </p>
+                        <p className="text-xs text-zinc-500 truncate">
+                            {user ? "View Profile" : "Log in"}
+                        </p>
                     </div>
                 </Link>
             </div>

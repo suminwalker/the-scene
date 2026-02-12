@@ -112,9 +112,9 @@ export function ReviewForm({ venueId, venueName, venueCity }: ReviewFormProps) {
     }
 
     return (
-        <div className="p-6 bg-zinc-50 dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-xl space-y-6">
+        <div className="p-6 bg-zinc-50 border border-zinc-200 rounded-xl space-y-6">
             <div>
-                <h3 className="text-sm font-bold uppercase tracking-wide mb-1 text-zinc-900 dark:text-zinc-100">Leave a Review</h3>
+                <h3 className="text-sm font-bold uppercase tracking-wide mb-1 text-zinc-900">Leave a Review</h3>
                 <p className="text-xs text-zinc-500 font-serif italic">Share the vibe, the crowd, and what to wear.</p>
             </div>
 
@@ -132,7 +132,7 @@ export function ReviewForm({ venueId, venueName, venueCity }: ReviewFormProps) {
                         <Star
                             className={`w-6 h-6 ${star <= (hoveredRating || rating)
                                 ? "text-accent fill-accent"
-                                : "text-zinc-300 dark:text-zinc-700"
+                                : "text-zinc-300"
                                 }`}
                         />
                     </button>
@@ -156,8 +156,8 @@ export function ReviewForm({ venueId, venueName, venueCity }: ReviewFormProps) {
                             className={cn(
                                 "px-3 py-1.5 rounded-full text-xs font-medium transition-colors border",
                                 selectedAesthetic.includes(tag)
-                                    ? "bg-black text-white border-black dark:bg-white dark:text-black"
-                                    : "bg-white text-zinc-600 border-zinc-200 hover:border-zinc-400 dark:bg-zinc-800 dark:text-zinc-300 dark:border-zinc-700"
+                                    ? "bg-black text-white border-black"
+                                    : "bg-white text-zinc-600 border-zinc-200 hover:border-zinc-400"
                             )}
                         >
                             {tag}
@@ -170,7 +170,7 @@ export function ReviewForm({ venueId, venueName, venueCity }: ReviewFormProps) {
             <div className="space-y-2">
                 <label className="text-xs font-mono uppercase tracking-widest text-zinc-500">Details</label>
                 <textarea
-                    className="w-full h-24 p-3 rounded-lg border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 text-sm focus:ring-1 focus:ring-black dark:focus:ring-white outline-none resize-none placeholder:text-zinc-400"
+                    className="w-full h-24 p-3 rounded-lg border border-zinc-200 bg-white text-sm focus:ring-1 focus:ring-black outline-none resize-none placeholder:text-zinc-400"
                     placeholder="Tell us more about the experience..."
                     value={reviewText}
                     onChange={(e) => {
@@ -181,21 +181,21 @@ export function ReviewForm({ venueId, venueName, venueCity }: ReviewFormProps) {
             </div>
 
             {/* Trust & Safety Nudge */}
-            <div className="bg-zinc-100 dark:bg-zinc-800/50 p-3 rounded-lg">
+            <div className="bg-zinc-100 p-3 rounded-lg">
                 <p className="text-[10px] text-zinc-500 text-center leading-tight">
                     Your review helps curate the scene. Please be honest, constructive, and respectful to the community.
                 </p>
             </div>
 
             {error && (
-                <p className="text-xs text-red-500 font-medium bg-red-50 dark:bg-red-900/20 p-2 rounded border border-red-100 dark:border-red-900/30">
+                <p className="text-xs text-red-500 font-medium bg-red-50 p-2 rounded border border-red-100">
                     {error}
                 </p>
             )}
 
             <button
                 onClick={handleSubmit}
-                className="w-full py-3 bg-black dark:bg-white text-white dark:text-black font-bold uppercase tracking-widest text-xs rounded-lg hover:opacity-90 transition-opacity disabled:opacity-50 disabled:cursor-not-allowed"
+                className="w-full py-3 bg-black text-white font-bold uppercase tracking-widest text-xs rounded-lg hover:opacity-90 transition-opacity disabled:opacity-50 disabled:cursor-not-allowed"
                 disabled={!rating}
             >
                 Post Review
