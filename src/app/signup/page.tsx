@@ -101,6 +101,14 @@ export default function SignupPage() {
 
         setPrevStep(step);
         if (step === "phone") setStep("username");
+        else if (step === "username") setStep("name");
+        else if (step === "name") setStep("age");
+        else if (step === "age") setStep("neighborhoods");
+        else if (step === "neighborhoods") setStep("dislikes"); // Skip 'familiarity'
+        else if (step === "dislikes") setStep("location");
+        else if (step === "location") setStep("instagram");
+        else if (step === "instagram") setStep("tiktok");
+        else if (step === "tiktok") handleCompleteSignup();
 
     };
 
@@ -189,8 +197,7 @@ export default function SignupPage() {
         else if (step === "name") setStep("username");
         else if (step === "age") setStep("name");
         else if (step === "neighborhoods") setStep("age");
-        else if (step === "familiarity") setStep("neighborhoods");
-        else if (step === "dislikes") setStep("familiarity");
+        else if (step === "dislikes") setStep("neighborhoods"); // Skip 'familiarity'
         else if (step === "location") setStep("dislikes");
         else if (step === "instagram") setStep("location");
         else if (step === "tiktok") setStep("instagram");
@@ -202,8 +209,11 @@ export default function SignupPage() {
         if (step === "name") return formData.firstName.trim() !== "" && formData.lastName.trim() !== "";
         if (step === "username") return formData.username.length >= 6 || ALLOWED_TEST_DATA.usernames.includes(formData.username);
         if (step === "age") return formData.ageBracket !== null;
-        if (step === "location") return true;
+        if (step === "neighborhoods") return formData.notFamiliar || formData.neighborhoods.length > 0;
         if (step === "dislikes") return true;
+        if (step === "location") return true;
+        if (step === "instagram") return true;
+        if (step === "tiktok") return true;
         return false;
     };
 

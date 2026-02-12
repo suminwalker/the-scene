@@ -9,7 +9,7 @@ interface AppContainerProps {
 export function AppContainer({ children, className }: AppContainerProps) {
     return (
         <div className={cn(
-            "w-full h-screen bg-background text-foreground relative shadow-2xl overflow-hidden flex flex-col mx-auto",
+            "w-full h-[100dvh] bg-background text-foreground relative shadow-2xl overflow-hidden flex flex-col mx-auto",
             // Mobile: 480px centered
             "max-w-[480px]",
             // Desktop: Full width, max-width constrained for readability if needed, but per plan full responsive
