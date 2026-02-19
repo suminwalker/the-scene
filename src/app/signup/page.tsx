@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { AppContainer } from "@/components/layout/AppContainer";
@@ -19,7 +19,7 @@ const ALLOWED_TEST_DATA = {
 type SignupStep = "invite" | "start" | "phone" | "username" | "name" | "age" | "neighborhoods" | "familiarity" | "dislikes" | "location" | "instagram" | "tiktok" | "email-confirmation-pending";
 type LocationPermission = "always" | "while_using" | "never";
 
-export default function SignupPage() {
+function SignupPageContent() {
     const router = useRouter();
     const searchParams = useSearchParams();
     const supabase = createClient();
@@ -743,5 +743,13 @@ export default function SignupPage() {
                 </div>
             </div>
         </div>
+    );
+}
+
+export default function SignupPage() {
+    return (
+        <Suspense fallback={<div className="min-h-screen bg-black" />}>
+            <SignupPageContent />
+        </Suspense>
     );
 }
