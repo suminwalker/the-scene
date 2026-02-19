@@ -1,5 +1,5 @@
 import { useRef, useState, useEffect, useCallback } from "react";
-import { TrendingUp, Users, Check, Filter, Loader2 } from "lucide-react";
+import { TrendingUp, Users, Check, Filter, Loader2, UsersRound } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { ActivityFeedItem } from "./ActivityFeedItem";
 import { UserSearch } from "./UserSearch";
@@ -28,6 +28,7 @@ interface Activity {
     price?: string;
     tags: string[];
     createdAt: string; // ISO string for cursor pagination
+    isCircleMember?: boolean; // trust network flag
 }
 
 interface SocialFeedProps {
@@ -45,6 +46,7 @@ export function SocialFeed({ activeFilter, onFilterChange }: SocialFeedProps) {
     const [error, setError] = useState<string | null>(null);
     const [showFilterMenu, setShowFilterMenu] = useState(false);
     const [followingIds, setFollowingIds] = useState<string[]>([]);
+    const [circleMemberIds, setCircleMemberIds] = useState<string[]>([]);
     const [currentUserId, setCurrentUserId] = useState<string | null>(null);
     const filterRef = useRef<HTMLDivElement>(null);
 
@@ -112,6 +114,13 @@ export function SocialFeed({ activeFilter, onFilterChange }: SocialFeedProps) {
             const fIds = followsData?.map(f => f.following_id) || [];
             setFollowingIds(fIds);
 
+            // 2b. Fetch circle member IDs for trust network boosting
+            const { data: circleData } = await supabase
+                .rpc("get_my_circle_member_ids", { p_user_id: userId });
+
+            const cIds: string[] = Array.isArray(circleData) ? circleData : [];
+            setCircleMemberIds(cIds);
+
             // 3. Build scoped query based on filter
             const feedUserIds = [userId, ...fIds];
 
@@ -147,7 +156,22 @@ export function SocialFeed({ activeFilter, onFilterChange }: SocialFeedProps) {
                 throw fetchError;
             }
 
-            const mapped = (activityData || []).map(mapActivity);
+            const mapped = (activityData || []).map((item: any) => {
+                const activity = mapActivity(item);
+                const profile = item.profiles || {};
+                activity.isCircleMember = cIds.includes(profile.id || "");
+                return activity;
+            });
+
+            // Boost circle member activities in "new" feed
+            if (filter !== "trending") {
+                mapped.sort((a: Activity, b: Activity) => {
+                    if (a.isCircleMember && !b.isCircleMember) return -1;
+                    if (!a.isCircleMember && b.isCircleMember) return 1;
+                    return b.rawTimestamp - a.rawTimestamp;
+                });
+            }
+
             setActivities(mapped);
             setHasMore(mapped.length >= PAGE_SIZE);
 

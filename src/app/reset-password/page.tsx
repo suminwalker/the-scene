@@ -2,11 +2,11 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { AppContainer } from "@/components/layout/AppContainer";
-import { TopBar } from "@/components/layout/TopBar";
-import { Eye, EyeOff, Loader2, Check, Lock } from "lucide-react";
+import { ResponsiveContainer } from "@/components/layout/ResponsiveContainer";
+import { Eye, EyeOff, Loader2, Check, Lock, ArrowLeft } from "lucide-react";
 import { createClient } from "@/lib/supabase/client";
 import { cn } from "@/lib/utils";
+import Link from "next/link";
 
 export default function ResetPasswordPage() {
     const [password, setPassword] = useState("");
@@ -21,7 +21,6 @@ export default function ResetPasswordPage() {
         setLoading(true);
         setError(null);
 
-        // Basic validation before submission
         if (password.length < 8) {
             setError("Password must be at least 8 characters long");
             setLoading(false);
@@ -37,7 +36,7 @@ export default function ResetPasswordPage() {
                 setError(updateError.message);
             } else {
                 router.push("/discover");
-                router.refresh(); // Ensure session state is updated in UI
+                router.refresh();
             }
         } catch (err) {
             setError("An unexpected error occurred");
@@ -46,25 +45,25 @@ export default function ResetPasswordPage() {
         }
     };
 
-    // Password strength checks
     const hasLength = password.length >= 8 && password.length <= 20;
     const hasComplexity = /[0-9]/.test(password) && /[a-zA-Z]/.test(password) && /[!@#$%^&*(),.?":{}|<>]/.test(password);
     const isStrengthValid = hasLength && hasComplexity;
 
     return (
-        <div className="flex justify-center min-h-screen bg-white text-black w-full">
-            <AppContainer className="bg-white">
-                <TopBar className="md:flex" />
+        <ResponsiveContainer>
+            <div className="flex-1 overflow-y-auto bg-white">
+                {/* Header */}
+                <div className="px-8 pt-10 pb-6 border-b border-black/5 flex items-center gap-4">
+                    <Link href="/settings" className="md:hidden p-2 -ml-2 text-zinc-400 hover:text-black transition-colors">
+                        <ArrowLeft className="w-5 h-5" />
+                    </Link>
+                    <h1 className="text-3xl font-bold tracking-tight text-black">Change Password</h1>
+                </div>
 
-                <main className="px-8 pt-12 animate-in fade-in slide-in-from-bottom-4 duration-700">
-                    <header className="mb-12 space-y-4">
-                        <h1 className="text-4xl font-serif tracking-tight leading-tight">
-                            Create new password
-                        </h1>
-                        <p className="text-zinc-500 leading-relaxed">
-                            Your new password must be different from previous used passwords.
-                        </p>
-                    </header>
+                <main className="max-w-lg px-8 py-10 animate-in fade-in slide-in-from-bottom-4 duration-700">
+                    <p className="text-zinc-500 leading-relaxed mb-8">
+                        Your new password must be different from previous used passwords.
+                    </p>
 
                     <form onSubmit={handleSubmit} className="space-y-8">
                         <div className="space-y-6">
@@ -111,7 +110,7 @@ export default function ResetPasswordPage() {
                             </div>
                         )}
 
-                        <div className="pt-8">
+                        <div className="pt-4">
                             <button
                                 type="submit"
                                 disabled={!password || !isStrengthValid || loading}
@@ -127,7 +126,7 @@ export default function ResetPasswordPage() {
                         </div>
                     </form>
                 </main>
-            </AppContainer>
-        </div>
+            </div>
+        </ResponsiveContainer>
     );
 }

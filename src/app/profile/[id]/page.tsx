@@ -8,7 +8,7 @@ import {
     Mail, Gift, GraduationCap, Settings, Calendar, Crown,
     MessageCircle, Building2, AlertTriangle, HeartOff,
     CloudUpload, Lock, FileText, LogOut, Check, Camera,
-    MapPin, Loader2
+    MapPin, Loader2, Copy
 } from "lucide-react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
@@ -17,6 +17,7 @@ import { cn } from "@/lib/utils";
 import { ActivityFeedItem } from "@/components/domain/ActivityFeedItem";
 import { createClient } from "@/lib/supabase/client";
 import { updateProfile } from "@/lib/supabase/profiles";
+import { NotificationBell } from "@/components/layout/NotificationBell";
 
 interface ProfileUser {
     id: string;
@@ -94,11 +95,16 @@ export default function ProfilePage() {
                 const sessionUserId = session?.user?.id;
 
                 // 2. Resolve target Profile ID
-                let { data: profileData, error: profileError } = await supabase
-                    .from('profiles')
-                    .select('*')
-                    .or(`id.eq.${id},handle.eq.${id}`)
-                    .single();
+                let query = supabase.from('profiles').select('*');
+                const isUUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(id);
+
+                if (isUUID) {
+                    query = query.or(`id.eq.${id},username.eq.${id}`);
+                } else {
+                    query = query.eq('username', id);
+                }
+
+                const { data: profileData, error: profileError } = await query.single();
 
                 if (profileError) {
                     console.error("Error fetching profile:", profileError);
@@ -134,7 +140,7 @@ export default function ProfilePage() {
                         action: mapActionType(item.action_type),
                         user: {
                             id: profileData.id,
-                            name: profileData.name || "User",
+                            name: `${profileData.first_name || ''} ${profileData.last_name || ''}`.trim() || "User",
                             avatar: profileData.avatar_url || "https://i.pravatar.cc/150",
                         },
                         venue: item.venue_name,
@@ -170,8 +176,8 @@ export default function ProfilePage() {
 
                     const mappedUser: ProfileUser = {
                         id: profileData.id,
-                        name: profileData.name || "Scene Member",
-                        handle: profileData.handle || "user",
+                        name: `${profileData.first_name || ''} ${profileData.last_name || ''}`.trim() || "Scene Member",
+                        handle: profileData.handle || profileData.username || "user",
                         avatar: profileData.avatar_url || "",
                         bio: profileData.bio || "",
                         instagram: profileData.instagram || "",
@@ -277,6 +283,10 @@ export default function ProfilePage() {
     const [activeMenuModal, setActiveMenuModal] = useState<string | null>(null);
     const [isFollowing, setIsFollowing] = useState(false);
     const [notified, setNotified] = useState(false);
+    const [inviteCode, setInviteCode] = useState<string | null>(null);
+    const [inviteRemaining, setInviteRemaining] = useState<number>(0);
+    const [inviteLoading, setInviteLoading] = useState(false);
+    const [inviteCopied, setInviteCopied] = useState(false);
     const fileInputRef = useRef<HTMLInputElement>(null);
 
     // Form State
@@ -381,18 +391,133 @@ export default function ProfilePage() {
         setActiveMenuModal(action);
     };
 
-    const handleLogout = () => {
-        if (confirm("Are you sure you want to log out?")) {
-            window.location.href = "/";
+    const handleLogout = async () => {
+        await supabase.auth.signOut();
+        window.location.href = "/";
+    };
+
+    const [session, setSession] = useState<any>(null);
+
+    useEffect(() => {
+        supabase.auth.getSession().then(({ data }) => setSession(data.session));
+    }, [supabase]);
+
+    // Fetch invite code when Invites modal opens
+    useEffect(() => {
+        if (activeMenuModal !== "Invites" || !session?.user) return;
+
+        const fetchInvite = async () => {
+            setInviteLoading(true);
+            try {
+                const { data: existing } = await supabase
+                    .rpc("get_my_invite", { p_user_id: session.user.id });
+
+                if (existing) {
+                    setInviteCode(existing.code);
+                    setInviteRemaining(existing.remaining);
+                } else {
+                    const { data: generated } = await supabase
+                        .rpc("generate_invite_code", { p_user_id: session.user.id });
+
+                    if (generated) {
+                        setInviteCode(generated.code);
+                        setInviteRemaining(generated.remaining);
+                    }
+                }
+            } catch (err) {
+                console.error("Error fetching invite:", err);
+            } finally {
+                setInviteLoading(false);
+            }
+        };
+
+        fetchInvite();
+    }, [activeMenuModal, session]);
+
+    const [recoveryAttemped, setRecoveryAttempted] = useState(false);
+
+    // Auto-recover effect
+    useEffect(() => {
+        // Check if we are viewing our own profile (by ID or username) but it's missing
+        const isMe = session?.user && (id === session.user.id || id === session.user.user_metadata?.username);
+
+        if (!user && !loading && isMe && !recoveryAttemped && !error) {
+            setRecoveryAttempted(true);
+            handleCreateProfile();
+        }
+    }, [user, loading, session, id, recoveryAttemped, error]);
+
+    const handleCreateProfile = async () => {
+        if (!session?.user) return;
+        setLoading(true);
+        try {
+            const userMeta = session.user.user_metadata;
+            const { error: insertError } = await supabase.from('profiles').insert({
+                id: session.user.id,
+                username: userMeta.username || session.user.id,
+                // name: schema mismatch
+                // handle: schema mismatch
+                first_name: userMeta.first_name,
+                last_name: userMeta.last_name,
+                avatar_url: userMeta.avatar_url || "",
+                created_at: new Date().toISOString(),
+                updated_at: new Date().toISOString()
+            });
+
+            if (insertError) {
+                if (insertError.code === '23505') { // unique_violation
+                    // Profile already exists, just reload
+                    window.location.reload();
+                    return;
+                }
+                throw insertError;
+            }
+            window.location.reload();
+        } catch (err: any) {
+            console.error("Failed to create profile:", err);
+            setError("Failed to recover profile: " + err.message);
+            setLoading(false);
         }
     };
 
     if (loading) {
+        // If we are recovering, show specific message
+        if (recoveryAttemped && !error) {
+            return (
+                <div className="min-h-screen flex flex-col items-center justify-center space-y-4">
+                    <Loader2 className="w-8 h-8 animate-spin text-zinc-400" />
+                    <p className="text-zinc-500 font-medium">Finalizing your profile setup...</p>
+                </div>
+            );
+        }
         return <div className="min-h-screen flex items-center justify-center"><Loader2 className="animate-spin" /></div>;
     }
 
     if (!user) {
-        return <div className="min-h-screen flex items-center justify-center">User not found</div>;
+        return (
+            <div className="min-h-screen flex flex-col items-center justify-center space-y-4 p-4 text-center">
+                <p className="text-xl font-bold">User not found</p>
+                <p className="text-zinc-500 max-w-md">
+                    We couldn't find a profile for <span className="font-mono bg-zinc-100 px-1 rounded">{id}</span>.
+                </p>
+
+                {error && (
+                    <div className="bg-red-50 p-4 rounded-xl border border-red-100 max-w-sm mx-auto mt-4">
+                        <p className="text-sm text-red-600 mb-3">{error}</p>
+                        <button
+                            onClick={handleCreateProfile}
+                            className="px-4 py-2 bg-red-600 text-white text-sm font-bold rounded-lg"
+                        >
+                            Try Again
+                        </button>
+                    </div>
+                )}
+
+                <Link href="/discover" className="text-sm font-medium underline text-zinc-400 hover:text-black mt-8">
+                    Return to Feed
+                </Link>
+            </div>
+        );
     }
 
     return (
@@ -412,20 +537,37 @@ export default function ProfilePage() {
                                 </div>
                                 <div className="space-y-2">
                                     <h3 className="text-xl font-bold text-foreground">Invite your friends</h3>
-                                    <p className="text-sm text-zinc-400 px-8">Share the scene with your inner circle. You have 2 invites left.</p>
+                                    <p className="text-sm text-zinc-400 px-8">
+                                        {inviteLoading
+                                            ? "Loading your invite code..."
+                                            : `Share the scene with your inner circle. You have ${inviteRemaining} invite${inviteRemaining !== 1 ? "s" : ""} left.`
+                                        }
+                                    </p>
                                 </div>
-                                <div className="p-4 bg-zinc-50 rounded-2xl border border-black/5 flex justify-between items-center">
-                                    <code className="text-black font-mono font-bold">SCENE-SUMIN-2026</code>
-                                    <button
-                                        onClick={() => {
-                                            navigator.clipboard.writeText("SCENE-SUMIN-2026");
-                                            alert("Invite code copied!");
-                                        }}
-                                        className="text-xs font-bold text-white bg-black px-4 py-2 rounded-full active:scale-95 transition-all"
-                                    >
-                                        Copy
-                                    </button>
-                                </div>
+                                {inviteLoading ? (
+                                    <div className="p-4 bg-zinc-50 rounded-2xl border border-black/5 flex items-center justify-center">
+                                        <Loader2 className="w-5 h-5 animate-spin text-zinc-400" />
+                                    </div>
+                                ) : inviteCode ? (
+                                    <div className="p-4 bg-zinc-50 rounded-2xl border border-black/5 flex justify-between items-center">
+                                        <code className="text-black font-mono font-bold text-sm">{inviteCode}</code>
+                                        <button
+                                            onClick={() => {
+                                                navigator.clipboard.writeText(inviteCode);
+                                                setInviteCopied(true);
+                                                setTimeout(() => setInviteCopied(false), 2000);
+                                            }}
+                                            className={cn(
+                                                "text-xs font-bold px-4 py-2 rounded-full active:scale-95 transition-all flex items-center gap-1.5",
+                                                inviteCopied ? "bg-green-500 text-white" : "bg-black text-white"
+                                            )}
+                                        >
+                                            {inviteCopied ? <><Check className="w-3 h-3" /> Copied</> : <><Copy className="w-3 h-3" /> Copy</>}
+                                        </button>
+                                    </div>
+                                ) : (
+                                    <p className="text-sm text-zinc-400">Could not load invite code.</p>
+                                )}
                             </div>
                         )}
 
@@ -451,7 +593,7 @@ export default function ProfilePage() {
                             <div className="space-y-6">
                                 <h3 className="text-xl font-bold text-foreground">Select Home City</h3>
                                 <div className="grid grid-cols-1 gap-2">
-                                    {["New York, NY", "Los Angeles, CA", "Chicago, IL", "Miami, FL", "London, UK"].map((city) => (
+                                    {["New York, NY"].map((city) => (
                                         <button
                                             key={city}
                                             onClick={() => setActiveMenuModal(null)}
@@ -537,7 +679,7 @@ export default function ProfilePage() {
                                 </div>
                                 <div className="space-y-3 pt-4">
                                     <button
-                                        onClick={() => window.location.href = "/"}
+                                        onClick={handleLogout}
                                         className="w-full py-5 bg-[#FF3B30] text-white rounded-2xl font-bold text-base shadow-[0_8px_30px_rgb(255,59,48,0.3)] active:scale-[0.98] transition-all"
                                     >
                                         Logout
@@ -590,7 +732,7 @@ export default function ProfilePage() {
 
                     <div className="py-2">
                         {[
-                            { icon: Mail, label: "You have 2 invites left!", color: "text-zinc-600", action: "Invites" },
+                            { icon: Mail, label: inviteCode ? `You have ${inviteRemaining} invite${inviteRemaining !== 1 ? "s" : ""} left!` : "Invites", color: "text-zinc-600", action: "Invites" },
                             { icon: Gift, label: "Unlock Features", color: "text-zinc-600", action: "Unlock" },
                             { icon: GraduationCap, label: "Add Your School", color: "text-zinc-600", action: "School" },
                             { icon: Settings, label: "Settings", color: "text-zinc-600", action: "OverallSettings" },
@@ -666,6 +808,11 @@ export default function ProfilePage() {
                                 >
                                     <Share className="w-5 h-5" />
                                 </button>
+                                {isOwner && (
+                                    <div className="md:hidden">
+                                        <NotificationBell />
+                                    </div>
+                                )}
                                 {isOwner && (
                                     <button
                                         onClick={() => setIsMenuOpen(true)}

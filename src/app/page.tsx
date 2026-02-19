@@ -22,7 +22,7 @@ export default function OnboardingPage() {
                 The Scene
               </h1>
               <p className="text-zinc-400 font-serif text-xl italic">
-                NYC's Nightlife, Curated.
+                NYC, Curated. From Coffee to Cocktails.
               </p>
             </div>
 

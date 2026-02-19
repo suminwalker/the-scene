@@ -49,7 +49,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "bars-30s", "mixed-bars", "date-night", "daytime-30s", "hidden-gems"],
         intent: ["Impressive Night Out", "Sophisticated Drinks", "Cocktails"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1543007630-9710e4a00a20?q=80&w=1200",
+        image: "/images/venues/the-nines.jpg",
         address: "9 Great Jones St, New York, NY 10012",
         phone: "(212) 421-5575",
         website: "https://ninesnyc.com",
@@ -68,7 +68,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "bars-20s", "bars-30s", "mixed-bars", "daytime-mid-20s", "group-hangouts"],
         intent: ["People Watching", "Casual beers"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=1200", // Busy outdoor cafe
+        image: "/images/venues/fanelli-cafe.jpg", // Busy outdoor cafe
         address: "94 Prince St, New York, NY 10012",
         phone: "(212) 226-9412",
         website: "https://fanellicafe.nyc",
@@ -87,7 +87,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "bars-20s", "bars-30s", "group-hangouts", "daytime-30s", "mixed-bars"],
         intent: ["Networking", "Lively Dinner", "Cocktails"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=1200", // Elegant cocktail
+        image: "/images/venues/american-bar.jpg", // Elegant cocktail
         address: "33 Greenwich Ave, New York, NY 10014",
         phone: "(212) 888-8888",
         website: "https://americanbarnyc.com",
@@ -106,7 +106,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "rooftops-30s", "mixed-rooftops", "work-from-bar", "daytime-30s"],
         intent: ["Impressive social", "Group drinks"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?q=80&w=1200", // Rooftop pool vibe
+        image: "/images/venues/soho-house-meatpacking.jpg", // Rooftop pool vibe
         address: "29-35 9th Ave, New York, NY 10014",
         phone: "(212) 627-9800",
         website: "https://sohohouse.com",
@@ -125,7 +125,7 @@ export const PLACES: Place[] = [
         age: ["21-24", "25-29", "bars-20s", "daytime-early-20s", "mixed-bars", "date-night", "group-hangouts"],
         intent: ["Birthday dinner", "Event dining", "Wine"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1550966871-3ed3c47e2ce2?q=80&w=1200", // Busy bistro
+        image: "/images/venues/lucien.jpg", // Busy bistro
         address: "14 1st Ave, New York, NY 10009",
         phone: "(212) 260-6481",
         website: "https://luciennyc.com",
@@ -144,7 +144,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "hidden-gems", "bars-30s", "clubs", "late-night"],
         intent: ["Late night party", "Exclusive access"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?q=80&w=1200", // Sleek modern lounge
+        image: "/images/venues/zero-bond.jpg", // Sleek modern lounge
         address: "0 Bond St, New York, NY 10012",
         phone: "",
         website: "https://zerobond.com",
@@ -163,7 +163,7 @@ export const PLACES: Place[] = [
         age: ["21-24", "25-29", "bars-20s", "late-night", "mixed-bars", "daytime-early-20s", "group-hangouts"],
         intent: ["Late night fun", "Meeting someone wild", "Happy Hour"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=1200", // Dive bar neon
+        image: "/images/venues/rays.jpg", // Dive bar neon
         address: "177 Chrystie St, New York, NY 10002",
         phone: "(555) 555-5555",
         website: "https://raysbarnyc.com",
@@ -182,7 +182,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "bars-30s", "mixed-bars", "late-night", "work-from-bar", "hidden-gems", "daytime-30s"],
         intent: ["Impressive Night Out", "Late Night Fun", "Live Jazz"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1200",
+        image: "/images/venues/soho-grand-hotel.jpg",
         address: "310 West Broadway, New York, NY 10013",
         phone: "(212) 965-3000",
         website: "https://sohogrand.com",
@@ -201,7 +201,7 @@ export const PLACES: Place[] = [
         age: ["21-24", "25-29", "clubs", "bars-20s", "late-night"],
         intent: ["Dancing", "Bottle Service", "Late Night party"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?q=80&w=1200",
+        image: "/images/venues/mission-nightclub.png",
         address: "229 W 28th St, New York, NY 10001",
         phone: "(646) 850-0466",
         website: "https://missionny.com",
@@ -220,7 +220,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "35-39", "group-hangouts", "mixed-bars", "daytime-mid-20s"],
         intent: ["Dinner Party Vibe", "Casual Dinner", "Special Gathering"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=1200",
+        image: "/images/venues/emmetts-on-grove.jpg",
         address: "39 Grove St, New York, NY 10014",
         phone: "(646) 370-3858",
         website: "https://emmettsongrove.com",
@@ -239,7 +239,7 @@ export const PLACES: Place[] = [
         age: ["21-24", "25-29", "rooftops-20s", "mixed-rooftops", "late-night"],
         intent: ["Dancing", "Views"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=1200",
+        image: "/images/venues/art-soho.jpg",
         address: "231 Hudson St, New York, NY 10013",
         phone: "(929) 588-8422",
         website: "https://artrooftops.com/location/soho/",
@@ -258,7 +258,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "rooftops-30s", "mixed-rooftops", "date-night"],
         intent: ["Impressive Drinks", "Views", "Cocktails"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?q=80&w=1200",
+        image: "/images/venues/the-skylark.jpg",
         address: "200 W 39th St, New York, NY 10018",
         phone: "(212) 257-4577",
         website: "https://theskylarknyc.com/",
@@ -278,7 +278,7 @@ export const PLACES: Place[] = [
         age: ["30-34"],
         intent: ["Fine Dining"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=1200",
+        image: "/images/venues/the-brothers-sushi-santa-monica.jpg",
         address: "1151 2nd St, Santa Monica, CA 90403",
         phone: "(424) 330-0214",
         website: "https://thebrotherssushi.com",
@@ -297,7 +297,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "bars-20s", "bars-30s", "mixed-bars", "group-hangouts", "work-from-bar", "daytime-mid-20s"],
         intent: ["Casual drinks", "Comfort food", "Happy Hour"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=1200",
+        image: "/images/venues/mary-os.jpg",
         address: "32 Avenue A, New York, NY 10009",
         phone: "(212) 673-0770",
         website: "https://maryos.nyc",
@@ -316,7 +316,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "date-night", "daytime-early-20s", "daytime-mid-20s", "daytime-30s", "work-from-bar", "hidden-gems", "group-hangouts"],
         intent: ["Date Night", "Coffee"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1200",
+        image: "/images/venues/corto.jpg",
         address: "357 Nostrand Ave, Brooklyn, NY 11216",
         phone: "(917) 914-7221",
         website: "https://cortobk.com",
@@ -335,7 +335,7 @@ export const PLACES: Place[] = [
         age: ["21-24", "25-29", "daytime-early-20s", "daytime-mid-20s", "work-from-bar", "hidden-gems"],
         intent: ["Work", "Casual Meetup"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?q=80&w=1200",
+        image: "/images/venues/ludlow-coffee-supply.jpg",
         address: "176 Ludlow St, New York, NY 10002",
         phone: "(212) 777-7463",
         website: "https://ludlowcoffeesupply.com",
@@ -356,7 +356,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "bars-30s", "mixed-bars", "daytime-30s", "hidden-gems"],
         intent: ["Celebrity Spotting", "Power Lunch"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1564501049412-61c2a3083791?q=80&w=1200", // Garden patio
+        image: "/images/venues/chateau-marmont.jpg", // Garden patio
         address: "8221 Sunset Blvd, Los Angeles, CA 90046",
         phone: "(323) 656-1010",
         website: "https://chateaumarmont.com",
@@ -375,7 +375,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "bars-20s", "bars-30s", "mixed-bars", "date-night"],
         intent: ["Dinner Party Vibe", "First Date"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1200", // Modern bistro
+        image: "/images/venues/horses.jpg", // Modern bistro
         address: "7617 Sunset Blvd, Los Angeles, CA 90046",
         phone: "",
         website: "https://horsesla.com",
@@ -394,7 +394,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "daytime-mid-20s", "daytime-30s", "mixed-bars", "group-hangouts"],
         intent: ["Casual Dinner", "People Watching"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1200", // Rustic restaurant
+        image: "/images/venues/gjelina.jpg", // Rustic restaurant
         address: "1429 Abbot Kinney Blvd, Venice, CA 90291",
         phone: "(310) 450-1429",
         website: "https://gjelina.com",
@@ -413,7 +413,7 @@ export const PLACES: Place[] = [
         age: ["35-39", "bars-30s", "date-night", "hidden-gems"],
         intent: ["Special Occasion", "Quiet Conversation"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1561582200-c9a781b0f555?q=80&w=1200", // Elegant bar
+        image: "/images/venues/tower-bar.jpg", // Elegant bar
         address: "8358 Sunset Blvd, Los Angeles, CA 90069",
         phone: "(323) 848-6677",
         website: "https://sunsettowerhotel.com",
@@ -432,7 +432,7 @@ export const PLACES: Place[] = [
         age: ["21-24", "25-29", "daytime-early-20s", "daytime-mid-20s", "group-hangouts"],
         intent: ["Post-workout", "See and be Seen"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1577366366530-5bb287b94998?q=80&w=1200", // Bright smoothie shop
+        image: "/images/venues/erewhon-beverly.jpg", // Bright smoothie shop
         address: "339 N Beverly Dr, Beverly Hills, CA 90210",
         phone: "",
         website: "https://erewhonmarket.com",
@@ -451,7 +451,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "rooftops-20s", "rooftops-30s", "mixed-rooftops", "late-night"],
         intent: ["Views", "Socializing"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=1200",
+        image: "/images/venues/the-edition-rooftop.jpg",
         address: "9040 Sunset Blvd, West Hollywood, CA 90069",
         phone: "(310) 953-9000",
         website: "https://editionhotels.com",
@@ -472,7 +472,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "bars-30s", "mixed-bars", "date-night", "daytime-30s"],
         intent: ["Impressive Date", "Celebrity Spotting"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?q=80&w=1200", // Grand courtyard
+        image: "/images/venues/chiltern-firehouse.jpg", // Grand courtyard
         address: "1 Chiltern St, London W1U 7PA",
         phone: "+44 20 7073 7676",
         website: "https://chilternfirehouse.com",
@@ -491,7 +491,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "date-night", "hidden-gems", "bars-30s"],
         intent: ["Dinner Party", "Romantic Evening"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1200", // Decayed grandeur
+        image: "/images/venues/sessions-arts-club.jpg", // Decayed grandeur
         address: "24 Clerkenwell Green, London EC1R 0NA",
         phone: "",
         website: "https://sessionsartsclub.com",
@@ -510,7 +510,7 @@ export const PLACES: Place[] = [
         age: ["21-24", "25-29", "30-34", "35-39", "daytime-30s", "daytime-mid-20s", "mixed-bars"],
         intent: ["Afternoon Tea", "Photo Op"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1547620615-5d9c6e5a5286?q=80&w=1200", // Pink artistic room
+        image: "/images/venues/sketch.jpg", // Pink artistic room
         address: "9 Conduit St, London W1S 2XG",
         phone: "+44 20 7659 4500",
         website: "https://sketch.london",
@@ -529,7 +529,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "bars-20s", "late-night", "mixed-bars", "hidden-gems"],
         intent: ["Music Appreciation", "Late Night"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1571204829887-3b8d69f4b04c?q=80&w=1200", // Vinyl bar
+        image: "/images/venues/brilliant-corners.jpg", // Vinyl bar
         address: "470 Kingsland Rd, London E8 4AE",
         phone: "",
         website: "https://brilliantcornerslondon.co.uk",
@@ -548,7 +548,7 @@ export const PLACES: Place[] = [
         age: ["35-39", "bars-30s", "date-night"],
         intent: ["Best Martini in World", "Business Deal"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1597075687490-8f673c6c17f6?q=80&w=1200", // Elegant silver bar
+        image: "/images/venues/connaught-bar.jpg", // Elegant silver bar
         address: "Connaught, Carlos Pl, London W1K 2AL",
         phone: "+44 20 7499 7070",
         website: "https://the-connaught.co.uk",
@@ -568,7 +568,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "date-night", "group-hangouts", "mixed-bars"],
         intent: ["Dinner Party", "Cocktails"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1200", // Elegant dining
+        image: "/images/venues/chinese-tuxedo.jpg", // Elegant dining
         address: "5 Doyers St, New York, NY 10013",
         phone: "(646) 895-9301",
         website: "https://chinesetuxedo.com",
@@ -587,7 +587,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "date-night", "foodie"],
         intent: ["Fine Dining", "Impressive Date"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=1200",
+        image: "/images/venues/estela.jpg",
         address: "47 E Houston St, New York, NY 10012",
         phone: "(212) 219-7693",
         website: "https://estelanyc.com",
@@ -606,7 +606,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "parents", "business"],
         intent: ["Special Occasion", "Business Lunch"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=1200",
+        image: "/images/venues/gramercy-tavern.jpg",
         address: "42 E 20th St, New York, NY 10003",
         phone: "(212) 477-0777",
         website: "https://gramercytavern.com",
@@ -625,7 +625,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "group-hangouts", "celebration"],
         intent: ["Birthday Dinner", "Lively Dinner"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1544148103-0773bf10d330?q=80&w=1200",
+        image: "/images/venues/cote.jpg",
         address: "16 W 22nd St, New York, NY 10010",
         phone: "(212) 401-7986",
         website: "https://cotenyc.com",
@@ -644,7 +644,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "date-night", "business"],
         intent: ["Steak Dinner", "Classic NYC"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1550966871-3ed3c47e2ce2?q=80&w=1200",
+        image: "/images/venues/minetta-tavern.jpg",
         address: "113 MacDougal St, New York, NY 10012",
         phone: "(212) 475-3850",
         website: "https://minettatavernny.com",
@@ -663,7 +663,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "date-night", "old-school"],
         intent: ["Martinis", "Live Jazz", "Quiet Conversation"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?q=80&w=1200",
+        image: "/images/venues/bemelmans-bar.png",
         address: "35 E 76th St, New York, NY 10021",
         phone: "(212) 744-1600",
         website: "https://rosewoodhotels.com",
@@ -684,7 +684,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "rooftops-20s", "mixed-rooftops", "group-hangouts"],
         intent: ["Views", "Lively Dinner", "Sunset"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=1200",
+        image: "/images/venues/laser-wolf.jpg",
         address: "97 Wythe Ave, Brooklyn, NY 11249",
         phone: "(718) 215-7150",
         website: "https://laserwolfbrooklyn.com",
@@ -703,7 +703,7 @@ export const PLACES: Place[] = [
         age: ["21-24", "25-29", "bars-20s", "mixed-bars", "late-night", "clubs"],
         intent: ["Dancing", "Hookup", "Party"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1571204829887-3b8d69f4b04c?q=80&w=1200",
+        image: "/images/venues/fourfivesix.png",
         address: "199 Richardson St, Brooklyn, NY 11222",
         phone: "",
         website: "https://456live.com",
@@ -722,7 +722,7 @@ export const PLACES: Place[] = [
         age: ["21-24", "25-29", "clubs", "hidden-gems", "late-night"],
         intent: ["Dancing", "Show", "Wild Night"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?q=80&w=1200",
+        image: "/images/venues/house-of-yes.jpg",
         address: "2 Wyckoff Ave, Brooklyn, NY 11237",
         phone: "",
         website: "https://houseofyes.org",
@@ -741,7 +741,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "mixed-bars", "group-hangouts"],
         intent: ["Comfort Food", "Casual Dinner"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1550966871-3ed3c47e2ce2?q=80&w=1200",
+        image: "/images/venues/bernies.jpg",
         address: "332 Driggs Ave, Brooklyn, NY 11222",
         phone: "(347) 529-6400",
         website: "https://berniesnyc.com",
@@ -760,7 +760,7 @@ export const PLACES: Place[] = [
         age: ["30-34", "35-39", "date-night", "parents"],
         intent: ["Views", "Waterfront", "Impressive Lunch"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1200",
+        image: "/images/venues/cecconis-dumbo.png",
         address: "55 Water St, Brooklyn, NY 11201",
         phone: "(718) 650-3900",
         website: "https://cecconisdumbo.com",
@@ -779,7 +779,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "date-night", "brunch"],
         intent: ["Brunch", "Patio Dining"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1544148103-0773bf10d330?q=80&w=1200",
+        image: "/images/venues/miss-ada.jpg",
         address: "184 Dekalb Ave, Brooklyn, NY 11205",
         phone: "(917) 909-1023",
         website: "https://missadanyc.com",
@@ -798,7 +798,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "mixed-bars", "group-hangouts"],
         intent: ["Casual Drinks", "Brunch", "Live Music"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=1200",
+        image: "/images/venues/sisters.jpg",
         address: "900 Fulton St, Brooklyn, NY 11238",
         phone: "(347) 763-2537",
         website: "https://sistersbklyn.com",
@@ -817,7 +817,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "bars-30s", "date-night"],
         intent: ["Oysters", "Craft Cocktails"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1561582200-c9a781b0f555?q=80&w=1200",
+        image: "/images/venues/grand-army.jpg",
         address: "336 State St, Brooklyn, NY 11217",
         phone: "(718) 422-7867",
         website: "https://grandarmybar.com",
@@ -836,7 +836,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "35-39", "date-night", "foodie"],
         intent: ["Legendary Food", "BYOB"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=1200",
+        image: "/images/venues/lucali.jpg",
         address: "575 Henry St, Brooklyn, NY 11231",
         phone: "(718) 858-4086",
         website: "",
@@ -855,7 +855,7 @@ export const PLACES: Place[] = [
         age: ["25-29", "30-34", "bars-20s", "mixed-bars", "group-hangouts"],
         intent: ["Bocce", "Comedy", "Casual Hang"],
         editorial: "",
-        image: "https://images.unsplash.com/photo-1597075687490-8f673c6c17f6?q=80&w=1200", // Dark interior
+        image: "/images/venues/union-hall.png", // Dark interior
         address: "702 Union St, Brooklyn, NY 11215",
         phone: "(718) 638-4400",
         website: "https://unionhallny.com",

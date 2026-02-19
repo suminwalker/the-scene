@@ -24,8 +24,6 @@ export function SearchHeader({ }: SearchHeaderProps) {
 
     const CITIES_LIST = [
         { id: "nyc", name: "New York City" },
-        { id: "la", name: "Los Angeles" },
-        { id: "ldn", name: "London" }
     ];
 
     const results = useMemo(() => {

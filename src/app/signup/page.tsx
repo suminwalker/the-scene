@@ -1,7 +1,7 @@
 "use client";
 
-import { useState } from "react";
-import { useRouter } from "next/navigation";
+import { useState, useEffect } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { AppContainer } from "@/components/layout/AppContainer";
 import { TopBar } from "@/components/layout/TopBar";
@@ -16,17 +16,19 @@ const ALLOWED_TEST_DATA = {
     usernames: ["testuser", "admin", "suminwalker", "demo"]
 };
 
-type SignupStep = "start" | "phone" | "username" | "name" | "age" | "neighborhoods" | "familiarity" | "dislikes" | "location" | "instagram" | "tiktok" | "email-confirmation-pending";
+type SignupStep = "invite" | "start" | "phone" | "username" | "name" | "age" | "neighborhoods" | "familiarity" | "dislikes" | "location" | "instagram" | "tiktok" | "email-confirmation-pending";
 type LocationPermission = "always" | "while_using" | "never";
 
 export default function SignupPage() {
     const router = useRouter();
+    const searchParams = useSearchParams();
     const supabase = createClient();
-    const [step, setStep] = useState<SignupStep>("phone");
+    const [step, setStep] = useState<SignupStep>("invite");
     const [prevStep, setPrevStep] = useState<SignupStep | null>(null);
     const [isLoading, setIsLoading] = useState(false);
     const [isCheckingPhone, setIsCheckingPhone] = useState(false);
     const [serverError, setServerError] = useState<string | null>(null);
+    const [inviteError, setInviteError] = useState<string | null>(null);
 
     // Form State
     const [formData, setFormData] = useState({
@@ -47,10 +49,19 @@ export default function SignupPage() {
         location: null as { lat: number; lng: number } | null,
         locationPermission: null as LocationPermission | null,
         instagram: "",
-        tiktok: ""
+        tiktok: "",
+        inviteCode: ""
     });
     const [showLocationModal, setShowLocationModal] = useState(false);
     const [showCountryModal, setShowCountryModal] = useState(false);
+
+    // Pre-fill invite code from URL query param
+    useEffect(() => {
+        const code = searchParams.get("invite");
+        if (code) {
+            setFormData(prev => ({ ...prev, inviteCode: code }));
+        }
+    }, [searchParams]);
 
     const [showPassword, setShowPassword] = useState(false);
 
@@ -100,7 +111,8 @@ export default function SignupPage() {
         }
 
         setPrevStep(step);
-        if (step === "phone") setStep("username");
+        if (step === "invite") setStep("phone");
+        else if (step === "phone") setStep("username");
         else if (step === "username") setStep("name");
         else if (step === "name") setStep("age");
         else if (step === "age") setStep("neighborhoods");
@@ -115,11 +127,15 @@ export default function SignupPage() {
     const handleCompleteSignup = async () => {
         setIsLoading(true);
         try {
-            // 1. Sign up the user with metadata
-            // The handle_new_user trigger will automatically create the profile row
+            // Generate email from phone for Supabase auth
+            // This allows users to log in with their phone number
+            const normalizedPhone = formData.phone.replace(/\D/g, "");
+            const generatedEmail = `${formData.countryCode.replace("+", "")}${normalizedPhone}@thescene.app`;
+            const generatedPassword = formData.password || `scene_${normalizedPhone}_auth`;
+
             const { data: authData, error: authError } = await supabase.auth.signUp({
-                email: formData.email,
-                password: formData.password,
+                email: generatedEmail,
+                password: generatedPassword,
                 options: {
                     data: {
                         full_name: `${formData.firstName} ${formData.lastName}`,
@@ -130,7 +146,7 @@ export default function SignupPage() {
                         age_bracket: formData.ageBracket,
                         neighborhoods: formData.neighborhoods,
                         not_familiar: formData.notFamiliar,
-                        dislikes: formData.dislikes, // Will be mapped to 'dislikes' column in DB
+                        dislikes: formData.dislikes,
                         location_permission: formData.locationPermission || "never",
                         instagram: formData.instagram,
                         tiktok: formData.tiktok
@@ -146,6 +162,19 @@ export default function SignupPage() {
             }
 
             if (authData.user) {
+                // Redeem invite code if provided
+                if (formData.inviteCode.trim()) {
+                    try {
+                        await supabase.rpc("redeem_invite_code", {
+                            p_code: formData.inviteCode.trim(),
+                            p_redeemer_id: authData.user.id
+                        });
+                    } catch (inviteErr) {
+                        console.error("Invite redemption error:", inviteErr);
+                        // Don't block signup for invite errors
+                    }
+                }
+
                 // 2. Check if session exists (user is logged in)
                 if (authData.session) {
                     // User is logged in (email confirmation disabled or auto-confirmed)
@@ -192,7 +221,11 @@ export default function SignupPage() {
     };
 
     const handleBack = () => {
-        if (step === "phone") router.push("/");
+        if (step === "invite") {
+            router.push("/");
+            return;
+        }
+        else if (step === "phone") setStep("invite");
         else if (step === "username") setStep("phone");
         else if (step === "name") setStep("username");
         else if (step === "age") setStep("name");
@@ -205,6 +238,7 @@ export default function SignupPage() {
 
     const isStepValid = () => {
         if (error) return false;
+        if (step === "invite") return true; // invite code is optional
         if (step === "phone") return formData.phone.length >= 10 || ALLOWED_TEST_DATA.phones.includes(formData.phone);
         if (step === "name") return formData.firstName.trim() !== "" && formData.lastName.trim() !== "";
         if (step === "username") return formData.username.length >= 6 || ALLOWED_TEST_DATA.usernames.includes(formData.username);
@@ -235,14 +269,15 @@ export default function SignupPage() {
     };
 
     // Total steps calculation
-    const currentStepIndex = ["start", "phone", "username", "name", "age", "neighborhoods", "familiarity", "dislikes", "location", "instagram", "tiktok"].indexOf(step);
-    const totalSteps = 11;
+    const currentStepIndex = ["invite", "start", "phone", "username", "name", "age", "neighborhoods", "familiarity", "dislikes", "location", "instagram", "tiktok"].indexOf(step);
+    const totalSteps = 12;
     const progress = Math.max(0, (currentStepIndex / (totalSteps - 1)) * 100);
 
     const direction = prevStep ? (getStepOrder(step) > getStepOrder(prevStep) ? 1 : -1) : 1;
 
     function getStepOrder(s: SignupStep) {
         const orders: Record<SignupStep, number> = {
+            "invite": -2,
             "start": -1,
             "phone": 0,
             "username": 1,
@@ -261,6 +296,7 @@ export default function SignupPage() {
 
     const getStepVisual = () => {
         const visuals: Record<SignupStep, { type: 'gradient' | 'image'; value: string }> = {
+            "invite": { type: 'gradient', value: 'linear-gradient(135deg, #434343 0%, #000000 100%)' },
             "start": { type: 'image', value: '/images/landing-bg.jpg' },
             "phone": { type: 'gradient', value: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)' },
             "username": { type: 'gradient', value: 'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)' },
@@ -304,6 +340,43 @@ export default function SignupPage() {
                             >
                                 {/* Scrollable Content Area */}
                                 <div className="flex-1 overflow-y-auto px-6 py-4 no-scrollbar">
+                                    {/* Step: Invite Code */}
+                                    {step === "invite" && (
+                                        <div className="space-y-12">
+                                            <div className="space-y-3">
+                                                <h1 className="text-4xl font-serif tracking-tight leading-tight">
+                                                    Got an invite?
+                                                </h1>
+                                                <p className="text-zinc-400 text-sm leading-relaxed">
+                                                    Enter a friend&apos;s invite code to join their circle. Or skip to continue without one.
+                                                </p>
+                                            </div>
+                                            <div className="relative group">
+                                                <div className="border-b-2 border-zinc-100 focus-within:border-black transition-all pb-2">
+                                                    <input
+                                                        autoFocus
+                                                        type="text"
+                                                        value={formData.inviteCode}
+                                                        onChange={(e) => {
+                                                            setFormData({ ...formData, inviteCode: e.target.value.toUpperCase() });
+                                                            setInviteError(null);
+                                                        }}
+                                                        placeholder="SCENE-XXXX-XXXX"
+                                                        className="w-full bg-transparent text-xl font-mono focus:outline-none placeholder:text-zinc-200 tracking-wider"
+                                                    />
+                                                </div>
+                                                {inviteError && (
+                                                    <p className="mt-4 text-sm text-red-500">{inviteError}</p>
+                                                )}
+                                                {formData.inviteCode && (
+                                                    <p className="mt-4 text-[10px] text-zinc-400 font-mono uppercase tracking-wider">
+                                                        Code will be validated after you create your account
+                                                    </p>
+                                                )}
+                                            </div>
+                                        </div>
+                                    )}
+
                                     {/* Step: Phone */}
                                     {step === "phone" && (
                                         <div className="space-y-12">
@@ -609,7 +682,26 @@ export default function SignupPage() {
 
                                 {/* Fixed Footer Area */}
                                 <div className="flex-none p-6 pt-2 bg-gradient-to-t from-white via-white/95 to-white/0 backdrop-blur-[2px]">
-                                    {step === "location" ? (
+                                    {step === "invite" ? (
+                                        <div className="w-full space-y-3">
+                                            <button
+                                                onClick={handleNext}
+                                                disabled={!formData.inviteCode.trim()}
+                                                className="w-full bg-black text-white py-6 rounded-3xl font-medium text-lg active:scale-[0.98] transition-all disabled:opacity-30 disabled:cursor-not-allowed shadow-xl"
+                                            >
+                                                Continue with Code
+                                            </button>
+                                            <button
+                                                onClick={() => {
+                                                    setPrevStep(step);
+                                                    setStep("phone");
+                                                }}
+                                                className="w-full py-3 text-sm font-medium text-zinc-400"
+                                            >
+                                                Skip — I don&apos;t have a code
+                                            </button>
+                                        </div>
+                                    ) : step === "location" ? (
                                         <div className="w-full space-y-4">
                                             <button onClick={() => requestLocation()} className="w-full py-5 bg-black text-white rounded-3xl font-bold text-sm shadow-xl">Allow Location</button>
                                             <button onClick={handleNext} className="w-full py-3 text-sm font-medium text-zinc-400">Not now</button>
@@ -644,7 +736,7 @@ export default function SignupPage() {
                         {currentVisual.type === 'gradient' && (
                             <div className="text-center text-white/90 p-12">
                                 <h2 className="text-5xl font-serif mb-4">The Scene</h2>
-                                <p className="text-lg font-light">NYC's Nightlife, Curated</p>
+                                <p className="text-lg font-light">NYC, Curated. From Coffee to Cocktails.</p>
                             </div>
                         )}
                     </div>

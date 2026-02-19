@@ -8,6 +8,8 @@ as $$
 begin
   insert into public.profiles (
     id,
+    name, -- Added: map from full_name
+    handle, -- Added: map from username
     username,
     first_name,
     last_name,
@@ -23,6 +25,8 @@ begin
   )
   values (
     new.id,
+    new.raw_user_meta_data ->> 'full_name',
+    new.raw_user_meta_data ->> 'username',
     new.raw_user_meta_data ->> 'username',
     new.raw_user_meta_data ->> 'first_name',
     new.raw_user_meta_data ->> 'last_name',

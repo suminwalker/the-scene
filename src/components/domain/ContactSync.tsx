@@ -129,8 +129,21 @@ export function ContactSync() {
         }
     };
 
-    const handleCopyLink = () => {
-        const link = "https://thescene.app/invite"; // Replace with real dynamic link if available
+    const handleCopyLink = async () => {
+        // Try to get user's invite code for a dynamic link
+        let link = "https://thescene.app/signup";
+        try {
+            const { data: { session } } = await supabase.auth.getSession();
+            if (session) {
+                const { data: invite } = await supabase
+                    .rpc("get_my_invite", { p_user_id: session.user.id });
+                if (invite?.code) {
+                    link = `https://thescene.app/signup?invite=${invite.code}`;
+                }
+            }
+        } catch (err) {
+            console.error("Error getting invite code:", err);
+        }
         navigator.clipboard.writeText(link);
         setCopied(true);
         setTimeout(() => setCopied(false), 2000);

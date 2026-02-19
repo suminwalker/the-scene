@@ -24107,7 +24107,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Gym equipment, fitness classes, a saltwater pool & juice bar offered in a modern, colorful facility.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4TLixVZYwokRfjpYrjwZ7Jc/photos/AcnlKN2uiIPp1GfBGKIiAgbEOMUKrVkuSVIeH4-Bk45skbBNIzHqpi4dyz9wG4wwMb-8r7nEvKUcDX68Wa6i_YSJpmZkCG5DGqxK0F5rwvWXKFq1yo3d9XCVutX9dUGg9jMB6WKWnce2dGk_Y-ylmMbpS6T64LBT0WN9mgcpwawm_Re_pujl8gxrwPo3y-18aMx8ux2SgqCBPaviriqnQWMlr5mtRDEtwIoe4Ski3MRa_gikyqgOWpIzmG2eHm7azxAQLTFeqBLZsi3adh97BWwFyX0poFP_FoPDMXBd8odAZFZQUQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4TLixVZYwokRfjpYrjwZ7Jc.jpg",
     "address": "355 W 49th St, New York, NY 10019, USA",
     "phone": "(917) 521-6666",
     "website": "https://www.tmplclubs.com/locations/tmpl-hells-kitchen?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_id=hells_kitchen",
@@ -24141,7 +24141,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJBWXY9oZZwokRA9xrSOqTNjc/photos/AcnlKN0Yw0xUCp7MIFch4VCwJbEzVq4kQ_r8LrQxs20iwdKXQnmSr1hRglIiArb9ec4319zyZSOdSDLqcNGTqwwwjmiec0feq3bPzz_EsfhA4OwOrauDxxnGthWq-jzYZwv0CBcVjmZsPaueMIiomZLFPSshgjTxxYUnsY3lVIDnitLnS_51TWgKk4_m9F4f_xUCzH3d062Y7eBIWa4cgm7_OzyT5BYV2nRl6dNhUyQ8B_Pun2ThSZ-mO90LALRWKjMeB-OB4gSkPVt6F8WIC2nk8IFBdiRfcZYT0bWKPuf6FUcf2Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJBWXY9oZZwokRA9xrSOqTNjc.jpg",
     "address": "405 W 51st St, New York, NY 10019, USA",
     "phone": "(646) 449-8684",
     "website": "http://flexbarnyc.com/",
@@ -24175,7 +24175,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzyGQtvtYwokRf9qLjSWZpqI/photos/AcnlKN3y39owIgT8sfeksKaaRyUfUIiNt1kKWh0xv03r3V5gBNvtMBNPuld3ylRCtRuyEnxCwwS9g3TtTO0bn8Ibt0J7Ak8cPGNvIy3tO8CCom3Xub_g1R1HkdQxx8QtHc57bf8qwE4gSNdi0AGcRCLna1JKT9pjaz_ICtYoF2LmSwOYdiSudacKxQH2WrdInRbkQuxfWXWpBnRzUi72KNTEzlxqSXTcuM1svtyZHCNQImZtOivjW7bjXxB16QwBu4xqqjB6benhrsa2GT62xcgy_ffMrZvucF_W4da4eIBu6xX-B9oR-PhjAY-B63m5stkYmdeh8lTrUXclG9vKxZoidtcx25jyMpBjh6AkA9oeuqVI_kjlVF8p798hI7KdaI1rb5T8Wl8F38Qq-M3lAdvPacAkMHUQ1KujmDPFoyacysFcSYss/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzyGQtvtYwokRf9qLjSWZpqI.jpg",
     "address": "1 W 54th St, New York, NY 10019, USA",
     "phone": "(212) 247-2100",
     "website": "http://www.universityclubny.org/",
@@ -24209,7 +24209,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Classy nightspot with a vintage vibe housing a collection of 750+ brown spirits, plus live jazz shows.",
-    "image": "https://places.googleapis.com/v1/places/ChIJiXS6uaVZwokRqjgLG65i9Gk/photos/AcnlKN1e6hUP--7D1UYeU5ZgXqAFwCo2lZzNcLpT25QZBFdIei9n7KlSLApSyD2jU6pLX4eZ1d0cO1Egm_pndOOQJmDEPFdUXLOwEeovb1e2U1OSuWq2usDvZ2qpYA-xRmU7z6WbjRj0oQMQNNkiV_AOLKF-MqhlAAyFOevUOMYK0ImrbFvoGJJd9T_qnJFJxIBup2di-1nTGcwr1OUWLOsrDV8tSm9y9d-3XQ1N2ZZVdy4t8FBEVNpkThXM5nAq1BIoDdX8lvmNA6dsqv-kgk9Dr1IeWdN8Y-WKzfD4wwO5lH7VIw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJiXS6uaVZwokRqjgLG65i9Gk.png",
     "address": "37 W 26th St, New York, NY 10010, USA",
     "phone": "(212) 725-3860",
     "website": "http://www.theflatironroom.com/",
@@ -24243,7 +24243,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Hip eatery serving brunch classics, pasta and meat dishes, plus wine and cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQ-CvczNZwokRpXG_aN7SPgE/photos/AcnlKN291WCEWGVWkId36PNKSNAZ7JRykTubmdnx_WnuuYgzk9Yh8rGh_-H2qoQ6hfXdCkTCbhpcU1qSMFUacLIYw6tD2ZsxKLN_gdn4WQmt2ElKizu9xDb-sAJ4Iq9_WojHdEh2ccZZ0RIEY6YMnYqppGIzavCoOlcYdN6c_m-CyAxZxR3KQ54H3NIacXLJOisfOjC4e7rkKGbl8gcbCIzv5r_TBjW3aR3qg7OXu267ZC4DvETMbGhOsR5tJ58wdkkoOZeXBh33LEeZBHd7nVQv5cKvDBQLuMJ1zIqwSblLjy0hbg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQ-CvczNZwokRpXG_aN7SPgE.jpg",
     "address": "37 W 24th St, New York, NY 10010, USA",
     "phone": "(332) 209-0473",
     "website": "https://www.holeinthewallnyc.com/flatiron-district",
@@ -24277,7 +24277,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Swanky, multi-level nightspot featuring pool tables, cocktails & a menu of upscale pizza & burgers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJSZr2ZqNZwokRN89ggdSWGiQ/photos/AcnlKN0eMvTGrDuZQQAMrULKmcze5bRv1hReS6uUS7YF7rK6ycKhG5Mw6_MhE5k2az1e97xV2gWJVQ1KMRN9YMAPFDdOxY17l3AF4XXxJIlXYh9LuvpSoHqLxRKiJnhHHzF6aOiZtSLtaohtm7BQfp27Tz2amIU35H6Iu3BSsfekucm6DMYSMve6SAvmmgsCBoDlcYr4UlRio84cPWZowV5DMCLZQPdhsGjOl7c7UBPMR4qvtZHSuUs1LHIUgGmSCD2fbuKjgoiQDC-nMI9FbXVDD_ozMv6TwJQCcZtk5-Gy2i8/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJSZr2ZqNZwokRN89ggdSWGiQ.jpg",
     "address": "54 W 21st St, New York, NY 10010, USA",
     "phone": "(212) 989-0096",
     "website": "http://www.slate-ny.com/",
@@ -24311,7 +24311,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Subterranean spot beneath a fine-dining restaurant with craft cocktails, champagne & jungle decor.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUVmSN75ZwokRq65jBAWX6Og/photos/AcnlKN0n6xCFqOJWNMnIxnASJJne4guQ6xyuuZZdWoPum0rokIlpphtHYm4y5Zm16NA6rAe3T9B1mEdj1YdlOymye8_LOFUNfqsV337I4B7Mw6MJ1-OcdB0n68AeVRCrhg73XnxzeZNje9Aozcu0LsxE2eLibMSJ35ArUBeO9lizIxxWacMkkQxmTdbNfvjXx70vxaJqnTctRvwcgCHWOUmAEjVEwy21LjepMxA5LRM9A_zVaHlUu5xsscYkxsRzZzcyRji_qc2AvCOYrFQMDRfCrSoHBIV7H2lqWlgmXYc7vSWH9sCPfA7_cUXCS2pU8AaJoVPsedez-FUt0yiDGxU_l6BrDmASiUNGUtNew80X8nm80MWPZvI_qnghvbbuESi39simpthAwVAVG10qCMT-E0lOkEqEQbKH7HsNYiJIOLUYpO43HKvr72v0ayGCIfl4/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUVmSN75ZwokRq65jBAWX6Og.jpg",
     "address": "16 W 22nd St, New York, NY 10010, USA",
     "phone": "(212) 401-7886",
     "website": "https://www.cotekoreansteakhouse.com/locations/location-undercote",
@@ -24345,7 +24345,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Richly furnished setting for spirits, raw-bar items, live jazz, and classic American food.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHweSsgBZwokRloB86aLgrzE/photos/AcnlKN2sKsS3Mk9L9TfZEp793ps2Jx-be4wnWQNE11ageTjvEh_03HnsrKVzscD49HVz-3Ooow5rwsekRDe2n3VkmxEJHjp0R5JbiDnn5CvIRiZSrzK7Bdim0npoPsCE3Dr6IbYo2mjkA_trNYFNeQCDzEuBg4M_98t1NCnEDAe1EHhRfN2C3HGF4JIr6K_S_J6iNmm6TO4DD_uNsknBEpxxNVyliztaOtaemS-FqFShYefwde6Fts_7RU_dMBgLMPK7ACJrqhH0_x7qjW35D_t4wyJVRk6q7Xcms8bpjb-X8HP2VA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHweSsgBZwokRloB86aLgrzE.jpg",
     "address": "9 E 37th St, New York, NY 10016, USA",
     "phone": "(212) 725-3866",
     "website": "https://theflatironroom.com/",
@@ -24379,7 +24379,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJiy6z0-NZwokR7WHqoTS8wSE/photos/AcnlKN0MZx78xiRjfrjI6CogVMitJr_Cb3-Kq2Tl9YFdmQIt008hckSXXmACxvTCQqQcV2WYcbrwdM4YjKVM_I4uGmIuQWhZ02yYRHgR9iEMC0BC0v7Loe1okzaYB1jKiDFxC6KPvGWQXGiDvjU9J8fFyTToyEUFh-D4J1QRoIilJEPUCMUj9unMq2spJCvtc1t8K6aTHy6G_YGG4D3cttulsbGcuc0JGVo2HaIfJdo2GIiDOR8JcWG2sAXLra_jmbVppG6y6fouVKZZ-FkiDlrB-99FDoKuol0xUzUHUV9W13nzow/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJiy6z0-NZwokR7WHqoTS8wSE.jpg",
     "address": "37 W 20th St, New York, NY 10011, USA",
     "phone": "(212) 481-2432",
     "website": "http://shinjisbar.com/",
@@ -24413,7 +24413,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Stylish, bright eatery featuring market-driven Italian cuisine, regional wines & apéritifs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJPf0L06VZwokRD6L-7RV-7Yg/photos/AcnlKN11_EGQ_rQuMkMCnPenV7foHHyMxwBn2BE_11B4POwyn1JSRmmNCsrsf7Y1q0M4qkdk652CRPxN1iPPpieS9aydd3dbfoOl1dWNxpT-FmTjtX_M-iRWg1g__wt7gOOCHlA6BrRdAAfGsoZnoR93ZT1EM4pfhrVM07UUmJZBeD2_hCYMIkaxeOMYK0Tk1Ik_34LxaOjFjx9d-ToGWo_ldABurDVivPh1YjrpwPWhbhoz1ZtGrJNZCfrgElyHKENk6veiblD0nA3zKNh6lmn01DKQ38pIriWPETVinQl9FFKZ_A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJPf0L06VZwokRD6L-7RV-7Yg.jpg",
     "address": "1133 Broadway, New York, NY 10010, USA",
     "phone": "(212) 498-9696",
     "website": "https://www.lapecorabianca.com/",
@@ -24447,7 +24447,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJffCQAjZZwokRhdsmOjKihJo/photos/AcnlKN059RuDbYh8OA23RpZUprY5i-OjiAZWXUWUOfpU0R6nd_bq7k66DByeNrqM8qmPyCnyxjkALil6tyeH5M9i_pPVVCZLuzWwpOLMHU4JEWGXAvT-R_pffcDkfFbbeWl0LJ6SwKsndwMbnnqdPLRkdQvsq5OFfLraw69OytoPHpV8YtsBjgNq-9_2-3IBp2snfnrgCyRJB3_mBpNOK9W8_kmo16TXBjYqRZiZDk8hC-zuPUi-WGdLj5I9wlfkH1E5W-6XjB_tTcZ6ZRA50uxQxTB7D16BAFr0qR6nCqAebzy6wDsSqrKkvnFbfI5899jF6HipPBJXjclVgfcNejJzjpJfMbFoWwdRu_TCGazoL_moFbaxesHJZ-P6-TnphyjLKFtapcNQGslFiu6iiED5f-NZKsfMy0WTpks-S9BdPxqWrvhFgsTHQncCj1XzqF96/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJffCQAjZZwokRhdsmOjKihJo.jpg",
     "address": "928 Broadway, New York, NY 10010, USA",
     "phone": "(646) 663-8374",
     "website": "https://motekcafe.com/",
@@ -24481,7 +24481,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Branch of the famed Italian market, offering counters, restaurants & cooking demos.",
-    "image": "https://places.googleapis.com/v1/places/ChIJaeKcEaRZwokRcllXm5cM7J0/photos/AcnlKN0nUScMGpqhlYQQ-HF3EOwiKp6KxcLlUjSCtV18BHOPqroFFpcje5XViOVvvdTgybUaokJiu4AutAtVvuz8__qAvd3CVgyIs0t7Gy3Fuk9a2DrP6u0N4WwIRh41ukOB_GWUHlc9A58G2-oMMLb9vo9Mp53SjVx7kfTG92kJcQGMokkpBi8pBlaW04iM3Ni9rrxjNqziU2uiFdhn9sqMlhm4w7V1_3WZ6wfn25c5Zxv1aT3-brm30w_9qv8d0jIsmTqC47cKDAe38K0ZxTqbDbKNlPw6E2_z96rEX7PBIIuVliRAUZh6haokEk86Fz6jh7GnE-FX_rehyJnYUNzsRwb0bVF6NWnrx8HSTbes_qFjM_Y2XRBhcAd7mlQyyz5g1MTYFQZc-GUfeHU8tWwdrUdlSS8SIH-Hz85mTqq8cmM/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJaeKcEaRZwokRcllXm5cM7J0.jpg",
     "address": "200 5th Ave, New York, NY 10010, USA",
     "phone": "(212) 229-2560",
     "website": "https://www.eataly.com/us_en/stores/nyc-flatiron",
@@ -24515,7 +24515,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Scenic rooftop setting for elevated Italian cuisine, house brewed ales & high-end imported beer.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7X-_DaRZwokRnu0oxe0crlo/photos/AcnlKN2GmgQkJZIaGwjWuF7rqG2ZifLF4O8eIVbfHMRgehuZpMemFHWGkWYdyNrYdGcxEkW_kAfvoD9_CVY11-vYhqaYWvuUw4zZFuVs7GUBmxkOTfFId1uefV-kQujB4oaOe4PRovRx6KbSnDaV-Ai7T3ymosqh38-581DxK_hiFC6K-J5Mb0P0T89RfvSEmlHuvR5VzrNJr0dGnxreVO3M6-97Lz99d1A-FWST6w0IdRgfyArTi_63UA-vNnjPlITLBMgzoqegnpWpV8nMSj81xhnjMxCLXG_ym4em8bjKo-iHdw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7X-_DaRZwokRnu0oxe0crlo.jpg",
     "address": "200 5th Ave, New York, NY 10010, USA",
     "phone": "(212) 229-2560",
     "website": "https://www.eataly.com/us_en/stores/nyc-flatiron/restaurants/serra-by-birreria",
@@ -24549,7 +24549,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Seafood eatery with beachfront feel that has both a lobster & raw bar, plus wine & cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuXGLjqNZwokRDEG5LwpEBzk/photos/AcnlKN3Ozz36DR-ImJnZl0cVfAwRTxjMK18oc_zJrvb5dUpWqANHQo7ezOjU0zfqEVyLUaNL5eXgdGFUiwbMt5lc2tKCYPW7qn5ljwEPR8hLjto6PxiAPiNuOBKeLThZJDhteXyjHav6t7wtnhvd9D6rOjdhiLupSXX7abKtx1jWJjswncwkFQ2Ye3p49nMXXR82Ub8kuHONrpzrvEZ-WFeZOPjQXSXDiZM17f7av0P6rkQ4kMkFZtxLpROYuXwVqc5ghNTk4hx0RrPyC8YKHIsKi2jXpRISdk8Vg5dP7Td_N5S_XQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuXGLjqNZwokRDEG5LwpEBzk.jpg",
     "address": "4 W 22nd St, New York, NY 10010, USA",
     "phone": "(212) 229-2226",
     "website": "http://saganewyork.com/",
@@ -24583,7 +24583,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Bistro for dry-aged steaks and other French fare, with a bar that's strong on absinthe.",
-    "image": "https://places.googleapis.com/v1/places/ChIJc1Vf7KFZwokR1YL2Rn9oxi8/photos/AcnlKN0yrmNlF8SvAuv1fqqbXKip_bL3xob_WWa1Vmx-eLmMp-jyuXX2RWoUSLJxWzX9LCq1KROPrn-K9MlPFD0gYakxbt-j-i6idV-xanXkw-UO04nPKkT4l2PfaYBaIxQQ2fp8bFuDmq0P84LSz4BJ7q4LbgFIQu_yxSn6WncJbk106AJKXHD6c_GKCOYztpSJVT2mM7QQbEbp2xUUkXBAdNoz0c17eS7n8eHRCaz1RZR3dUcXDTe9Zhfvbu59IEzVD9n6hQv2zTmzZ2dSaXjizE5uiUtrSe2iwqU0SvjzU9QtvA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJc1Vf7KFZwokR1YL2Rn9oxi8.jpg",
     "address": "225 Park Ave S, New York, NY 10003, USA",
     "phone": "(212) 353-0200",
     "website": "https://www.boucherieus.com/",
@@ -24617,7 +24617,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJX68xNnhZwokRbktHVFdiUKo/photos/AcnlKN1nTW31ctEEfpJcyK7g_kdzpOpBq5PCgv_jCyTK8O_TB7InsI2631G91R0uq3KjsHDs5Egret6EJ3mdQsngw-RYIRAUE0Kq7HwVH13anAXxkZeMgZKvwRxUGRPh1nmUD-NUyg3tOyJV3u_rVepMo2EHzYXcKLTCMs8AwMjLyyCiGaabR7AVBvNaXrUmC_t1mSJoU0iXsPAbOhM4JKxJCrggZdj9yTaWrIGJ8C9DGklhtEdxdMdxwzczScIDNz_7Cr3gxDf3FxaQkaEeCNVVveAajzdvP6JQfEkb7_XfDtcSdA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJX68xNnhZwokRbktHVFdiUKo.jpg",
     "address": "22 E 21st St, New York, NY 10010, USA",
     "phone": "(646) 386-7079",
     "website": "http://www.malahouse21.com/",
@@ -24651,7 +24651,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Locally sourced, upscale American cuisine served in a barn-inspired setting with a chef’s table.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQZSnWKZZwokRXPNOv9-qWsY/photos/AcnlKN225fZS1DJ36BWjiURthCd-E9rnaNbhVhhjVVfj71ipjzas1-OGmXyeuPQe6PzY0ezX1s7L7Dh59kVWGr1rC2LuWlWeAMsDOk-rzbjTDbcb5Zcco3EV0Wqk4GPme5AIyQWh2U3JLHHqGq22fn2rR9KBySMyYN0jIq_gd049Q9zhMMK7FwW46gHqJYMvjJfQKxk9M81zrgf4t4eDtvBEXYr73pNeJ0gJShaRWfmfJ5oPgpE3NM_rqVwcxGotw6yoh2h56mAQuki3-uRxnnJE6jpiCl4rKrmrJIUrcGhbDQwg7w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQZSnWKZZwokRXPNOv9-qWsY.jpg",
     "address": "19 E 26th St, New York, NY 10010, USA",
     "phone": "(212) 265-5959",
     "website": "http://blackbarnrestaurant.com/",
@@ -24685,7 +24685,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Barcelona-style tapas & a deep menu of Spanish wines can be shared in this compact, busy spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJU5lPOaNZwokRcouF_2LqEow/photos/AcnlKN0jmV3_8Nw5KDPedveHIxczOHnrYrkuh1rBGn6pC5QqE_IwW6IVEW_azDkl6RWvGnW-dGGiGtl_x4iEU41ZPwE6fffpYy3MPeXC7hITNZ-nHFqIRrYuz78xYr7QJrXBasThe3ldILK6DBY3zAw9sFnkJexFdTwVPRfCwDdEv0loiOqyfxgLSqewDVJ8PNTG7FDWeQ7kW4vaSmKtznof7_zrJRmcdp-IuM_JBbyANtCpIGbWu97yhbW8WfFd1iPBtGzScTUjKESzyRwkBgNHXqLllRr5FV5TfdoNdYGB6_Szyg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJU5lPOaNZwokRcouF_2LqEow.jpg",
     "address": "53 W 19th St, New York, NY 10011, USA",
     "phone": "(212) 255-4160",
     "website": "https://boqueriarestaurant.com/location/nyc/flatiron/?utm_source=organic&utm_medium=gmb",
@@ -24719,7 +24719,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJW3LA-dxZwokR0WAavt1PXFE/photos/AcnlKN1kfIMnO7xMZktvPLb-pTlQPw9RoHM9KhVeH6A2-4_bXbV8uzX39KWBJ8bnqGDQSQugayuEwiOxGJ7X7dBf5Dt8pptZ5lYnlqiRVKxr0L7CyykYpkHbFTuxbGVgLaGUCoyLo6IOc3PYgpyAotkcvHPLWRbsCZscWZhbSutImv-RmG0mM6yhnhhl8uwdIR7wAKNzpyi6UoJV1ug7umEFRD1_eLzq9l3WByITj6q2T8_ogmK01kPrbLmCYlIq4juG2R2NujX4GK5qbYrX7z6wbCa0ExTd8NGoA3j0v-x7ccS6zvSxdDy0AKJF4jh8Tl6wUafXXlwrNqkX-EJm2rxeMSznaiWrrHcVaJnyyGCC_p7x3gzr_neQz1R8Pc795JtWfB2o_HBaUlCT9cAf3s4DgdC6UDX5-WwCN6KBeRXiWwHaPakmR8fKSbaBhkriKg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJW3LA-dxZwokR0WAavt1PXFE.jpg",
     "address": "30 W 18th St, New York, NY 10011, USA",
     "phone": "(929) 592-3383",
     "website": "https://littlemavenrestaurant.com/",
@@ -24753,7 +24753,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Premium restaurant serving oysters, steak, seafood, and desserts, plus wine and a robust cocktail list.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZdEAC9VZwokRsUEVh2RGIoE/photos/AcnlKN1fP9RodYWgwUB1BBG_qotgfv1UOcRew6RzfCA9c1hq-Ak3MDsrSB6h01Xp_8C4X3i0q3kyHjONIJ-gX6C0Sk3tAzTtkkML7PfBNw8dA19SPbZutqiExamVijrsRZlH3lR0U5tM8IhA8CZowjplTp1glxm_OB8J2-qY3Vm2ZHq-FGVYT0Q-3EdW63EubTYYGWNHxrY5jFhRFuOeHwYbofXL_k48O30jJMF_jnwrI6K4ebx9_YklVz0bDy55-9oCUekefWZTlZeutCl3cxIcjTdlqZ2aq5oMLs7FO_y1wcavLw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZdEAC9VZwokRsUEVh2RGIoE.jpg",
     "address": "109 E 22nd St, New York, NY 10010, USA",
     "phone": "(212) 777-1840",
     "website": "https://hawksmoornyc.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
@@ -24787,7 +24787,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJU6xu8H5ZwokRZGryaPME3TA/photos/AcnlKN2N1ql9xO1Ae5uZJFHOSn4CUWA2XGQktwV8haAyuaAzyKKKQQRR8wvwu_3pvl8-6qeg5sFhrnFjmL4r71n6X16XUaL43Re-lp04b0ppw0mf2xwq2q4nPd1bu3n-_Rlkw0IToSGvMh5CXK1TSELZRFpKGp65yhuxYQXRrPk-m_5xxgl2RJhLesziKo59mA3eFuQczf-zcd9n-ydFXbNG2N2E2LCi6hXB-4X8aPr46rKYlJKeKgrnJywaBYMozWhzSqUywu5RVni9d_EnLy0rp2m1VeqGEdAmFF-X9-GNZxg8FQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJU6xu8H5ZwokRZGryaPME3TA.jpg",
     "address": "28 E 23rd St, New York, NY 10010, USA",
     "phone": "(646) 669-7876",
     "website": "https://dimsumsam.us/",
@@ -24821,7 +24821,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ035_p9FZwokRJxefU3hsVzo/photos/AcnlKN0DGO83bhP9TP_oSjPrlYpqeMHgS8aNPMQRVf1CgFnH-8fsAKrFYrfKwMkVT5nYHhYvh2d9lJRDBEINLN2qN7dKzv5DM7zpEuFG3ONzZlkMHp5nCBBi3G1zTUWjiJDsEf0syoJQufxXI3dUZC0F8BinjBXQxsMgWYG2CrbQ9_GRg7jMjmgW_8NyfIJwHhNIxEE2qHuEKtUduVO3bihWe_odVmufTLnmeEHtlSrt1mURzzM0njPTxmYN4PGpB-TFA9FqCu9fzzKkDb8QJsyJIdc9cTV4q679WtAGKE7j-NPvuQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ035_p9FZwokRJxefU3hsVzo.jpg",
     "address": "5 W 21st St, New York, NY 10010, USA",
     "phone": "(917) 540-5600",
     "website": "https://www.casacarmennyc.com/",
@@ -24855,7 +24855,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJh7rW8llZwokR6yEA3sRVYlQ/photos/AcnlKN0Q1gZYF6DPubGxzsJ7fBGOcvmGJWkBKjCpdNxwkY6hn4jIJ_5pbGNjUAsHePiQQ1duRBFqbNkljE-_YxtBZroeV4NP0_TJHsILHd8g5ExVMTVtg33hFQBjQGY8VjewcR5QRv6RIxi9GvrVZC84UQFtfElNdAYjzr3i2M7UhMrZbfGGR5ATjptN66CmSw73lmzz5p1Ah0PDrq5Xs97UcQs-9iVDfcQOVZqWWJExdDFeym_nJnIxJhHq2HGh49IRwBcTjhsRJiw2HlfNh_vI5gv1_7U-iKPqSnoqvD5-FwNmCg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJh7rW8llZwokR6yEA3sRVYlQ.jpg",
     "address": "43 E 20th St, New York, NY 10003, USA",
     "phone": "(646) 988-1544",
     "website": "https://www.sainturbannyc.com/",
@@ -24889,7 +24889,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "High-end American fare in a posh, clubby setting with dining rooms & a lounge with a pool table.",
-    "image": "https://places.googleapis.com/v1/places/ChIJe_H4tKZZwokRIKL-M0_luB0/photos/AcnlKN0GcqAhu3yr6kMcmgpkQJRF5GxTPS_1qVee2r6nqLRlksh5WyjQB4FPsbY2b6tLydNkMEar_jhN0-ze6rSMH8c5_kZWrtCOLxSerKvZtN80DkfTnMTpXY-NS9DMp_hw_v-2-vJDdE-MSGMbUstOKATaMbQ9z1Na_GBEjpwiS4SLwxf02GyrQRCQRYyUz2HZ4tOHlCKY-6IJpVX9iGgXco_7_hDAhpX1ZQ3tDfL30pDhtTEqeKCGdo-U3eP5e5-Q1WmMOHLRRPQ-TGNInhzpz7BZVIQCmpVudtwMoZ4l8jdpxA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJe_H4tKZZwokRIKL-M0_luB0.jpg",
     "address": "5 Madison Ave, New York, NY 10010, USA",
     "phone": "(212) 413-4300",
     "website": "https://theclocktowernyc.com/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs",
@@ -24923,7 +24923,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Italian eatery highlighting handmade pasta, traditional meat, and fish dishes plus local vegetables.",
-    "image": "https://places.googleapis.com/v1/places/ChIJDdKSyCVZwokR-9svvc9YDFo/photos/AcnlKN01xQoezqUGn_GvCOOw6M0qOf5jQH1VjYvfYk2k5Sv2Xb_TtfteHpy6rWoPWG-BybVdGofrGPltKErb6Snht5i1sLKQHcFgCGbvOOdAgM7sPvckbzp2PIlPFrq2O-xoBqP0byb3-F47SPlzCGIWGEU75fqIge95cIaaiscFgopXNFT-mIo28PQOf4LDZWCc74iOQewi8Xg-1CNBfRE5BxBcgRLgzcrbYgSFNOCplhIn9J17lCYhT-u9TWnVkudlKGfrnXJV6x7ji7hRO7D8CZWlfKqquUjzRcFJYUuF8h4qpu1CtA-q7_AraD1jjeHFARwL1s3FdPNuEGwWbjAhmfzRAgRMWhEd_frw3q_El_ZYEieaYxQobKBdRb5dQb6aCctkLBtLUoNiDUDbKzV5eTkR94C0Rka6w4wHJ4Sz4NI/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJDdKSyCVZwokR-9svvc9YDFo.jpg",
     "address": "27 E 20th St, New York, NY 10003, USA",
     "phone": "(646) 692-9090",
     "website": "https://www.rezdora.nyc/",
@@ -24957,7 +24957,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Sleek Mexican spot with a big bar for locally sourced share plates, plus tequila and mezcal cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJT-gYZKFZwokR7O8LLYuYMjU/photos/AcnlKN1cECojLGNQxjs3-Ymz-CWBrc_DFgcAh24tB_kdUl0fUS7-2tLVMmD_RL4qQTIVyp8tvf_-DEzdRKlVVeZNkiY8QxvuRDLy_hRfFyTjCWsNhtm7LwVOverTGgEv0SmLBElkRelwiGonqgMVGbnD1R7BtXLPLnVTt_HIbMeKy7p1I3GYWgEOiyH602IQ16yudNA3siCp_dRIhCq32Iuxyd3ocqf5dFMqU0V4jsggU44w-ZG-IX6UcEXnGOWpOwXd3XDXLYuhfrPznf6VRO5xwdukg4kwR8ePFRGbCI13a0m9FQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJT-gYZKFZwokR7O8LLYuYMjU.jpg",
     "address": "35 E 21st St, New York, NY 10010, USA",
     "phone": "(315) 512-4131",
     "website": "http://www.cosmenyc.com/",
@@ -24991,7 +24991,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Daniel Boulud's renowned restaurant with refined European dishes & an acclaimed wine selection in elegant surrounds.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ09ZGju5YwokRXOcNC23JRwk/photos/AcnlKN2hUKKjoJ9_w3UMGY8sCaVd2E0i2XNqjloDKjw2kE64lUYmkmoCIx3xfn8Z42w6fEIBWafv2iyKSmAkI-xwVNRS_2SQ9-5Nl46CtI4cRnWDaStzDQ94Ge1-kjP9CkfZqk7D-petTzHW8bL1VJKoLA1LP-FZvRkYipKwF8m2xmvzysHHSdTepXxaG3EhIU0q2zWphCw1m5rVf3EP38LtgFbR7gJ21-gbWLNbq7ZQT-07kG0AZEW776uEbJR9AdZgn2RIYH4HsX3WIinZpI_KGeJpd3c68pVWndjZVIZ7IzXR_w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ09ZGju5YwokRXOcNC23JRwk.jpg",
     "address": "60 E 65th St, New York, NY 10065, USA",
     "phone": "(212) 288-0033",
     "website": "http://www.danielnyc.com/",
@@ -25025,7 +25025,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Upscale restaurant with greenery, high ceilings, and city views, serving wine and French cuisine.",
-    "image": "https://places.googleapis.com/v1/places/ChIJjcAJd-tZwokRJ0GkkJ2Urp0/photos/AcnlKN3RBjvmLVm8qcIgugzgBrS0oT1622so8feQVdY462ZxWv2WgFTGMpIncmg4GjmqLVPL0rIwukItCECU5ViHU_kLZafI7bzGmNk30j_5hdIFDp1RnXGojfnXOVIC5eusU0TVc6U2QA70yARx6i8hXmkewqGOE7PifDw7sxvjO3DeK_TJ4OxXxA7YpaCFLJjyg967IKzrl9DRxV1e8DaqDRHkByz7VQEUgiPqxVTwfIPUPXPA5EDYTOSvrNymOHOdEhZtIjiOzgHoDIytC6Koa784FZj6TacYUqMIDgOV5jb7WQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJjcAJd-tZwokRJ0GkkJ2Urp0.jpg",
     "address": "One Vanderbilt Ave, New York, NY 10017, USA",
     "phone": "(212) 662-1000",
     "website": "https://lepavillonnyc.com/",
@@ -25059,7 +25059,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ6UzR7c9ZwokRRO7pi5eXZIM/photos/AcnlKN2J8O59QKmZ_lhomR1-Ll9bz6rBVIi_KWiSYYemhmWrTrLpMp1G9vCFuV5rGlMC2Uq1iGQUMwDDmPFtNKYE3klmyB2z32EK9lQgNu9veV5axWoz9TliG2Mk_fLtgCusTbUF15Yj2aGZj1fvqMpqmlYY7cLKNSf3jxEo86rvNMYa19WhMw6yRID_CWMLI5-9oMSvcn-Eyv-nsgl9kq1OFiSaxWUpDK-NS9RSs0zmyhELbpGB3qoXthZQoHYV7FXL4n3JSdl_mF0Z5_-7CbY5fwv2lxv-2F9vBh5F3UhGYoEDpw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ6UzR7c9ZwokRRO7pi5eXZIM.jpg",
     "address": "11 Madison Ave, New York, NY 10010, USA",
     "phone": "(212) 889-0905",
     "website": "https://www.clementebar.com/",
@@ -25093,7 +25093,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Hip hangout serving creative cocktails & American fare, with a private speakeasy.",
-    "image": "https://places.googleapis.com/v1/places/ChIJpx_u6NZZwokR0gixoJrE5Ww/photos/AcnlKN2MaCPf-f-HKFaKmiq4HXrwLLVOheRSy6hpVeeqqP3DwzaOi_86SX7Q-Wjrzg5szMQN3qOLTTsPxWG1g9jAiuQYwSpqAheAoG4NRtrPymz9MwE6ZIEQnb6ApodcRQti72Eh6RxlfZMLhFFnNjeTvLALAf5rT7afnJPOh96ga7qKTdNFNvsAZnsYAO6fRQN0OVhMnfIecEmqg6EoH-E7LUjKZ6GXJ156lPaZjtyv6zuBQGcfSPkcKRHqjA1ok7YFJe0Bneoczo9WgXaPFh1PnB8zpCsMrlI6DCw6hzZzCq2CLw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJpx_u6NZZwokR0gixoJrE5Ww.png",
     "address": "384 3rd Ave, New York, NY 10016, USA",
     "phone": "(929) 602-5983",
     "website": "https://www.tararosenyc.com/",
@@ -25127,7 +25127,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuxxChutZwokRbfsZA43EGCE/photos/AcnlKN0V2gtsPEdt3dF4n7S1tLIvPgI0CwRAwxAxqC8D0hLS6e8P67Uh98HhqG4kJbpjzGjD6WiF65QSDeEYnVSArMeWUclCcQnI8uV9r4K02pyXTtH10x6KxcjdSw-2NIAYQZF6fQ7AirDW8iPSN_0Or5wBB9_qPz1rrR-aCdYlaQ9eZaiRPfTzcbKuiXU24x4Y6YCRRkB08HkCZ0Or2q6KdgnuHt5qqIs2br-VE5XdRo0Ri6zVYs2ZS7AEQ9KGY94j-etdG25te2dJVK7ToTmm3gKW-O7f9ffVV9YrHeb7ECzjeg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuxxChutZwokRbfsZA43EGCE.png",
     "address": "10 W 28th St, New York, NY 10001, USA",
     "phone": "(212) 722-0555",
     "website": "https://www.thened.com/nomad/restaurants/little-ned?utm_source=google&utm_medium=local&utm_campaign=bar-little-ned",
@@ -25161,7 +25161,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This bi-level watering hole with an English theme has British entrees, bar snacks & imported beer.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9X_jl6dZwokRj-axzQoDTmM/photos/AcnlKN32obGFAvGSPe6z-FSuGhcu2GnTyxM_5Aycfw-l7EcBhO-did_RsyZnKuQotg12VGISC62fnun9KeCYyBeXMFoE0odHDx1k4rxiqab5N29xxwPZJZJKBZBHJp2Ec1XRWqo5oCxcYm-oJPcwA2t5Z0bh9aS61dfN6NVwphf-ibTXuJJ1YZAffEDzfpjGlem6MsGfLwGqziE6nPMbz4bUWQBQ7DMePOmoXEaWNM0VeBZXgywWcGRlxOCZ3YceGkVKVzalUAeJ1vF87qKBIhSXQSpw87z3zs-DsIGlPutkMVpHBQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9X_jl6dZwokRj-axzQoDTmM.jpg",
     "address": "45 E 28th St, New York, NY 10016, USA",
     "phone": "(646) 922-7744",
     "website": "http://www.thechurchillny.com/",
@@ -25195,7 +25195,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJKxPbBwBZwokRkGZEW6k9FsU/photos/AcnlKN2C7i8vNqetO3i-Mn37ryQ75hY1nEtG0Xd_Z6leYhqPbUeam_nn3-Zpwn-BJgQ12lBKV51ghnZxIrFgzTldrbqJ09XVIlK_8AFjqYIRlkr0Fy_BtP7UFodwJDDiFgp0nJ_7LgjbqHIp-CWj_0pva0mS-ZSlB0Q6lbRxgqDL2y4lSf9lMM1039SdpHPKM6PFw2sasc9ah8cnYd17FFPMUw92fBfp9sS_c6oHNiUUKH_fNzC27whwWdmFedmlwjv0RQJ0Xad4LMWE4wlDDvMhSmH3oCIIuvGtV-Kaz19Rkx3JTw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJKxPbBwBZwokRkGZEW6k9FsU.jpg",
     "address": "23 W 20th St, New York, NY 10011, USA",
     "phone": "(212) 381-1699",
     "website": "http://othership.us/",
@@ -25229,7 +25229,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJkTyq0SlZwokRdtbwK-vZxLw/photos/AcnlKN3JaowXxbxK7vH98JutP_gEwDMAY59bbyfQGHjNcwB6yWSnZfFY_brn2vwoQRfKOqyyNBh6fdDHAHE86w9cP0HrfY5y4m2isc0_Z6mb8makYoKr60CCTGr6moGvprLJnf4xSaS4Z4AsqDQ9I4ZBJGNX424hd8WlNcyxNnEDy_O_War7h7iX8jLBwFN7uOu4bC8P2tlFt4UYE9y8L9dGwP67kOD7EpqnHHxzcMtn8KkquSro92C3aa7qPOknO0x341asqp2oH0C6Bg7Lk6ixGOaAwKRPESSUvvRYnyO-3U_9Tg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJkTyq0SlZwokRdtbwK-vZxLw.jpg",
     "address": "14 W 22nd St, New York, NY 10010, USA",
     "phone": "(646) 891-1315",
     "website": "https://www.abathhouse.com/flatiron?utm_source=google&utm_medium=organic&utm_campaign=gbp-website-flatiron",
@@ -25263,7 +25263,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJSU_OT6tZwokRctV5nDWxsTA/photos/AcnlKN1SGKibUB_jFyQtEzxb3tymBAka6lWl_tOa25b1jtYrvH6UOT--1EMDsqaPnFPrC8k77m4bg2jx5pmQ_eRq3SrwKZm_h1Ogd4l47wjIAce4HaEaAFvb46EppAzP-UjAzK-D3caDyitpU4sS_s4fLFwm32PHFv6OW91JJOf771QFbfokjmwgsUH78Yz47VVyUTBOlrWgGo66vFM0I8TX-M_M_n_14OxfffEHaLD_escY2XQ28j7OK1N1CVagRwPTO8WbrGUJMHJGqaxd5Gn-QE4p1Rm7k2_fO2DkBXWSk4LX_w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJSU_OT6tZwokRctV5nDWxsTA.jpg",
     "address": "24 E 21st St, New York, NY 10010, USA",
     "phone": "(646) 649-4805",
     "website": "https://www.chicadon.com/",
@@ -25297,7 +25297,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Spacious, casually chic brasserie with hearty dishes featuring Californian & Italian influences.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWVD7FadZwokRs_pS6XY7VOU/photos/AcnlKN0-4n3gF20AHj7lEUFAnE1Y3KnVB8QgbMB4Yfx_ZtDNbEEylVaElWpcpeD_27OZy8NuhanDMC8ZqQa6H_HjdMUW8FWQ1kAcKQ8XrF-m4opgWy95T1vOr_yj0wNTMKMewX-kNWO_WXMxocJTL5v644GfO8DVVoc5ohfHAV2hqlIBsdN5QcpItf6WKLy_JeQB23EeXGCNYFJE6FnA0-LVfnMOrv0Wgw6zTdKmndNVbutMp6UjwKPLzOBjTC-6zJxTAkXertxFhsp-0AD25YKbEoI5h1OHkjagKpallwgd567HMQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWVD7FadZwokRs_pS6XY7VOU.jpg",
     "address": "345 Park Ave S, New York, NY 10010, USA",
     "phone": "(212) 686-1006",
     "website": "https://uplandnyc.com/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs",
@@ -25331,7 +25331,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Handmade pastas headline a sophisticated Italian menu at this upscale locale with a cool vibe.",
-    "image": "https://places.googleapis.com/v1/places/ChIJt8W7n79ZwokRsyXs3QDbE3o/photos/AcnlKN28uUKiuzy_kn4mE2C6llR0NxsvsDyU503hzEsswYP7cFe0n-E3djZsjTQ4AKa6lCC6TWhibnkGbzJGUi4gMAonHebIiUuiTr7NCKQ9TVq6GC-v-nkTqvBuinsiFsjjqbpXJyOcBhq8q8ModVKRYXIz7VfBHBmRtHsI3XBpxN-HSsbYd5gVLA-zP4IZWlIE9xNxlQg6EUzNGa-fqm1UI5ikx-VLZ-Synhlj-7wKuNJ9rY-71qzoAFqu5H3W0-zX__acSn1JewIZMCue3Vu75wd8Br30C2fm3qz14bfRGGxb8A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJt8W7n79ZwokRsyXs3QDbE3o.jpg",
     "address": "88 Madison Ave, New York, NY 10016, USA",
     "phone": "(212) 691-0555",
     "website": "https://www.scarpettarestaurants.com/location/scarpetta-new-york-city/",
@@ -25365,7 +25365,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWRk0P8JZwokR7gCeBN7Em-g/photos/AcnlKN3MeVbNr_Ui12qousWKDQ_RHjXa8KBfyWQt2HTW5-0Tuz7MKZylcHigHlTyhKFloO-LHYfPhUSdTn5pP0-lPndwroDx97eMWl__gV915PGPm0PcrygCRyXttf8Bph_k00oMQBMUHIm_xFakDKbu17MAgvPiaeu9d-GsI5YtoHSo8EGfw7uvc1nTASD9YcoSeHlMbXuD0VW1rpuMKNKfav4kTpk4Ef_7r8RSxrROypBlP840ZcBCYrhxY2wUG7A0dK4q2Kt0q5mL2nVvQM6fEe_EWwkGaEfrlC3E1FpHZ59lvw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWRk0P8JZwokR7gCeBN7Em-g.jpg",
     "address": "900 Broadway, New York, NY 10003, USA",
     "phone": "(212) 691-4978",
     "website": "https://barlume.com/",
@@ -25399,7 +25399,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Greek restaurant from Long Island with traditional cuisine and prix fixe lunch menu in a contemporary setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJq6pu4qJZwokRARFMcQsmd6Y/photos/AcnlKN1auf-hc3lGWrtBqK3-WMtAAE0mny0cXC2yPcTufc_6A4CAL4C12wMhqWxoF5nuEUrYagAahVA5Ug6NH5ow4q2JULiO9iwWG-F1DoEpBLFmScIGKr7wVNL-ndihNjtf_u5APKLUMLm-HHRqxrnv3PwjwFriB4CzDDxeHvFWld3j39eoYm3lz9keSupYu7qq5YIi3b1Nex0fQROftLC6ZIzJX-c5QHokL76bUWqo8eWCB9BHdDgoVAkCNvNqK6Uk39S96P62sLJTdslkPv1Ti7ot4zCr99Sv-luP92VX_lIoug/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJq6pu4qJZwokRARFMcQsmd6Y.jpg",
     "address": "15 W 18th St, New York, NY 10011, USA",
     "phone": "(212) 268-5555",
     "website": "https://kymarestaurants.com/",
@@ -25433,7 +25433,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJafcWm6FZwokRAD6WiHiQdpE/photos/AcnlKN3W3xfTLvbZjFUemojhmtjQclKgSEtDqMNDVyfDS_ODvKjlBSz5FogD4IvQiSI9YW70iNCJbDqc3yxs6oWy-l6S37-bido4amwHc62YhkkKRiLp3Kgh1PsyPoD3zYnQrIY6nOgDa8jPmU14sxPqr5SrOd5DF2UeVSiTM9rOVJ_wHM9dxwyQTd0DwZZjrL8kygbHaBxOgg_ToNyKVaQlrh_TSK08NVDn5o23YBqI7Nt5v4gR48qzv0aTjY923ZnXACm7t3vCQsDqmy67QSl1B8Rk5iI-d6X2bZO9z2jxVfXk7w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJafcWm6FZwokRAD6WiHiQdpE.jpg",
     "address": "250 Park Ave S, New York, NY 10003, USA",
     "phone": "(212) 995-0242",
     "website": "https://barbounia.com/",
@@ -25467,7 +25467,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ59BYbcZZwokRwZw80fP0Bjo/photos/AcnlKN05z7aM4gMHKelLRLZLtVPDNhTpw3BmAuqJQATmickEx4i3WLgOTSkYct1MEg6z4kueGx6U_P8HSGToQ5TRCSzrLuKf0N7TF4aMBPOIPkFWX3NJJtqTO7TneE13Tql7JqvNh5EkgqOPxlzo83izJ5ZXC6k2XI-EKZVfBmgPeWFtqjWYWtOPF7zmJxSYpSL8q2FmyZYFJbD6On9_UybHQjLb2ct_F_Emw1z2j8aUVZ-uYAxbbOm_06iS1h77rpBX5SzdmPw1k4uvfEgzXNaxytUZYMMmzNIYKAnZ6pwoPSoCXw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ59BYbcZZwokRwZw80fP0Bjo.jpg",
     "address": "25 W 24th St, New York, NY 10010, USA",
     "phone": "(212) 904-1880",
     "website": "https://speakeasymagick.com/the-overlook-bar/",
@@ -25501,7 +25501,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJk1s_e6VZwokR-odalG5EaFM/photos/AcnlKN12p3Aa9pyiYWmx9eXQNs3NfGQAnvVWvQMRA10JbtPubpdmKQBjMFypyTRvv7jeyPqF18rYUxLLUP-71umQxNr-RSY1lKM-4h9vqavRT1gvGrC-pncgAd8z3VrAPWK64KPUSt4--q1ZLpyrlyQGnhVnqWDwUg-vnE1AKUmR2eAR1eeqX5ZMTU7CjqEUtfjRvqKpQ2r52H388iobRIYngEe8gzPKry8J57wo9d3tQfyDlefC_9Q5uBPklRhvWCZ5PIA4YKyYeVPOVF-LIzL58UhNDhKun4OWny5H1mN7Vh0wi1RmA584Ntvg7pym4LR_zX3f91QBSul9g59ZpX88iBZkDA-kO2ormJpJJG8K1vlyYbntRj42oen1McYp07Hmh-m9XMKDdtVxMsCSYt6dz16IbTMhjpx-KiILPzd0vnS-3g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJk1s_e6VZwokR-odalG5EaFM.jpg",
     "address": "25 W 24th St, New York, NY 10010, USA",
     "phone": "(212) 904-1880",
     "website": "https://speakeasymagick.com/",
@@ -25535,7 +25535,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWcQmlIBZwokRPteRmC-aEkc/photos/AcnlKN1ZLUcTcX28M63jY0jmnSHSTgzBbXAs-FRibXJdiSDowCoqlN9XABigGBO9Nl0zzh-V7WQYLfU1gsrcjORB_-NVmG-46dC1-z9Uo23mOTmUWnJYJt6LlM_qqr968T6t33SMlq1_Wn5do-ThprsEdrK3b6BvoDB3LumRBaJcPRbkeesBn28v7zwQ9_vTOEykxsNi8aHBF_vjDZG7NCQVK3tiUwSqcHrvwTTW6c0o-yo1pVZeQrIAn4al0Pa9LtlHBWJ1sq-_hk_qNg3qZ5U99v15nmRJJFhCTbD5LR-Or0Woog/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWcQmlIBZwokRPteRmC-aEkc.jpg",
     "address": "9 W 26th St, New York, NY 10010, USA",
     "phone": "(212) 842-1632",
     "website": "http://www.apothekemixology.com/",
@@ -25569,7 +25569,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Stylish lounge outfitted with flat-screen TVs for watching sports while sipping craft cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJl4G1KxVZwokRCBPRVoWCNxU/photos/AcnlKN3xwKacaX6uqFkbBMntnIDbuw4iH6HbGurdrgBubz3OurNlpem1IIVHirPhEiX2DkYYGiy-F-VzUDusa76RK1lW_bVEVOev_kePDowxzLBWyUffwGA0puB2bM4BcEznm8QxnVLe-4BupziWbaKfUFN56GB9xmn88vgxXOc_0OtFY7K96QU-DRQHK0JEMcHzqVghGx0OSgjTjZWV8081VPOA0_B9z-mOhzowbLt4U5NKPric1a_WHPK4BLIAM0WeRszigTKe_TBkPcYU-5rep0GuievNsMFWJab8_DJi7IMTew/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJl4G1KxVZwokRCBPRVoWCNxU.jpg",
     "address": "121 E 27th St, New York, NY 10016, USA",
     "phone": "(212) 213-2931",
     "website": "http://jbespoke.com/",
@@ -25603,7 +25603,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeTOg3opZwokRgG0BLLeOTmg/photos/AcnlKN1sr2qP5hXSei9dgLjifI6pcpBdVKXLghano1sQuh1ffAIU2dzQYlQckU0tA3wH5GkMcxg1AaXSWV0dcxA23pjjRPusWKIUxGA4Ng_J_j9CB_6NiiA0ApYShcTSGzRzVmPEzauKBitviAevSzlmoVGwx47aZccR_rGrm9fXjCFX5UrIvPyq0Fvzi6qvZP5EfpWQGo126BF6BWooWc_aKkghPMLgq93cV0sSZR26DVBxTmo5JCpOipLikutQcDvo69DMz3dIJQVJKNN83ppFHSD_07h7NcfCm-0rVI7a1OkTIQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeTOg3opZwokRgG0BLLeOTmg.jpg",
     "address": "115 E 23rd St 4TH FLOOR, New York, NY 10010, USA",
     "phone": "(914) 825-5552",
     "website": "https://residentcompanyclub.com/madison-square?utm_source=google&utm_medium=organic&utm_campaign=gbp_flatiron_district",
@@ -25637,7 +25637,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed, dimly-lit destination for handcrafted cocktails, plus brews on tap & New American bites.",
-    "image": "https://places.googleapis.com/v1/places/ChIJa06hm6BZwokRzyR2qi1LTMw/photos/AcnlKN0sT7Z_THu4i7Q0GE-amdUA8HgbwIgkrKkn2Pf7MrwxfxOfg15AWMlRnqz4AkHZQzRKHwJJFCq8S78ysJQCwx0z9FbxTwZTYcXXF2e5xQ1ln8eV3mBWKNxgq388guiDTdytYsdvwA1WQpVNIV7USdIG1_tPqjAyY_a0NmKNiL6Y4d_4HVVlfwAwfT0oV0o9xdwJbhm5XoPebkZPaBKMLCIqGISK_0CQ4-LQLXEI78RVYwaMSDBe88D9Qjie20wF3m18nmfWZJBqEUaCfIEtT-3Z5_hkYDzEFOor-qqCzPAoSQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJa06hm6BZwokRzyR2qi1LTMw.jpg",
     "address": "294 3rd Ave, New York, NY 10010, USA",
     "phone": "(212) 477-8100",
     "website": "http://ampersandbarnyc.com/",
@@ -25671,7 +25671,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Old-school (since 1886) Irish pub with a fireplace featuring Guinness & other drafts, plus pub grub.",
-    "image": "https://places.googleapis.com/v1/places/ChIJiUxll6BZwokRgDgDzwAscN0/photos/AcnlKN1tapZD2mUeCOTIqEAfniCCyNOTIgcYb2GE9LTcXfFOaMcLrzq6YMyvQcOsTklpIqSTfTJSwIjeLZ0sAcBeFOg75lHux2PKA-fboP5cbuFn7jGClv-aCHcDLzprDpaqvGkdXk4EdVNYMqJF_d2gkKijkp11d_itvDUz_jJqv8eP-YO0x2tArgFSMG6mgHcktQbPMssvpVaiW7t_qD_8CZfHjij4_wKFwrL3skwk3fdQPqceoRcYfmyd3wLIylwV6rKVjJOgsuKmIfi7vHwSoev3ee5msh539Q9p1C1b8D52qA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJiUxll6BZwokRgDgDzwAscN0.jpg",
     "address": "158 E 23rd St, New York, NY 10010, USA",
     "phone": "(212) 477-6161",
     "website": "http://www.theglobeny.com/",
@@ -25705,7 +25705,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "British-style pub & eatery providing elevated bar bites along with gin cocktails & U.K. brews.",
-    "image": "https://places.googleapis.com/v1/places/ChIJY7FAUJ5ZwokRQvbvk2eaJIE/photos/AcnlKN3g0NrTIWv5724k-pMFLGOB5yUXN8JUHzZZRDm_4GYWPlQuqJweeZevgxxzSQFXiPYxLWMINl-6wfArWlOdWYcoLKt2yHtapAhwErWsSQA9wGfIwgOLIlyn5_wWtrDVJZLy2XfdBsbl71SdDTDSelR2SG3VQEFPTlWIkScwnR4bQ1NI_bXsdIecZI10YztmYTSaGq8K0PFVyNYOnQC6cl8PusVV5xQK3dFbVXz0eq__d37WIzuStc2hiD04nWMFbhnLfwmMI5PHB67Uo04qoFd4Idxbeq9ihUDcmh3f58Yumg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJY7FAUJ5ZwokRQvbvk2eaJIE.png",
     "address": "243 E 14th St, New York, NY 10003, USA",
     "phone": "(212) 777-7717",
     "website": "https://thewinslownyc.com/",
@@ -25739,7 +25739,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJL-yuQoBZwokR_41IMUbdJQQ/photos/AcnlKN2m-mkMtTvxN3aReK5KnKkvCwZsMelMUFM7e9brpfyXcLRdkQaHJDTgpbCb-zcj3LMMg8xrXflVLn0Ko2RlNXY03SByfQ7eG5QFuePZyXh4HHsSiKz4wwihLLphXZgd7i6Y8xB9iXszfpZzxJ4F5S1cUg1f5FrD16UM7ZUTgYudNqiXQJZT0puuAuRC5UfT47kL3vv4eUdM4dVtN5Nc-14Zrp0qMX761i9D4U9LzIkHvUD37YYAo92m7irR7sQD_6eaihsg5i7BAqCSXycVsaiJhhLML3yD140lzwYVFCbDuQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJL-yuQoBZwokR_41IMUbdJQQ.png",
     "address": "239 Park Ave S, New York, NY 10003, USA",
     "phone": "(917) 675-6013",
     "website": "http://www.whiskeyroxx.com/",
@@ -25773,7 +25773,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Irish pub serving burgers & pints in a setting with sawdust on the floor & a wood-burning fireplace.",
-    "image": "https://places.googleapis.com/v1/places/ChIJpRQgg6BZwokRmUr1ao7HFZc/photos/AcnlKN2rz79lyxym7ZjOJHpoX9sZIHtrtiilu86ey7igZ7VWu6RKbx0mGqvQKwGk7z85sgkeFmFnvRjoBhSlrKfqU_xMTSq_791evayFPXwbsh3081PxlpvTQdnIV5afN1ZT4mUCewLihBvUxTPS4dgaXSS07lq7PJ3krrewhcTrI0GU6Ha0cyVuJDftTY5OnTroQaoQUpy0Lyjzk78VE0YpggEFaTF_OiDbNpZrnbT-SVnqALML7ytK4-FJ4Ijl00FfoVeyBBsBhlM9QoCbRr3xFQnEB4Pg_LeUSS1uxSyzsVG_YQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJpRQgg6BZwokRmUr1ao7HFZc.png",
     "address": "287 3rd Ave, New York, NY 10010, USA",
     "phone": "(212) 889-3361",
     "website": "http://www.mollysshebeennyc.com/",
@@ -25807,7 +25807,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwzopu5FZwokRJDbQJOY361c/photos/AcnlKN0KQk4Zz039Zf8RtphZxYW3gSkJTmw7WFQ9VFZhmVnShpuT-318wgkfjtZJPID01nwxiaHTehOVcmAfy11YlhMzr8LekuUNw0g_PVC5ohLvvTXktniporHtPABa05nhxAYYRlMTL-Abz7piIAzUS2Q6w8lUYNvKw5SzpeyOy7a9dg1PgjQEtRctTlYWAc2INPuERAkitDXv7NYR4YrEBnIzbY34bVzy2xFWSt85fi_J0t-ZRLE4BhgmqraEYYzZt_4bgr3NmhPHG9KtKG5fFZFiET1dU8PzlTzENK6wmLVtzA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwzopu5FZwokRJDbQJOY361c.jpg",
     "address": "293 3rd Ave, New York, NY 10010, USA",
     "phone": "(646) 649-2389",
     "website": "https://www.sevensinsnyc.com/",
@@ -25841,7 +25841,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmX3EiBBZwokRCz5O-6__5E0/photos/AcnlKN1F063FhlBFT7tBkIi-CnUgl26NVhzwww0riBofyHOOJM8WfriiBN3IO56fc04j194t7KEAus-mz1ZK_pzxfeu30MUbs2btUfSYWinfZd_syoZodD6jZi9hI80xIjII39wMrVwgo69qO9KUfS8zoAATvTi1jHCbVLFLO1pwEP6iXjN4hsZxau4gru-5n1W0KR_3O1_HOVZqzSWj3YOGGia66zRHnsSnaatJMOqc8tThUeQ4wMqqky7pmuJWC47hKg6J00jS0mBne1Fbb-a5ZffFMq-sEg77gNPsdAmPO2NMYg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmX3EiBBZwokRCz5O-6__5E0.jpg",
     "address": "231 2nd Ave, New York, NY 10003, USA",
     "phone": "(646) 398-9002",
     "website": "http://thelaurelsnyc.com/",
@@ -25875,7 +25875,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVeMsuJxZwokRMmTyY-QOKwY/photos/AcnlKN2sy9Uw2STCC5Wx1oplIHS4-7IJUOMo7oJwGPajY8h0BsCeBi3jsHm-cwkTuGNf3B0XpZjzLO5Dl-J8XXs3jKoWk9F-__AzG01tLcOI3f0EHDUhIO_YGuw5gmDZsOUtSeY7f-XxRuhmJ9Kb5JYMZnlXDHspWF2xVFndLCxf4edJwcVNlaA8MSsComrOctlfu_rzTK7fOjxYAzdPaox37tmewhUqgULCcSgX0r7JXqTMjhgHFwp1j-YL83__0QkzXmeKxOr0rBi0vAFu_8XnPIpxzdPVuEatIBwHJgjm4Eq6Zg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVeMsuJxZwokRMmTyY-QOKwY.jpg",
     "address": "391 2nd Ave, New York, NY 10010, USA",
     "phone": "(646) 952-0078",
     "website": "https://www.maliigramercy.com/",
@@ -25909,7 +25909,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Danny Meyer's first restaurant serves seasonal New American fare in a casually refined setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJxTHke6JZwokRCLWVd99eDBw/photos/AcnlKN2pXCHpZwOxQcyl57p0Ap9cCCAwvKmewjhetoBJXCKmkZVXQFd7ExzC_sMstxLW68Zm8Q8cvuST464_3L6ir0-2GNrcLbsAQqjgbx7pWq4D8rFCWOCVTyNE0c8rqSfMa6zRdOXDUxh2cfOzHNxdb80bRyp24jbNnvG-t30_23W-pLyHxTfMhgjPolyaQ3M-iEKNVYgw6VWFQbYNTU8c747ieuX-seC1VKBcAJjXqaPcPA7BDy9VeA1Oj5SBRj4R3Fsq25ulpK5EfGYxQiPMOsEXDkkgvneGzmHm0oSbvmPh1w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJxTHke6JZwokRCLWVd99eDBw.jpg",
     "address": "101 E 19th St, New York, NY 10003, USA",
     "phone": "(212) 243-4020",
     "website": "https://www.unionsquarecafe.com/menus/",
@@ -25943,7 +25943,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Upbeat restaurant with an enclosed patio, serving Italian dishes, wine, and cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJV9twMKRZwokRkXW1n1miJeQ/photos/AcnlKN0aLLMv4CIauJX3mqwNeLxYkSN3Z-VixRLE9l5GB0R8zHln36wmnqKkXWkdioe_EE_90fADadYKGy-ax0jTdzd0IeoJb8dwkPP8aKteKuQ1hdwwlQSZJUFZAy21SHEGNkHPfEplUUQjsMNJY0beaMMBOM5GHGq2pvC0ZlkwFntm6_UIVuTCWZBfiwHbnXX8r5KSFAgKADmjPFg2ytN5c1YVDiMnYQRVXb-GN6mA10X-TqizVO4YyjHln1WUn1x7A3dfYmCN1JSf5d0B1WVVfa-VO6GJQ4TSHt0denZjo53ociE4drVp1l21bei2kLxErjJDe_KMVeaZIgkW_bnoY0v5CsnOZPkpfqTNNxVfJItXfeRX_jK05HTV3W-nCqQdcq_yIqto5OzfmxzUzpx86LWxji2X4Asj96ooAw6USuRAiw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJV9twMKRZwokRkXW1n1miJeQ.jpg",
     "address": "245 Park Ave S, New York, NY 10003, USA",
     "phone": "(212) 388-1145",
     "website": "https://www.isabellesnyc.com/",
@@ -25977,7 +25977,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "American country-cooking, including a popular brunch, is served in Vermont farmhouse quarters.",
-    "image": "https://places.googleapis.com/v1/places/ChIJb85ryKFZwokRaCJqC07E0G0/photos/AcnlKN0J7ECfA6HSVHEnQ-NO85zhU8iZqGh69yBgDLFxuL1fk190bIQZXCResL0lJKWIiCAKYCjLu9Ow2F0M5I8K-SJyDxrU4jwjQxIlb5a5U1AXJtEtX6H_xcdA2jO9CRvZ9NacKIuyOGVi3JRGNfe1YBajF4NqNkdhY1EELPmCUiKrjfglvPogUy5RgIcK-yOVJxKPRbHes6XXwOhTGES2AmvdSmvLXbu_c8DgcWK6So8vL6p_T4jxtD0174ERoLNb7BsBobJN27bhsdqrwlDUDN74GbnUstXC-JeCVYBEyWLw2w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJb85ryKFZwokRaCJqC07E0G0.jpg",
     "address": "77 Irving Pl Ground Floor, New York, NY 10003, USA",
     "phone": "(212) 477-2188",
     "website": "http://www.friendofafarmer.com/",
@@ -26011,7 +26011,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeQtcLHxZwokRO1IieeRtre0/photos/AcnlKN2S75nnjaCuQHofp_VOvAOTNvgtxeQt8539V1rTjY2L_iqlt0l9AJNOgvwxlm7Rz1DaQ230i33HgxXvdwe99bfZHZXu0aMJz8Kl4lJrJGCPKcsT9AJ5omFXSXB2GO2Ie8RnB3_JJt_QAG26fG2jqRcKer0qpOeQB2l8AZRjg8tNq2kdQUGgtbfzKWfsW_FJum7t1JjYkHWEXTR6_kj3nDkfJtAWuIMyy4SSVoK8pq4-k5eBWJ3osrd1YqYo_q_ROK0Zd0mThA64V9J4dnHnZwABCW4wwApHZBNY6nPxl9lrDQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeQtcLHxZwokRO1IieeRtre0.jpg",
     "address": "53 Irving Pl, New York, NY 10003, USA",
     "phone": "(917) 319-7301",
     "website": "https://www.palermoargentinianbistro.com/",
@@ -26045,7 +26045,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual eatery with a locally sourced menu of seasonal Georgian dishes, plus wine & craft cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJSalVPxJZwokR2JSiWIk0LtI/photos/AcnlKN3quLGjnlXxGXT8XXpNPpqq9eq-PWgk2qtlVZvQqIpcgJUTfOeWOjoXC6Bvupkm9pWxGZTj8mDZQYBXYrBQ0wtpW0n2Dx79hk3TeWcZUbaem89q75o56ZGDSYlN-Ls9yYJKL7r_KCPXPPPB2Sr0cooU2y7FctIg5-E8SgWlKOySvnDqEkqEDR_W9-HlHJJBB5efVHrzQ_qAPKkSU6VS8sNKMSI-ybHLio_1w_WWZ1scD5y4rw3z20yBa4Cb2t4HXWkVMVBlKtz70K_4aJz3GNk4UiHXGSnkZvONhWH9G357iA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJSalVPxJZwokR2JSiWIk0LtI.jpg",
     "address": "173 3rd Ave, New York, NY 10003, USA",
     "phone": "(646) 767-0154",
     "website": "https://www.chito-gvritonyc.com/",
@@ -26079,7 +26079,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Longtime eatery serving a New American menu along with numerous pasta dishes.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ0f2BYaFZwokR1ZhJ5byw-co/photos/AcnlKN2AGNJDhdI8PuV-8j4evANIVT0CrBzfQPKUrdReN2vTzG9F6bxNj00v8HahJMQfwcU5pv_v7ZcupbO5ofknV2ZtlFlA7XQxP3d_rZ2vL5fgpvarSIf7SiDDfCf-ka8P2-ecB0Az4qIhEohuAZZjOsFMHD7grRQw7ikS9ejSqvitQoKGsEXRoIj6HZwET1JCK1DWgZM0z56iIk09XlJCzfWOzTt5DTVQpMpbwSvByt9aKeWqQWlpvKcx62LYXgyB1BR-p62L6KSe4TMd8Qvzf3keW_FPH2jKvQ-jyLPLQEO8-w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ0f2BYaFZwokR1ZhJ5byw-co.jpg",
     "address": "27 E 21st St, New York, NY 10010, USA",
     "phone": "(212) 477-0007",
     "website": "https://giorgiosofgramercy.com/",
@@ -26113,7 +26113,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Well-known French restaurant serving a menu of traditional Lyonnaise dishes with a modern twist since 1996.",
-    "image": "https://places.googleapis.com/v1/places/ChIJb9HznqFZwokRHWxf3DbskaI/photos/AcnlKN1xcsuembBDVFryedoki8v94QOjKMpm2cLzLh9u-38FLmTqmfK3Twpqk0ZTkCeAmS0u2BKlfQeIU6q5Rui91aFlUuc0eRQEIgS4-QW0tnYTkBvVDjk3fZ0AP4l3sFUOpdIDllVNFvJwWQ0dsnzj1rN6Tb6JhhjD5i2d1bIhahyMAn32WuB2A2RI7S-Jnaaen2cNmLS4mS6H04PY32LPgsHnlFzvzRInOvjQLxFetRaE2iXf5okmcPrQq9V7zwOzoxi6P3VNXTbffNXac7g_nYqCU6uiOvR8LckVmlTk8XN7Fg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJb9HznqFZwokRHWxf3DbskaI.jpg",
     "address": "249 Park Ave S, New York, NY 10003, USA",
     "phone": "(212) 254-5858",
     "website": "https://lexpressnyc.com/",
@@ -26147,7 +26147,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Modern diner serving a full menu of breakfast and lunch classics like omelets and burgers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJDxR7d59ZwokRkTMW7oCrVl4/photos/AcnlKN0YTmwCt79e470OsLsAUSlzPNSRij6NgTQGSXnvrgDj4XEN-K5tAvUx6-qUnQANvcPBzn-AU_CfGGEXrPhVKmiQtposzkbdwiQ2DagJXGl1LvmHB4npDclY8NkyiejYP3HhhJk6mMnpsFhYWtlw8R8e8H6QUU1lu3Z9eMlWxRZ4GG6OSulHBXmX3Aqf5qWOuQYK6rKHnP5gJZsJMNIiJJPdWwheA8Bgpx8moffCucwzY3fpPRwXZzlIsa0Y0Ea1-qoT9-NC_3gL6wO4dLYECinTwUKnLnCXqTtO2qXqLUzsTw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJDxR7d59ZwokRkTMW7oCrVl4.jpg",
     "address": "184 3rd Ave, New York, NY 10003, USA",
     "phone": "(917) 265-8884",
     "website": "http://www.gramercykitchen.nyc/",
@@ -26181,7 +26181,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Small-plate fans gather at this intimate Gramercy nook for upscale Spanish fare & a deep wine list.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUd1sYJ9ZwokRRkqniQdJ144/photos/AcnlKN0d5yEfqx_tH4pifxpLRgRiw_MZGvw6nWFoCFTWdPqrMM311WTpgMhlOiTBW6ZpPz6GxhZtIAUGffIJWw8EMenhCBGRfVYHvQ24ZQayVWeXkAZF6dGHkdVWCw45p7k4o7x8x9jEA5bYAYrBZA3m7EP25jbAGr_iZdKucJmBaeIJxeIrq3wsifbQMYeV8SRHTgOKZp8WJrwpwjAUXWKrRyIdToo24ZPxZYuVfl60Vq3nuXibtiPBiWJGOFfm8lwWdXZxOvrhQ4m_4GxWuU-yThscGC8E1-f4T-TTkeC7ioTFag/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUd1sYJ9ZwokRRkqniQdJ144.jpg",
     "address": "52 Irving Pl, New York, NY 10003, USA",
     "phone": "(212) 253-2773",
     "website": "http://www.casamononyc.com/",
@@ -26215,7 +26215,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4fmKgqVZwokRlxUP-2LMhkc/photos/AcnlKN0bEZWOT7GQ5oxun855gbYJlTvJnUY7bw134rtonGhN9NIqdnjHjcJNZyk8jep4j_HMX_YOgktturK8RJaq-ykrHrwi3zgGT5UGw-7nKM-GZOLSYOo7NUJcz3aMyW3LHhCfsoe0XIMNlrGj_I3fSwZALC-27xwlCu6-0KiA_GlBtceRV6bhsljdTL5fJB8kJ-uQYLVhPqm0dGAnNl0qQqjAwCOwoJVZmx_kkSciQjX118nWc1wuH64svD6JUyHhneXz5nbqok32aOIP7UzGQD3FPfZq_KmQ3iHX7Dqi3SKGtw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4fmKgqVZwokRlxUP-2LMhkc.jpg",
     "address": "283 3rd Ave, New York, NY 10010, USA",
     "phone": "(646) 852-6921",
     "website": "https://diner24nyc.com/?utm_source=GMB&utm_medium=GMB&utm_campaign=GMB",
@@ -26249,7 +26249,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Chef Tom Colicchio's refined, farm-fresh American fare served in an elegantly understated space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJaQ41hqFZwokRVms_0-JiwQY/photos/AcnlKN1FVcIUksZ4DZFEIifTrLZucwqqV1jX63LawWp6_IpoJbupk4jEnfsnNLSWOgH-gIHvHGeprkZozk-UTPdMAVc5zRSV2mkbeRzc2KVpRPvAfclhs1QpCUE4SDjEaOVCxorSe9ocb1UHip0sL1W56a6-5-aSmD-pgR98TSEenzakcTKH1TUuYuG2sc40bNhzzSHxsYGAtL1iPqitnhQ6O0puuvt0oAMlOKthCWHHgUXJ5bVQehFYKIxEuVQhsTHCWwdCKE2vijDtmqe30yw312ZLI385vHo2phxTKke5yJ5G_Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJaQ41hqFZwokRVms_0-JiwQY.jpg",
     "address": "43 E 19th St, New York, NY 10003, USA",
     "phone": "(212) 780-0880",
     "website": "http://www.craftrestaurant.com/",
@@ -26283,7 +26283,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJE6d1GjVZwokRq1uOw3mybkU/photos/AcnlKN3cH7UcKgOMnVxHcdWlTWGc-UFjs5zV9jnBP75mrFZ6u1zP1vKAOlX4zd3vFYbIZogYIXULePcTVGiJxD6zI-GP3U65thBpnTAAjTHPJ53e7-0TwCgFy5fv4mZJlLHk0EJFMtO8z4Y4x-llb9DcHH-HK9Tn9TRqVYB6vkJy8q65nOFnKkKNMseEf8_4bVrou2ukq-TFjcTml64IABrFxI0kgjJIw1fp6-8E0FaQIwFJ1Q9af9cLZxvnXtI1QVV_ecbkviqrgc_Xo9IQReaXjGKBWpVvKCLeK9ztOCwcLZc/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJE6d1GjVZwokRq1uOw3mybkU.jpg",
     "address": "393 2nd Ave, New York, NY 10010, USA",
     "phone": "(646) 360-4407",
     "website": "https://clarasbushwick.com/",
@@ -26317,7 +26317,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Snug German restaurant and bar with an old-world vibe, known for its elaborate holiday decorations.",
-    "image": "https://places.googleapis.com/v1/places/ChIJnx0Vh6BZwokROVSW8aik4Zc/photos/AcnlKN0SLcfqr469RJN1UFkGiRg6JVvMx2PgyliHWsEwONO7ZqqXdrucbNg3Utxp-tg1zd4kWSeypsfn3nTNghiXW6BHlUrNRD8SR66J5Tl-NiIziZZiHecvmgGi1mrkk7XS797QRz3vqfYoBz7WbrGAbXsjVXQfYwiPSBAn2BpKJO65OWIhVpwCKuY6Hg3r05F-vB0h4etzpx1OaSTc1MjjWmJyItoQTNhqGUj29zuMZdq-GHrehX9yPxJWd7NvmAQoEPjmhNPUaV51I7CC6LBfDclP8sB2hvtQkyQb9KgZEJwxgUZcBIXLdjrQJTROE1NmdXCgVIKkiSDLslBQAtORiPXteAKExpufptk4Z3e9eDjH9ldhg7vrZHSgXyoBW7Wxw93ZV-TJ72oFXP7xENluUMh6pDlP4Cg8QhuQE-GuCLCFz3tw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJnx0Vh6BZwokROVSW8aik4Zc.jpg",
     "address": "281 3rd Ave, New York, NY 10010, USA",
     "phone": "(212) 477-4750",
     "website": "http://rolfsnyc.com/",
@@ -26351,7 +26351,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJ8hFlKFZwokRFmzhJg7Qofo/photos/AcnlKN2jmyN_EAuUktcgT61W4hscGQvpd0LID4nl3rJSL1GpwZOeTsKWfRDT6s7TPpLFEL-6eLR-UjwbuNXFaztVeWpeI2hOngwHuvMNLENVDuHr8Mi0z3S0y0Ppe5J2nL8xW9ZATNd_vn7k7aKIdjtI-WViktw6QuHOLIckg2EbaQpFZqaD0FWb-OYuwFW5aBE8DO-JTLx-EMjijBP_QZBJN0pVArjBwU9KSBcLRKBJ07NnxdogzB7NvUmocGenPzLRhdD9QifMbduWcyEZywFLk05Vu8P6aUMrE4ilu18l1bNRgA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJ8hFlKFZwokRFmzhJg7Qofo.jpg",
     "address": "100 E 19th St, New York, NY 10003, USA",
     "phone": "(212) 209-1054",
     "website": "http://www.carlottonewyork.com/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs",
@@ -26385,7 +26385,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Chill tri-level eatery/bar with rooftop dining & Empire State Building views, serving mains & wings.",
-    "image": "https://places.googleapis.com/v1/places/ChIJhWLyL1FZwokRq5e_w2IWYx0/photos/AcnlKN07KATy_fVmvA1ydtse5QmoVNQHbbu59gm1m7nG5ct8gOVAjkvfGHxq9gZJQkEmpcYcGkbckX_x77BiUv2aC6MBnubIbNOIU2KWouWnHz99h1fQk4wJK4gOoKfOoX41jlo6fgyf_J4mwWH6MxCay4chdJd3FNVSBXfHU-kzY75rMaqqfyAqbn977atUF1WNp1CW-iAYIb90uhB6znFPPvqyL1BzZla0frlByxCkoOAtgEjp2u0-iK4AgZqnrmRfEEgNOirSi-AMdY1_hsJ96fxsdePyetpb3oqj6HsZ3cMVrA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJhWLyL1FZwokRq5e_w2IWYx0.jpg",
     "address": "411 3rd Ave, New York, NY 10016, USA",
     "phone": "(646) 627-7841",
     "website": "http://www.bellaunionnyc.com/",
@@ -26419,7 +26419,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJMRysuqFZwokRl_0x_CBz37Q/photos/AcnlKN3nWhpKQygq5epM7ciqYjJcaAeuBsZKCk5TjEZXizB_H7f1sJ_Mb0k4OkCy97EnJK-wxN6bx8YznIglXd6AngL1ok-kcKXBB3KwsckVeXmhbT_-Cv2HO6HBz_jHRhZXYI63JQozXivrE1Dwz4E1pD36QeuDvdSgNpaSmdi_2s1RNQrAHpljTlAxFiwSKh6ETTbuHAzKj2SRriVOhJ3dbWPLHVxtOFW4sRemczfy2Gd1GFBQRTD1PVNZ6lZ4kfQ9PepTWyJ2cLv0n2TBgFPZjjv_ddFT5f5ifCHjSGj1SpV-dw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJMRysuqFZwokRl_0x_CBz37Q.jpg",
     "address": "15 Gramercy Pk S, New York, NY 10003, USA",
     "phone": "(212) 475-3424",
     "website": "http://www.nacnyc.org/",
@@ -26453,7 +26453,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJH-cJt-9YwokRqvuHP4YuJVU/photos/AcnlKN0pHVvVCba2wPj0tDy0tUDiEsPVg2oEVkFtIvaIgYNarXliedkas-4gX-vV6BL1myt5HpbFKo_1fY6i1LOf3kPTsiU6blF2Y4sJrrIG8vPLMLFZ_9jz8EjYUckG8E5R63sLgDRvoeMhFDRnJxLIIoY_qHdljV5okaPldbmXuXTxaBmQmnds3y8kxfTuIuns8n2ZrBocBVlafifsuU-M7vkvWjjFqU6X-uvs-ZuJt7a8EJz-h9caMRD8pCfr3gLzSrmcv-Fp-JsRinIt0ss_DsPNlbTWTkyItsWawGlqRy-bKzIGi5tz5xU1GNp0met9FU7LXy73baCO_br84FdHq75OWhAKQLQwadq-jHtpYhSYRRijJmmzIEFenFKBOER4dCdq4rArOuBTLCWLrn3DMS76VBLCtwWXE5JbX-C6GUKwGg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJH-cJt-9YwokRqvuHP4YuJVU.jpg",
     "address": "36 E 62nd St, New York, NY 10065, USA",
     "phone": "(212) 838-8181",
     "website": "https://www.thelinksclub.org/",
@@ -26487,7 +26487,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Classic cocktails & light fare in the ornate Grand Central offices of a 1920's mogul.",
-    "image": "https://places.googleapis.com/v1/places/ChIJvQwwiQFZwokRQDZSQpZrTrk/photos/AcnlKN0MNVRYRoPKb_Y4z442qHGvshWKopuNWkYmoZBDmJCkv3BcMaN8Zq7DlGWejPKYuGLxulDzeq1SqkU20IKstxhp8R6A_u8b9bfDceZVhhNVEzorwH33rCrNTe5gwFEofMzViMaPHnRYOBcgNqoDRHJJT_etVvrmZNlrW02OodKOpQ0lSo5KQCdLgDdTTAqbI598j2L-CbWwBoJAJKmHG-Zb4TJerTBHVTF33cI7j_UcM-9sraZBKBV2D8aOhwtkwj18_zOA12Q2ZOht6Z3aiLrVzF7JXLOWXXVRydwdz9E1wA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJvQwwiQFZwokRQDZSQpZrTrk.jpg",
     "address": "15 Vanderbilt Ave, New York, NY 10017, USA",
     "phone": "(917) 209-3440",
     "website": "http://www.thecampbellnyc.com/",
@@ -26521,7 +26521,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTUnFcYpZwokRnDeckKVR3Nw/photos/AcnlKN2zpHbMGutXfDVvNcPb2tS2Mz1CoFB0dHI7kAb2XRR7TmRLCkFaY67ScgUpAjTNzUspboGvTvZqUbSLCULq1JVoXIgCTvloF2AACLHSEAkGnc4kQGKMnqFptmbWGOS8PwrtHmuH2u_yRHstnCSrukjWFVnKTOEEZ3l0fS5_EPpyWQAtc3CoD3dT76io6ne-TXS-kDG514dRgKy0mfuAJo7p26Y7FqPFFR2auJSmBq2BfEuT8f3LDI2sbCBVdy2zV6a-4_YXRW_Awkqz_vaQldt_jKd5MnV9ALSURfOgrnBX_A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTUnFcYpZwokRnDeckKVR3Nw.jpg",
     "address": "140 E 41st St, New York, NY 10017, USA",
     "phone": "(212) 597-9345",
     "website": "https://www.albertsbar.com/",
@@ -26555,7 +26555,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Watering hole with a Prohibition theme serving craft cocktails, beer, wine & bar bites.",
-    "image": "https://places.googleapis.com/v1/places/ChIJY4scGfhYwokRDUJKI7qavAA/photos/AcnlKN0IbvASuULCvyFhi-fJctLJfKN9rCw1GbkTpEpWQ1ZdMQp95bB4RxOWrUzJr7TizBR3oaxZ7HlPmcSrlhrmkGIoFVG6AOs64QlR62ovTCo9o7NVfviz4Mvx2nz2pwAeHVsMBI1hk_kpu3NViYvfnxLTSf7M5QQjTEdhZ4t-g4Dlisoif-3ssl5qsr0c8WyD0zsGHq7mhcgc9JNCJw1VQ0BeRRvY-pa7-hEFdHqNpPJdamFVIxrrCZxExv9qHdqbY3I_a85X97MypdTHgvX91TB6kFS30GPoJu2N7Wwbzanigg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJY4scGfhYwokRDUJKI7qavAA.jpg",
     "address": "204 W 55th St, New York, NY 10019, USA",
     "phone": "(646) 590-2034",
     "website": "http://www.tannersmiths.com/",
@@ -26589,7 +26589,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Craft cocktails & American fare in an elegant, multi-level space with Old New York-inspired decor.",
-    "image": "https://places.googleapis.com/v1/places/ChIJxVtTJfxYwokRqFWUb2-nUZU/photos/AcnlKN1KvU97aZECe_YnDcAJY-oWhl1ill0iqxBiPwG5Yx-lao_ezG1MOM8e5XZuf-ER3GYoQc4ycVDxhMs_q95O4UytpOjjsi8uu6jAOFltefoNrFPKyXvM4qvH1CqTnrFT0_tqAvfxbG0Sbmr65-btiJi9O7fHbaELvZS_vPh35gHCzIaMcpIEVkLXGe6mXWUN7mNI8cLVOjfRkDBAPy7efbrE9woZLy9hnNWzXuL-2FIT0uzSjNalVGQiaTaiNhT_jkYl2xtNxDCxylHPlfQkH3G7RAR6wUHvogsg0XOWCoK_Nw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJxVtTJfxYwokRqFWUb2-nUZU.jpg",
     "address": "29 W 35th St, New York, NY 10001, USA",
     "phone": "(212) 967-4000",
     "website": "http://www.thelibertynyc.com/",
@@ -26623,7 +26623,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Warmly lit, bi-level industrial venue featuring elevated American cuisine, craft cocktails, and wine.",
-    "image": "https://places.googleapis.com/v1/places/ChIJFWsPfqlZwokRRfCNgutT9pU/photos/AcnlKN2Qfnpt_4jXR1pyurNz77MGpaQ2nJb9zpjxgjiExt3fA1pcVv8Sm8NnQvojxd1u6ROzJ7vVldSqKEru1Lpp0mr9bHJZSlUw5HifyxoaXRHYToK1xn-TZrICwQKG1VucoBT5FKa9EyRQlhGt1NwxxUfGlnEgqt29MiXId3vfMieUJMx0pXUtHUGUKXLgVNsvDkCj9SKDi7vwgoQ8kgUySYPXzHd3LvQD811hU98N_SIGHElZ6isn_6sAnVGC9-vD65FVwdb8OUiFQExK3Vhcvhzp3LlTANcxZO7MFgmXZlcoCQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJFWsPfqlZwokRRfCNgutT9pU.jpg",
     "address": "70 W 36th St. FRNT 1A, New York, NY 10018, USA",
     "phone": "(917) 261-5495",
     "website": "https://www.ragtradernyc.com/",
@@ -26657,7 +26657,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual Irish pub & restaurant featuring an American/Irish bar menu in a wood-paneled space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAS6GeVVYwokRPfg8xt4nH-I/photos/AcnlKN0Dp3UsS65VjDolgHUidv65xxyui_esRGw0yq4gvhyozSIZwa5ElrUPAIqn7rQIRQARxkFEyJ40_fgmanPf33VwpkzbUwnTzRuxbLWG7SgfNnKmIuTqwjkRjX084YxYrwZC3ZjkCv3qlMgJCmgP8sbRQzt86OeKF2wW4D2Qh-2jCnVB4xzgQIpdAEijEawMkVA06XmXLCvpfBIUQKAyXxFirR6S8XyG1p82G3QIdUIczhboRM95xG3gLIHXCruaX8bvWTYRi7JIpbQn1tc-BP6qPN5csghksIneetFRioNn_l8PFXsr7Q4HkM1_8SXlAingFEWduo90Ywlf_lfgRvD3tn_pNxGY9o9CTwh7p8-8GHq5gHIMJfZ_skugjPbNgDCvhjnIs32UaNvSgWTTib0VrMliTysxbzdDCe0dFWkwDORe-S7QWZg7CAnctmVs/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAS6GeVVYwokRPfg8xt4nH-I.jpg",
     "address": "121 W 45th St, New York, NY 10036, USA",
     "phone": "(212) 597-5126",
     "website": "https://www.connollyspubandrestaurant.com/",
@@ -26691,7 +26691,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Vintage-style restaurant and bar offering comfort food, cocktails, and an extensive whisky list.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYeV6LAlZwokRV3mjPitgrnU/photos/AcnlKN27X_LRrn4TMUayCPsTw33s1RyzgmPt-dQkWHY7Y-RIxJExhZyzVvysHYIUYNklUJTQ8sc8xwE2OdVbKaWwu9wxxZifUfT7N0UrS1QLK9bV-FyO5pgu9D6JQetD9Jpp3AFrR7df1vzQVwRD40iLJAClnTTGOJNUtBm0XKTAH00bmZu-ldKTZ6tYzJjcMCvm-3xqBZ83fqf1l1_y1T1-fY-2ziCuKCZ7xlfymthKmaJNMxn9eWLao7d95uPfleoJPC13OwcsRviKf9ERYiYenBAfYW-KLe4xEz8a1q0_D-2Row/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYeV6LAlZwokRV3mjPitgrnU.png",
     "address": "64 W 48th St, New York, NY 10036, USA",
     "phone": "(212) 221-2100",
     "website": "https://www.elginnyc.com/",
@@ -26725,7 +26725,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Polished French restaurant in an expansive art nouveau-style space with an elegant, heated atrium.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ58OtM8pZwokRbd6DT6gcVys/photos/AcnlKN0NT3UfjZVyH4eO94hRqWEYwwK4V5pGgrjM9YDW8DmK3cybhjKMp2-bytt3vo9WxMJKylA6hUxZHJ1cfmkVCkcVWWBL3jeZgbMkc8S1mQY7_ud7uNngH-DcYWl_SGwIrO8G-btgbmz3T0WHfNsoRpNyPE_VhxETffDAbzre8-bJjYy_51HDrTzJzumduI3lTmraVHAyN29hIAdR_tbSgvGfea3_IeGu6c7ZCTPp07HEk-RG2lAkxHQ9grFE3Bo6BKwlpMaC988c3dknbj7LEki0fTy6qvQGixPC4j1XxGvzwg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ58OtM8pZwokRbd6DT6gcVys.jpg",
     "address": "145 W 53rd St, New York, NY 10019, USA",
     "phone": "(212) 510-7714",
     "website": "https://www.boucherieus.com/",
@@ -26759,7 +26759,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8a20X6dZwokRfjZjyuIqWTA/photos/AcnlKN2cAawxfkzF-fQEl453bAN5mR596BTX4uCT5JSwVAi-BEqDivcOWehj29W7yxAyUGIoCVmEG3Zp_GH5vbGAqjmDA4u0Xrb7P-fJDyqgoRj-zlueGvy7mq8hyLsta5snP4MrNUyXW_0wc9VHjfKd0jm3thvznGIxv2VmMoXiNjhaNspAT7zMEbk8nRdM5TalAHGeKPIyyFunWXbGpG7gQrsuenkJrwZBPqy1sPf2icS1SlLbb7NQtKz7SKPXn2yV-oioAwU3-E7FwgDvvaB6ngQUfUGuTcrIvDHiLA1TzTg3kg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8a20X6dZwokRfjZjyuIqWTA.jpg",
     "address": "7 E 47th St, New York, NY 10017, USA",
     "phone": "(646) 669-7338",
     "website": "https://www.mala747.com/",
@@ -26793,7 +26793,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJswKD6X9ZwokRzBuPAc0mo9E/photos/AcnlKN0oICOgs04a1e1qIR4qwkhv0gfmlzMcNEFW1rKbaldUYAxyeF1vCXhjGvzXNp23StD4EwSJGN31NJffuJmgY-sdf0eTcxij91Z4aUP_HGlQNSQwQn2XSLJEn2ncLQBUI3YEfyemzX7EVrEbwRqiozrWJvNJKRVOxPsKRW-whFVUEYDMbcvVcWAzP4lJ5vuH7bhFDOid3mHYzjxLwSB417aBto4rfYHy9svs2wCoJA2MFE-tyJzDkiuoIo196Xw_uPCUpT7o_sFAl3KDkutQNZpb19MqythwjzMMumgHwNoeEw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJswKD6X9ZwokRzBuPAc0mo9E.jpg",
     "address": "16 E 46th St, New York, NY 10017, USA",
     "phone": "(646) 396-2708",
     "website": "https://readingroomnyc.com/",
@@ -26827,7 +26827,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Sceney spot that's both a chic lounge with DJs & a modern steakhouse serving prime cuts & seafood.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXTDiAwBZwokRHTaHoPYW5oo/photos/AcnlKN0xmm6bLqG3K4B5O3oBdpx_O1Dr67AwY0ZnoSAtca9p9UwajyWD1TrorG3hY9DbmBOzXGq9pTSbPNjEoVMmpGxRdmq8cTOQTeV7n44XL3p2AIaiCvU6uhFuUeBfHRsnC108wlFaN9dda4dFHO50m2f9PhU2xr599Zow8t-oSGLVJdNg9WJILboZxYqA2rkc6tlJVB52bst3w9HGFCMlnjpldeV2W51Ax20uzJOxuj9bM0wmuTIV7u6GQ21we1exaaNKG6syjEJESpnFJUXPy-jyrE9lPLluNO5Phv6_9H5g4A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXTDiAwBZwokRHTaHoPYW5oo.jpg",
     "address": "1114 6th Ave, New York, NY 10036, USA",
     "phone": "(646) 624-2455",
     "website": "https://stksteakhouse.com/venues/nyc-midtown/",
@@ -26861,7 +26861,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "American dining & creative cocktails set against a vintage backdrop in the Refinery Hotel.",
-    "image": "https://places.googleapis.com/v1/places/ChIJD5cnWqpZwokR8h2yqOtN4h0/photos/AcnlKN2hfDDojHwapyCd0Bm1FyrzPdWc40i8ZKZ268Kap6sr8JJoqU-46EIw5DK-SOpqHk1kcpnZDDqbhMpLxMVLe-eS6UvaM-MwGmouTgpvzEyHidvhmQ896Tn8esWX3p1ZLj4JXDgUz1OG5QBvRSYoIALQD89JslZ4IfcQHNEWbzWOAen3tSACjsC1iQzYkCFnUygo7tvIPV4dxmUZo5RrfrqMa3Vaori3lMk2zxWSbVGHF07Y0xuIUbaP1xI97vOBwZ3HCkC5kC3g_l9drNtHmxpMW-nK8mR1RbtAXijdVC117g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJD5cnWqpZwokR8h2yqOtN4h0.jpg",
     "address": "64 W 39th St, New York, NY 10018, USA",
     "phone": "(212) 729-0277",
     "website": "https://parkerandquinn.com/",
@@ -26895,7 +26895,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Easygoing spot offering classic pub grub & a full bar in a whimsical setting with Victorian details.",
-    "image": "https://places.googleapis.com/v1/places/ChIJkdo-ilZYwokRdRUnnvCrsLA/photos/AcnlKN2tKZ1Hu87zoNcH8uMFGMEuFkN99HmaWEUK1fQRP-Ir9x35oeMSDcn0zWYE0QuhqwCa2dlCFvzrv_nB3dGCTNYz0eRhyVd6Ow92ZJ8GaMdPuWAIfTW3wTJGk_G3nh2LOXHAPNME_MFfd0VzH3RABF06_LXk2wp9QCuIODBKABzBx8G93ciNCAcebRpW0zLhKttvyuWe1ryVp64KFCW1mqjxmWAJUPICsPifovbtXd6LWm7V9wQh5WyBOaHdFIJNlsi6NmlHf2xG0D8q0bh-VAQyoMdaNnexle4wepqG-Ez5Ng/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJkdo-ilZYwokRdRUnnvCrsLA.jpg",
     "address": "249 W 49th St, New York, NY 10019, USA",
     "phone": "(212) 957-4530",
     "website": "http://www.lilliesnyc.com/",
@@ -26929,7 +26929,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Relaxed, family-friendly restaurant serving a menu of homestyle Southern Italian meals.",
-    "image": "https://places.googleapis.com/v1/places/ChIJR9So-lRYwokRX1xEjA0rChA/photos/AcnlKN1r3V3zuVV0TG-908l86JGZN9lrYxQfPVP1WndHGbPC7g7j4czwFyHnhvUXgkysCHOciCL4y5RW6r8yYk_3aLsdPpCVerSIDAeRycFcx1osql1R6MDhj1zISZw_BMGBqls7zFcrPeDHGXRNoHqqUUsCXQywxbKw_Kck4kNTVtIr7VggLZlwQ4VsGj4hYqhfjf4NoK1PFXFfONE6IIBeW-RGiwkh4CK8cUTszEujLCLJKel3NsI_aRtL3l2yXFtGk2vR65rxW4o3CeSuGjwzftxYpEB8dHvcmk-CVSuW7UFz0A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJR9So-lRYwokRX1xEjA0rChA.png",
     "address": "200 W 44th St, New York, NY 10036, USA",
     "phone": "(212) 221-3800",
     "website": "https://carminesnyc.com/locations/times-square",
@@ -26963,7 +26963,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Bustling eatery serving large, shareable portions of Italian comfort food in a lively setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVS2qI1VYwokRFo18YsKvHYM/photos/AcnlKN2e9lR5ZLPX_ueOYpe-vgm4ccsONMGaRFKh74OMplqql_rNf_w-GiVIRpVi9eHDMmpDmyeSFP1uyJfP6tFJdeM5z3gcuyJgUsuUD0kbx_CxYINx-0lklJd_J87rw1K5YjMhfqBNTBMl-_QgRK68sjj4_LFOWKDwCFVLvmJdJfAhVe0ByueBo2iqXN6vZhm0YTVhurAx3MIC2DiKGdzGz58xymHBdXwCqpom4M-1W2hcF6-YChQj8TrZLFa4dYBnxzJqtG8PfUZLpxI8r_Y44vsE7RlUtd0H6DhbGRQR0N_EdHNKLf1T96w-b_lZ5A-BAGJffoxNkXKgTBnH7dF1hXol0Nl9SoSUbRfAlcYm9TFuzJ2Oc3qsNnpC7eSurq4mbZ3ehe063KCCC35VvHHoiyDsC0FlsRaDdXMerxSzX9xv8Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVS2qI1VYwokRFo18YsKvHYM.jpg",
     "address": "147 W 43rd St, New York, NY 10036, USA",
     "phone": "(212) 221-0100",
     "website": "https://www.tonysnyc.com/",
@@ -26997,7 +26997,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJIYq6WtZZwokRdqduboSbRU8/photos/AcnlKN2GRDCIWpdPSWTcMQUGz2H9Mzb0IMrj3ljWkRgoBQ1wVowoN2bFf3azDndT1_QQNYUFaOiF9r1Qs0g_N5Ab_ICM4-YEv4f0XsMgfp3KzY8cY5qjC9u2ahEYi-Ze14vUNCnuKryMei5zCgk7cFxK0tII37S8-3ZM7A3coMrGgeLh5n55TBg_ECucf2Wo7bPHxUC6l8_GDIzBPK9lTbRtbQl3hDsN1mScKypeGSUOI_88HBn-RjVQ6jMSuTCWqwGXmFu7kN1IBxuXYLSCm4PfivpHnPvGc7cPgxR8fXJlIMbcZzBz_TIKgjNS97GriH5n3DTo5EQXVhsDaWdW7Zwt_seKgviJGTj_LWgaQuDTWRlCqWKzuZymme4IlXC3qwQNDmrWGmz5-WHarGPCwoWhLDaRdN0dd-F1BfKyQc27VbHUfipj/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJIYq6WtZZwokRdqduboSbRU8.jpg",
     "address": "25 W 38th St, New York, NY 10018, USA",
     "phone": "(646) 676-9373",
     "website": "http://www.isla-co.com/",
@@ -27031,7 +27031,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJW23qZnlZwokRv4Pp_iNR0C0/photos/AcnlKN04ip6ASeExYj1FPkSK4eBdo8xoUjL0QeOq8LRhxzl-uCBbj-4t_pzWSt4VmNiMLalyOEOcRiIEBNg2WjDAOITiQH2ZsBhvAPfwDHJoYfPBTFXP7drfzUDee73d6CVJttqHtCsMjCTWk4i_Ky9nOOvVHBTj_bxKN7gJ1STnJrRX5BIuP-86lX7hiM5ea8cIofCSgEbCkjJ4VFQvDZg2Taw_zs7WFzOBX2RXQe5iCmyR2mpM4w_p7PeA5bfUyg94UGW9iPDFHTh-FDJV_d87g_TVFJdqKTulWiHnK3YyTxRlkA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJW23qZnlZwokRv4Pp_iNR0C0.jpg",
     "address": "44 W 56th St, New York, NY 10019, USA",
     "phone": "(646) 850-1100",
     "website": "http://www.theconsulate.nyc/",
@@ -27065,7 +27065,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A diverse American menu & craft cocktails in a sleek space with communal tables & a long bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJC5JFjf9YwokREzJa0siEb8c/photos/AcnlKN18ZhdaIMtUFAhY-IO8ItzjU0hew5EbQymhVD1rkf_BDpb44lF4pvZrrsYAhiaU0xaJ-swKOx3pVUa6H2_X_IJ1nJqyd7BqMkWhP6UNFz-vZmL-z9VDUhItDdE7rmxVua_a9H63brh_nrIz82lNsjBAjO9rwxyCsrCmjD-OOpWilWL5AM5zEt7q4fpqC8iKC5FB_ANLcekH4ftd6c7DOWUMnFoue1jZ6FcPZDQmuni0vKZsuL-HSleyUqH37BODruL2CqnzX3YWaD2DQhYkR60JzRQy3o-q0rk2pgcHcRhyGAQGVHKNsSzbjhz5PphqpAK9uVDCJHdJbeSFU5f7SVWYVdBvnTDcBDF9uIQvnXjVky5-S5HK1pP_5Q1anA9aG523gN9WFt5kKeCl4V5pI_AgHqZ_HE5DIWRi8LI4Tcne8OMOpwKbQiWvqlBxQd12/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJC5JFjf9YwokREzJa0siEb8c.jpg",
     "address": "70 W 45th St, New York, NY 10036, USA",
     "phone": "(646) 719-1364",
     "website": "http://www.butterrestaurant.com/",
@@ -27099,7 +27099,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Iconic steakhouse offering classic cuts & raw bar items in renovated digs with red banquettes.",
-    "image": "https://places.googleapis.com/v1/places/ChIJFQ55zVdYwokRUyAEIvUGfHw/photos/AcnlKN0WAbSauUCf-4egQmLLwknv0pSF4EpcTCZA-Vz6vv6Le-76iDvQa26jfSONm_CjrLLwWT47iIx8yCXqPIIMj-jQVz0OYJ5EKoRJ4yt8DlIUXIJLUWjB6MwtZjKvOriVY3gr7-ge04JicZswTJ53GrQSQ-VPD2cRsVMORXh2osQFeh7EDHZhadiVaFLrxaR5QptwzeAWZx3OMAeWyzLAkSCdYdZQ7GK3yeL7ytdfOR9-odGrOi7nCETZWRCxjElbcfDbiwVjfrvlqrOXx9Nc8TGBH1ywEynHFvJUPH9K_yqL3w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJFQ55zVdYwokRUyAEIvUGfHw.jpg",
     "address": "228 W 52nd St, New York, NY 10019, USA",
     "phone": "(212) 586-5000",
     "website": "http://gallaghersnysteakhouse.com/",
@@ -27133,7 +27133,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Stylish, bright eatery featuring market-driven Italian cuisine, regional wines & apéritifs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWZbmVuJYwokRp2ASZt0ZtgU/photos/AcnlKN0fmtKhY1wfcSHSuuzvnMbyBpQbkLW3JBSOIfdbUEoueFdo7pJvdCkIWyC5Y3GTs-bWwylZOHOGhkAdgtoi6VRjSO2H9Ev82SvsnF34g2kuLFwQTun2zWVue-6Qr10LcS6N0_SrSAD-IEDjnoxg1roT-Aiw8j_YWjwuO9U-GuNyYORo9PMKL-sZ0CZcO2Vgmhs5GcLqDZxZi2hmSa9yCVElZvO0SZQXU9mjk9ZqzSNdesf8w3DagDMmXtOlEiE_jU9mspcPnteNY1NCZVpTXIQ4ZiIXFdJ9DA_gfhOQ3S6orw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWZbmVuJYwokRp2ASZt0ZtgU.jpg",
     "address": "950 2nd Ave, New York, NY 10022, USA",
     "phone": "(212) 899-9996",
     "website": "https://www.lapecorabianca.com/",
@@ -27167,7 +27167,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJw1vpXEFZwokRmCe1i6mUtSI/photos/AcnlKN2SLOPJxGYuhWkb10winTumA4y8K9_6ZGEtcQ0_cqUSTVAnLfo06lXRUi5dD7Mb2RxoS5whj8uXCVZGvMrScjkz1SF6ld_nFjibu3GMFYJn-co5Ofbo9m5n3bbeoVMySPoieVp1rGvnMRLhjB5nSFcloSMVwOCvgvCg1d4yalt0ajnFOSVZ0gN4Qmiy2ewHXARVy06mDIioYAx8c-Reyg8cgTW6DZ3QZ5x5UIUa4icc99mAUVKw8cuX-NkjUU1fJvyvLpbZN3d3p0cm6YmaQeBk1ai-meLnEFCexzRGwD00Aw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJw1vpXEFZwokRmCe1i6mUtSI.jpg",
     "address": "15 W 56th St, New York, NY 10019, USA",
     "phone": "(646) 437-7272",
     "website": "https://www.felicerestaurants.com/felice-56/",
@@ -27201,7 +27201,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "High-end Scandinavian tasting and fixed-price menus served in a minimalist Nordic setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWfonJ_tYwokRwIGb6Im403E/photos/AcnlKN1UHcpklPbUcMnjNUWRGdBdtP4bOTAjeeJKWvoIYeikIRBMOhLCta7BViD2qi91RNfIEKEGaBhHAnTR8EttOAH2FbWM4vFPm6d7NPBGfmCEdgmDSQLtGwSXXjIqygn8k84ymhV8EuDfPj3-z2fKAqzV_cj86SFrrQHiWchs8FZ-H8WLm6wfoz3XWyrg0ajoE3jwW44fSVu1FxqB9jplwYOMASTyAKwkamjDYfaTEuW1DHx-56vtdSRC-qC1Hpxi7yITn3vcoppElpQ6CpKBxqsAErdX8VZDUwTcuG9QEN9ldw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWfonJ_tYwokRwIGb6Im403E.jpg",
     "address": "65 E 55th St, New York, NY 10022, USA",
     "phone": "(212) 307-7311",
     "website": "http://www.aquavit.org/",
@@ -27235,7 +27235,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Renowned, garden-themed restaurant serving seasonal French dishes in an elegant setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJKdcKCelZwokRdFHp3hzUKok/photos/AcnlKN0KDQhHmZSoxDfpUwrgu6K9BIe2mWlXkKXGi6L9-zkC0sMaStP173GjGRSxzIeNeFn0x2ciM_gb3dYDTKWdHEEjBMSqZEE1eAvpF-4Rv70Q4RxxA1gUfmaqWMvSfQIx6YYLE8c_4rL_512GWzaJG3ECGH6mTtVdSCfQPa9J0kHjaj1g082Wz-vYjlHcHDl265cgccVz0RWpgskF3SpfTiONouMNFYEOqu1s7xaQnaKnoAq29Mxon5CpfaZYen55s9r60SkOgyPAUUtZb1Hb9D8D2pMkHFJqydmELxhQE4Zduw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJKdcKCelZwokRdFHp3hzUKok.jpg",
     "address": "610 Lexington Ave, New York, NY 10022, USA",
     "phone": "(212) 451-9211",
     "website": "https://lejardinier-nyc.com/",
@@ -27269,7 +27269,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Gourmet fare from the Italian & French Riviera plus regional wines in an elegant hotel setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJMYIE-KlZwokRZuFHn8jkNuo/photos/AcnlKN0RdJ37n8nSkk35dJuT64EQwfUZnRik613aK5SVehbm2ejd56WxEUZ0p4WQr86r_aSGEs2DjGsqh52LGEjYwkXNzEV-ah4cG4rvRTS-Gx83QMywk9Ukmiq1hxzTkLIWBGMHn3KA48Z_FKW1exD0jLFrXPvFi8NR4kYiAggSykgTGgTocxna_FmwBau2609l78tT5uOPocq0bXAxkK3qIyUc9fNlkfV5krAWnk9bpbNJmj98pOamCpsacOqh2CL8copikPIZI3PK7eui0BcdJr9QpD0aYcF9UJ8JqDx33CeViw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJMYIE-KlZwokRZuFHn8jkNuo.png",
     "address": "400 5th Ave #2, New York, NY 10018, USA",
     "phone": "(212) 613-8660",
     "website": "https://aifiorinyc.com/?utm_source=GoogleBusinessProfile&utm_medium=organic&utm_campaign=MapLabs",
@@ -27303,7 +27303,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQ2rWiydZwokRKb1IcXrXZ-E/photos/AcnlKN3_hCMnNGfPWra3_0ti1xNFMigk_vgMb6DR2_h7Vm6__3Ta0U6mDYfp12F6MB1wGt5sGWnOUgsW3YQD2caq92QqOYfGrGpIROg-fhZcV0YOa4WTvdB_SC99jW0rKy86Qr7nNMAZyfr-bE5sVPr5eAve4Ivy4ZS7bsK6rR1bf8apCifrGkBfl8aZHdMVhTRhnxGR3IMupHLG2YiP-K-GSiE14ZUp6tw1L85gjBCFIK9__0ancMlMWxoa7gjHwtszuhd0gdzwcGgqXP2m2R2sf_QvYlXwboHaZaBIKtsYqzKF4A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQ2rWiydZwokRKb1IcXrXZ-E.jpg",
     "address": "53 W 53rd St, New York, NY 10019, USA",
     "phone": "(646) 535-3994",
     "website": "https://53-nyc.com/?utm_source=GoogleBusinessProfile&utm_medium=organic_search&utm_campaign=MapLabs",
@@ -27337,7 +27337,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJf2n5I6pZwokRwxotRRdpZ1g/photos/AcnlKN0sHGGFQpfDVm48am-N0egi2YlE_fngTNAtD3yFUGsTpsdbVz-2isVfU3D4XsNsvtOYtDTv3HpnX4nvvF6HkMtx2LABDfUNPcaGxnnGR65pNV8qFBzCnlcfgxd5c3NCAda_frMn9RkmL94o0aVqLmPgxwKJ7Q6yCUx0AtgBBetPWLm32Wa4gCHKbUZ_MpnjbiTuwDB9QpcTPJMhZ5hQr7nSKH0g3SnZOC-iQml8kLNR56axY-hzap0ey1z4n980hXjZEq27_MFeDhcJ0CYrSIslaqJN7SylQJJgtSZPF7DQyA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJf2n5I6pZwokRwxotRRdpZ1g.png",
     "address": "22 E 38th St, New York, NY 10016, USA",
     "phone": "(212) 802-0600",
     "website": "https://www.madbar-nyc.com/",
@@ -27371,7 +27371,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJfeyITOZZwokRrO0zOWl1Xks/photos/AcnlKN2LDNmCBLVsMkC_mPiuPiquFclvfVRmAe4s5M05lzbNL0AWxHGBwbRWNfGKxyodMISsKOrHpNd5yGKuPVkXgP_tjYqbhtaNjvTTYs1Pm5Eryk2pwXmORVNsJ9oY_y7imZw5nl4QkFhpH88VPIfIpS_dGG43mXps8Ac77cGCZCFR4gY5etcTnwWTu5wizSWMxAjSugCMMgrMxtICOgaa1TTpk6ZUslKQ8DYbdwrGxgVN99py76RFrsf9YZJ0xqfjrJX2ql0kt295JdF7C-11r93asKMiSwNsA18AbQLr2CvRlA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJfeyITOZZwokRrO0zOWl1Xks.jpg",
     "address": "267 Madison Ave, New York, NY 10016, USA",
     "phone": "(212) 286-0207",
     "website": "https://www.themadisonlounge.com/",
@@ -27405,7 +27405,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Burgers & other American comfort food in down-to-earth digs with a lively atmosphere.",
-    "image": "https://places.googleapis.com/v1/places/ChIJu4DTYeRYwokRHjDHAffrjeY/photos/AcnlKN2YxWZq1uX3m5t2HE8oNY-0jfGE9MAXMI1FtOgXwUQx--r8AVAFeCmh0nsdQcojAS_1zeTV9FxRgt1r6atVNg_US0lVw2agKUtHljRBpl8dEb0fieQMEZwkpnPxaPQlZfSFsot7VH1J2sjSSbFfaAr0R2y4CaCLk8fkKALvtt4Eeen9TnsCP7aHqCqTcxGrFF6Gdk6R36RM6AR3i0GkBDm_kph1PN0UnRDAKJPBDxJH96tMBUfQN7JrG-TfRRRgqhmre5GNr300W_LzeKIwN3nvvUA1jROzwO6Qea3KkBvEdA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJu4DTYeRYwokRHjDHAffrjeY.jpg",
     "address": "915 3rd Ave, New York, NY 10022, USA",
     "phone": "(212) 317-1616",
     "website": "https://pjclarkes.com/location/third-avenue/",
@@ -27439,7 +27439,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Upscale bar on the edge of Murray Hill with a self-service tap system & hearty American eats.",
-    "image": "https://places.googleapis.com/v1/places/ChIJgbFrPwFZwokRiSXnTa5SUOs/photos/AcnlKN1eO2qVcTf6IquhBAGFNksSugd7RexGGfe4Ir-KkMU6YD0TFclVfVY7w-jATvpnIYLGLMlqWYABJDRemTHBTa0d88NoM6mwGn-7EVtePxhUJPjrfHRLJ5N7lA-9CpLezZPSzP-NJUUhchTJEj64rvbGv8XKhMSDrrTpDzs3fLmlhfvuhUjBe26tHXn2HK_uXDJQUCHWYYBBvRW9AcQkXlKoTGv_C6oQuEsAf76pzn3PE81dcxN9r1zp_i4jA8HkSqz5LnUV-1N__Umy142oXJFKv2FDAlnVtqxdPaS03erxig/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJgbFrPwFZwokRiSXnTa5SUOs.jpg",
     "address": "99 Park Ave, New York, NY 10016, USA",
     "phone": "(212) 867-4484",
     "website": "https://parkavenuetavern.com/nyc/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
@@ -27473,7 +27473,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed New American bistro with fixed-price pre-theater meals available in a contemporary space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYSjcL1RYwokRDHSTU6pG2cM/photos/AcnlKN266QmmVfZjmVltXJSaGccprjXH7MlBpEHMf22U0N93NqVK22kpD26XtRd6g5yCXTx_kQPQK5Tw7s33UY2-XRiLths2WZvk9kBL6b66pbpW0pH_odViv-nYTHWvPU_akz4mxUdVjUl0vIsRrS_fGTbILASo8D8U1QRFCtt7_NtMCqmjxSbNFLa9wYYv_rNHPHOy2VX1fI2Npd1OdlsvQh59jxLsf4fNksfzkYbNuISz8bcQuKHEzkxDPvIgAGG0YOfxWR_4SMwE4drLtRqM-0ClqbEQQMfbXXnoH0mr1n7p9w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYSjcL1RYwokRDHSTU6pG2cM.jpg",
     "address": "252 W 47th St #14, New York, NY 10036, USA",
     "phone": "(212) 730-4800",
     "website": "https://glasshousetavern.com/?y_source=1_MzUyMDU3NTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
@@ -27507,7 +27507,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Clubby Irish gastropub with an extensive beer menu featuring craft, domestic & international brews.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWZVoalVYwokRnPIXV2adxKA/photos/AcnlKN3NVA6qb7LxQVNmCzFpYSM6KEmxfmbMSC4KgOF91KRBXBW4VosBraTNn9GvmOtPhJBIy84BRDCiPjWKZ0V3r6D81bhGCAi2gOPc3XZ7ddo4hjsWES2YFQTOKaH-Qi2-8DJZXpbgfMVOkIJ213MMJ45-f9LvO13TTaPxDh8yudiGPfoW2TQQnG6rg5QsIh-PdeXdUocYu4YHUXUqG29O-2SBHhavkqyUrByUsCbbcGvTeil8r3pUYIbN-6-D-K5YFxu8YCKDm3PfFvxPNjyUuREUkolcLMsECMqJfgSHIhWTaQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWZVoalVYwokRnPIXV2adxKA.jpg",
     "address": "120 W 44th St, New York, NY 10036, USA",
     "phone": "(212) 997-3933",
     "website": "https://www.thelongroomnyc.com/",
@@ -27541,7 +27541,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJu3ll2yNZwokRPSQ9DAKRFV4/photos/AcnlKN2jMko0x3Vn9RPYq25yB9rO4wxJLVDrcZaevN-qaF2nuP8EJpwa--c7DA5eoihdUiDcYj78mUETqY3M4PO_8FDSfMAbrOkOWnfPiT7PVGak-_zcHTD00bLAmICn8xEDAmngKhNQ6ybpD-nLvAEEiratMrUbQ7cBoDeaH2dO3ABvJDZftxiNXgIFBKof3eQ3OYR3frE8rl5olpQkSVA2HIdxygL_gVLWJvVl6yJ0PvvFynX6OM2QKJimIJdhbpJsgg1eHtZjM-m0wR8Uag0YU2t34KZhuR0D2WN1u-KGtXQ_vw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJu3ll2yNZwokRPSQ9DAKRFV4.jpg",
     "address": "922 3rd Ave, New York, NY 10022, USA",
     "phone": "(917) 261-7644",
     "website": "https://www.thenakedpignyc.com/",
@@ -27575,7 +27575,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "High-end sports-bar chain with a huge menu of New American fare & an extensive list of draft beers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ0x8Q6b5ZwokRMSVr7GeJQ6w/photos/AcnlKN2dtAymKXAeyWeC8rtY1NbmUEzy05vj_FnuaIV7CDUW7l6qqfjmPzeGo-wOVisAEG9mlvDmMiV6KNH8yRvMrQkjIzHizgY0GyWuNtDh2_mr_2uf7D_yAA2PU5lIfCwzGYyFN8sMnR5xKHx0eaHGadOUwtf726IVxpfDi8wsx0R2XXbdMo5VJIm3nM92aPo34re6FZgyR7wtzX51TnYdVrWw5Tm0qlyWe7Y6MCxztTFmmspuvktXvzKb_7zpdITzwmuq8HbOHXaIgp6UIbOKwpvSkMgsT8DM8Z-T_sw4gtVXcPzgA48kiiD84eRUgEHH02RXiwunpYu_LkmOKqa5oSyhdZWrz-g_evOnzEDwR0rvT8u8znuoB2EGVpzO1T1Kb3wDT7Yr8QlxOp19RgpycYqJ-g5A6GdRAQqgl8UJmwt0Da23/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ0x8Q6b5ZwokRMSVr7GeJQ6w.jpg",
     "address": "575 7th Ave, New York, NY 10018, USA",
     "phone": "(646) 434-2448",
     "website": "https://www.yardhouse.com/locations/ny/new-york/new-york-city-times-square/8389?cmpid=br:yh_ag:ie_ch:loc_ca:YHGMB_sn:gmb_gt:new-york-ny-8389_pl:locurl_rd:1083",
@@ -27609,7 +27609,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Upscale pub serving modern bar fare in a space with a front bar and back dining area.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ5Z-4NaxZwokRF98-wGsCVDM/photos/AcnlKN1pzDSKSMMpG63CjdrMyUA3gNf5vOxRYmKN25XFGW3PdKYzaTZhGV0j2ePXZosTNXio7wrTKjmnTHpfjEjg8MRQzu9IodSOpestNaBbHqrHiutvQPYv3oubD-kXg_kXn1O0z-cm4Z-S1z099yI0PX0UcrKqfaS7lrC-__euYOIAbqI7Pdt0HzOhhl-Zr9BbNZUDzHMGxX7-qz3ay9vWRO9IjrxRw9Et8OiGdjQ17oRyvvbFmfhye3KyD00LGC2v-3f1RGtcT8zmzJ80hGxw7eVp3fHz2UhtiKLDEb23X6oseA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ5Z-4NaxZwokRF98-wGsCVDM.jpg",
     "address": "237 W 35th St, New York, NY 10001, USA",
     "phone": "(212) 967-2511",
     "website": "http://www.juniperbarnyc.com/",
@@ -27643,7 +27643,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "All-day eatery serving French brasserie & American chophouse fare at the Times Square EDITION hotel.",
-    "image": "https://places.googleapis.com/v1/places/ChIJnw-5VWNZwokRyeb3nhlAwTE/photos/AcnlKN0lZZEBC-cWgqfj3Np8KWS_b-gFWUHOaD4MS5U2sWjU-vvrfEhK_xITCHU0kHQpv9A8tdRQujCGrrLoY42IVvC1cX5oLz_MG0UoDS676CFidrAc7HoeQxDYcFj8vCkAh7kgJ2Buo_UByIbq3gPa9LVSxbgjKA-Bls4xCocg-9QOjS1_tQcY3Sj38W9Ba7VvxmIEHb_6WnoBdRMhiI132Z66_kTtaeOcNIpdIpSJxs8Cm3Bz_ht4v2_Uw-JVmhdMsUobC6RbWO9LmzrEkY2n4aSHmldXu2atlqb4rKOgXeJCxg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJnw-5VWNZwokRyeb3nhlAwTE.jpg",
     "address": "701 7th Ave 9th floor, New York, NY 10036, USA",
     "phone": "(212) 261-5400",
     "website": "https://www.terraceatedition.com/?utm_medium=organic&utm_source=gmb",
@@ -27677,7 +27677,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrU1kagNZwokRVkNOaXpRx5k/photos/AcnlKN32pEn47woiTqr0RDncqNRIsHuVVozcCWhejss_zhlinHMVU-A3zDd62KtccexVEvwV3jpYwHLYoabSRCLNt1OG5_Dmo0QrfLRLYhB7vDDmT9ekYLBCaxHvFzOmVIFN70JA4rl0VUq0kEpPcp1xfiSATrdOz_aMaglmmgEv_1SRtrZNKBTNBb1Gl6n-_SeiPXaj7MhdISHywdWsFjxXRtfagUsrOItAnZVyT6TEwMsHJcHbeBiPK1Dps3QkrwNaQqbVvG8BFLNMC1W0108zV1ClLSzDljTXN4_oVuUJYrGn0g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrU1kagNZwokRVkNOaXpRx5k.png",
     "address": "55 W 44th St, New York, NY 10036, USA",
     "phone": "(212) 753-0544",
     "website": "https://www.bigblueseafoodandgrill.com/",
@@ -27711,7 +27711,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "New American fare & city views in an arty space on the top-floor of the Museum of Arts & Design.",
-    "image": "https://places.googleapis.com/v1/places/ChIJbxudM_ZYwokRNZbwXK-_GzE/photos/AcnlKN2hq9xQLYVBBi5i5HwG1cCNjoBmmdE-updXOWhgHyjSrrNGdwgofzSxwoaK2NA1C2QuXBU1hFP4PGGQH1P7qZzQa6Pm7OTMfuM7uHgT08JjvG4a13bUzvm9DLDLmgEiPPZoYDTEQRgC7nGWebyZ2E9iDHmXRKUboXe1XsTPAD4BsTsVp9S0r-WlE_m5NH51aAcCUzpM34WdAneS-49LENg2SVFn46ZXFS1bErisH9psCScX6SAJYCbGsCsH_6Pv0aUjQqIFsAcKbxYXtx50csq2AxOSgDtu8FTKxa-0K03ljA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJbxudM_ZYwokRNZbwXK-_GzE.jpg",
     "address": "2 Columbus Cir, New York, NY 10019, USA",
     "phone": "(212) 299-7730",
     "website": "https://robertnyc.com/",
@@ -27745,7 +27745,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Quaint, classy hangout with a vintage vibe presenting craft cocktails, local beers, and diverse dishes.",
-    "image": "https://places.googleapis.com/v1/places/ChIJvWtE_KhZwokR9bS5Xc9ZuPs/photos/AcnlKN1ZdcszoQet3Q8CDjUOJ9D-ZbAQt6luV-gXIX5ggYZlmw39UZ-ai0mWq_aDAu7YN6bMKAYqylOYNS2AaPKRAgnKGozLX8HoKpatj_ovzUhwcIIYJkIXfdSBu3zTgSdN3v-wo0wh7xJE9wi14h_Qb-FGXvtRF5FRNpCY6fLaKT4w1Or0qUC17idf_yFkb4zdn7O020pPHd4xcoLOh7pssdgQc255ECvzWrk6NFRDWg1zajl9q1I-V5j2E2UyOwZ5xuvBQ8bG2X6Evcn4WLgnVtgWj0Yx1UmurLnWujb2D24mkg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJvWtE_KhZwokR9bS5Xc9ZuPs.jpg",
     "address": "147 W 40th St, New York, NY 10018, USA",
     "phone": "(917) 388-3727",
     "website": "https://www.theindependentnyc.com/",
@@ -27779,7 +27779,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCX5C4u5ZwokR3RzOYiuHifU/photos/AcnlKN2NFEbHZtZ-N_DNUJaYdCYMmCEIsD1XQM1LUYEX8wJzhr4A0uNLrZ9_xbLZqM1kaosOwbbOOF1QQesCdLLFPsjjXJKT17RRLRBq9qWUvsHeGGJLBstdaWQLlnmHFfnm0UHsrVmcBWfWN7hUsbRLtMpjrsNTBulwW7VWwKMTMb6Ye17fhJoYLAHJaF7KyzGN7pTP_ptibbTVAM-QWy_6bd34Ugbsiua5zeQAuxy6bJN5td75Roxn94ALbGwC412GHWwdJhXvpzkF2_dWHz4dBxMN4bmj1FQ7a4VE40VeQ5s/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCX5C4u5ZwokR3RzOYiuHifU.jpg",
     "address": "70 W 36th St. Front 1b, New York, NY 10018, USA",
     "phone": "(917) 261-5495",
     "website": "https://www.parlourroomnyc.com/",
@@ -27813,7 +27813,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This luxe rooftop bar atop the Archer Hotel has Empire State Building views & craft cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJG6SkQ6pZwokRJTptT727h1c/photos/AcnlKN3FIiPSVzmYspGtjH07JEBT2Rlwds5zsmIDc1hrTeA8MKzHM-cW79N6uJ6VEDGdbafFA0O80NNIKC4muXSI5lkZkBvdAKAfedqgh7nYyjHOx7Gh2VPI4p0AqTpv_WKcClSBgHzp-ylKJHbzarE3croRU19EBLyxt_q3FxFVEIURbYS31SPEO8kO4CVQ4jnonkRMi13HBQ-JrGzB47RKD__Tnm32P9tVIPkyXnzdY_KK5fy_TD7LOBwP1q_sK27VUkkBf99QEV4GGLHNn8UHwiUXA5gaJib44QGH7K8zfO27fw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJG6SkQ6pZwokRJTptT727h1c.jpg",
     "address": "47 W 38th St 22nd Floor, New York, NY 10018, USA",
     "phone": "(212) 730-0538",
     "website": "http://www.spyglassnyc.com/",
@@ -27847,7 +27847,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Rooftop lounge at the Beekman Tower sporting plush banquettes, cocktails & East River views.",
-    "image": "https://places.googleapis.com/v1/places/ChIJc1QTEOJYwokRLAvuSgkm6rA/photos/AcnlKN0r-4CB50SWJWDL46aimYI8Wkyv_XKvbdp4jxHX0bU65czpyr7tT1aFIjv-QaQ06fEmE6xSNO3jV4PKShEwT0mzgTkyBIJxpHzfT8KxbD6babA85_p1TJxdkpEL-rpDPgNVchG7-iLXyYDQD9mOiDzRccOOc9dyEVZ2tykUYSUeeLV08DhWIpk-zCqLi8tuHs3S9KwfsFMitlagnF8raluu5Wg4yh1HFw9KNNubNWSz9Ihj0p08gcXqx0MMiFm6Spj3fjgYCvbKfb4WiJM9Bc3I-XwyWilUyzjMOGmI53ad4Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJc1QTEOJYwokRLAvuSgkm6rA.jpg",
     "address": "3 Mitchell Pl 26th floor, New York, NY 10017, USA",
     "phone": "(212) 980-4796",
     "website": "https://opheliany.com/",
@@ -27881,7 +27881,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Bespoke & craft cocktail bar with a chic retro library vibe within The William hotel.",
-    "image": "https://places.googleapis.com/v1/places/ChIJvaxS2ABZwokRy9vvtFcAbSo/photos/AcnlKN1LDfuTOlICLdtD-hCNQKqXy3BggUObFQw5TgOimAv71-7n3vc8mFrUuT4NoJXBqHBoGIbs0y_p9aNxS39RVcI5t06UUinHXNTXZpGOzE9_AwJT-_uX4d3rkr2MxB1B8MYKgfZ_BQK7sUXVeA2TRl7T5JCp0blZySWI2k9LWmjYJspEwaqbAa_Qt2w4tGPLBKPTG3wq7zeW2cO-cq4UjvDO6fdsoc0oMH3Acp3f7cwqffJCADCNN05xEip3dross3sTg-cDBvBcc8KOBv_CEAMWifIqAmtedvMJlyHjflo/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJvaxS2ABZwokRy9vvtFcAbSo.jpg",
     "address": "24 E 39th St, New York, NY 10016, USA",
     "phone": "(646) 837-6779",
     "website": "http://www.raineslawroom.com/",
@@ -27915,7 +27915,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Elegant saloon with dark wood paneling & historic decor mixing classic, Prohibition-era cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJyfX57v9YwokR0Sml4dcf-MM/photos/AcnlKN3yMt1XNe6wpf8O21CzdgcUJaPnPAt9xH6Hqa7iR7PVmcJa-cmdhZr2VVFhMwB4aUJhF4QDcak7gHl1_qLB9V9CyFUwJ9IJxa0wrkRqiIjzfgHkPld6PjR_dzsSpdRL9I7oPhaCclYReefVCCjdioEtVHMFwo7NfPm63-e3C9ZgzkwJCLzCc8YxFirhX1tAecGZl6eHwPk5rI7KJ4dm9EK3QLVKPdoEdCAUSUV7hDWz7vp_uRay4MVj96m1yK4Ztfy8hoSlBhq5VozNg_NaVonvo6cAe82pWMwk-wMLdM0/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJyfX57v9YwokR0Sml4dcf-MM.jpg",
     "address": "49 W 44th St, New York, NY 10036, USA",
     "phone": "(212) 840-3080",
     "website": "https://www.iroquoisny.com/dine-drink/lanterns-keep",
@@ -27949,7 +27949,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJk0Fq6rdZwokRVcgb20mrpgg/photos/AcnlKN1oF2Q_4pV8ZKhbphcF22H6lmROHd9XbDLXFyFMKe32y0NaPL4CYI_5yx5DNaCF9XiNGphaMAM3J8w1nVv8H8iXVX6nQcPfex1XQ8jsQTetm2LUwmUTBTwSN2QlI7f94QNagDpY44D18fXtTf8xsvUSSAfgwvHf2srzGzOT3Ghe9lpnJkVZpDQJpWfAmK1lHHVvMraD60XaNplS_qTPIf5amofjDFBXg4z_rr9SlESY2aNwN2M6W0p0DkXygDYx9BSzQtk8Smr9pugGnYPLFUU_xMZbevHFcwLxZOA8ygltt9EgqAG3cg-da6osAR1qUXHNB03r-DcxZzTwgmaIb9WDaUY6uSjEV5eTapMZgpUXiFz1zIw13L1-qSsisCGpwO7D4m7fqF54HSmFZZAxyarbfmg087Z7Cnpqm3MVd4GfC9Tg8p84MdVeYdDRYznW/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJk0Fq6rdZwokRVcgb20mrpgg.jpg",
     "address": "1488 2nd Ave, New York, NY 10075, USA",
     "phone": "(917) 557-0217",
     "website": "http://www.keysandheels.com/",
@@ -27983,7 +27983,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ6d7FeSlZwokROjvyNgZYh-M/photos/AcnlKN0YckFnrDCy7l76msaCabbEuw0ZbgXJ_PTUxNbepWr926nutokd4h19ePrAHbZP7t8Dg_v49FJrTdc-B90dOPLREGcqxNtgfqjFSiQFAo16wLJK9_KlW3LpWMlkTmB8-5uxO7XF8KX-PWfvusJZxURjxTHKMCMjzRd34rZVDggfFBlMOCQafbLtG-CgumXCpmuMAWBAw_uKmFRNi5AgZsrrT9cHbg9hJt2DzTcbbT85bIrqlWWjGVVR18pHzZMe461xFvP5XyxHyhOfY0TG5zFKc0xnjApVkndJbLStJplTcTPz2oeFko1tW0nz3f0yrdJXbvxbj_oyiYjRn56BI-ZH5shWt_Lrg_OikrOztIZZwlLxb0P0-OHitcSZqesTItIF_JDyigDVA6HKEGLioAQBhA7WISTMGaRcfcbp63MhdQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ6d7FeSlZwokROjvyNgZYh-M.jpg",
     "address": "75 Rockefeller Plaza 32nd floor, New York, NY 10019, USA",
     "phone": "(917) 508-0424",
     "website": "https://club75.com/?utm_source=google&utm_medium=business-profile&utm_campaign=club-75&utm_term=nyc",
@@ -28017,7 +28017,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Cavernous, futuristic nightspot with live DJs, VIP table service & private karaoke rooms.",
-    "image": "https://places.googleapis.com/v1/places/ChIJr3BEnkZZwokRAo1rHPVk80M/photos/AcnlKN3_0xM1ftW2oNCQoXCz9UuQ2d4x_C6ebwZ_JBk_EeS1QP9_j6lYM0T5jnxIS0mdl_58tYrdOlaQ1VCE02-VNZDj58IAgsT5ZHQUaUy08Hnz-KB4j2eGWfo110ClfVoPkv_03CAfieKlsTkbfX7Ulmr3fr6ox8sAXp-eaYG0diMyCJHl7CzeNGaZAM444DE-BdxbWHKrHF6OCtMSTk4MmADlOLurybsIoYy0Nqkdze8zLL7hIodOeJee2BKMBSpLeaSr7mjSGT1wG8RtrCwjm5M43eRFPcYi4IuG_1Ze-gtlqw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJr3BEnkZZwokRAo1rHPVk80M.jpg",
     "address": "135 W 41st St, New York, NY 10036, USA",
     "phone": "(212) 918-8117",
     "website": "https://nebulanewyork.com/",
@@ -28051,7 +28051,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Old-fashioned cocktails & a hefty beer & whiskey list, set amid reclaimed wood & vintage wallpaper.",
-    "image": "https://places.googleapis.com/v1/places/ChIJE1SK5LtYwokRH1APiOrZNq0/photos/AcnlKN245NsDja2d_AhNCK5PyhjvV9RxFbR5TsjXoWFttyDggD9fO5EUe2ge7zqH-YuAZ2eEmc2h1pl1csR_8Q4ntdvjr9wqPSoeG2UKJx4Gwu-Tx_ObMW-rLM9gLt6CeuqiYH6NfRg-hRXJB2jLrrBY3SSNWromwlI3ZGjA2WqT8LQCjvgfbrfN5rXPSyGbUrk6vzRxNP2xdRdpcZChLQ8UkKrGfHj9qbpdL992QbcsweSBmnr8Vyud5wS2-Q-_-En_HI1AIX4fJQrpuTVLiKGXHYJ8aJxZVeJcZvRuNBbmWIvKhw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJE1SK5LtYwokRH1APiOrZNq0.jpg",
     "address": "1590 2nd Ave, New York, NY 10028, USA",
     "phone": "(212) 203-2751",
     "website": "http://www.penrosebar.com/",
@@ -28085,7 +28085,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Lively, brick-walled pub pairing draft beer with hearty fare, plus brunch, happy hours & a patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJDe3ctJVZwokRE3GOfnRJQtI/photos/AcnlKN29hldXYEZUE23_V_--3fWvsN4pgMmAnIzZ2HP58aMgWn4LyCjgK-3UQQgwXTSh43Ko5HuP4ejue3sXPyu3hHGhclzjBf8GMBCVi4WwOmW7_2Z_IC6vd6qy2akSZVWkaOpyzaJi5HmvSB8IpKmw-K1u5nA6GDPUqU1m9FDB-K8pHvM1jTNsnrcZzQUoFFc_eurs3GxBsp0KWtwJ3gwiW012IPJF2dn1-O6xz4WQxn4p2TEE15Br5CvQj_FrYScafiRufV8mSQK2jjn-GNGihaqWuY4PJo5CDSu5G9dfrgUsyw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJDe3ctJVZwokRE3GOfnRJQtI.jpg",
     "address": "1678 1st Ave, New York, NY 10128, USA",
     "phone": "(212) 202-0140",
     "website": "https://avoca-nyc.com/",
@@ -28119,7 +28119,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Swanky interior design & dim lighting make this intimate lounge a date-friendly spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJRRUB1LpYwokR6W6JHWHPSl4/photos/AcnlKN3L9CBSK5R28gDVTa4bz-tRMnHl9igFmAurf2ieEIH1AymD_-CGcCtUnZV1o2tuyjBl6VCACVsIE53RLZDMWJZ2TF--0xDDFcU21n2NlXT4l_i2ooWu7uCfW7ppiOXR4pwS6tv6YZcoJEwKoBBt01LedW9-IHVmhoHEiim54tsZrBz-Zjl0RAce_UCfmLiM2iMVnxr7g1gPgXQHTv3eZgInlyJ8YwoYbhYrK7pN3ILtizHEuXnkp9JrWYyJlOai7OnDydLyDHnwXYHyNjtg-D_3kLdY9hHANUGy-k72P3qz1w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJRRUB1LpYwokR6W6JHWHPSl4.jpg",
     "address": "300 E 89th St, New York, NY 10128, USA",
     "phone": "(212) 427-4458",
     "website": "http://theauctionhousenyc.com/",
@@ -28153,7 +28153,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ6yKUNRdZwokRYjIQ64yud14/photos/AcnlKN2TYl2hOXGgp_3ZnLZWN7dm3rynMuCAc_qLiSk-VF-DLtqRKYx5llR2yvjBjfpb3B1cx1rsnXyu9NPyLE5TDhFZOLwr7K01mU7O-YZdiGXRG_pACwlUX-AZxaD-I3c9Db2EYqMElSJgw8DskAbHp5DXb2zmFgz1tukyMu6vGPBgR9D3a0TG_ZGh_R66X76-3tX8dKxLPCW1YvdPl7HsnMdCwUwNJS32IFqlJ1QL2AshvCHLa0l_GTA-P7G6lx1QHoSl9gHsdA0uOPtRtOSNQQ7f1bSJkgQVtG9M87pFg4kjeVsoxSx6IlMDbmG3uW5uoPaxviRVH4Z6hjswe1G2LNLiejH_ACsBm--P5kBZACT_R_bxrfdMXGxtuqWtC-yf7Wk0c-ecNE9YPbDAJYsw4_r3qmVT5-Ekg0W6fU9LtfzH_DM/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ6yKUNRdZwokRYjIQ64yud14.jpg",
     "address": "1586 York Ave, New York, NY 10028, USA",
     "phone": "(646) 684-4022",
     "website": "http://thefivelampsnyc.com/",
@@ -28187,7 +28187,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "The Carlyle Hotel's sophisticated, upscale piano bar, adorned with Ludwig Bemelmans' famed murals.",
-    "image": "https://places.googleapis.com/v1/places/ChIJEQ6D9pRYwokRS-qUAZyIb6k/photos/AcnlKN08b4jJ9RqHecqaqaMzD2s1cnaALM3NEP31Bpvh3Lc3jzsbEPEqVDJQ2nfrhU9bGyUWgUp1b2aEs5pQbDbQ59riFl0Pg5JtC2sRnewHgomjpy3DmYnVuP9B_VQNVCbwrIaKXKldyKpO7KbbAPe9uhfpLd9-fSJyvjWDjzs_04sX-veZZ0-Qg6gKQdMGDH6XA3E8YZazoS_iL2OtiFRBP30E0RJpI-41LHQxV4wi_AbNerMOYv8FYyZ5MoOGzz821Il5WMK7vpWUqSOZaRCo0MI15KXdi5x-_cjdLrqaGkOYng/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJEQ6D9pRYwokRS-qUAZyIb6k.png",
     "address": "35 E 76th St, New York, NY 10021, USA",
     "phone": "(212) 744-1600",
     "website": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/dining/bemelmans-bar",
@@ -28221,7 +28221,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Time-tested, inviting haunt known for its complimentary potato chips with a drink purchase.",
-    "image": "https://places.googleapis.com/v1/places/ChIJszD3NLpYwokRctlOODWpBu8/photos/AcnlKN2TWW18zGiBRJMeOCed94duIkY8o2pkeYpm0k3FY9_pVTm6PZkaJ9riecFti2LgoWEG5AVBN_-8VPbciMqZg2qWmyc9eXGrNyo7PbHjNa7vSimMKthMvURPZ4uAjW9Q-HOYfRHP1fBvVyQzmCfM78UMxhlUEj178uWmxtaw2pmLjfBjqx6jW7Q9yuK0AwkSfwDXifxMgfzhMx2o3nhf3w_3A0GoR3Lem5kH6PRDbYFZimFSFqHZ4e2WR7pKrtShecvS3ZniorXXySB8QZmqfmX7I8EAAL9d8Kw3nkMsrQlqzg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJszD3NLpYwokRctlOODWpBu8.jpg",
     "address": "350 E 85th St, New York, NY 10028, USA",
     "phone": "(212) 628-2613",
     "website": "http://ryansdaughter.nyc/",
@@ -28255,7 +28255,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJkaIm1slZwokRBXefA_48C1s/photos/AcnlKN1OIl6eafUo31gw85sszEYwWw2n_LT3gknzAG6_4nUwUBddZBnQWyA7ebY0H6fs7ZOxzYm5bivv8JrYCGPMuA_BGIOzD_X5oNJaKyFk6aibBK2lnH9puH-nYJMU99j77RetdamGH73MdGi3wZz9ytvXNE35nurRx3_Rq_fq-WSLpDO1OAy0meKOxu2mNBknrG1kWkInmiEY6tqB7VR3rUCfAnfNIgKt6d7sdwb-4STJ0324jAvwu0DlPZENzW3RhcD5so4Ctb9oFCa-VOy32y5cMS9j9GzoYiyVr2DRK17iVw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJkaIm1slZwokRBXefA_48C1s.jpg",
     "address": "1113 1st Ave, New York, NY 10065, USA",
     "phone": "(646) 370-5825",
     "website": "http://shakennotstirrednyc.com/",
@@ -28289,7 +28289,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJxuk6DhZwokRii01n7jCgQg/photos/AcnlKN2G8NtB_r5zfy0DJKyM5AgIBYiWRfXj5V5yduEK11JNJ6QSkbVjs_6EbrtmWeetDz29TUo7laLzrrCnci1VAEJQhS4wVzSoHnIC-c0y3KFNpspy-Gyak9DOCH-7L024dBwr5mqvshGAhjKCAzRQTpXvbSdpmnp6NVKuHqZkV_j9GALu9AGQy4ITDbTTpUWzOhNXPw4NdN5FRw7z4VNP2NSYD6XgboFe2MID8DeV9F0FMbXoYrHUFeqlv552FN-_Cv4EmxDAlPM0EZ8wAQJeC_w4eb4rmapBw4uvaBkzo8u6Tg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJxuk6DhZwokRii01n7jCgQg.jpg",
     "address": "1122 1st Ave, New York, NY 10065, USA",
     "phone": "(212) 401-2441",
     "website": "https://www.hendricksonsnyc.com/",
@@ -28323,7 +28323,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Rustic, brick-walled bar known for its whiskeys, rotating draft brews & elevated American eats.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLRZjvbtYwokRYmKpv_5DdH4/photos/AcnlKN06OZaqsAxV40C5H5ngH7YpPxqgZZtqMVRtwbMSJztCjtb8esdDZSJioj7D9VRfzPdCZcM9Fad1e-JUwnYE2iVCYteI8nkr4AKpNxDq0YOkaHsnrHogA_Uws9_Ir2MLs2WvtTtAfxceBUoYnRIDDAK3qOzcRj_5RaKl5hRo92An8W--_LVGN-rL5hCrYucnqyhrxW6fsw5fClBDwf0WsklX4bS11I1uCp8fbY1wnmZxOFs_fLhN_Yr12FYlhNwQIDYRnXFF_2Syg-VhQfAevGaeXWKkDi9bnBPLn1JRhWsdJb5A8G7r1hCC8jEaYhVTTC7sY7N8m2NTZbE6BUp7rPPRlyUEbXf3npR-oO5nCsES6FKrYdGqYPbtTSLGugTunexF68Ojb16OwxtBxHLetdPyKuA2e-cZyXSZkOccusoCQYgq9Jo9yTGBC1t9YkDL/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLRZjvbtYwokRYmKpv_5DdH4.jpg",
     "address": "303 E 85th St, New York, NY 10028, USA",
     "phone": "(929) 279-1884",
     "website": "https://bondurantsnyc.com/",
@@ -28357,7 +28357,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Cocktails & pub grub are served along with bottled & draft beer at this old-school neighborhood bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJyX1BYZxZwokRgkBgQPvRK2A/photos/AcnlKN3oaS1HpvJIzeF4Vv6a-ZjWC7MLLkO_DrCTEF29ccqO_reWyeLVt-_UAG6By-kKTy8FUTwRgNCTM-UCbE7Xn5sKuILreZEvRAJxogpvp8z8U3Izyst_NByMib9gBI1rHd7VrwSQ_TMktKDhlvJusmE1rnG3VgBQtrqgDiujNUZC3LZ2ZYmEDNtbwhv1cJJk8t95zlGlMMHYydQxMlQqNghp2pxweI_2ijuRJvSMqrTrilV7oxK3mENBf1BQqOeYo3QksuSrS5D5nDnyWeDnRUCsAidUHQ2eRvrLN9wfHVfLTQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJyX1BYZxZwokRgkBgQPvRK2A.jpg",
     "address": "1373 1st Ave, New York, NY 10021, USA",
     "phone": "(212) 812-8942",
     "website": "https://www.thesefton.com/",
@@ -28391,7 +28391,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This casual joint specializes in a rotating list of American draft microbrews plus hearty pub fare.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHSBXt8BYwokRlgCR47_p_DY/photos/AcnlKN3jeUI-rbTIhQ5NLChD5SYInfmPcsbwgXyOGchrcaRcubWoF57Lke0gUqTskaMxEMBl9ii9XGlCfTqr85w3k1XIZLpXN0SGD5WZNdxBXfmqVn-oFzopqaBO-vXMZdxXgy7Qw39SWcidvxWYBiar-Q5iXCCRxribcYrwsuew6Oa5v6FykaBvRjuCkGpozQ-kKz2lhHkcqK5md2-YBh7aBkS3yPr8Gucd9txSTxkW8rq-sTfczC5CUHxwadc385AUXO0YG1lEzEKfnvGBMciFTCwPgzHTmQp-qcDz1kc8xOw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHSBXt8BYwokRlgCR47_p_DY.jpg",
     "address": "1444 1st Ave, New York, NY 10021, USA",
     "phone": "(212) 288-0090",
     "website": "http://theponybar.com/",
@@ -28425,7 +28425,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJBRQ8aftZwokRCRC2mv0dPkY/photos/AcnlKN0GhH7zI2w66NTwsES3F1onlpL1c37BZ7oXf6jcctJxl0lNba2ANqZeBqlQkEgMA8hH8hdg5gngoUwVwdHBY8VHjNCyF8vLlGaczEkUJKi-5nBVQdoGtuQBQG_XBDbA7FreXYC_jzeeM6BdQLZ4Rreu8ZG71_-hLLT9YzldBZRy0kKUQsY0ZNfbfxesVAh8m_g4OL2KcxSwCB3iqVoPxbie27CqiPcdaHXMJI_wxt3foHLsZXn4QspegGw2yJxaDZy8Q9vu41tpHcwu2MKdekfUgoAeLBXtpa_IJ4mT10C8kBbB16ZrEIrtx1vw47XD5t_f6OodDd8kOg6JbejRrmv3gKdttA0MHfkiCnDXnZZLibbmynmAaptyQ6OPvwzeTXgqs0v1Zj-uJdkabUNHO79IQqDPolzXRG9s-DuVlp1ujg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJBRQ8aftZwokRCRC2mv0dPkY.jpg",
     "address": "1495 1st Ave, New York, NY 10075, USA",
     "phone": "(646) 678-5583",
     "website": "http://www.plugugliesnyc.com/",
@@ -28459,7 +28459,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9cgtPr9YwokRd8m6meSXrMU/photos/AcnlKN3gkeHkNECX4HWNbs8OneUcWXoZhwFPWfbMhnckGplQz0RUFsCks_W_Q7xEw8ykcvohy6-wc-iQDVkR9EYPL1OBUpkbwvbvavzLGnWXuMliKjKhH4TYyd01-86cIx_l8vZGuTLRsT42okLCeeV4uuzKs8dPBCBZDVdDx1kJMX7p0Tg7-axeNy0XnXpw7e-t9pkAVNp39xY_TK58zRz3n_lobwvRLEinYinqQE_M-DIGZcF3kjgfVQanm8nqzxHFHGWkJAYH18lhzR_vm_XWW2EtWxZURldpJEiFANP-kigX-Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9cgtPr9YwokRd8m6meSXrMU.jpg",
     "address": "308 E 78th St, New York, NY 10075, USA",
     "phone": "(212) 249-0069",
     "website": "http://www.heidishouseny.com/",
@@ -28493,7 +28493,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Stylish, sophisticated bistro with imaginative New American plates, craft beer & cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ1ZG0g-9YwokR731RjbSTFvs/photos/AcnlKN3d2fqzGq-xpclbrKipr5mVU2dji3o8cCgAaHFCwDJudYMaMcHq0H1nO41GZgjD0TEvzMckoXhVQrcAxi9uTDba0AtK0-N8TUxDEVrZdujStuy0vOukQItcxDetC9HZyhQYi5CTwihsbNP0KzxXYC62KHMS6-1DvhNEpCwZggLK-zxZeHTrdpSN3Zu-MveZXVSzf5Vha1CCRwOr5oxjJ3DNrv3hmtu0I06OxKCsL0bpk3unkCLCrb58RjkWbEokcP3EegAto-z2YruLeQkgSKo3DUPbuwumNq17u5zpOJmi4w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ1ZG0g-9YwokR731RjbSTFvs.jpg",
     "address": "117 E 60th St, New York, NY 10022, USA",
     "phone": "(212) 561-5523",
     "website": "http://www.thebarroomnyc.com/",
@@ -28527,7 +28527,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Homey, local bar with an Irish slant, sports on TV & a comfort-food menu headlined by hot wings.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2dxwJLxYwokRQlAfKMxMftY/photos/AcnlKN1wlLsx3T9obQT8bN-NDgsvGWfI2kg44l0vuDqgVB78MzMqAkG4nqu3DzR_ePmWyGWktEyypFCV2dDIA1P1WHLcM-LNbp-d_bwy8aYNogY8XOZ9RX3rIYQx046fWUbu2ne65GXL_pMFAno8HYzE80udsteobwIUD4etlih5R5Inf_sY2GFZFtxMcPWk-mNewsYRVNjQC07Q1ef1jsu-Z5Jt6a_6_FAoCbG2aD1QB4t7PpS4fS20-TzjoroifELFtpSG4KADnKgKO7RvOwU2mZ52on1XNG6HNIVO86x4gO89Lg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2dxwJLxYwokRQlAfKMxMftY.jpg",
     "address": "1453 3rd Ave, New York, NY 10028, USA",
     "phone": "(212) 988-9434",
     "website": "https://www.dylanmurphysnyc.com/",
@@ -28561,7 +28561,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Stylish, bright eatery featuring market-driven Italian cuisine, regional wines & apéritifs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9YlInwlZwokRDb-WWDZkU1s/photos/AcnlKN0Ag0GeeK0oIXrehav_i5LCbUAQXvp6Bh_GuBmXuIphQeCsUfcjkho9xYUYVBGEhGWrf5oL_P3i2apjeOV-2sEXU0vwqnen_otJ5pRDqfLlPCxPeqKSmGdlJ3hi1v2Vqrj6yX0RAa83OFnWyIkSwLqCTR4GcvYLI3-zIwx1H5cVDpqwtJU7fjc6JqFv91SXvzqBfG8jRMpeMOyLmnFjQQvbAj31LCPyugyBsPV2sEuJA12gBNx55fmoYKwh429MJDcP2jp3LGGXCnPuMXplfYPn_3cURTEcaAUZiwnT07OHxA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9YlInwlZwokRDb-WWDZkU1s.jpg",
     "address": "1562 2nd Ave, New York, NY 10028, USA",
     "phone": "(212) 300-9840",
     "website": "https://www.lapecorabianca.com/",
@@ -28595,7 +28595,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJl78kIRlZwokR0Pz-hGyp5VQ/photos/AcnlKN1ryxJbEW-czOkEllrqNjJsIdr0A09X82YAQ7gGsuxVz-9lzvcWt56isAbySNf7V7MqSdIArFsXtceFj3s6mZEpTP-BeLRvmPWh-mPZP_bwqxi8L5KuBPhkuns_63EVTbpDlirJje84nsH2Ub5xi6C8XmdHnCZ2yYtZEq7jaE1YX1AFGXguoeg_Lq-XPwJFNuzMTh6AGmEQg5dQuiEaTNKeCa4iL2vxJPUM8Rg8yMwaySqUXFmYEPCoS49zasE4BYHVWW2jRU6GY-Yp_lmM4LlkF5paUdgYR9hUEfEV6bh4BQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJl78kIRlZwokR0Pz-hGyp5VQ.jpg",
     "address": "1708 2nd Ave, New York, NY 10128, USA",
     "phone": "(212) 537-7750",
     "website": "https://sojournsocial.com/",
@@ -28629,7 +28629,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Sit-down branch of a fast casual mini-chain serving Peruvian fare with a focus on ceviche.",
-    "image": "https://places.googleapis.com/v1/places/ChIJEXPLsaFZwokRggZzIVKeiPM/photos/AcnlKN2bfCjGC0KuNDIX9a1eskAlxrQ3fyNdWIBeqmIVKa99t31MbxxXFW64dUSvrXZdnI1s-d9ipUoiajunahgbdBHmLEUKO5lmFvTEP-8_t7Z-wc7os23rPvEeGMYTtAgAr0TZV4EHiI6__6OK7VFGgnKVbpRxWvx5Q17siEEwFaeXCFAVx_-UTbsuqAEg-nTmbKfEP689WjTq9QcIoaVjZ96H1qEuOkz2gSYIKEQc6Ad4SrnuLwU5xJH9vwmpzgwo-0sijwqSJRCsbAcW-j8yXuGPrY7cRappc19u1q9EG4g6SA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJEXPLsaFZwokRggZzIVKeiPM.jpg",
     "address": "1400 2nd Ave, New York, NY 10021, USA",
     "phone": "(212) 650-0014",
     "website": "https://www.missionceviche.com/",
@@ -28663,7 +28663,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYwKGx6lZwokR05rPsphAWVE/photos/AcnlKN3bI1LqSO5FcTkAyoSTvnnswXuYW6HhACK6ceG0q1rtEz73nkaPC0Yp4f2AdA9Q29JqZtbYOHMRPs0Mb5vi9ICKVpXPhlA6fRCcvBHGPyzdp7nnEQvSYNmefa80cyY9byk1B-QZAiskpeuyE0hxFjecRNVyb9nVzVR59K5oS_HQDAi4gRXKN8JxcKFo7Lbhz9-YjDJTshvn5f2441HRpaLHN7pcbu7lmz6gXdqQFXBBTjSoPiwfpi2i6Jl0beuQAvr2XRTeL9hNTbxEnonoUmBszMODv4LFu_XYdBNGX5sn7g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYwKGx6lZwokR05rPsphAWVE.jpg",
     "address": "1480 2nd Ave, New York, NY 10075, USA",
     "phone": "(646) 718-3609",
     "website": "https://www.zoiues.com/",
@@ -28697,7 +28697,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJD2aQK95ZwokRtipR7To1S84/photos/AcnlKN3I9bfK3I4VaFwzxl8HKANNR5AtCEJb84DP3gKKmf2Wn7LLq8XU1mFxCEI1lWzL7DAVykm3KUPLyi-0oxr1Va3Vx_tNy_0MnQJFPlo31ZVisahZqftRkkmmpJoUo8LIJQMey4CUbxCU0ljMffIsWdMmsIQyjSaFG_EmHQx7JW5zEE-6eBKWQgO0dsQPJsfyPN4ilXtj0rZTJWKPVjiTZfG7-D54_Yle8OpcNCdsDjar6kjJx-QzwmkHpklMEosKPE38oS-9ni0ao4FxjPPKBXs2R8IPu-amOQdIpg4_QXv-YIQvR2PRnEkeG1KGwDfy-73lFTuRczfqia_z6xdvbNtLwBqLzDflQtXpzd_0rVPNF56gbfX3x3oD3kFlyRFt855urPV8y0VPDra5TjyczMZZn0y_SRfTUi87PqMKGxXAESMZ8lDVjlKb3g_k0A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJD2aQK95ZwokRtipR7To1S84.jpg",
     "address": "1379 3rd Ave, New York, NY 10075, USA",
     "phone": "(646) 484-5054",
     "website": "http://www.waterandwheatnyc.com/",
@@ -28731,7 +28731,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Stylish restaurant & bar serving upscale Thai street food in a low-lit space with colorful lanterns.",
-    "image": "https://places.googleapis.com/v1/places/ChIJfQ5BQMBYwokR7CxrwWOFFjw/photos/AcnlKN1P11CSzFWty9klzA8VJS23lQZnTQlpyO1wKaselT4qPtFgVgd58Uvoyl2G0v8zGQAYtEtumZBnWHykjrdmxXgQRrA5dv8nRcMwvTtu6Tqq1DHFmpO3rNmrBd7irStjpzGUj80FCHhhQZS2RQW3wpMrh_-MSorD53d9lDKdMW3pz3EyDaos0CWcxqro0b-lvH6qHWYon1DJPzGeVDxIr3zfRotQFQoWyUVObPMdtJCSOkffFAprrRudPcSHWTCSIEWKRuczWHz5kch7FFbJJQ2iCrg75r2PcOUO1s2WD2UUqA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJfQ5BQMBYwokR7CxrwWOFFjw.jpg",
     "address": "1411 2nd Ave, New York, NY 10021, USA",
     "phone": "(212) 256-1199",
     "website": "http://www.upthainyc.com/",
@@ -28765,7 +28765,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Bright, contemporary-style dining spot serving authentic Thai curries and stir-fries.",
-    "image": "https://places.googleapis.com/v1/places/ChIJz6VeesBYwokRNBYu4Sar8lw/photos/AcnlKN31ZqTqxN6Q693KL8gvgPN5mKgM2YDe1EoSwHEjp3L4Dh2LJmvivjlQzizFGNVY98nFJDGU9jvF_aX8bbjXbopT7gwtc-L11Udnn4WgKTRTlbHNxPOTZ_D9QZfiA6yvYb58Ii70FPjz8DJUhVpvcrfdL2uAufrpeWOoNjIv4yho5bmKT2VRV6Fc7EVk0tKR9NdboGdi69ayaIzPm5I43z_nzgIwzIkMxeV1UJFCj92CDKtPsTajTMiaaax8pXXDFmjQIHeWt1PIRAtc36E5i7z4qdM0fY6Z-YG0flQHEU7rwA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJz6VeesBYwokRNBYu4Sar8lw.png",
     "address": "1439 2nd Ave, New York, NY 10021, USA",
     "phone": "(212) 899-9995",
     "website": "http://www.thepnewyork.com/",
@@ -28799,7 +28799,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A comfy atmosphere attracts a laid-back neighborhood crowd to this cash-only pub famed for burgers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJORutA8BYwokR6obC5YpaamM/photos/AcnlKN1e_ItjE8z9eWR4ItqfXex1BEdeyg8TuN2nmht8tdAmpwZi0CLz_qZ9XwyL_RbZ7g35m4LkjC5bO7GQ3uOtauoZup_WQjCjnZW0fqL-vawUJPwDi29F2F4cPc4ZibFDHw8KbwQHmGdY5dn7T7vX_qBY03OgAzWvEWAEKLEcA6rCeiQftYuahXJyfKYzm0mrwH7sol8wXC4AXJ5o5Ag491YR5cnS6lQvqCXjCnAPjLNGWVmmaBCZUW1BbY_g9yMwluUQMb8W--IjTVgddUX7-bENkoGX3eX7Xw9LVoaUOVql1A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJORutA8BYwokR6obC5YpaamM.jpg",
     "address": "1291 3rd Ave, New York, NY 10021, USA",
     "phone": "(212) 744-0585",
     "website": "http://jgmelon-nyc.com/",
@@ -28833,7 +28833,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "This wine & beer bar with an intimate ambiance offers a seasonal, locally sourced American menu.",
-    "image": "https://places.googleapis.com/v1/places/ChIJE9I-Pr9YwokRQh5-2GjSd-A/photos/AcnlKN1stWWINssfiS48Hufg1nDg6xWNK82QFbUTnwe4SaqK056K8BrbVtX6T59AgkbRY0ZJrzWgrTDU7yAhHp96m0sgMFZvGRFNVfF2qdas38nqRXzwOpQwQhcTjyoTTSImKlRupQvgxbrlwXx-puqh3QkmFJg7_4GH92XObzJcdzvbhC-cMfBTqKYTrPl9thwArWHYZF1dlqJYihxMTBJWDLP819_UEJTh5ot4LPA-xEIH0bCjWrjW3i8hMRJhE2n1-LMinBnOn_olGB9sLzCUBcggg2mWuMnv0p538n0l89AQNQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJE9I-Pr9YwokRQh5-2GjSd-A.jpg",
     "address": "308 E 78th St, New York, NY 10075, USA",
     "phone": "(212) 249-0069",
     "website": "http://www.heidishouseny.com/",
@@ -28867,7 +28867,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJU0dUbtNZwokRvLMgVDaVuA0/photos/AcnlKN186dqV4bZnuNFa4PJAsbkd7NvzPl3S5gSROU3OYhnIf0DgC8w2CP9bR2WneGbTvcrKOmY_dZjOPmpsGp-uh8qiyr6MIXg_SwLUe8IXk2-Kid_uiUkrOkMKPU2Eotn6s1SyvBVFUwTPDYk4mYE1tm0pYNaxI6BpqFmvGHXQIkvMxIQmMICX2xiWMzyxfslH26bYCURFJNwYsGjXUATto4EJ3j8b_BqXjxvsO-VmatSVBOkcN_esMC_5FkWYZXl2TbCkES-HVBZBuhrreE2FF_mVLzPtON_HlrHx4cxWI9YdUw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJU0dUbtNZwokRvLMgVDaVuA0.jpg",
     "address": "1198 1st Ave, New York, NY 10065, USA",
     "phone": "(646) 371-9412",
     "website": "http://daadriano.com/",
@@ -28901,7 +28901,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJBRyejVJZwokReyLI3g24DLU/photos/AcnlKN2REGZ9VUlsrl63TXlKM6luE2nm6bvH7uXGJvpIspSkXrjvp6V256-VBAGWOW4kzEA9mfPnXlhy7NIfamegLm7Ok3UMrEFqZREcV0sXSZEzkszzWVC4-11jx69Fl8GMN8bqgLHaT0WoxXVBvfIhccdioSDIz_ETZECO_mAVBMbSX1zQc5KGgmIg5TpdHQ0xE-ZABFKR7WxmsF8MMqJKLMjWFcla828Zgl-SymVjbJ3iJtERfTM_THz4mvUyahLewgAiClXzYIYbiy7IodEGIyqUF0i_lKD3dUiy_Xb757Q3ZqKdaLWKtKDApebmSxbg8csfgVL3_oNdWJ-vzsNUbrO_yN5aaGCgma0iw2FN5XnREWS8Uv9PNAnibg_gLXkSJn7mljoJzBH2VgUPxGagHFf7jrkfKkUplmkNoI6ORi-s6A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJBRyejVJZwokReyLI3g24DLU.jpg",
     "address": "1219 Lexington Ave, New York, NY 10028, USA",
     "phone": "(646) 524-6294",
     "website": "http://www.losterianyc.com/",
@@ -28935,7 +28935,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "This circa-1936 Yorkville eatery boasts rib-sticking German grub & plenty of beer to wash it down.",
-    "image": "https://places.googleapis.com/v1/places/ChIJFWvro7tYwokRhy_889mPgcg/photos/AcnlKN0vWYRTN3aPRyZxfFpn9Rc6OmwwK3NChMXBXTzc8gJZpFS337xsAucxjPJmEetPZMb_AtyqBBHur_luieYETpUdo0lCZmA7wK_BcmLz32plStT4kwFKPYVJh3Ffc4pKdU-l9PP2rrOdmAlDLcWcY_IemOqiwjNYHb3k1mZFID317OL8k-0Q-1bGhBG4-H-ii8NO2SFjdh1j0g_ml_w8x_6JiZjWp6m9HvpGBbhKCuH2Wdebcyx-6S3L8ROOrc70FcYK9cyRW6eRmZTttahoZ7Ks82qovKrge4KTqkzzoWyLEvfYILSuGxDHgPs4jednHk3Kcntu4hNMqcuXEMJGyPRP5Wsbv2zTZKjg4PxDK8z_VhyqurWQ8L8akIx8jkeJwMJmXZ5LP-fhO72Uw7vnKrA_XoWlSub7Mm_VN6CtbQdSYhWg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJFWvro7tYwokRhy_889mPgcg.jpg",
     "address": "1648 2nd Ave, New York, NY 10028, USA",
     "phone": "(212) 628-2332",
     "website": "http://www.heidelberg-nyc.com/",
@@ -28969,7 +28969,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This intimate neighborhood Italian restaurant featuring Roman cuisine draws a lively crowd.",
-    "image": "https://places.googleapis.com/v1/places/ChIJj9dKtb5YwokRHtC1_HyFZG0/photos/AcnlKN1EUFog-mQ-Dofd96HJvB_kjn4kLr0lBwI5Tp9zGWXucp-wgtrbC86rsqlwp1cCfihsChtcAuRub0E8MxauXHG92FyX_e-7Tcs_BuvJLADsFFsqfCkzWhvtR1dOnPIWZ7j9veuWFBWKEmMMM2FFdGlviOADE_dhgdY1sQ7V7vOrNNzGzafhNaV5IvNzhuHwgB2jNTj0zv5lGlVN2N-WBotSfNx3iT9n6hFo4c1W-TyQI_84-Ry0AcOHTY6IxhJMEMcZ7imh0C1vpBpyJPOtdjCJGU1lKch-zT7SW66CwWeuPg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJj9dKtb5YwokRHtC1_HyFZG0.jpg",
     "address": "322 East 86th St, New York, NY 10028, USA",
     "phone": "(212) 288-7374",
     "website": "http://www.sandrosrestaurant.com/",
@@ -29003,7 +29003,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Hip choice with a romantic vibe offering Italian small plates & mains, plus a large array of wines.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9T4AfLlYwokRpcucXUsBIVU/photos/AcnlKN3XGJ_X7RRyz7lFwFmVYimnx9fdBdrlTLZRg-lGO8hR8w_uOS08H26IaELJOuqkxKxApSDcfiDZtf79eweT9FlO-w0xT2wnfNa_R5D_gL19a0XfwFWTRogD6P5hqq48XPYfX8TBVk2VnPrnNfBJDoUqRhiGEUJGLe_ywr0Di_DKPD2p33xhO-sREIYZJLvyrdN7z9iwokbBqL7n-pjSBkw3Sb1ulUNkb65ISrKP15xDIQdaJ9wT5BZ_Xic8Q2-I9Uy_Ru3tK5B_V4dtU1C-1_PsTMDHMFSAJiC510sQeaoSZQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9T4AfLlYwokRpcucXUsBIVU.jpg",
     "address": "1593 1st Ave, New York, NY 10028, USA",
     "phone": "(212) 249-4080",
     "website": "https://www.felicerestaurants.com/felice-83/",
@@ -29037,7 +29037,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Brick walls, tree branches on the ceiling & colored bottles set the scene for Spanish tapas & wine.",
-    "image": "https://places.googleapis.com/v1/places/ChIJh-ZRBb9YwokRSMkUC8lETk4/photos/AcnlKN2-fXdA-Dn7jam5T5oEpEMbfjd9HgtYZ4d_KyRsfniYbhSBOXn1Ust8Y1s4RGQ2IBMjNkZHAcc7HSAncBxSy_ROVtHWo_ehu0zVkogKV1_0WJwrtWJNSr2tYDN7a4rhUC3P9YeQ6PA--LOBi2NhKbT_OzIEmW4-uJOIa_0xPcPggBEr7X-MMkEvTAaboLHI5NkRW5bNhGmLlKb0smM7tAoPhG1lS8ryJ7Qmaiuy71cuTPkW3GCpA2W2KS13mrtbhMfn1Lm_tWp7NR0Uydy7TuayrqUW9EaybrA7PdQQz9hYqQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJh-ZRBb9YwokRSMkUC8lETk4.jpg",
     "address": "265 E 78th St, New York, NY 10075, USA",
     "phone": "(855) 681-6614",
     "website": "http://pilpilnyc.com/",
@@ -29071,7 +29071,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ39p8pu9ZwokRrVZUR4REV00/photos/AcnlKN3EdzYNkMy4sAGi6bv5hh0xM-O6c-eUFmooTps_jkZwFAL6X6ka7KM-gvdk1YTyKLauPH57AUHdKSZA8cgaXJHnnIkchhIKdGrT6DxZZXHIaWYhQz7tsMklDGGjwm3woGUx6lBMkvmempW3DgFxIK3iBuMtYKjHc45vaK8T0RCYIuP66XdDAKFHGLSfbmduSdXAq-kWaXI2VXbl_xGqv1tLAoZ94vvnKIr8BlJdO5nHU4JDyxmBHi_OdG721G80r6V_813GgEONwIhi2azz85E1bRH_tnFy5YCbHuwALeHPl6VOQ4OAXhEqC52xL9yAN913Rh2NEDhPSqcSQmZvsZXnbNACJhn9ko7ZA-6yX0H1SZmZEfH-cdM5kcns0auJ-b40rmq9SI0RcAfCdOv2hCxFQtdaJHjhcyv4JssRKPj2Lw4Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ39p8pu9ZwokRrVZUR4REV00.jpg",
     "address": "1462 2nd Ave, New York, NY 10075, USA",
     "phone": "(212) 688-8886",
     "website": "https://www.cravefishbar.com/",
@@ -29105,7 +29105,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Local eatery known for burgers & fountain sodas, plus vast menu & no-frills room. Free delivery.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9U7pl7BYwokRr21z5p96Ssw/photos/AcnlKN3XEUMZZhOKFG9ygTF2FbzkkVCEtKboYAtN5xLi7CdsIWljRaO4tkmtI7boyERDln6wquyKE_s-BbvrpbuzMzlkcOHT3IjGNQCZtWssEeJe5EtsfpIn6BC4YI2b5Fzn_k_0D7uGOzazBvj_a225B8tdbhSx5gi28dZN3t9uC8T_uLaWPoUSuROftM3AMgxreM3pgW_YzFLCIvKG3QQ4Cilpk6dFySXzZ3Qfk4dy2LUEsC_I9Je5SyZbBW0C4WvwfRJ4HuT2dKxVUnELgcqpdFJSdA3VUI1H-jpZgC4y4gAzyQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9U7pl7BYwokRr21z5p96Ssw.jpg",
     "address": "1634 York Ave, New York, NY 10028, USA",
     "phone": "(212) 535-8888",
     "website": "http://www.mansiondiner.com/",
@@ -29139,7 +29139,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Alsatian eats & a popular brunch along with a beer list that's curated by a beer sommelier.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4Q06IbtYwokRcV8iHlJky_M/photos/AcnlKN2LVjl--_EZ1stWLvcOLkCUnbrzU2eMJ1_28TmVWepxpIBoRvTTkMGzuGx3bXvnIUSiX3P7Cz1sICAwFaChxB729hGekfTL309dg5HgVZkKzDc-l-xUnAv1O_cyoLzQfeJIC_M3WfybPc9JF_z8A9mb9cF7y7mgfp0WLZKo36qwD7VFo7Nphx6qzBq_5okIPfF2qvHg4j1L6tG5tnsiuoiKbBs-nInrnrZYAiTfAvDj3OAR1w1iTPIJCwd_Ql-fgGSCLEQKu651tSxCsAcZ9trba68b0mDVwmVeg7FIyhIwkQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4Q06IbtYwokRcV8iHlJky_M.jpg",
     "address": "1703 2nd Ave, New York, NY 10128, USA",
     "phone": "(212) 722-5133",
     "website": "https://cafedalsace.com/",
@@ -29173,7 +29173,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJi10u8kJZwokRH-oXTMn-uVA/photos/AcnlKN0jHnwG_38PA_xE83Zz2NiEo-tpMBdnEKE9yVk01ZXMQoGdfF6xOQIHihZF40ozVuxDTVne4aUGvz49G21_r4dWl1V9A8c0lP9jUxc8IgOtz7D9-wQemIzVwpjilpsqxvcuMGUv3XPbMRoynB41QjHupU2CHzH1TVuQ-ib2u_itmRdwIg5RFeB3mJFrMT59vByt00jc6xMZSAKAQMpNgLidPL6_9sveYC7u085GsmrqShHSe36CKQUGSCMqyDHuNxVrfpV0tNjO_YDwbzGm-aj-kKSkL0fpk56UfBeQqhw6lQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJi10u8kJZwokRH-oXTMn-uVA.jpg",
     "address": "1496 2nd Ave, New York, NY 10075, USA",
     "phone": "(212) 597-2248",
     "website": "https://nightlysnyc.com/",
@@ -29207,7 +29207,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Daniel Boulud's cafe serving high-end French fare in a chic setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCcAxi5RYwokRdUqdw5_FHIk/photos/AcnlKN2nukTH8YdIoSKvhs_eMU9c0WH485CSwWn2piUEwFeq4JPu6rj0tb19D6_635VW6G17f-nMML26TlVEgMt5cgF7XbIop7NKEssvYZZd__-Zu8H4uwIWC18GLnF7HLI21hPspZcKjH4jFl7k1YIRr9hqYsTv9tVdC5YW-FA6RaERlV_HaxZDE1BeJoThEjkZcHlB_Esi6g-HsUwpvRVuHOTaWv34F8sMTcs-GhkNE7KDuxYjCqb7_lMturrvGngLJ7Q8UTQEzSpIOlq_hNtnZF05GYaiVap7cfJ-fvSfnLSyJw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCcAxi5RYwokRdUqdw5_FHIk.jpg",
     "address": "100 E 63rd St, New York, NY 10065, USA",
     "phone": "(212) 772-2600",
     "website": "http://www.cafeboulud.com/nyc",
@@ -29241,7 +29241,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZdSBiO9YwokRWADMuEN-b64/photos/AcnlKN3P5EE0t07y3XpMk4adwNvZqhjv--8re_qwWZVCLIAXc07Stsf3tMi_o716AFDZ8yOXTFbAsWOt3RiePKn87qCTnFttO6CSHv7tGaHGeEfWPvaCS11a-9OwIacya_hitMAC0dR3a6ydcCTOXar4Yr5Vxe--E_jaA2Pz4IrP2e2LKgOKcfplpDF_egYQy2inSKyOLBKQbivS4jdKi_od6KWvHjCo9yavjEBQbBdB3k9Cnq_Q-t14Exxkf6rGALp_Ca7HyYSQujALCdXlR-9pLfcsQej9Smur7Xx3DqDRtHOS_Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZdSBiO9YwokRWADMuEN-b64.jpg",
     "address": "106 E 60th St, New York, NY 10022, USA",
     "phone": "(646) 707-3997",
     "website": "https://www.piccolacucinagroup.com/",
@@ -29275,7 +29275,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Place for elegant French fare with a Moroccan touch in The Lowell hotel, with a bar & skylit garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJc2HLTe5YwokR9etGl2lOIIE/photos/AcnlKN3Xo0k6FXxprhZO-RGXNt3VomYjJZazDmWyYONVHJTZ4woKh28lPQ_V9Ge5KfQ7BsQfBYieB9knfNiHT5g8XHQhIEwcfg3jDmlOCm8si64MgiLPtC3weyFYNzNbIpC69ngkltRNza7KzSpDcRvypHp7YW66DAQXMayfIdkgcnD4EDpuw8ux91tcU7vrZ9Uw8v5FZ4v3z4HYDR-I79mRRXncaGmPFlF302FQiCFHWQOsVEQc7LsXjRpsicfH7-eFEgoQD9RiiVk8bTVqw03lzkmMEG8VYg1gwuva-TGywNhBRQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJc2HLTe5YwokR9etGl2lOIIE.jpg",
     "address": "28 E 63rd St, New York, NY 10065, USA",
     "phone": "(212) 935-2888",
     "website": "https://www.lowellhotel.com/restaurants-and-bar/majorelle/57-1/?utm_source=restaurant-mybusiness&utm_medium=organic",
@@ -29309,7 +29309,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3fa7yrhYwokRQJLZKpT1uig/photos/AcnlKN33PMdkzh03iDVgTZ0udwPYqo_lPFk9QxnjpSOE-VY04QFSvDNGymx92FGm2TW-1_-4SP804yYhLGNLnmVaSumb6bC2896R9KEXxDXW0YEbgY0Tf8qukf1LAx762zcaDX38bMXgFMpw416y8d0EH55cVh_ojX6uMeMb4rZLPowJBub5VNjE5lCMauMd1ekecXfeg9CoOi3PqUi1rVlQpoebXfDglN6DfVnOgvNwFfu-4DYHzxVl33jGTRBwfd_P5xFrqJLa5tQ5dSXwiv5eTZGBX-W9u_xGaFBIgbSDZkGATJnOvBRsr0CaMXpqzqsKr7ArbGeclwstRhFsLD6vrWBTKjpHQzUVBWBbj72R8oyR4uvshG2iKG9j4IcCY8AAMlCW_dO851_MzALZoQq8-jVocJJhxid_J2wOhkBypIMj-HY/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3fa7yrhYwokRQJLZKpT1uig.jpg",
     "address": "355 E 78th St, New York, NY 10075, USA",
     "phone": "(917) 262-0910",
     "website": "https://supperclublpp.com/",
@@ -29343,7 +29343,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2Z_EuD9ZwokRB_t-ovxEzxI/photos/AcnlKN02meseAM_J742duGOiD0aGxOzK5YuuP405cCZ0pJaANOndE02pVJGnFR0GWOTzbcdVM7NwDkFKfLG63sI08UtYYZNjWpCoicwmN8cG8XsioR2zMsSHVNdUtsY20qch9zT64mzcaRVjA578b1X6VDgXtnyA0PHfx_W5pc9_mBk-slUHOIxr_iFJOtUAv_iLRBHmGoBa8gCrverLAaAPEyQrRqmW8c3bC5K0i38iuONoPjT-TUJhLYSlIaWGfCixUsNILm-QZpIuS9j5kzMakP0FqYeNF0zwKHqkYNI847E/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2Z_EuD9ZwokRB_t-ovxEzxI.jpg",
     "address": "1645 3rd Ave, New York, NY 10128, USA",
     "phone": "(212) 417-0181",
     "website": "https://www.lavoglianyc.com/",
@@ -29377,7 +29377,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "High-end Italian fare in a chandelier-lit dining room across from the 92nd Street Y.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLenzb6RYwokRwsIJcrPNQ5s/photos/AcnlKN1NGNftpOk2SpA7nEiHwhxkA0qKI3nVvRKZX5D0v6J8QZmOx2AL-LpKYSZmSwkra2ok-e64mbUBBLSIZCZoaGMtG4ac_BtKagOMiO2f7RwRbbaYVcFD4FwAmr-eP6VOEv7cxTcjSqz-5thMx7yreZ_cx2X8We8G9GsLb1iGSB_BTO3LJI_TmiL9s6lGjgIYmm3ZjqZRf2oJUUa25s051Bsi7A638jqQk2hREQYy8CsOnw1pY4m_dtxHhviZf3EYBoaD2iQ4KpdHRTSqCXR11TxaLhnKm9DfnTf2BEhrUktz53KZxwPuQW4Ry-NaBrlJUBR2KnzXftCKx-3FYQxAe-Npg0m4h9-6zZw6sVSoz9AvgXyEg_UU9SKEqSej5TSSBYnODIkkqyuKKLJgMtlLqfyQyYJmoBMx5lx-WgrSK_dO7Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLenzb6RYwokRwsIJcrPNQ5s.jpg",
     "address": "1402 Lexington Ave, New York, NY 10128, USA",
     "phone": "(212) 831-1402",
     "website": "http://sfogliarestaurant.com/",
@@ -29411,7 +29411,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Elegant townhouse restaurant by Jean-Georges Vongerichten with a seasonal French menu.",
-    "image": "https://places.googleapis.com/v1/places/ChIJI9k11O5YwokRJXZKb8r3CoQ/photos/AcnlKN1mu-Bzo7pdNZpnOeIhSWZEMWAYJXRYIzLi08pzrtzip3Vh10hsmIvvjG8VhkFC7H2eZOePt8et0QkWm8nAC4ZhicYAR24kkMv55OZ1Fvw2l1WtiTLh9LdT8Y0eWZziATzXvD5p64jzs2nrq_BNte-afrR2dEo0Vjus1LihHIwItH1neoqixOAuR_oJDZRCFpaxc3Hyg8jnYK_mak4ujSPBNbDMMva7I2o4dzv4coS7WzeKs0KPBpys02vPsNTQBWnhGlrEFtC59p4KIR1x1xOajeOKGuj6iY_qKg52CYkg4DFVquVxnqL2JA-npvUFjzkwRxK1tXH4VPH7uZknEh_SQfTS3wcdezuZd1Fj0TnI0yUFkGXnzNnbJuQHK2SXWXXI-qeQQ6QoZyrNKRSjN6ZXL9UsR_Fzcj4pWVZT1YDxRJQu/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJI9k11O5YwokRJXZKb8r3CoQ.jpg",
     "address": "160 E 64th St, New York, NY 10065, USA",
     "phone": "(212) 223-5656",
     "website": "https://www.jojorestaurantnyc.com/",
@@ -29445,7 +29445,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJy_EmhXxZwokRYzuAoyAiKnw/photos/AcnlKN37GfwU-roIHVifov5NCCJTDMqd0R21opWDLxN7jw24RPgIeSuiTegX80XbzCJSUl2Jf3WLhxYfxteWW9u0CaDGZHLC6_CsCm4zeGp-tfFt8ZELGgwLobOwx13mJCHbcPks2cd2BlnamCaMSp7C1g1blAd4VBrZ1D4VNJ3r9zHF5Dda2JGagP7G5oeV6rK30SHnicB1fbgjNu1CCPZh38Q1ReUhwgJRPMy7n90tuwRZti1mW9HV9wo9JvA0x3Mc150ube9b_Bpi56p6kFxQjrYA2pdPavnwQuqQQTQ9uwzgtw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJy_EmhXxZwokRYzuAoyAiKnw.jpg",
     "address": "505 Park Ave, New York, NY 10022, USA",
     "phone": "(917) 565-9388",
     "website": "https://www.thearora.com/",
@@ -29479,7 +29479,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJs-o775z3wokRLTbRDEP93kE/photos/AcnlKN3tV-bdgWP9TyouZX261asYLXHO9HXXoGMRmS1smrSpWaA3fnzucnaq2EDIlCylxiDa7qYCIiydL13uf0yoVunTevMtQ4w5It5xBqSq3TNNczdkG19FpWXZaHgJZs2fngvbUb7bOe935MLOmyUSBiFYzGkSx013-ddpD54OFlCq_vgMaHk5dtYK_wbk-QPO2ImWASFByn75Zw7klzhiVM0ejNwH2EyWkxyVYIcxPBl8IXVJwr9zdSjvYYmL4A2NeO_xC9fwrJc-BXrJwQxySo1VrfuPrRzj2iR6UQCCbcv2gA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJs-o775z3wokRLTbRDEP93kE.jpg",
     "address": "332 E 116th St, New York, NY 10029, USA",
     "phone": "(833) 367-4151",
     "website": "http://theterracenyc.com/",
@@ -29513,7 +29513,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3VxUrJRZwokR2Ci4WWNlcIg/photos/AcnlKN1xDLNHiy97zdS00KApy2DAgSQRoYb2qU_z5zogHgQPKURQ32lv_h_6A9RIKD7k3_03QVtpvvKmnnXb9Z0rX4BfHNU2pAl3gRzpe_AujSdX52YFkdV8YPemu8V8Ju49Kf23vBTHVGmzmG4Loy2Tv3NRnktsD9kfAknOApc09bmsXLVNRb5XDJqRKwL0z4hgMQ2KqCSh2J_DFmugsrKdtmRGzdIczYUUH4AJdY3HsRIcyrB6PoGJKV00WS7anFlZo2Cwx3J5jdsrSQS8E6_LP8d5UQd73BK3ZFSwpE3QV51-Rg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3VxUrJRZwokR2Ci4WWNlcIg.jpg",
     "address": "318 E 84th St Lower Level, New York, NY 10028, USA",
     "phone": "(917) 409-5555",
     "website": "http://madamebonte.com/",
@@ -29547,7 +29547,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Intimate, wood-lined bar for craft cocktails, beer & whiskies, plus light snacks & weekly karaoke.",
-    "image": "https://places.googleapis.com/v1/places/ChIJiVD59uZZwokRUwIDtSPgKX0/photos/AcnlKN3KIoifTCGE-U_jsBZX8o8ZlL7gRM5RoLIkDv-2cUiLdLKdKi5ImH7t-QCIHymyToVHtyBz5KXu2WdcHK0oVP25oxHrfaYjOvHaST2Pmc_-8_5bQTiTozyvliFu1oKOlgfgU6ya3UgfoEvfbOsRdPJATB0s699l_AIm8Ren5ypNXYqkA6FrfLT1pHulyO_4aU5lXl-d16gGAdXbA3Ve2jHhTi3wa3_xP2wKbpVXh2kw1UG8hGl6NwtcqzhWzJJSo6b76Cb2hXVUBLkv9_e12q08KhL3GhJi7_h16XNMZImZ4ivVD09wW2eV9uHVC-44Apa3BHhxtlFe3VVnWr_AcSOQePCf08FcEQpZk8UwpyTbYTz4Rwbp87hWF-zYp1ZYqDrvkyMtzdNCZfmx68A1ygLx_JOrflBRiza8fCJPgyxbQtqzbWVizqu5Z9qYEej6/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJiVD59uZZwokRUwIDtSPgKX0.jpg",
     "address": "413 E 70th St, New York, NY 10021, USA",
     "phone": "(646) 882-0075",
     "website": "https://www.thehunterianues.com/",
@@ -29581,7 +29581,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGfbNPQBZwokRLVODnAXCGvQ/photos/AcnlKN1AL6FaWw-YQMPNzM5SIFGCMr_r4e5LM3bM4hS7-Er20GzMN2nphe4-l8N8qd5fJQuKCNZmqbIt9olf6Co4vHVfTa5u5Pxdm7FV5hNlw7o50MSAKNPS4WNUt_xG9YZZK0PKHLvocBd5MO44ZJAxKe-XAIQO70OqZhCOnb5I9lA3NxIopcCLu6cHvjklARBkKNgHrDjntSYR0_rPwFGLu6plVbRfAkUR7eoh0BwbNfdJVx759D2bH6iK69BvhJ62wOXFnqAbM8cGI32kTks6pVIzSEXKo-477fJGnkaU4bHLYQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGfbNPQBZwokRLVODnAXCGvQ.jpg",
     "address": "164 E 88th St, New York, NY 10128, USA",
     "phone": "(917) 763-3487",
     "website": "https://www.barvivant.net/",
@@ -29615,7 +29615,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Supper club with Jazz Age-themed decor, a long cocktail list & nightly live music performances.",
-    "image": "https://places.googleapis.com/v1/places/ChIJSc_3GIVYwokRh6OzVnCnh6g/photos/AcnlKN2xzmjW90A0pjgN3alqdo-dr1WOIo1o1NJCtljinfi5VMw7FP-B_WaFOdBAO8phQ-tKBc0z3gzjIwU3kCMvDd0lh5rzXp0zPIYSc3SYMTKZZpM0haDZ0xFyYPuHkI_HnxHMpthCOjIiFn0E_XTc3sYMwymkmR1rzfC7JXHcE_Tl6jACrcYy1_qe4oPsU4lFg9IrQhdsRYpycWylZhwB6ExRgUZAxVxsEXbX7ZCzaLbGxx5ULL1LcwnbhkQV7LVVeMUhnS9NmNiaZ9drBdq77117U9-AIT2PfAwXpwiXMARiSQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJSc_3GIVYwokRh6OzVnCnh6g.jpg",
     "address": "503 Columbus Ave, New York, NY 10024, USA",
     "phone": "(212) 579-3100",
     "website": "http://prohibition.net/",
@@ -29649,7 +29649,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Cocktail bar in The Lowell serving high-end drinks & small plates in a Moroccan-accented space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeQxLTO5YwokRZa1HyPC-nYs/photos/AcnlKN2L_pDlWB3FrD68gFQlJrMX6gBXOn9Oot7K_LMg3QUJxWfPWUWiRegT-AMlgWjTX_HW9uDr__6XZSHdmiXwtdIdNW7eLVdOsM5AUVFfOApJADboXUnEna4h_39LrmoXOnPb70ifvP2eKNppp-HpgChB8Oco9rJn5Azk316ClGQ73XXu6HwINKRYSkoOYD1FLJTQuL_oHQ_pYe5g8qw10_ScEOKGkfCV-XjB8As-URKfg0hPATxE0hG14IBPQxQmqKebVta6uQpkIP8l_lABBhTtR2mNfaOfMRt_SHeIs48XRD675KcfM-EA-c5lFs_xyKsUkaZBx7BHcI4Rl5BOnZy8Wval_s6iu1KKf4B8lydFh4iQOp7NfpJiq6FS6oB9C_8v9TlCaWcFuIaVVhk_22btjAbD0piLkrwea6fQxwYPf5Bd/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeQxLTO5YwokRZa1HyPC-nYs.jpg",
     "address": "28 E 63rd St, New York, NY 10065, USA",
     "phone": "(212) 935-2888",
     "website": "https://www.lowellhotel.com/restaurants-and-bar/jacques-bar/57-2/",
@@ -29683,7 +29683,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Neighborhood institution known for its social scene, cocktails & standard pub fare.",
-    "image": "https://places.googleapis.com/v1/places/ChIJteIB7LtYwokRtpSjMShuna8/photos/AcnlKN08K8e0xYccQkvGPHXrf7XK9Z5QghooQZbD4HJwIcRe0UB00DcYl6734ponwBtToKZa33L-Mi6SaLm31zxu2o8fCwq8USIX5-jGZZiTGge-RZqyzXKd720ZQJxRa3OfmYowFR9AGnFobG3VeVJjT-kx2fp6o5-fqCTKC4jHIna37PH3MHUQ7SNc2l9ZpGPePFnAE_V5SzpYeT4uf9erThuVg3REBeASeg2FO7FwioCqCLRNK6LY1k-3WR5Ylu_Brl1gulL0leLzBZoYIfjiF_vpAh3PcR62ODsXhr7ffYUNfQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJteIB7LtYwokRtpSjMShuna8.jpg",
     "address": "1616 2nd Ave, New York, NY 10028, USA",
     "phone": "(212) 772-6660",
     "website": "http://www.dorrians-nyc.com/",
@@ -29717,7 +29717,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Enduring neighborhood sports bar offering grills to cook your own meat, plus a pool table & darts.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAW4Ub6VYwokRsUbtg17_8P8/photos/AcnlKN3HI_Cp-3xevlWxuqsbbatJJyk6zWU0JI4UjZiTRWOQ-q7yLG1AlRGfu8-WACjfsnEqIkpi7f5rZAy16gFyue0rkgfogcbZY-8f4rEaU5RLontezBBA4sGNXavWH90UytRiNqAjQnyvXxLarWaStKSZOm-7PpPAntUBUkE6iv3P5IeNtDgnQWwvOtz2afV9rE2ALv347jlqMTdmDchjlulkxLRN_cRTKQrqHytVef3Ppdz0mVijrw6fZ6Aw016zkirUYq9VWdEYWnp4srT2gYLzrMBOtM5EX2-DdB9f8iwhmlimHRxRw7SNjxZxpIcGGll6ETxCkFVUy_a_J2OeA27TRgcq1eFttRJzvuj0H0BMnPWnGCFGKDMvS1h4IqWdngacJBJv82hSEhCXBnDo0Eo1IfBV9Vu4-Y3sJndCDE-1vw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAW4Ub6VYwokRsUbtg17_8P8.jpg",
     "address": "302 E 92nd St, New York, NY 10128, USA",
     "phone": "(212) 426-0519",
     "website": "http://www.reifsbar.com/",
@@ -29751,7 +29751,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "British taproom with a mellow atmosphere, classic pub food & a big draft beer selection.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAbAvU8dYwokRwAvBDqWmDMo/photos/AcnlKN0plDjmDPIRefxuftcq9EJGM12pArLrfpilzCZHiHpIYOYgrSs8eXhD1E7mi1CeT40oyVenPCffPsyYbK3eczzIpmgVanNXncEzGbEDu5UjfiQz4wu5r1ZWvpwy6VvQG3NGbz3M7WTg3viBW789hEilnWqukH2fYtxtOF54ikK8wbWOSxK6j6Ope2ev08YlwUmaZz07a1SpVU25oMaS43S9pII7VdvxbqmqEDWOJiRReuHoW7YOLDK3ZlqpzV2E9EgiCTlJy8qCZZCKZnmb2ZHBLnQ6myZ1qDi7YQRMNRhm3Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAbAvU8dYwokRwAvBDqWmDMo.jpg",
     "address": "401 E 76th St, New York, NY 10021, USA",
     "phone": "(212) 249-2700",
     "website": "http://www.joneswoodfoundry.com/",
@@ -29785,7 +29785,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed, brick-lined eatery serving burgers, sandwiches, tacos & wings, plus cocktails & draft beer.",
-    "image": "https://places.googleapis.com/v1/places/ChIJV0gLzfxZwokRfRBzSwhZQDA/photos/AcnlKN2-O-wUC6rcAKyJffcSDg0-jFpEPySt_v5gI5xPw9ecRrWZTH35lXRdhutOvtllG-kNPzEsXPpWMxGY-uieGx77c8tDferFTajkDDB23QWcVjd-RhU2eRtJ0EFKzpPTGrQTOM9_ZJXAD6ZUv2L6SrT8VNdifqSbV7Qh7nQYRVI6Ti_itE0ffjf3uY_OvnlsBI_yccjqdTKVRdX0B3Q3AGBkxK2gCW_sciapnqzs-2YV6Kj3LZT-R6iLgoLiwTndLFmDBnRP9f2EFsaxk-oHUSaWuTZouRvtnDiWatPqTt60BiQhGy5lRwBgDZQVG2xPXYs5LAbepDHrULF7OaVffNZawQXGjRe-IKfzUKrx0GDm1STEpnl2gwS1Q-_uiV5lGggJytb7fNuga4Do1hgjRLAMLiv5_nllRJku9p3HfD_IBA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJV0gLzfxZwokRfRBzSwhZQDA.jpg",
     "address": "1589 1st Ave, New York, NY 10028, USA",
     "phone": "(212) 879-1500",
     "website": "http://hornshooktavern.com/",
@@ -29819,7 +29819,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "American dishes by David Burke in an elegant space with a solarium and red leather booths.",
-    "image": "https://places.googleapis.com/v1/places/ChIJdcjMFu9YwokR6w1K45p4Q7k/photos/AcnlKN3cSS_We57yyEX8s1uB4_GPm08SFuLERd8iIKPWFuHzQzl50oDHOIpCB-_3mZDPBO2Xc3DOg3jwAKWftjgzalC4rGUitJK4514k7XuxPlOCTtuu-1fhQbaWNCbOyYdgZQEjKVh9Ivi9Iup-ouLd9QeFlIWbnrpxzIllEsMpmIiLXyhbOohPwH1EVoPG9b17cGdyapeSc5vhfcD1PJj1sFOFr6o30U-rMuKn1H_G5DJTWKI1gwLrphS_YPK_ynTUZnN7FeFjYj7-8uACxpFqIgyz8N1X2IhgGBR7JGIsmDn2cg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJdcjMFu9YwokR6w1K45p4Q7k.jpg",
     "address": "135 E 62nd St, New York, NY 10065, USA",
     "phone": "(212) 988-9021",
     "website": "https://davidburketavern.com/",
@@ -29853,7 +29853,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "British pub fare with inventive twists, plus craft beers & cocktails, served in cozy, rustic digs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwS85aqVYwokRhmgGaQQc6Ik/photos/AcnlKN0miWfl2CC3XHO21b8Wohn3581Oj25_N1-eJm2GPCNuAxD9_mfyY88pUjhycJpm1VN2D3xPqGG12BQZ2LR5JG6tL2Cw7I4Kh64mQOBrjL5-jh_G5Owujcwfs36PoRfBfPuOTjr59ZqB2UNAIP_v1bd5KUhGOQ7CxMAUYS49a0TESsTnqGZnRbhNmtdDRkTxag8WfWVQUI48DVfLYE6HxddXKDytU2cZBS92Gl1ZCcrdvSg-Hfbt8KMAC6mko-O0LNPDY0F1afkB3-f7tPhh-Jy36hzS3fLm6KnzF1sBJgk/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwS85aqVYwokRhmgGaQQc6Ik.jpg",
     "address": "1754 2nd Ave, New York, NY 10128, USA",
     "phone": "(646) 682-7019",
     "website": "http://themiltonnyc.com/",
@@ -29887,7 +29887,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Longtime Upper East Side Irish bar & restaurant with a low-key feel & a grown-up following.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoQPA5sBYwokRTYD1-Dhpw6A/photos/AcnlKN2nQXCww-NJCIPQC3e230XTY_BXh05jrRU8Pq7J8VIWOSg9rrFS0uatx8tvDI4boDQZXKzl7xpmRhohGLHbvxgnttKSgp9d4QnfEBNrS3VCf5auZkyntCEkV_e97ZP6TPFu23-Gm0YHdrnLBsq-rlTpKeLCi0tqvHUwwO-Sj8avhG6wCx9Alt-bzSHYLe_Q742HOz03rc7VrQeGp5i5brQVZVWfIKOxGtbYgngEUHDFMhVIjOcb7LurZuZqRevA0dFv5H3-_tmCt2ySQPnhxIWGMCL2-DIjw2GX2noA7X0jNFDnjBN3GfthWkm953BhnI8hHTv2PpNfX11lZlZqKkypzREVH98ImmlrK6AesLHvflf4F4hVzG0Tpd9wIsT__3Qn9lOLwqSmHrVzDAa1yzm_Glx6Ivv1uDIk6NoYXdc/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoQPA5sBYwokRTYD1-Dhpw6A.jpg",
     "address": "1361 1st Ave, New York, NY 10021, USA",
     "phone": "(212) 737-3664",
     "website": "http://www.finneganswakenyc.com/",
@@ -29921,7 +29921,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJva8zZQBZwokRCBJNPAxA3HA/photos/AcnlKN3M-bSZdSFrZRlUWYUsBxpPubTpcsirQvwwsBJZNjnCwaJopruvFmIOcSRAKE82wDAIsBYd14EgwlMfLTuwIbWhU4O7VZh-FkeMMzc9U3fwDevoKpzmoxvyn_-3kyDKQiV_B6VS4kOaB8VT5UDHtjwuilNECC6kc6NDYmiCN0oxlY27O24LH_SlOXH5tufhnZxiSVltFL2hJhJI8rYwft-NR48fFMP_D2DIScSrD55Cg0SyeYLryGZtyZmhO4uJAYUjMTLNdrj-L9JF4ECgAyVvmWEmvXlmF2QquhhHsH8TLQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJva8zZQBZwokRCBJNPAxA3HA.jpg",
     "address": "1359 1st Ave, New York, NY 10021, USA",
     "phone": "(212) 677-2217",
     "website": "https://westville.com/locations/westville-upper-east-side/",
@@ -29955,7 +29955,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoROsW35ZwokRMylDdu4EwQo/photos/AcnlKN38TFMWOlMcnx8RyvENVAOyBRVX2tI-16RlUkisJOAUm3ffF6loXeYL_Le_6a1BsdMOldkqdP66_dFyL1S8bblWRTLeBDUsj2g61BbCVii6S-kEH_WMzu_zRAcD8DrVUYGCp47j1qYN66TjJXJEN6ZhBwwKegYDZxVAX09cKCSHGIsjx48Z_-WCSftjXLD8m4Kw3MT-5Se042rHY2AOKzWZbpLdz2ikfyIrga1iCo4XgtYOteEmFbFw-2a2MB7lJLAPgSxc4PKqzZVHHNK0vCkYjrDELjtM4QGXLRVchglr5g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoROsW35ZwokRMylDdu4EwQo.jpg",
     "address": "1626 2nd Ave, New York, NY 10028, USA",
     "phone": "(646) 429-9887",
     "website": "https://www.fumorestaurant.com/",
@@ -29989,7 +29989,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGbyO-NNZwokRd4TnMb0H-v4/photos/AcnlKN2DG67xSiVNSdxiYchJqWqftgUJ6EGvtjJessuI3pbvYRU7y-dYYrMhpu2X9DNay1eihPgyxgEW9XM9Y_-IDRo2g5EBj77zxZY1UgPKsxjO5PyvvVaMR_CJ6gO1zeH_LMtyLmDN5RcHstXQtuzfoT5_aPFB1MERTmHkQ18zTK-fwYoZKaOo9nxd5IT6nd68y-pmanUBegU20q7tFOwkz6adOJIuv8-fvDCrkkpQXfNd0cxb7kGJOEfjqhq2WX_Y-3r3EOLoVu8cidbVkBGNpED52rnG7kmDcsZ94qmUOcYTNoynIuvbqw93OiRAl-2Fcc0We7inbV02Jjy_NOb6Wr4qqsM_1VgaxRxAq-HVyCDYtbFwUWEqsxUTbtXi6fXozZb4gCyEbrpTBucFDtbAj8ZnP0JCrye4l-zenchviO2Zl9eJ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGbyO-NNZwokRd4TnMb0H-v4.jpg",
     "address": "1718 2nd Ave, New York, NY 10128, USA",
     "phone": "(212) 500-8699",
     "website": "http://www.ikyuny.com/",
@@ -30023,7 +30023,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Creative Barcelona-style tapas made with market-fresh ingredients in a warm, modern space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYwAAe79YwokRAzRYCHUFTJY/photos/AcnlKN39mGDgUALzWblT-AvHHxWBhGpJM9prU5iNpuDyoMuu_f3k4UwpymQVTlsHkM7mNV7h9tW43BTcuJeyz59u0Tm04oyi3AhTF3wwwflDdt1CgJjrTo--YgHpH_-ZRER_u3bVLiwpu0mPnLqTqmDbqIoVZNYuMYqs66oY6pJ45hzetAtehrbDpv_jc3wiKs4BhlBoJb7kg8v1P0Yfv3XSZadU5iADSn0_GuLv6_mEQaS2aLNnH_Xn0gHu1pg5NWpcyEm0vOSEGmQDYg8CiaBG_9NiuWFtzeEHd_ca7QfnKFKurg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYwAAe79YwokRAzRYCHUFTJY.jpg",
     "address": "1460 2nd Ave, New York, NY 10075, USA",
     "phone": "(212) 343-2227",
     "website": "https://boqueriarestaurant.com/location/nyc/ues/?utm_source=organic&utm_medium=gmb",
@@ -30057,7 +30057,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ48VsHFNZwokRgSjsT_HiU0U/photos/AcnlKN1i6rllR_Fee4ddbcIfy6HxuyvykCpXaXj4FFv5lyke0iCSpo7WjeLysG5qbfoIUQvIFhUkiW62Mvj8Eqtq34vBsi_M2XNAsZJWXTDKTipURMq3zMSJmwNH2pLft--t5304wvf9jPmKfL_u1_B6lhWCY2pY4JEOaemBB0yijWm05oYm60tsTdF1zAuN_mGL3Dl6-aN0Y6iJRsYAY44A09O9gz_xXspPrUri6sXvoRAeZx-vU9rtjCC2Lqq2J7fxPysw1UCaLVRTBCSnxx0DkX7gjZSKa75L_fbPIYik9k_c9Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ48VsHFNZwokRgSjsT_HiU0U.jpg",
     "address": "36 E 61st St, New York, NY 10065, USA",
     "phone": "(212) 970-8983",
     "website": "https://www.casacruz.nyc/",
@@ -30091,7 +30091,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXbVh8gRZwokR-uEVlFisxFE/photos/AcnlKN2Dz6E-bFR8d-nHDBmZqtfbvgRX1VTlhws8JjtlAv1kBYXjcsppdKWFQioBCTJYwwc1Svu9m6PYurZnK4PVdYGH2n_yr1Yz59EMqnwtm4KFo1P4Zt3V3TpYiKm6X6r07JXshGZRs0Cx8bEljm5sriIaRCXJ2W2NO2qC6JnMGeAUpmPLa8D-IpieH9Ov-VK3ZHEoSMCt2VyfGWz0Pj95GAbXOLviJinb46rd6YJSErtdrV0zLo9G89Ot-pvVexk62gAqYlWaOtD6LFwcIYYFOk9B5IkhFTzO5JKLXgVlQSMwug/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXbVh8gRZwokR-uEVlFisxFE.jpg",
     "address": "1553 2nd Ave, New York, NY 10028, USA",
     "phone": "(646) 564-1456",
     "website": "http://www.thaphraya.com/",
@@ -30125,7 +30125,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Classic Thai cuisine and cocktails served in a brick-lined space with weathered woods and a stylish bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJq6o-8btYwokRAnPeXDLe9bM/photos/AcnlKN3KVJ8og0I-oR3GI9OR3XcSo5l8VZGeJVM0IB9m1jysel7TZ-3p37Gl9eKbE8mip0cgczOvq0tzxW608Z17OmoAlJR6aan2ebXrAX8jTWIq43ce7Ct72KswHcKR-VZx8dRFd_zxa939LIi0eb2C_CLcwbIXmaWGdzEEk_YFWUZ4UelZ8AYaAtH0kmZnouuzggGMfYNZXxM6VQdXBUXXPRmpQMSj8k8OiRLCG2g4pVtlrIMoTcj0wiSRAOdryuqqvHmsfxVjUi2PRpbFIIak1c5be2ZyRs4sFtIYGwOrvgj7Cg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJq6o-8btYwokRAnPeXDLe9bM.jpg",
     "address": "1611 2nd Ave, New York, NY 10028, USA",
     "phone": "(212) 879-7999",
     "website": "http://buathairamennyc.com/?y_source=1_MTI4OTk2NTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
@@ -30159,7 +30159,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Frozen hot chocolate stars on the ice-cream-and-sweets menu at this old-school dessert destination.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7VRAqalZwokR48bbQlnev8w/photos/AcnlKN21E_SWak-BG9SMvESyxyzvsvVRYairJozvau3aoIS2W1LEoVQBmyzDqJMHVlFzh_Zre9VeOTjdcWhA32yDO6H1qfYbFCD1aqdtSKo76VZIbS_9ROyeL9N8WKiXkXcDSP1lHj_CKowSi6_OOx7JdZPNRmiOA08WKsVfJLG9kAU3P744z1Z9-_ffudc_EK6eeaHVNrpaKBpJcYSyq_yxoFOdOC-6YjEmkc1M3WUFsf-UJLC1LIOoGEHsRwt_ryvWh6a9p8nP1TdJSQTKzHejuNGPT2iLYeLT_veG48gjYmRazw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7VRAqalZwokR48bbQlnev8w.jpg",
     "address": "225 E 60th St, New York, NY 10022, USA",
     "phone": "(646) 212-1442",
     "website": "http://www.serendipity3.com/",
@@ -30193,7 +30193,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJj9E4GWxZwokR3JjtB6sR9GQ/photos/AcnlKN2tWEyQRW-nNnKnlHuczDo28tbqPil804Wl3HW-JsKVKB11hAULYubMIFLYPoxUMiE1E0KzThMxK7thEc0HlAimbF_7AQhrs5jnhXiF0mHyAtwEovAFKF8TAz3dzpaxB3pfihy51S0Nuk7tQBIARAIXEP96E0rkBaKVeAvVT8jWbBIXSYjATrIFEr2_YV5CyjGHS4oL0KyzEB9tn4viOXbRLPdNu1q4a_Q00lL0HpqLLEl_Tj6cPNB_niWWe_PhdhQwLnTdZFztKwZ9OF0uitQKcBrbkhMRhzoMX6gV-L_T3g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJj9E4GWxZwokR3JjtB6sR9GQ.jpg",
     "address": "1085 5th Ave, New York, NY 10128, USA",
     "phone": "(718) 374-6858",
     "website": "https://bluestonelane.com/cafes/upper-east-side-1085-fifth-avenue-new-york/?y_source=1_ODc5MjkwMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
@@ -30227,7 +30227,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJ6hFq7VZwokR-4kFUnicfQQ/photos/AcnlKN1HrFCWAsmcEwqYnyK-hoThIyYvTudcss7DfX64bYXYjpIDirpZLsF1Odo2U3qx-VBCoNAsOBV-0lvnYuqxfnVkRi2s4ZrkcjAWqt1J4_nlg8YTLepAZguTIDEN4OJ0kKo1B6leYmHgrrYW89BSwSMBEQJxx7K468_3KdtzFvUFzpy6EF_aVJ0hZJEZkeAm0AeRbLSo484okOdHcSBxO9D0wb49kNEk94YnsgiE27Y4RHJP1KoadJnNyp1ah-u4SYCye9iMSAtfL5AxQ51poK6qs4B_JuuttdhYTFlXZ20pxQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJ6hFq7VZwokR-4kFUnicfQQ.jpg",
     "address": "20 E 76th St, New York, NY 10021, USA",
     "phone": "(212) 772-0018",
     "website": "https://www.casatualife.com/Newyork.html",
@@ -30261,7 +30261,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This cozy, rustic spot with a patio and back garden draws lively crowds for small plates and wine.",
-    "image": "https://places.googleapis.com/v1/places/ChIJxYXIbL9YwokR7A8e89BZgGA/photos/AcnlKN3y9c7jU1-INric-4DuIAlyaAluLuskXpYCLbCGG1mhAyDwVwBVU5kwlzEaArq580QsJ_2PVatbqQxqzspvaLcfsodLPdJ4If2R_ADJJfTl78d6_hfaMfs8Bzg_X-My820L0ZXNDtWWG5K5i8itfi6CHTEKTaxOijGdLmx6aVfpqxOFpzkrqtfEJObjKgCJ6Ba0K9bGkKJfmBU3mNMN1qbzp0yrRMieGUGbBHVJRC1-E1jlPdNqwEi3o2RdKSnWkajWFcLzbCUr_dxTMAAFzs99ffn7_ccM7MNPcN8k29v754tPSfypzzYVJyiGk-hfhGXMpwiftt-DaXKLE4QLE559Uc3KZzBtVeraEfVwFZgSKuNgH15qVypnjTjdavf3kJm8cfTYIO0kmvvh4714a9GhENf2HYrhVt1-fngZe8MNgw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJxYXIbL9YwokR7A8e89BZgGA.jpg",
     "address": "1486 2nd Ave, New York, NY 10075, USA",
     "phone": "(212) 472-4552",
     "website": "http://www.uvanyc.com/",
@@ -30295,7 +30295,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Farm-to-table American restaurant for dinner and weekend brunch, with private dining rooms located inside a historic brownstone.",
-    "image": "https://places.googleapis.com/v1/places/ChIJbY3-ye5YwokRWOG8XH8DqSw/photos/AcnlKN339zh1xE6ifeTUmtQboYOq8Ae8iU2C9yrGgQhlZ1O-xX49Tf3bNY8iWbgFitOTGPT7D2haA-y5zWNSfVkaQk-PoVEVRfTY1NahHMUZsvTzBhU25RmhlHn3xmPjX7YJyKQojJRDT8CTGayy6F73_aVwklEQHA7eZ9F3mexLuOKJQCMttaCPOb3NUw6nvPQB_aFS5vzAFz3vRZgUHsEtkm6qfgFXxymG1Q_SlJOabJHmgC89YIpvSErkttjCTCx0oURQcl-puEA6N_El0aNnQPy5banluM-_j2jMFuTy1RfnlQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJbY3-ye5YwokRWOG8XH8DqSw.jpg",
     "address": "133 E 65th St, New York, NY 10065, USA",
     "phone": "(212) 249-2222",
     "website": "http://www.theeastpolenyc.com/",
@@ -30329,7 +30329,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "The Cajun chicken is the most famous of the French classics offered at this large bistro.",
-    "image": "https://places.googleapis.com/v1/places/ChIJdQhd5e9YwokRCqi-NNF8vkU/photos/AcnlKN3dTiUlsKgBMumoy1TesLZ3n-K0CZ6ZDO0pZiU1reSq1OfZceOmgxF3jz5DbSfK4qwzul2qsiFYMFRGTq5ZaxwfgYMg6AZZRJ1JBiZJluf2cRzbWLjlFJGivQQ9NF5p0tLADptjzjHPHLHbTKNOjwAn-QNQ5R-tptmo2qR2KdgEPQEdKgERfW87j9msAN-6QFscPQjmV4c4kUvu4kHA9BSHghz1Z1dxrnYSpk35SsrOz8zSpjVoSl8F9lSNPVPKC9a6VFvIXL26yGnM4f37kWuL521mGNOdelHiGXTVavb1MA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJdQhd5e9YwokRCqi-NNF8vkU.jpg",
     "address": "20 E 60th St, New York, NY 10022, USA",
     "phone": "(212) 751-3036",
     "website": "https://www.lebilboquetny.com/",
@@ -30363,7 +30363,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Stylish wine bar supplying Italian vintages & fare in a rustic, date-friendly setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJa1dYp8JYwokRX2NCKS9MxvE/photos/AcnlKN1Y0e2U3bb1GjNNN-A3HIKOvDSpOb4JldpF66XTxCvIyDk3KPneYeoIcWBRjkPUt-4aE4WOWBWYijMdR4MTFNaH9FLBcLMwquZZu20odAUVzOBlpJcaIAIt8RmFSdZMDsFCSmyzVW_ggpz_L1KDnaYCcLq23Y548P4vzk1V1H3T7eIZVk-dWu1Ahxil9cQ5Xy2ezbDjHvn7uRUQTMhN1xp9twqVnOV0bv9E-eMPFffP9HfRztDQZXQWsbqDe9Il5l8-gdKkwTZ4OvIvm7TnLcMsVtH25viI8_m2iJAkytr6sA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJa1dYp8JYwokRX2NCKS9MxvE.jpg",
     "address": "1166 1st Ave, New York, NY 10065, USA",
     "phone": "(212) 593-2223",
     "website": "https://www.felicerestaurants.com/felice-64/",
@@ -30397,7 +30397,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJWByn_BZwokR9IC-3PtPPuk/photos/AcnlKN2OjlxSxqa6OznbPylPMnQ3QflhSrIDNT-sP-tW3ez9khLHtAbMZlQYu60dVkeLIKmF3fwqcPbZHg4wuLmKLH1GckvMpn5u4Q_TrZ_-uIOYA8L5tLzxGD8JitI2K-C7CvntMJLVcQBccQ74DccxPs3DM4C7N-yCaHJ7cC9hZckgiStpf6EJteoUXVF2iUIB7ItanCnr5Ad5gI4H4C32fxVwF-0rXeljxG78hd97KGTu0Bz81j75gySVy9_v7RZPSxOQzZqM1LHvYyEdmK8RcZq8t4lIdjxWO-XlNC2EfRl524olBBC8BMkYadgp6vAe3RM8QGt444J8zUg76mevfDL5MZc8zjpWyYSuF3RINzm6mSnDiNpVr-Al0J98JYoxcdR6ZK7qJ1gGvOK71qL6kMrYywikZ2-07s7exssli05c8W2hQyxJnPwEEWejnw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJWByn_BZwokR9IC-3PtPPuk.jpg",
     "address": "174 E 82nd St, New York, NY 10028, USA",
     "phone": "(212) 288-1777",
     "website": "http://www.hoexters.com/",
@@ -30431,7 +30431,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual eatery serving comfort food classics in a warm, brick-walled space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJV1QJfMlZwokRx4f6t5Y7zD4/photos/AcnlKN2tTx3AazdI9YCEax50h2aSvX5hrBobVLNPUpakdsKNGGhyqTIG74pRQEZYS8QbGnZ2VgY2M8DPlJHNMntgIM8-T9pjzU_Fo4SMQe5NfmNav_rd2xJAgzW0F8FWX8LjqX2heXpqSc7BnIC5ccEllmmtcv6gxl7a11ojQ3qZNJDNovj_WAHscKHkHituDugVGmRYOCv1UGPULiX1UpTkBHctVzIm3Vy_ACpCdGEmampbLYabrWVfJCJ5zvszN0EcZmzQ-mEKs-viwu7TsR3cC-ezpdU20h2M62zzXAHzkcPubA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJV1QJfMlZwokRx4f6t5Y7zD4.jpg",
     "address": "155 E 84th St, New York, NY 10028, USA",
     "phone": "(646) 838-5102",
     "website": "http://www.homekitchennyc.com/",
@@ -30465,7 +30465,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9V1y5SBZwokRJqvOoalZVuw/photos/AcnlKN0i8hrvLpBj6IM2D0dtIEMgC6lG8rsuXUu493AAioBszLkFphBAYbcH1DPlnhq7Ynb7-COyJW1I1LfelTHgqFK9A8TbFUTJpuP7cCZY4jpM-jqtefaLx7oTli2kbrdvSFnA_kq7XP1hpIXUkp7Y7BzUx7Fy4Hu3Xt6toEJuzi1aKzyvUH4Z2CkVQx5kT5wKzVs7tnTA9G1tsB0kMryApXMGvUedvgonlHmeqmbKwxq4O_cxfJsXYvLjl-deNJDcoiEAA-K5DxwFEgKZv2jKYHplLvn2eP2z-Dza8yzSNhTT1w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9V1y5SBZwokRJqvOoalZVuw.jpg",
     "address": "1582 York Ave, New York, NY 10028, USA",
     "phone": "(646) 422-7148",
     "website": "https://www.gazettenyc.com/",
@@ -30499,7 +30499,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Craft beers, cocktails & New American bar bites feature at this hip hangout with pingpong & pinball.",
-    "image": "https://places.googleapis.com/v1/places/ChIJb2K33edYwokRESzfJB2t2Z0/photos/AcnlKN3kslHcRZEWih-vqv16ncQ2ogAItC6LOgRXiXsCR8QnibWkSIjNZunuNZVoCgs9VBOmSHiT--dFwT8fkBrCj2d3K11JcK7PiIXbmQE05XIvizLXCojuIZofMObhxfYzHAbq8fPALn1ycs4TVelomGL1ZR2ZQUh8ehRPcM2NNshnq0ETGMKtG7Iqa8wQ-J2xeJB-1J62comQyvOd4_jctSXExj0OkWqWuo7jOKqGHf5H_ZrG2H0r8MnXyJWSw93xuc-vzeFMV_dy3OHEAhWjai5NufmjMVFyLr3WTxQDrCIb6w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJb2K33edYwokRESzfJB2t2Z0.jpg",
     "address": "1125 1st Ave, New York, NY 10065, USA",
     "phone": "(212) 832-1551",
     "website": "https://treadwellpark.com/",
@@ -30533,7 +30533,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Craft coffee, cocktails & brews are offered at this cool, rustic bar with sandwiches & snacks.",
-    "image": "https://places.googleapis.com/v1/places/ChIJy9odN-ZYwokRlJdO1M8gzA8/photos/AcnlKN2sc8Dnh0rRYgDqHB6dJCuHFtYOkTIlvzsCgNi8oWl3By0TD9E-xTDOt9ixugiHYql65YPadnwPYUNbgUdpO2Z1WEMaaERnEzGwyfRjvzkpl4a1NIKzIQLWbzsOCMnEaw3EM3WuzwWaTnyScUmPChuTsL8HaFi_xj-OT3UZtsMa59ygFqDvNmD3o0buQU3JDBvcYosd0M9cln-3_6BlHALNjUOVgJtzUzAk92Y4E45AvauitvYQRCtS0ZTCBhBkVYA0Cp4pJvdftYreCh1vg6b7NBGAhUiMbNjbcenVseM8n7qWJMlyMqnRBMWx4QpxzU-a9k_RfIRLgxSJuw0wDJCA7v2x0pKmrD2PLwdE5NbLbWDGSvuj2cDUKVc_EMNwsnPPw6t9jOQtVw5CMORBN2OuK9oRe0wiOKBHbI1DoXcbgayZgovCnCILS9zWow/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJy9odN-ZYwokRlJdO1M8gzA8.jpg",
     "address": "311 E 60th St, New York, NY 10022, USA",
     "phone": "(212) 355-2337",
     "website": "http://www.thejeffreynyc.com/home",
@@ -30567,7 +30567,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Rustic-chic restaurant and wine bar serving clever American bistro fare from morning to night.",
-    "image": "https://places.googleapis.com/v1/places/ChIJBadnurxYwokRFkgZg97zTNA/photos/AcnlKN1a5S1cMIIU8xUVQ8Pig0S0JwROtC7ggigZkQXyw-9Y2xgqXXG-9Qn6LhXbNmDdhKjxr_jEZ3tk9p9JM8lAPnLhUdkMw3rvY9iKj4Xy7sOfRlMc-TrQ4IanuK6VNsCIAe6jjhF_yeVhPzeCh3O4KAhahj3_DPESKs6EkxOxuKNdKzHAOxHlHbDWfEyM4l1Gf4jU1xwVKmtZuKOMPDgb1EPoDtCRB-2d--jjWaroFUV1HYklNZH5EylXcwLAkUfHJ5UNMCaeTkJZRo0MF2RBcHiW2rkSlFZi87zepfApvdJdHJQTk3sH8c5deqcy6iKtX-kLAX2HDMsKtMiMSayrOoCz1jAK451A9JzzPHJdyIGyInUBV3qvbMAzOt0b-ARBLP-zw6Q1MQg7bnlm_N9Nc9RzVsS4b94557mJhV3S7HbkEA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJBadnurxYwokRFkgZg97zTNA.jpg",
     "address": "1293 Lexington Ave, New York, NY 10128, USA",
     "phone": "(212) 289-9004",
     "website": "http://www.bocadocafenyc.com/",
@@ -30601,7 +30601,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "All-season rooftop lounge serving cocktails along with views of Midtown & the Chrysler Building.",
-    "image": "https://places.googleapis.com/v1/places/ChIJL9YF0_xYwokRyPARA2CRQ98/photos/AcnlKN1tgxy4yYat9AuQd7dbNTghWf0hDvn6_B56bZIGSr8zEcEB4oamEaGbPyshxMIrNdN_Aq-Q1BvTEP1fkQcY1anuYVn8E8O72wPJjhws9DqwELVu67lDuqI0Pgvs6ik0QKMX76J50z7UAbcuYq0EpA2xauUNScvDu99cBszBiAbuK7AYJ7R2zr3GW07JT7aKKdR3UWA35bkM-ENR3pH32TF5JvDWCQxRvLHb3fKuG5ORY4dlww7dKHP2gd_ZD3zEmuVgdpvbGf4vzFopkCqX86PHlVp8rJ86WVChazmXjQ9Hhi--tnqk3w9T0R25xSxuic-TSDP4vp7vG51Av-qZjAuTHAnsb2SmXpA5o1U7NKvK3veLXPzJkWLvwLv7akOxO4Z3QknhOFxIiRD4_jISCYk-Ov3F_8XRdkUSGSSLwNl2Fg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJL9YF0_xYwokRyPARA2CRQ98.jpg",
     "address": "145 E 50th St #149, New York, NY 10022, USA",
     "phone": "(212) 888-1220",
     "website": "http://www.upstairsnyc.com/",
@@ -30635,7 +30635,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Swanky lounge with a penthouse vibe, sweeping views, DJs & a menu of cocktails & gourmet bites.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYabdHPhYwokRPmAV8GtM3gs/photos/AcnlKN3lmSFQkzyB-zHdN7VxBPLqZgOBBGzY66JNBYSoI1MJPiozR6knUwljT4cP3Q8tppFWtTpfVaB3FGDuhicQjfriggcNxXwRRy56q4qeSgvewkwTYLdOEpF4O8qsontqjJ9Bgp2KHdpJNmS_P2EDJ_plTJJDqsKv8kiBJl2e4toKocRlWgWjxaInZ7oHstBFaOXWnWImCJsyBE-ZX7xSjBYb_udwrln1L4GKQGMbCddMoYp4UI3ictTrGG3iz00luMYUmhd8tRvcU-AbefjTM5omiXvjbn0eerfxRAbfcokubw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYabdHPhYwokRPmAV8GtM3gs.jpg",
     "address": "210 W 55th St, New York, NY 10019, USA",
     "phone": "(646) 905-3660",
     "website": "https://taogroup.com/venues/phd-terrace-new-york/",
@@ -30669,7 +30669,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeZJDsu5YwokRqIKCtSFng5o/photos/AcnlKN1St2SAfjEKM_jPfCFfYJOG7TXFWBqNO4k7is-boLA_FQODDLWzL0_BeqM6muVwKgKpzXFuY5TLBPJ38aceW7zrtrJvsB7jbEQeErP3qR0ShE-pwfiV40xxviHkX31conkDZAXj9SstjyXFym8QeRbgErPq5FYCN5psLuIdYhQrpbPVQJludzI29gsAgPErqX14mdwyL3DOXu7FkpLum7McepaMTUMWGLKUCBvaMjkZPLGQ1BzkBiwIxVV17frKfYlzcJ7Ycly5ZrCCipQsAzk93faWZcVbNECzDWA_G8M0msBK6n7hq3y85bsPfZB9wZRoESTCAJROVWOwdpa1nGQX0ILpX_q1XwcUtOMqxVU2pH1p861X05V-zkM7SyMxSEHRTHe_0Mc_o_As1uiQ007dP8MT_EfGrByYGueufpuabA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeZJDsu5YwokRqIKCtSFng5o.jpg",
     "address": "122 E 66th St, New York, NY 10065, USA",
     "phone": "(212) 734-5950",
     "website": "https://www.cosclub.com/",
@@ -30703,7 +30703,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJdzYkfuxYwokRiI-QEPOu4n0/photos/AcnlKN3_cL1ur0JXdYcgvaZGcdnHM3_p6F3DkE2u8obxhxS_Yf5j2gRYHwinVBKa2owZRLA-3ryiBq6T19ArEyqeBVlgqiTu-tvIhNuwA_sEM9h283BbxP_oNYKdQM8OrlkGfBfOySMaxSz2lsVEPpohRnXgrhItezjHwgpMJWqZcfkd6rfBR58lNcgo1irpgqY-4_D5mpx3n7SUEjU5NJwMgSPNidhnBwcG6F-u310FGorRK_GSwiftg3mofRhk-k_OuZTAcDmtWQHLliS43sGvwVqyg4q4pLjxV9gTDScBK2OVP_EKCwmeCAvu_Q3vYG8HptJJnTJSDEe7ROwRHa8XJwViQtXE4MxNMpWSHqxODXkdAjp3PTrBAiidp3IvjEQFDEwy80igZVUbzwZ-AXWscQD15lAkHWYKqPQUy_IFB0-29e7L/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJdzYkfuxYwokRiI-QEPOu4n0.jpg",
     "address": "46 E 70th St, New York, NY 10021, USA",
     "phone": "(212) 628-8383",
     "website": "http://www.explorers.org/",
@@ -30737,7 +30737,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJm9WXpeFYwokRiTjlvX7-DvA/photos/AcnlKN2oX1KimoQC9qGfBh-2rcyOXeCUqRBWm6IOBm1w3oVY6FESq4RmPmogwr5xYrViygAgEvuWySz626nheArcjZQH5mZN82pHBwzO0R54pOuIPMTmOMGE8HleLF06AipqboNRMANrukG6UAFRMUzwoXZ7Pmh37pgL1l8VkTXntfYmm8kRy4PLBuxmxOsnkzNVY8B7wHpwjk4fiKOPTwyrWqFIQ_6bReZKN9QtN37CGL_yAJ-d6uifXICgz5Uso870TqjVeFdNgr6IbW8_gpXa-Kut0OFlQ9z9pKZZqWvacxyhy37fpxxgUJ12MSsYiOaEp8OCt3MTdQrJ1sFL2MbfAp77qEYmjSQbXK8WpYZH3VceFhfROuiKULyM8My1SGeo3CpuPdaWDqq2rispNj0xjEJA49dI1oerWz_R0Izu0sbT9Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJm9WXpeFYwokRiTjlvX7-DvA.jpg",
     "address": "447 E 52nd St, New York, NY 10022, USA",
     "phone": "(212) 751-0100",
     "website": "http://www.riverclubnyc.com/",
@@ -30771,7 +30771,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Narrow, literary-themed Irish pub whips up cocktails named after dead poets & food from a bar menu.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ02dcCoZYwokReJRvMFYrq-8/photos/AcnlKN36RqTKi18lxCT4Ya1bWQhpdnW1j3VboHtX2ThQ9ht4aLzt3gLeRdX2XlwrFhbCu95R3eyOTPVqtlTFwoajlQRUY6ILrJHW6Ct0GFeSa7fR-SQG4kdozt-TtYmUdjhBTUixuHNKzaqFWXGa_Bdjeb-osF0yeLF4XUfpaaWu261B-gGcM5VVvhHFUXB6kFOxZdzs05sbNwbJKks8JNmI94LQiP4griiHXCV9q6ojzXi1yLZKNosZ2_8VXEAKPMwTNuXEleSNvEAEm58lZBxx6NVFJ-pqmLrhiYFiJUptYZFjSMlfHrbpf3ABkXAS3tx3-DZSK2vPDrb2U_Wa4juFurAYybHdjompoJHIaeX743WCyMd47B3c_lKN4PhZWO5VmN3cKpnWwXkCE7ioWA7WbSkz1x5CDaBMdvHg23oIzjKroeaXgsvYm_iGk8wztNcz/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ02dcCoZYwokReJRvMFYrq-8.jpg",
     "address": "450 Amsterdam Ave #2, New York, NY 10024, USA",
     "phone": "(212) 595-5670",
     "website": "http://www.thedeadpoet.com/",
@@ -30805,7 +30805,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrVzFnBxZwokRu7PRnpjlQro/photos/AcnlKN2DyZpW439MnFr5wMQULzOIh-uUMwIskAstahHB6IwZ0RD8WhN5uBVrHF_zug42MYYptEpI3y50ietbRnN1F-szkrERJZuBGU6VAxWIx4-0F53UJ1gRFCO7HH31eI0rvSV7_OMJZwmpZslHSg-0CwhZ8r_5R2QobFCLXURxXPMXrtCXOG2w_pFNzlhJQQ681oNKf7oepwJSrDwo13U4TCLLbT-d6__0fuAbZ6AVGoS21nMH64pS_wlUwUPlnX315foyDh9x7odXaaRvhs95V6sNiYL8xP_NLYjJEDVuzsJ8aQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrVzFnBxZwokRu7PRnpjlQro.jpg",
     "address": "242 W 76th St, New York, NY 10023, USA",
     "phone": "(212) 274-8839",
     "website": "https://thewallace.com/lounge",
@@ -30839,7 +30839,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Lively corner spot offering an expansive wine list, classic cocktails & gourmet Italian bar bites.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYRdWlotYwokRat39bGC-kAQ/photos/AcnlKN37i6og2bnngvn4NOGOMXOEQMFxIglbZGcFVtyOzqpcMaMlXq_DoGdcvi4OPyxLyA1U8zgvDVeC2goZeeLmAOd2tTItAgi4l5nnIJK6olsVB_YQxdmRcUS2cI71YHVpoOZCZyRTrH9kJziYiBjbGFynfGwZeQZoI-t4hLMna_HReuZ1L9bG9lZwBIMilKCtfu5VwHr-bK-lfpPGEc6N0SzdfY-hWTD4WOfI5fvwO1qPO7Dg3uNK0F4uLP4TdagIyp_2HsnK3I02NPzl4kp5WdbIJRVpTpjIlSF_UW5YgVZfVQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYRdWlotYwokRat39bGC-kAQ.jpg",
     "address": "53 W 72nd St, New York, NY 10023, USA",
     "phone": "(212) 787-0700",
     "website": "http://thedakotabar.nyc/",
@@ -30873,7 +30873,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Speakeasy-inspired bar in the lobby of Arthouse Hotel with a live piano lounge & sidewalk cafe.",
-    "image": "https://places.googleapis.com/v1/places/ChIJC5SjYFRZwokRTyVvEAxRcfI/photos/AcnlKN0sBM0YwEQZAn-Oh08Op1N00PFBZsdlMbDNAlMxSajwiAtCu8FFGBiTu9tnu-rRRtwug0hHHXZJBvQnHPWIw21yhoo1Ka5qqg8LA2CbDVn8Ek1JaK1W8MYKPl6e6KA6QqlrECQ_pgFDYfhlnyOb4urDYSoGVvrVNvrJXcJCLjC82g3CTY-8lcR4ZH0yjtRD-5mjO09tEf4FE5Fm7hDVsMcSzN8hkMl6watZOTi8ohnQjxc7VixlT5Ex5awxRM01DaxAqg25Jw6kEOoZF4wMysteNRrtXT59xN6hHQPHgl7dehjr2stcScfG_gs7d9KFVF3-eOSY5IWqHMwq5qq6YTjGGZRB42wUNc3nV8FLfafw0fNn7G67G4whQYzwqmF4hygxlKhodDs4MC8MoaOcfmi_rx9sz5eDHGEyQIOUWc02kCtd/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJC5SjYFRZwokRTyVvEAxRcfI.jpg",
     "address": "2178 Broadway 77th Street, New York, NY 10024, USA",
     "phone": "(212) 362-1100",
     "website": "https://www.arthousehotelnyc.com/arthouse-bar",
@@ -30907,7 +30907,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "This cool hot spot with a cozy retro vibe showcases  inventive cocktails & global small plates.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXWmp8K9ZwokRQaQ6Cua35Cs/photos/AcnlKN0blESofwbMHsAY8eYBism8jjN5zWD-Bfqq43oaUAwrBtQLlkbcVoFYglA6xubJbBtzdvOa3hEF1B43r_WEiQLwPIu2h-lkHGuD56l2tiUbfCDh7MroH1V4sdTxtB6KqtYYRTEUYE3p4aOzASPdpkgoLbnzED8TdKQS8F9ISoLJ-d2kqv_mZ5mY59CfRLsiPnyRZwhANw5P5wZn69pvELqc2mzXznjLgh4yTpOW0ygG_QmmqmlHSjZ5S4G7qyldU6Vy2V8s-ehcWZFgqGIfYQFT-QvScAjaL-NJocaQ5L-JMw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXWmp8K9ZwokRQaQ6Cua35Cs.jpg",
     "address": "215 W 75th St, New York, NY 10023, USA",
     "phone": "(646) 609-3906",
     "website": "https://www.owlstail.com/",
@@ -30941,7 +30941,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJFfd0TolYwokRNGGQO3ualC4/photos/AcnlKN1Ww8HC3WNQfUGclZH8vOGAUSGuz_JNGJoPR3DXdbk1Gpjc9or0IIK2CHpXQScjSHYKP0_LjGLx9PzYZWvLUSgpiXy68HvGbJGWdUDfzjRblD0tKfDup6MRQr2zOqFUu-dQiEW3M4RfxgM61y3Dpt_TK8oHxa3e45gggDFVqgdDK0t7jWtgmPfIGyfB8yqzsVWUVXMERkqrYTs6wgZK8ySK3sbnknBhRyXV7rvNpFPw9sCGBEjC3mhLMFkxklsmBuWOM-Jva60p1gp47LbQbKwPh11nVq4RSIdqmQ1aGiqYMA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJFfd0TolYwokRNGGQO3ualC4.jpg",
     "address": "322 Columbus Ave, New York, NY 10023, USA",
     "phone": "(646) 882-0197",
     "website": "http://www.dacapony.com/",
@@ -30975,7 +30975,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "No-frills brewpub with a sizable craft beer lineup, a bar food menu & several TVs airing sports.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuxMTB4lYwokRzfHnU2YRcsM/photos/AcnlKN0Amii3qp_q1hir9Y8Jd5jkU-9d6vGK6jQuxBvmmCeFwhK7_NsJwIzyaaZJaSfBDfMes7LCTdd0ApF_zGScWEHSljNlA_f-cww8ee7H4pDjLUcwBBf7hUpj-oO-oRFagFZL1RDrekbuBQMGKSOrNFOj_ovGGqgPpkozecZqwgZldTYUUe3WqoBCou8c97SHJEzP2nXt3LY1GpFp4Chbdibxc_3r-04f0ms9i5jGFaySmk1gZhs8-DYTKj40CgOcfFs9Au4wNrA9W1IdmZapukw631527SPYc8fmRaWCCaNDKQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuxMTB4lYwokRzfHnU2YRcsM.jpg",
     "address": "340 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(212) 362-7260",
     "website": "http://www.amsterdamalehouse.nyc/",
@@ -31009,7 +31009,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Pub with rotating drink specials and diverse eats in laid-back digs with big windows & board games.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoQuVSIRYwokRuuabI0lpCi0/photos/AcnlKN2xylnS1LTq_TRkLq2OJ7FmEySvVaFVW5xicoimWDnPeR9d-fiXLZwNj0ibCWT_IIfIAfASg_S93kD8YK1IxOKK60m1hP0KgLe1t-hnZQ8WQ9HD-YuoLdEWwZAKFdybEqpkxcms1R4LAGeYab-UpjUupGJoOYxgTuEbU5TAHCZQ7y6Oy1hcXkqmx3f5pzltoG4-Lic1wiCHUdNLNPmoVtWs-rN1odirPUeUlZ7I4FvTie1ci8Jhp68UmGFttTy7c8GrUL_BA29pxKaAWdQmzlaW0bgTLi2MpP-quwZO--9iaA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoQuVSIRYwokRuuabI0lpCi0.jpg",
     "address": "511 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(212) 877-0961",
     "website": "https://e-barnyc.com/",
@@ -31043,7 +31043,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Fans (especially Florida Gators) cheer their teams on TV at this tavern with pub food & beer pong.",
-    "image": "https://places.googleapis.com/v1/places/ChIJRyfaCIZYwokRd1gVsI1fa0Q/photos/AcnlKN1FtirjrwRIrduBJAdNJ7DHHnBZkWfSwvXG9V2mlLRMTDrE7EMmVdp9fZ0dyTs_wjYbNNq2G2FnRmA_9AVAy-g4hAnV6ovfa1axQYnXSRUmpXApGVwf7PASWBVxP59A_QExrDJS6t2l0vN4Dprxv9qZEPJGYu8YPXzcjr62vpsrdR_4gPoRwU7bpOx0o339jmEvUgUgTywDTgBxfB5wgqYD20RKGisbLgPRg5CQ_nvqagvGnfGNfZfi7tCja61AZZR6-qZ76UHKd1x45jgreN_i_mdEFMwzR_QdqZNmGhvXtw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJRyfaCIZYwokRd1gVsI1fa0Q.jpg",
     "address": "442 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(212) 580-9080",
     "website": "https://www.theginmillnyc.com/",
@@ -31077,7 +31077,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJxfFxRgBZwokRMHBWWruKTDM/photos/AcnlKN1yNDuYAPaGRzbjvGsS1CPORwBKhHPz5T_SpHSitRAOBVq9Rx6yOYQplpTKRPaiPxgiQlsgOnBvc4vuy8yvqTml-AKPXPdJooQPp8qlJLwaJvUrrLHJUTTbx-PEVC-OI0GkOZJsXjCaveuloZ-7oEAHzObfzzk78r3AFqoMkTryA4Z8bbgZXvYCHAEF0Om0zNPcYokveoTWeIe5KrIe191H_bqmkcFetGjc3LOnOVwaVMOXPCknjXQNByffxOE7951Sdsn-JxcyJvYPDAMRZ1ql5FDfHRD2RoNma9wiETNdVQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJxfFxRgBZwokRMHBWWruKTDM.jpg",
     "address": "174 W 72nd St, New York, NY 10023, USA",
     "phone": "(646) 559-0050",
     "website": "http://westlandroe.com/",
@@ -31111,7 +31111,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ62nz2LBZwokRHRCqKlMvFCI/photos/AcnlKN1nMGAaQhQCBdhc1o3QYiukaPFzOJRE2KDJLEhFN55iFaA2csTGyXEXcai2Yco_04fHKSZ43eo7CbTGo4saZL9bXcU_kcddQHm1ecUj6vbG9tImxb1mp4zjIhw5h9OKXaz9fdV9VcNq3wN4PhoOJU1DDRWtpygDfsXz6SHmo9VK5IDrgQ3De2P09P-EwGYXI8BnQ8IwlZuSaW5dugdtRvOweLJ-N4jGnDfMiqUr-5Dza7KCwLzrWghzJRz3CzCI4zjz6z8BP9V9Ad6JcuXiMfhKBEOdO-mPy4drEZH2NKd8D7xfO0XOvd7AxsVSnDxFD-6VKNU7UoqNvmfVnh3sJo2C99csjsJW3RmLLIs0qNwvu4mAtCE7Nm1D8nPqwOC3U179Ol-wN3F3kbAO_oskqusH0MEsEDIwfbJ6admLh64R6Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ62nz2LBZwokRHRCqKlMvFCI.jpg",
     "address": "422 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(646) 609-1046",
     "website": "http://www.hoptimistbar.com/",
@@ -31145,7 +31145,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Watering hole that's filled with locals who come for drinks, sports on TV & a big pub grub menu.",
-    "image": "https://places.googleapis.com/v1/places/ChIJK8wm5yf2wokR9QqGu_Lodr0/photos/AcnlKN31PGreEd7t6paOXC71WG7uZftjf7BWu2TlvmcCDq9NK0fj2hKK9V4BgJ195u7KEMazjoiNkDr74uozosUwrbpeilPZcCaaQgpLeX7vMeXA39IjzpHtFK7dOiD2hFBic-nAyP0SY0HNLhVXdRHVoXfl0D0oSQQrv09cIjzbxgWDNVDlkUmqOeHnGdJvmNyWSzc2iePsu6pKPUwZU2WNJdOq2dGdqIqwDOk637ytDOBnBfGgW6167TGLVQBCy_PQLKtWVsQaclpZxt8Hs-COvi6A47VxyBWaJJ-aCs5VtEHusQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJK8wm5yf2wokR9QqGu_Lodr0.jpg",
     "address": "732 Amsterdam Ave, New York, NY 10025, USA",
     "phone": "(212) 749-4358",
     "website": "http://www.divebarnyc.com/",
@@ -31179,7 +31179,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Inside the Gin Mill bar & grill, this modern speakeasy pours drinks in a candle-lit back room.",
-    "image": "https://places.googleapis.com/v1/places/ChIJc6GIBIZYwokRVBogFb1MvKI/photos/AcnlKN136TrF6JJbKDfWQwXPRcdngBJoF4JAk53VmXn3W8g4VBCSngamJksqpNO0t-nSQsKYJJKXVp-l38HXLyOa2n3c5aO7bLEPh1mjq1-wjdUaTUzzeZ9n1Tk5D77sVCSTJxAw-7S-OElFPaFlxpjaJZ-AXmWsdA79w8F7GNcecRHtqlRHy_lJI98biAFWlhv-TEvjaY9dUbwLRWtUFmEDqejthOpx_j5s7aQcQZsZr5omBoV52yM7aVlQpujZTx15dvdga6gIGWB0PBj1x5JHdkUpjPjesxHrcfBSCVQD0TBu_59_NQNvAUIXB_56lFTwSe2oHRMNsnYylUX1GwinZEojqS_s8drkVmwZD4Ymw_akY5gdu6Dt7AuUcHBnyj3sE8-D7EwDV3YUdwcGGPyRydZs6R3R3WDh3tLiYHNCRC4ay6mawCt8V_uc-Rqvm3Gn/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJc6GIBIZYwokRVBogFb1MvKI.jpg",
     "address": "442 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(212) 580-9080",
     "website": "http://www.thespeakeasyuws.com/",
@@ -31213,7 +31213,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Basic bar along the Amsterdam Avenue strip frequented by a young crowd for beer & foosball.",
-    "image": "https://places.googleapis.com/v1/places/ChIJc6GIBIZYwokRd_xjvFrHhbU/photos/AcnlKN2z5SeLJld80R-0fCtPp2geRyozWOf8TuKQXH0hnSgEfJusb9udhypHmcYHHwzruYjzfG4zFgGb8eKto7tTp3no-p9_jw5-YapZhsoJsGUHKh6zKhFhW2L7MzJBsP6ePoPW6BS0ENPuSXNmSAVfPRjlurlKxkLKdgQs8M4h2mY0kVBC1iLO4v2cjm3Vv7LmsI_mRgR0RehzbPdcxcOboKKf5oH6Fx4aB0jNy9XOjoUOv294j8k_7io_LGsjMrw9P0RGDNz8u7cidfEZkKT6swkOs6DCZRQVqDgsrMFPHrWpPg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJc6GIBIZYwokRd_xjvFrHhbU.jpg",
     "address": "430 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(212) 580-0556",
     "website": "https://www.jakesdilemmanyc.com/",
@@ -31247,7 +31247,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual Parisian-style bistro, open since 1995, serving classic French fare, cocktails & wines.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2V6HH4RYwokRb0PY09qwtJA/photos/AcnlKN1v5wS0SZ6GPZfTx1UJyIzGSardYIj9hA260iw1Nryn57JsWbFpJID6HAfxeDh5XNrQ3hT_IKegqX3ElUt6Cf7Pggd9HGwTVdvvMBVD5rahK28U2pOHH2xJm8ZPrN0RgKLLor7abkWdpzcn6jI4CXvKwDbsM2mcnxzcoG2xhDs6fZ2qpC6JtDmXgvpb36CZ74xeiSXdKo4P0qY4bjXepyTlDXlYTZvQcc4ZJsXUMbkqLOe0u-WqJsQELLi5ysYMCG3P_RE0VVAV_QUiKJNSxhoTMb7pBoLiY9nfGW3wt9tiVw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2V6HH4RYwokRb0PY09qwtJA.jpg",
     "address": "2340 Broadway, New York, NY 10024, USA",
     "phone": "(212) 799-1533",
     "website": "https://frenchroastnyc.com/",
@@ -31281,7 +31281,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Southern eatery and bar offering fried chicken biscuit sandwiches, housemade pickles, and beers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCehOSIRYwokRs4ijKsy1oiI/photos/AcnlKN193l5DUPqRMhg3SvqA3XOmtMRMPrA6NJhAiJWddMOlNkkjeyvHjz-8Qf_HjdIEEJXjfyLfUQunRTf5axl8JqwwWSrXG3TyhvpGsF6d6rtmdIG7iSjXpvnVFU6LaqAFcsbarXtFxTvPbfMcTLDjukExWOwhYO3evQYEGuCQYyufX8OeoDWhNuOUcmICE1ze7PkBF6w8-_gTj7wQtdG0AAOjDDmdVE9AhuXgaZO3pUZ8dvfYWMnMuIIEbWMiPq-JbEHQh5Ph92i4ittOamejKVkuo4UyElQKQzgzfAIGqGJv8g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCehOSIRYwokRs4ijKsy1oiI.jpg",
     "address": "680 Columbus Ave, New York, NY 10025, USA",
     "phone": "(646) 566-6630",
     "website": "https://www.jacobspickles.com/",
@@ -31315,7 +31315,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Retro-chic eatery offering French dip sandwiches, steaks, and other American bites with cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrapahYZYwokRdCivYmoCbJ8/photos/AcnlKN359rctLhIN0swXe74DSWQbB273j0PDhwQoEUrLv-_A_b7ooM9nzsXep_kZIUEihpTjDk6qfqJSi_OcZoLSyk1mF_bBP0DRQdQ8qxaT4xtZ_maK0If1ELYtOzoAeTqVklTzdV6Tlx00QByXw5mZJuwrDkQqioFQ1tcrgzSzAFut5wavkGhb8qZyqvO6LgceCbxhRp5-aRhp-_fK6BxK_SwunU285cqs67WV33MHpweNV2hB1Q5PnZEIlIu5TIYAjEsIGqrvMg-Td9aemVgiguT5F8nu09uAbWNNT5EUAfTNSMqjsYn11EviBwBiJCTsghv0E3Yhf5o-dggn6ALxG-dn5KY8oincEO18rjHU_9fXSbt75OtWD8oHl5EEIpocexNlJuZw9bIJ4_3ivmFji3ibdYGvzjedmhcmnfpxcOyKlSaQdzyznnz5GxQu-Q5T/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrapahYZYwokRdCivYmoCbJ8.jpg",
     "address": "2315 Broadway, New York, NY 10024, USA",
     "phone": "(929) 356-7189",
     "website": "http://www.maisonpickle.com/",
@@ -31349,7 +31349,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Elevated Mediterranean dishes are matched by wine and craft cocktails at this restaurant.",
-    "image": "https://places.googleapis.com/v1/places/ChIJS0y1_oJYwokRp1XiiN58wKA/photos/AcnlKN3EkDLxDGy-RGXfnDWLM8RceLY1eODP2zatzRHLJgkO6O_vtGpjhPMjqApI__Mq22SnV-qWu9d6W2tSwCUge0lOveWsKVkUqBRquZBJnK_TsNzPsWPwodvah7T2Ma0aKN0szFWGwP5pLcXhUWJ1fWKE-vC_dinieu8nmG9bRv6AVGtRXGrEnUfBrX5ZHbv4AHXfNMDv_BbyvAHUztas2QZekyPqdpsREccAFFdXkQvTY4R4WI0EBvyswf9mQnVz3XZZI6ZbjE7KfmEqYJuxhp_lh6pEQnqsZAYfp1ltrRudCw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJS0y1_oJYwokRp1XiiN58wKA.jpg",
     "address": "2454 Broadway, New York, NY 10024, USA",
     "phone": "(212) 873-2466",
     "website": "https://dagonnyc.com/",
@@ -31383,7 +31383,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Stylish, bright eatery featuring market-driven Italian cuisine, regional wines & apéritifs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJlYuHaAtZwokRTrF1jKtMdvg/photos/AcnlKN0sFuVAzMT3ifGluOKh5vcNV3UXQH1aVIkPTLzw4O6pWpurPmYmMvn0Vxt0ZzFQ_scjkxsEYyGLtzxsvmOaUJdPjNgf6RliC9P1Wu0QuUCAQcAb2tz63VOBLn2xpgA8GRVppBSSXts0JTdmyMC61CZbyjckjPGaWXpNT6Vj13tc09mujuq7Nq3Q36UPJpQ7GiamSbTN6HXcnQuFtMG2yCTzUPGIA5qjZLdvXlPzgR6_SsjV3UuVo7AlvXkCqf-kmsBQOxK6ZSwdWR2LqFWScA_xiWOUOz2Wr_UHj9PtgqTseQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJlYuHaAtZwokRTrF1jKtMdvg.jpg",
     "address": "359 Columbus Ave, New York, NY 10024, USA",
     "phone": "(212) 300-9870",
     "website": "https://www.lapecorabianca.com/",
@@ -31417,7 +31417,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Large restaurant with romantic lighting serving American fare with subtle Italian influences.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUe3TgIVYwokR5cm1iYg1TAU/photos/AcnlKN0t4mqcQUFg4fSbhZCyJOFp6jMAa1HnmUmP2o380_gj8MRZMln9WRu_BYcjSuI1yrjw1XsdybX4RBeUeka5jLY7ZZ4M3dj_aNWqGF1mULXuf3NIAREQ0Z2i9l6pgEf-6y1ryt8tSfKvDs0LSWahCKvRdZ3I-EX4LF3zc4DWA59NcwqLIWcQeZqtfRf4F6TbADRMrsJSwIrN35cEypd_qQALn__3FMsnYbC2OuTgo74wqx_cjt4EgVVfylXLfpUK5A-IavBCpvQF75lm1RUC15CTG3ghOob_Xbd-T4Es8xw-ew/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUe3TgIVYwokR5cm1iYg1TAU.jpg",
     "address": "446 Columbus Ave, New York, NY 10024, USA",
     "phone": "(212) 595-0380",
     "website": "https://cometenyc.com/menu",
@@ -31451,7 +31451,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7bVx_8RZwokR1CtZHxbP4vg/photos/AcnlKN2POfXfIC4U2HqS2AXkzQNd1U3o_d7PAiVuC2pPNO23MlJq1fMfIicqPp4tUpB2juWaLd23ezWXSIe7MmzugiDbyWwxyVmxz21IxXXGw8c6qhvMAyW6dzQ4554CTx0iWCaUXF65EYIjnlMxMOnRw9dqYx7smyU7gWP2oKnDst9OdCWYSzx9yc3avmXAqBCBkisKCuprkBP0vGLeSoZjllN1vNAPQH4Iat3YzrdxDbfrx8sounsKjc44fiVIa2szVtYNaE7uvHf5yQLApfv4l9ozVbwpcqxJXiXdOvhWxDlBJg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7bVx_8RZwokR1CtZHxbP4vg.jpg",
     "address": "425 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(646) 876-1004",
     "website": "https://www.thewolfenyc.com/",
@@ -31485,7 +31485,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Homey restaurant offering international cuisine, all-day dining & a cocktail bar in a homey space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8bFWn8FZwokRoUsyyYc0TNg/photos/AcnlKN0Ru92KAQjKbQkRlnfQzvQnyer11eLGMDNrelbzkvPOrUFDDM67ozo7gC9R4V06uUTTqqtppocucqno-h-FPRWN-GR2IaK5k-mKsqsvEip_P-ROhw7bexYBNHPeBtFcimC5e_iR0o1WgH7IQQbMa3INLu9lKHAebgSdI3S9Ia17nPei_WhFGVLelNzrkHla9Jj_s9FmtsxiuwvzzCdMlkBvQ7ANhIiwMUcTY8080jCS6YgUws_MQsnsEUvhzJvvQsrmPYx_NJb-UIcJzpTC1X8C5PDLTVlWh9o_m9MfWXtdMw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8bFWn8FZwokRoUsyyYc0TNg.jpg",
     "address": "519 Columbus Ave, New York, NY 10024, USA",
     "phone": "(646) 781-9288",
     "website": "http://theconsulate.nyc/",
@@ -31519,7 +31519,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Diverse mix of modern Mediterranean dishes in a stylish brick-&-wood space with a 1st-floor bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJr6LJHIlYwokR1nUYpYgH7Uc/photos/AcnlKN0uVVBgWUhrT15nhpt0LGtSBRdutjx_TYSHIy3vLq5TyVG2TwQZ7b_O8yyQjCH5wiOBvH3kEjgKTz9cYCnC55160jrjwDPhAMaQojJ46rWwSZggMGXrGue5i3K9a0HStAqppJ6uTsAZa5W6QK5IjwsnWY3cpjOwUHmmxhVMUNODI24OpWRR_AEy62M7M1by90Ekf9u1z1W2RMRyoIYFviaYPH2WEd_Ex7ZSh8kcFWi7cFaarQzKtQK_FxgBMKCifyk3QncLdgWHf-bb16FLdk-3FJJKQrmIDMOrLoI8WxY0sg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJr6LJHIlYwokR1nUYpYgH7Uc.jpg",
     "address": "349 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(212) 390-1974",
     "website": "http://tessarestaurant.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16860188624335479115",
@@ -31553,7 +31553,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmWvEAIZYwokRpvhPBfDbi_k/photos/AcnlKN1JwCzAb3Nn-5BDvDeyi7YdOFmG03yQtyRS7rCudAC85iPqcqmnG9mfd1q-Fx98grQx1zXSD7FeUCbkiqag-l7ln-z1eXKYJcls1jdoyWTyJougNZz0Oxf8-M7_ojcmzX5Vij4_q0TM4nRV6KUKeK5zCDY94cQc0w2lzOivabk5o1gghv3nmsioraL5On_5JsXoKr6gsNGMAWo7L7yI_vdakj-ltbE7-TT7w0SDA7-DBGxthlGdZJ6nS6VNvW0WdAxkUwXgs-VPGmyNOj_MBS2K_LhPhL31V13y4dN8FN5nGoGwl09GjNNDgpWCeMjtxMWKfbfO4Iq0EsA59fNNs0sBC6ZhHvRVe0UllMH4xbASkMHCRpiy-snAn7_dhqnmvySqnbnbKcpyj-W6Fw2QIzWBYAUeqlbwL7BiUmimLWAo6mIfbdVjLKTw0g6th0G7/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmWvEAIZYwokRpvhPBfDbi_k.jpg",
     "address": "433 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(646) 370-1430",
     "website": "https://www.pigandkhao.com/uws",
@@ -31587,7 +31587,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJIXfVWkj3wokRiRiXBVg1Bys/photos/AcnlKN3Lj85iPe76KOs-FqO4avqxfN0q_gvvnusuAzWKwVpTDO9vxSBbCQPQ92K-Q1JA8w4DOE6KTPLQ_hI-JX8wBA9icIOgtOGC5IblELKtO8eQ9yF5Kzfl3-sISvdSV7Vby159bEYmFQ4WTpwM9cJiXbPHcj1K5eVvQIurwd-TNwP-v44v_TQgQWZPmcAES52z5ImITioyFCD12QnZKKh2P0lEItAX2M3URxe6Go60Gqkv710vRxquTHQHrzszNHvBNHHep1BkXfOMKn4Bd4wIpIzwacpZtV49U_yPnYXrDuRe9g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJIXfVWkj3wokRiRiXBVg1Bys.jpg",
     "address": "854 Amsterdam Ave #1, New York, NY 10025, USA",
     "phone": "(917) 409-0772",
     "website": "http://grandfeastnyc.com/",
@@ -31621,7 +31621,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Spacious bistro with an enclosed terrace dishing up traditional Mediterranean fare.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8fEOZPFZwokRDcA5x-C09I8/photos/AcnlKN0OXQwU_fDrUMk7_wsUi8beflqWUsMXx-TF8l5wamIDV4Zo17omd7SJFvQVB1vwAhdDqZK74fXPB1XilPKYr1PUyfEUcwgKgVZaMElY7xhfUtAWnrDrBdVkATx5QN1qvdMZGY2UUQwIqk8zKpAYsnSxMGyGQ_gYSq5AN56a_Uw_R2pOnZkbw8o_3XqQpjw2TRnBFWxmSOMiUR_jm_4pUIRQYSJiEPHHLMkjW6yXLvUGIBCjtoVPsEsQPYz6KO5TIDpbh_79vIC5jDwX-d7fcBq1UEo3RlriRJ2FSmz3I5025g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8fEOZPFZwokRDcA5x-C09I8.jpg",
     "address": "300 Amsterdam Ave, New York, NY 10023, USA",
     "phone": "(646) 590-2659",
     "website": "https://miriamrestaurant.com/",
@@ -31655,7 +31655,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed, family-friendly restaurant serving a menu of homestyle Southern Italian meals.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrXva_oJYwokROtv_EdGJgH0/photos/AcnlKN0oF5Ed1lRUvRPoNM-HamxA-yJ5KtVwrpzrujlC3WrWagHoDnbnVTizxgSXz7W-TclHDDLEjoPJMMqP-Hq0lGYpRORAVuz2U-raZCqujcTKRneNTNUi4L9UqUs6nCUcpdnJu6WXLCuDvc174kcmnqYJLGOj7dXgoTNnUN-t_BQSEO7pfg755VuygZ_dt4auvrZM-q67leLkeUh-lRVXv-eKMkJXNOpmqWFJhImdL00Q6pCFmu2p5szCODtJ2JDNLHhOLAVATpAkp6AfpB-JB6YwBjZ79ctNKJ64af6fgciEWQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrXva_oJYwokROtv_EdGJgH0.jpg",
     "address": "2450 Broadway, New York, NY 10024, USA",
     "phone": "(212) 362-2200",
     "website": "https://carminesnyc.com/locations/upper-west-side",
@@ -31689,7 +31689,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "French comfort food & a Parisian vibe have been drawing A-list types here since 1983.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXQP8fYpYwokRgkepJvnLNlc/photos/AcnlKN1ku5CUl2PCErm22VABuyFqDpRvx-QVXrwxvbn27GvLTraDFb-LdHxzgXws-h2vtGUb_3mke-r5VsVO5NDNUuBZRq2aIUPabs2XqYby2tSgBNTnwJ3p_tnvahj_S29RslA5sMoEa5mav5tNLo847q02kNlRsEX-_I9xbiwyAss92yc5kC-occNOgAkAO0gCGXeMlD54sAPGj-70bgh3BNqG8iZZX4xpQBrzAg0y8zScpu_u-kIf5JLp7-uHxGxlPUSGviVWHvzrdhBQcFK7s0ftl9zblG1o6FPY6UyzwyDafQlCVA-XzR1ZyJ-IPNVjXgvC1IP7QW3y6EC2jHpKfb3bxacxIzuVcwYU3vQGB4P5aGUTndiuKik0pZIcIRQ5Aa-1pyGykhcXD3JK2kaJy1xeUL4xtB7rXIBb12JRQh3Ykw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXQP8fYpYwokRgkepJvnLNlc.jpg",
     "address": "200 W 70th St, New York, NY 10023, USA",
     "phone": "(212) 873-7411",
     "website": "http://www.cafeluxembourg.com/",
@@ -31723,7 +31723,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Bustling French eatery with a Riviera vibe, outdoor seating, and a curated wine list.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ5YYLvYhYwokReZvaF93xmFw/photos/AcnlKN0nPI0h-UVylY7OIB-0dnboBG68VKiG8ze8cSJx6hEOuCW2eAoWR28ao-zjhWqtW6yJGhMtQ2ox8RIFVhWKIxOhOvw69RPm6bg0bpfgi2TAErPd99VTV8iQKUFAvw6LmgG1nQW_VbiXZ014x0jBVFFYwesBAywPRZg--FcxZJHcQR7DNiOC6CiLQntTmy68RlR5Y46ReF6gTkaFy_9aDSNROsUJwEXWHrASF8iYwZ4WYPg5RkKhESdpj6ScY-bJBh36tRw5jrP9YgMYBvB5Zqyq31mcEezolIj__rJswb7FkA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ5YYLvYhYwokReZvaF93xmFw.jpg",
     "address": "201 W 79th St, New York, NY 10024, USA",
     "phone": "(212) 873-6423",
     "website": "https://nicematinnyc.com/",
@@ -31757,7 +31757,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Lively place for classic American fare and specialty cocktails in spacious digs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJbd5El_VYwokRFEtA5j2r7Ls/photos/AcnlKN2706YwGWFqxCaWvgCS6k9fdvjgL_HVU-7SZkozfjJpWI1eCVv8XpzgVVyXqdw2RXf1F2fIdqevbQ6VCWqdcXl-s7T6w7cgBjPsrME_58MLPErk1DO8_ork3vn_4ZgBsyp2hbZCMQAR3wwkQdY22dnCAJKV03B9gsVHuK7RFtiG73d7nvDdrOKeK2ZQ_05DA3TnpZeugVrphzJBybdTawiBw_l4j-dcFB6G_pzIFyiI0r22YCzujULf8W_bKkGPAiTg8I_Yet-6I15QItPP6IwdzxWkA9jU6HVYeXds1pPhKw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJbd5El_VYwokRFEtA5j2r7Ls.jpg",
     "address": "1900 Broadway, New York, NY 10023, USA",
     "phone": "(212) 496-5700",
     "website": "https://thesmithrestaurant.com/location/lincoln-square/",
@@ -31791,7 +31791,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeQcpsdFZwokRLvcPlPKdYuc/photos/AcnlKN3BVVQPC7moK_o_4x4HlVFJ0Os7asoXQ7hfXBwmf3jj4eWmf_DZkGnmaqNZHc5678I234uzm2jxM33ypXJhFYIC7EM6NhVV7MjYVFQnuTLnWN2Ezmv6-IOj-ty9plduMizegSYuk3qgbNeXAC9O-rJFUl2CiHbULPdETy22J9szUuprCxC7Yjye20iFvhNQvAta_QOiEEPEOREaZEfet54epjAWuWqjEHNLHjmWcuEAcmE8INldVmuDX_6wkR8NKwSjepg28B8hUUADDx8r00_NABt8sCyJQbOsuIwR7B5-qQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeQcpsdFZwokRLvcPlPKdYuc.jpg",
     "address": "68 W 71st St, New York, NY 10023, USA",
     "phone": "(212) 477-2188",
     "website": "https://www.friendofafarmer.com/",
@@ -31825,7 +31825,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJE27K7lpZwokR8G1u2pvT_WY/photos/AcnlKN1vrKI0KU7-jjlHxPgBIeanQHAJhMDJKuXRPwpdk3be9lmCJzsLcXQNpVPckXfQwRIK_OtM-WxP2OuYU8rt6TGZSlgZyfAIBkyXdEdI-vYzbbuAeRSk_uPtAl_ju5crkh85bSbawrQ4HqmshMqC4YL4jStF093kAzEf9pjVMxjIqxVyjqxVZWw2x0s-97uiG59r_4_Tv792V7B0rX0MyrYR_D1gdUANIR3445rmu6JrOX5ow845VugTvapi7hpueImX75iwFNqRlN1NEbDxYwI8hnkySG34pDwD38ajHrH3-A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJE27K7lpZwokR8G1u2pvT_WY.jpg",
     "address": "480 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(646) 368-1510",
     "website": "https://florentinbistro.com/",
@@ -31859,7 +31859,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Refined eatery offering classic Italian dishes, seafood & steak, plus a robust wine list.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ__8PIoNYwokRv6K4zyzgdLs/photos/AcnlKN1YuqlhW_gmZl5KSz-lLsf-9y6-e7JakO6WJGGOrA0Vprbu5KdiNn_zpzfVoZaGFQKx-v9NUnZqfPg-DRe9baumx_13EpOvl94odfvtX6yDCk8fIngA_MsXQUr1lDstMRMXp6bcXa_HVOYQiSxvH_smL7NdmS_hACcIk_peiKK6AcNFTM0rGK7zQfszHeZ8n4soT6WxaLKTl0wHOCpju8rl634IYLTnGbIffioQbVn5MfvJWGqmc5TlJIyMVJoPl8LvJ9Np5x0RmLpwnT_synbK11qe4BrKobD_EVAf9Sbfgg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ__8PIoNYwokRv6K4zyzgdLs.jpg",
     "address": "621 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(347) 536-1335",
     "website": "http://www.lucciolanyc.com/?utm_campaign=gmb",
@@ -31893,7 +31893,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Sophisticated New French eatery boasting floor-to-ceiling windows overlooking Central Park.",
-    "image": "https://places.googleapis.com/v1/places/ChIJh5JzbfZYwokRR7KqJOksL7Y/photos/AcnlKN3A60iHtq6Azbr93FGF1FLk14Dlluc3UADNZVERzh1Irs4e-5CfVjzYdrkxWkGssCZpRlmvB7zUCuXBNCbXxaKZUirkBPl1iiATHg4V6VWs5lfb4gxA-zvag5kp2zN1uSfw53lK1q1pArsZvVFu29ux5A1bHbgj-KqsJmzIgUwtJt381HyVn9EWzw0-MlqTrI5am9vAKvShDmab1dZBrrwo2xKID0w4qSQumzWh-haXjUHhNh6kL_zNw9qfjWypb2jNkEnhqt5xzBkCFB2FeEcqtaGJDIDlGOcDPElKtr5-FUe2eT9Z0aEmmMgFyG9Y5hVcRIaNdTstG0TZgW-2gZfSuShou6kPLL0MzjrLoTx-P8kZ8SHkwIcVn89VSaz7AhSEcZa0E4KLELbAvuvtQElR0wCMPZiqMJRwHIRJWhFgVpxZ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJh5JzbfZYwokRR7KqJOksL7Y.jpg",
     "address": "1 Central Prk W, New York, NY 10023, USA",
     "phone": "(212) 299-3900",
     "website": "http://www.jean-georgesrestaurant.com/jean-georges/",
@@ -31927,7 +31927,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Elevated Mexican staples & cocktails dished up in chic, colorful surrounds with outdoor seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ-yUjn9JZwokR7Cq1cegFzZU/photos/AcnlKN2rF0NocWsG74KiTtLFG5zqLwE-pvDyvxiFYzrrO_YbShHjN95D3UQdGj3LmVZnywK6zRcDnrsBYjKg-PvYAPdLtwfUJNSE-svi0_ax3scQg7kkXOM0Ya8wR09ul2WVHYyMAGekvU0YIenkA6EIJsPI8z2Be2rUg-ri_H7XSGB6BXc_gbEgGlODy2G0GkVfplAqtZc9aeYQNriiVyaLnUj6XLkWBijxTBiLN6WrrFTwwUrJQM9xaMdBvAdo3hFpaH-dGx49Dm2oOyPkt_f9szONdeWvRat_BdLT6RzZvrmw6w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ-yUjn9JZwokR7Cq1cegFzZU.jpg",
     "address": "368 Columbus Ave, New York, NY 10024, USA",
     "phone": "(212) 712-2929",
     "website": "http://www.covachany.com/",
@@ -31961,7 +31961,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Casual (but upscale) sister of the adjoining Jean-Georges, with seasonal fare & a fixed-price lunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJh5JzbfZYwokRzeF2GgGYd2Y/photos/AcnlKN3eq3d4lQNQqR7eO0-_75RgDSVLdAqrPZz9dB2anTIKZhAJkzPvy5aXBG2AAKLFFDNB_q9rWjHRSHUorwN5sCXkDRAdSvVvMZKk8MSy7kFkVAJ8txGIBo8hiv-rQtClxdJtofvn75aCPLp1YqP1BV2TTgliEfVLLSK9zUU80quhQXQ2ZOd9h4NvJc-sSg3TpbzG_Z-LsritzNgFeE7jT95BWbNXr-hy5DS6VMNoGYk3tgXJCPlxBhw1HzhEfxdt9XF-W0C3WiXtcoQYJCJPwDCA6FDpds-hykv2UiBCuXz0sUpCXwnq6ZuvwRPXugtjIrz3MzdWuZc5NXjv0-ms6kU0AEP6afjvGNAVW_ibr5SEojogsILyKd-Z8WVK7cMcba98kUF9XFNn75ky5CqNKs92PMvn0aOj6aLEBmHfBDPUllZM/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJh5JzbfZYwokRzeF2GgGYd2Y.jpg",
     "address": "1 Central Prk W, New York, NY 10023, USA",
     "phone": "(212) 299-3900",
     "website": "http://www.jean-georgesrestaurant.com/nougatine-and-terrace-at-jean-georges/",
@@ -31995,7 +31995,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ25ryEZ5ZwokRNUaYyZc52_8/photos/AcnlKN3wWTTqfw_DOZ8Q6o0yb1mi54rcPI6hXwMu9QgmY72IcoHpOkFbGc3OSrFVLImy2jHsPJfVuTMUkpxqvJdNkVDKLiGTTGdEX1Mxulse43m5IlSJTd4Qpjt4Iwg-IMTQmscbsoAEbemd_vpYPkhaeQMFqUKEX2qPk8oe_24tMEBi6XS1yVcPEv6SW6rviIDcQywItSOoYPVamuFnmAer4lYoRluuBynkK5SnDXueWkazoI6nPQFxCFxWd_Ob8_BSzz1lD7YUaxs56nlbBQ08SNLaT_vqY9sPq0-3t80QTmSlDA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ25ryEZ5ZwokRNUaYyZc52_8.jpg",
     "address": "164 W 75th St, New York, NY 10023, USA",
     "phone": "(212) 377-7150",
     "website": "https://www.semprenyc.com/",
@@ -32029,7 +32029,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Genteel tavern with a patio offering a fusion of Spanish & Caribbean cuisine, plus cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJg-QDdKFZwokRumpX4_PxJuU/photos/AcnlKN0YOSJnFxkDfTvvCGLNQClKO3Bip3ckMtj-0rtEOVB_tlcB_e3R4u3z65LFS9LssCyRuA6VXM_OKMDK1ssm7eG9rBSB-DtMTI0tbtUnW6zaVozMeuUYXmPMS1yjYLEXP4hKC6Z_fPoqfOyWEakraoNli1Kj_DL4QWDewvYiDufWm6zPbRwQX2gD0VXdBnbdPGcBpVOXr5lxcW6W-kG_ODpVQ8NQuH8Dg6Z_aqf_YaTwDni5K0nEoSJhFf675KMvbWAteUMEyO-OoAGmPG8bgB-JSIm006i4974EmEbffkx2Ow/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJg-QDdKFZwokRumpX4_PxJuU.jpg",
     "address": "505 Columbus Ave, New York, NY 10024, USA",
     "phone": "(212) 362-2211",
     "website": "http://www.tasca-nyc.com/",
@@ -32063,7 +32063,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ5S3vc2tZwokRcvo8uioqE0U/photos/AcnlKN3wqQuXbTNfagqxQ2yRKInzTKQOhrHnTWTdCN1QQWL6PyQ3RB45JJDrkOSP2dzJwEEkih1PA9tdwr3gkwLL7Q1NsvcA3n8TQuI7DaWnRdFDuNJKJ7Lcsq87a2R9aOUdpMx9oIJvQlqSA7FLGrMpXSIpp2dlY0asPPS-r7rPBNUzGZubW8tXnA2d7SB1hRo5DcsU5CqKkNZ1Y3RbjzcZVXOQbB5boloGoPJJ5Ps3m-bDTrdTQzyc5AwXU6RWRJxkI5IFj4QV5g4YY9sBcuCBhdiQAbPeHJlDOvzEAHYNSRvGVw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ5S3vc2tZwokRcvo8uioqE0U.jpg",
     "address": "240 Columbus Ave, New York, NY 10023, USA",
     "phone": "(212) 931-1150",
     "website": "https://www.felicerestaurants.com/felice-columbus/",
@@ -32097,7 +32097,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoXG3Jy1ZwokRundrMVRxueM/photos/AcnlKN35UYIwk2mzopfRYb4U4vpk9ychbzPNlPkbGofObUvMFllIADFOGX7w9QbEfLodhCmSDTobcfqBSn5VOWQRdykQyqpalcSJm9x7XotRjtKKXFriN_KpO7Xr5spQ606xok_xQ6dae7nzLJ6LcaQKKbIyicOO17Q2EpGmCKctlqNplvVAbm45pwWxGoXuoprF40z0Mk6pv7Odt92hs7hvQPrLn9rzlBg2a3r69Zap6splnKorTLg520PGvpznEymjnfBEnEqW4_rI0UXY53t0EphmIJA4XWY-T061hPqlzKohQiozIkDDRahbdaLZtKMyNBfmenKSw9glR_mrUyvla3tv9Tne1NOQ5Z-JZSDHJgwPZTGMpLec37FlOziANLJJ1p2gAAgX4GJChUuGNfQIP38JjpoIC8-Sq4N_hv1ybQeKFw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoXG3Jy1ZwokRundrMVRxueM.jpg",
     "address": "2175 Broadway, New York, NY 10024, USA",
     "phone": "(212) 362-7700",
     "website": "https://www.hotelbelleclaire.com/eat-drink/allure",
@@ -32131,7 +32131,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJecsc1NZwokRTxiySTaNc2c/photos/AcnlKN3TYmEutmLlMMAKwEYNImrNea1CGfTkQ2sZO7Jjj8z_wH3M0KbsCaOH3w4kGHw0cO774nM2NePjYiewv0m9WasKf0uavR31T9ge4idB1C6zzrsZiQPI-unxFNad8v6je-OUaJLtilszaVhAbT4tkIeXBUjxgip1AxyIEgq2fPUrNprm63dgQ77lyA1jZKS2U4vG-7SbIzPNC15FZilKZxmNGXBwx7hI8qcWBGlRspLC9r4tWw5d9BEIBJw8HTFelWPIFMzBDm1-27fC8qjiA-3nshVQT5y_lf06W6iV86ECuQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJecsc1NZwokRTxiySTaNc2c.png",
     "address": "222 W 79th St, Manhattan, NY 10024, USA",
     "phone": "(646) 249-7990",
     "website": "http://222speakeasy.com/",
@@ -32165,7 +32165,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Snug watering hole offering a large selection of American whiskeys, plus simple tavern fare.",
-    "image": "https://places.googleapis.com/v1/places/ChIJcQDwuzz2wokR1N2euVBPAjM/photos/AcnlKN0x2XMALQK214eTfTwDLkmhF4I7cnesmaG5Y0qPHF8imsUv4Bs158WW_uzeZoybmI5igjzkM0ym6qgWHMLduGrwWK5Qrp9Fgqic0G8S4kC2vvM_XFfnd9d6c-8Fn3F7U1CG_06tUCEVv-1vvQ9mxRwasXAcJ4sR5PRFVNVOgYZLalY1DLWzdgClhrTZYOwBgdSL0g4OpPms7cB8m68iK2RYKPselLtEnTJIAIJk81KZLsY04Y2JuNFV_nVdBUgO_L7vY50MJtfEyQK8nGf8QOhiwdRq1A59if6YaL_dQ1PF_g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJcQDwuzz2wokR1N2euVBPAjM.jpg",
     "address": "998 Amsterdam Ave, New York, NY 10025, USA",
     "phone": "(646) 422-7942",
     "website": "http://thehamiltonuws.com/",
@@ -32199,7 +32199,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Circa-1933 Upper West Side throwback bar with linoleum, wood paneling & an old-school neon sign.",
-    "image": "https://places.googleapis.com/v1/places/ChIJM4BXhYhYwokR8Wcr6PIqz-4/photos/AcnlKN3hErlWvIDcJnvag5h4w29JiiWrJLHMxjFgmRpqOiDNfU9qcBdfYRsmGFUV2ZPHMgRxzPmgD34PnbP52nAyo17GhYNHBCUXzqm7tF7lbSOalwuy5PZ7Kr2Wg81vJJDZuprkvbNZr9iLQEjJXRMK4K1_qxoG6hq7zNbU_Y2QoNGNvSTU1-yJUDX0JQO7rWrl7TsmuR3Xm8fiblienyuT1uROacYAPBObeoeq-hnifUVH6JiCNAAIYHPaktmicqRYKjTCAapoQbN_uqqU_wdbpCsl1XC8CetEvV9Ex8YMJqtbpuN3n9vbu4-BriIaw2_C0QPvo1JBU0-qcYMm63345K3RBJQ_te_yla-l6pONjHwdVnKPsWvU94E2SN4Le0DHOiEUPAOA3KNTqvtkegRUzC0QcV5k2LtkvOzj_xeTZPOetxc/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJM4BXhYhYwokR8Wcr6PIqz-4.jpg",
     "address": "225 W 79th St, New York, NY 10024, USA",
     "phone": "(212) 874-9528",
     "website": "https://www.thedublinhousenyc.com/",
@@ -32233,7 +32233,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Local bar popular among collegiate types for its daily food & drink specials such as dollar beers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJSaRktjz2wokRbBL_bc7UQB0/photos/AcnlKN35B5mGLF34IBkriNf63HvyQIH6x60LpP5hY6R6H8_gENKbufBjPgNkP5asUKe0DJ9W6diqDM-sjWZDL7_fkniZQ4phtB7QJIHRChfA2j5zyET8o_Eao5HvF75SVe0hgaFlKI2LP2lpWdvintZqbgfMnYD-Ot-TAifx6ddMBECnEsOP5g22MSjMKqzIN6ossI4xadBz_VtyvFNACujPJQCta_TBr8B_nXnlLptqxOOCojkOZAB81xv0iiuP-tezitWVO9615TBJb_YDQhRBrdRycUVplwatKjvD7DyevgZ-ow/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJSaRktjz2wokRbBL_bc7UQB0.jpg",
     "address": "995 Amsterdam Ave, New York, NY 10025, USA",
     "phone": "(212) 457-1274",
     "website": "http://www.lionsheadnyc.com/",
@@ -32267,7 +32267,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A standard neighborhood bar with pub grub, darts, a huge menu of craft brews & a beer club.",
-    "image": "https://places.googleapis.com/v1/places/ChIJN0JByYVYwokRahUWREPbw5Q/photos/AcnlKN2tI9fshGYpsO2l12S3zMKwCF6EVvPRChJXfN-scRU8iJ_2jtGUwAStqXZdbDVDC-f9lVA1a3S-hbTK-fc7s9glBIDzNdEfcvUTIwAih9zgtyWOEuUCFfnvHT3rc31-MJdtEP5U6eesDsBmZjAnm29gG598qEnOB4u7DJ6cOn6PXJUoKnebvau8gdt39SBIViUC2aCNUGZ6xCyqvqMNrrqPvKiSQGIQmxpaKvk79dGORECdhGttQyIL2Apk2TPFuupd1mv1Qs8p7X-o9upDLNQU6Ta8lqIDAGTTrN_CdHWixA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJN0JByYVYwokRahUWREPbw5Q.jpg",
     "address": "485 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(212) 873-0251",
     "website": "https://www.georgekeeley.com/",
@@ -32301,7 +32301,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Urban sports pub offering Latin-inspired small plates & weekend brunch along with sangria & mojitos.",
-    "image": "https://places.googleapis.com/v1/places/ChIJpRbiUptYwokRzWHItu8N4BE/photos/AcnlKN0mu9ErASoU0KZMOCFv3NWJXuARyInddse3CherltWj_r3IBPPhQeDpReUiwlKnZCQLR2nRZ3RVofGH7Z9BnvF-ZGrTw2CixcAAFH5SAwjFySo7Z7CAXNLRqSNcznafqB_s3MFCEZe2aIs_FmmPgo_TvgX1GNYdxLfFOra3Xi9hzT9tpRG8jq03Mep8u0XkbpYB67A9LMGbQ7AcxT0Er2arENrvNuIU_TP5bLjGd0q8aCt3LZyzgzrnMu3rDvrqO4Nr4wk07Fkh_mzex9WmSNVoHiC40qfgwoxLs07mc-9IvA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJpRbiUptYwokRzWHItu8N4BE.jpg",
     "address": "573 Columbus Ave, New York, NY 10024, USA",
     "phone": "(212) 799-1602",
     "website": "http://www.bodega88nyc.com/",
@@ -32335,7 +32335,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Unassuming tavern featuring Scottish whiskeys & traditional bites such as steak & kidney pie.",
-    "image": "https://places.googleapis.com/v1/places/ChIJFYHYHIZYwokRD0Afxa_fAeY/photos/AcnlKN1VfSvvERdqHj5azn606VHUBv-A30NBGUuzPD1xv55ECq7I_YgbHHLIIcFgOo4rLvNjEle9TsX9USywsgGHY2Wmg9MrGM7y6O6M1kUu_H_UynhchWaWT5UfuuddVsF9mHEZ-Kl9BJ_xg543h698XpqTjVBt7q9qzCkkjiiCfB6wDiSQCreQt2HCAv2rAhu4-tMSI4fKsAPomYv1czHa0eMqK4oTlnaz1xB4k0ubhR3RG0r5s7t4sgLXJDMLnVVJjHZMtEiaX1qYOa4DiZw2v2d6O9dBz1mNgUEERq4r03DSfjWH0Rq12Z-KetaFaHB51n6F3Jy-yicdLHMGQzzBm-0zRRU5uiD63yKFXid2rMnEQL0YeVC1NqLwT93DldSjVybhv1AArR9dODIDfJTmRCKfZGimCavWdTQ1IwYraRLXFQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJFYHYHIZYwokRD0Afxa_fAeY.jpg",
     "address": "424 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(646) 912-9277",
     "website": "http://www.caledoniabar.com/",
@@ -32369,7 +32369,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Eatery for shareable plates with Latin & Mediterranean flavors & drinks with housemade ingredients.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ82h7oYtYwokRjWZ1giCbywA/photos/AcnlKN0wwU5J1clmUcrc2S88nKcUY-EW9K4gPd82wrjOHTIAJr1YfX7rYSzUrn1-ygHyOA3kiO8B15pZDR_2t5jFOwF33N_3ocPKAQT7Ksf0Pj1wW7I1TuYIbpSb94DBNLeaLxU1NZ-DUwVuTac_xS1OejzOnzqPnLezcH6DgnUJQKFcqYPvCvqlEaSxQZHl6_sg3QcQgYmM6Kzq0Xp6rNDPcfbH0jHvVvsib9G4suCRLSIX7hXVMCvc8_ByngoGHXlUsQxwZBcrk-Z4D-Pi3HRCWdA0KSRw-GMPG6OhLmNys7c_sw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ82h7oYtYwokRjWZ1giCbywA.png",
     "address": "249 Columbus Ave, New York, NY 10023, USA",
     "phone": "(212) 579-9929",
     "website": "https://www.ellasocial.com/",
@@ -32403,7 +32403,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJNzxnVXlZwokRAkzhCqiIrtQ/photos/AcnlKN3iVvqe1XMXdOjbTe2eShXPoBfjRdax-_Kc1tjH-6Hu-BqyrVtgl6J37Gm2NSW33X9iMoZyyiov6p9Kf02K8g13J3aoo1iKqofKk4wYhgcQ4w7xNbPycEO2dHbV6yMcnWihYjaC4Kwe4C67ddSyuKCj6Pzk11ZmPwEv-LVEutkw2xrNBRK7M54viTiTsUHhf-QZod5pUnTVSsC4KAGl6Zda-pFRLAqtI18B6BZhrxlSMX8PH91vNYyoWcsBoib8X2ChLYQjDxW0_0TRyGVKaatrB3jeo0P-sMw0FewHE622iA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJNzxnVXlZwokRAkzhCqiIrtQ.jpg",
     "address": "2418 Broadway, New York, NY 10024, USA",
     "phone": "(646) 386-7424",
     "website": "https://www.waterandwheatnyc.com/location/water-and-wheat/",
@@ -32437,7 +32437,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ383_YEFZwokRJFr1iPhcJvk/photos/AcnlKN0RPR37rfptwz8MveJAjaf0rS-im-LFS2iTfnbbdn8GhQEVeur9CxslwVNzz5dtSWWpLlsC42-bMbGrdzZdswVUN2SruRitPG6VwGF8QKOWzi7X01eaKkUAEKTarT6-wg4ReIM3pGEdS49Rgsc6yCeWNshb0oql-Qno6BAxlhbLx933hDH1u-wKRbFp3_TsnVEHIY1rOrJgnUC-TQ7WWwFWtQnNPzEbFVq1L-TkWRB9A1xVSOawnCYXSTLe1yz8LZhzQld8TZbpRPSVlVohwjR6mrSC88MBLlv021yfEXPb8g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ383_YEFZwokRJFr1iPhcJvk.jpg",
     "address": "429 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(917) 472-7785",
     "website": "https://mamannyc.com/locations/upper-west-side",
@@ -32471,7 +32471,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Small neighborhood salumi shop & restaurant, with Tuscan small plates, wine & cured meats.",
-    "image": "https://places.googleapis.com/v1/places/ChIJRQh4J4pYwokRFwsMuBi-Cao/photos/AcnlKN1y5KbT5XkTiBZm4dIJtvLtkSp8XrV1CMjr3mbRdCHK-p9Rj5lesI3vOHZUl_1FY8QKTncSKNAnv1jjbWq2kOLFbWCPf1OgCX0AH_ONxqOw-F8Mduv0MTRU771pm7TwaW2YdPMdBD4sckpF9XW8lJNS_vmO0_du1ZiUuo5FKtElTU-inGSPo5q3YAoBhuRg8vALfHJJ7KBdx1HPc9PllPl87kW7bFV0MfnywIJVELIwrDPYXAvpCuFZPM0Qixz8Kd0e3mN6kzdPt3J0EzeHzk2Ec_l9NoD8hHB-xDtujBV-oA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJRQh4J4pYwokRFwsMuBi-Cao.jpg",
     "address": "283 Amsterdam Ave, New York, NY 10023, USA",
     "phone": "(212) 877-4800",
     "website": "https://www.salumeriarosinyc.com/",
@@ -32505,7 +32505,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Brick-oven baked thin-crust pizza & classic Italian dishes head the menu at this cozy spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJq7ZME4VYwokRtSnXR1qnafg/photos/AcnlKN1x2Qp04zQCCXf5dr8zjiocjJR5s6az9p6OYQcbO2MG81pP386UuhUPdxOGYuaJOSDE2LsOnU3gtHpySbTvyiIEqU0TaG7aoVMNLf5GytpPLVj4k_wpWe5pfdJmahLCWBL_yGDQIKx3oJHL8llda_sL2LinbaX6FbNYk3KU9xf8K_ArmsIdcU68Ydtdbei3Rh48WVW7oHBEcoRdeAU--phiQJEfzT3uS3akppb2xhpFE02zZ50r-UTdPfaKzMdRElNOitEggaCMOTh2umM7oWHmzox6gRc_5io0X1ceMJPiJQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJq7ZME4VYwokRtSnXR1qnafg.jpg",
     "address": "483 Columbus Ave, New York, NY 10024, USA",
     "phone": "(212) 724-4615",
     "website": "http://www.bellininewyork.com/",
@@ -32539,7 +32539,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJkcW-FwBZwokRm127DuEOOVk/photos/AcnlKN3KwMDzhp4uHdlEmNlPocXbTouoK-urWWq-MdJsddG2fMFapd89rFjTHSLQH9dvpQdNIbcNu9J6qrhHPsi-uP4m7f-0AMp2QdXaJzLxkktK8Caj41lg1ZBFYLxFuo5WYgoz2PxJol3Wxit_At24hZ_4i92wCIwyXXS5An9EiN1TQKtJo3CsM4gvVEf-ZHOh9wYLJljTxg1P2NglQTw0kIgHqbk0PvGja6j8kR9OJks5ncJUGr1UodL4qlTBfwisAIEECp-XsBhw33zZfzRv8u8MiAw7lJuUrQYD7ncXNYtjAw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJkcW-FwBZwokRm127DuEOOVk.jpg",
     "address": "2014 Broadway, New York, NY 10023, USA",
     "phone": "(646) 360-3857",
     "website": "https://www.cantonyc.com/",
@@ -32573,7 +32573,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJpy_3pohYwokRzoQdVrQiv3w/photos/AcnlKN0aM-r9GOKAWVSAfXeuA_hcNzAOVdnAXlu7lOsuHW2SROpB-SinlhMj7TPgrEfBCBe9bUZBpU38u7SGsojeb7PT2VlbbsfpdpP2VEoZyvuUUh8blBFayH6I4eZthmsiAi8-tSNr_CikdPdsk2oMaH-9Dt3TwJ4hAAD15dUW1VUjBBTknsfeckNxBg0FPeZ4P_8JedoNWpET5clMLxRjxqRmg2IfL1yg2kFc9vXsLHjai3dZmF2IQY7YQQ3xh72A0SVTFWQm2FdaduRMvsBgTYYmkk_ca5t8a1FkwJTUzlikrw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJpy_3pohYwokRzoQdVrQiv3w.jpg",
     "address": "416 Amsterdam Ave, New York, NY 10024, USA",
     "phone": "(917) 261-5279",
     "website": "http://lasirenenyc.com/",
@@ -32607,7 +32607,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ5zTwDLZZwokROfyxbqLtu2I/photos/AcnlKN2NOlEjbaRcT2b65IzjOYuuZGb1upQiPkXd2acqsH9Mtk2kWxs0KH0JsnKaZHfdn5tqKw7NoPe5upFgBP1fM9Ecg70IigHcNomcq2l7P9SlVY7gKSVT7ZObBIHEROcBapgv-q7LAzmy3zm9Ujc1xRjqf0U3XEt61T66q7H2rHEqw9Idp1skw1knXAy1PqXOm2p8F-Nvfcl0qDVlsOvQos0wc76k8pe09t2lSYuYsZ9h_xXwG_ojl4jRDHM74yA083dfSvIp6fRucCq6o9I2z1oh0ccckPeXZbifif3_UVoLrQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ5zTwDLZZwokROfyxbqLtu2I.jpg",
     "address": "49 W 64th St, New York, NY 10023, USA",
     "phone": "(212) 799-1000",
     "website": "https://rampoldinyc.com/",
@@ -32641,7 +32641,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "American cooking, a raw bar & creative cocktails offered in polished surrounds with retro touches.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeXBWf4tYwokRkseOOZT3_mc/photos/AcnlKN3T3Ahmf7ORP0YhdKDymgM7TSxRq1HOkivB73FK6pOcym6QXY_Gq8__1FONL6VN-_8CfvzhngNOErYQKVpytXpWjY-qZ4A64WIcYwWF-Kv3dOLpcCgTx63EQ3oO92uyLp0hfneJVno0iLoun9cM26cWyT3PGeTJ4khAQRvuizZSIqXDzw85KW39r7UWi1bR4jbr4EgJVHaaDEQak3ax-LWLSvrPoV7UOWuft3Z1HFlJLhX49w1_iIqSKnXPMvnLeul83kS0NTP4au9vkiuwH9v65GCjTYCr8TkWPKxtWu0/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeXBWf4tYwokRkseOOZT3_mc.png",
     "address": "20 W 72nd St, New York, NY 10023, USA",
     "phone": "(212) 787-5656",
     "website": "https://theribbonnyc.com/?utm_source=google",
@@ -32675,7 +32675,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Southern-accented American cooking & live music events in a brownstone. Owned by Ashford & Simpson.",
-    "image": "https://places.googleapis.com/v1/places/ChIJyxs07mFYwokRGlBd5nyxHLc/photos/AcnlKN1bjbNI5q9I96ItdEcY0Lnr6lB-9uGwSm1zJZnNmwFoRawHC07U9COTpw3d8pH6aw3P5VAF8Ub56FamNneu_Uqx0a_bomPT0azAlxXX5HM4enhh3cXNQByzYqU_ewzLpmzKTR5g4BJ9PZ0KKPd5vIta82Oa0z9JtzgtQ7LXA3Sxj2jAP3gY4ZPH5rvCIcXpu7pQqnnF0boHdjfhM_Xfvb40yeB36TOt55LYR2J7M9iwsngAbUPW4BXXcFb2ndbCfIH6LqRTZ0PhB4iGSRYtb6q5FB2vV8bf3B7ySfhSVuzFuw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJyxs07mFYwokRGlBd5nyxHLc.jpg",
     "address": "254 W 72nd St, New York, NY 10023, USA",
     "phone": "(212) 579-0222",
     "website": "http://www.sugarbarnyc.com/",
@@ -32709,7 +32709,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Bar grub & frozen margaritas served in a casual, multilevel space with a rooftop bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJMS6bmjv2wokRgIfSoY9u1gw/photos/AcnlKN2-PPu5SH9dO_C-FfoHFIfFw7ZMvpqhe8znLsgtD4m2fRCQeCosCejH2l94TOXF7UATPEABlR9PBJ3j2Ip6JNl-qRM7cG3U32hgo70VZ0KHAr9xnHoWi--AI2F7vl4hPGcjOFgCFHrKNo7j08k0es2hcQf-aKAThJG3Sy-Jmc062tNRZ0JFJXJicUDcU_BiOPQ-KGWj-XPAQbhLrYjtKWrglMOZdBWHZEWHqV6vbyiY2IFjyqKfho_1NxLXQUduB5xHELG6R15wVGmADrCs0qp7oCfKURR799LJZktA64r-7Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJMS6bmjv2wokRgIfSoY9u1gw.png",
     "address": "2867 Broadway, New York, NY 10025, USA",
     "phone": "(212) 866-7035",
     "website": "http://www.theheightsnyc.com/",
@@ -32743,7 +32743,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJbdkFeTtZwokR9NCp99mlZCw/photos/AcnlKN2Bfyu41HgQhNuOiitOZWLIq6kZqpQ7htuvVOsgoj8whbAkzvaiTkhcJMg-pNXy9PlDjue0ezPXv_5zuO9i-nVEwhU11990N7s5wX8gZLRVpKRbl87K-EBh3YFAGf8ZSJeudj0yoxaybRrYKJ48JVkK2LtyE9CsPxvS42ZR_XQv-9c6oZ1EAbx27kfj91q1fegpgSXV9KAjog7lmJKr5hxBqFwXUn5rMR8XFgORHg81jHXrqg0q7QAPvE0WSuVkTaDIQZSekPbS6BMYeuqvDlKMSJ9JO8p9asce3ZoMiUaGmw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJbdkFeTtZwokR9NCp99mlZCw.jpg",
     "address": "408 Columbus Ave, New York, NY 10024, USA",
     "phone": "(212) 321-7795",
     "website": "https://www.joincocoon.com/",
@@ -32777,7 +32777,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Cocktail lounge with a chill vibe presenting creative concoctions in an art-filled atmosphere.",
-    "image": "https://places.googleapis.com/v1/places/ChIJyY7hllb3wokRw_ASMVnIn5U/photos/AcnlKN3K9h3vBeNOv5jUE5lDYXKlkZb--i3Z_wjV_6CL2g3LXQwUM0Hz3Pe6bjf30NuSXdYVKtvTUQfrGI4mdcKw3YSd4eWcqHf6dVVVHitJG3VKIqgmRqS07bGKy1jXIMz10WANBTp_N6NsdAKPVZrqQI6w0DBVg7lCLRgbUc3kgAjos07DoKS1aJf51ezOG8yVu9OZV2jK3disZdv2qOUqo2StxScwVIV5sZ_pWHV2cwArHM6lVT11-KvtG2iB2hVjESE6R_QP5a8JutdFl0w2jwLTJebB2h2Xf8JauRt1Ts2lVA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJyY7hllb3wokRw_ASMVnIn5U.jpg",
     "address": "2292 Frederick Douglass Blvd, New York, NY 10027, USA",
     "phone": "(917) 409-0028",
     "website": "http://sugarmonklounge.com/",
@@ -32811,7 +32811,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Corner tavern/beer garden with extensive food & drink menus in a spacious indoor/outdoor setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZ-Drlhb2wokREuV4YeyyZcc/photos/AcnlKN1dyQgFHZPz1_E1qSbCIBkalxZ5zG-vxYubL8mDpzKcsdARu8SCMdmHCYBfxhuJQB9-qUjj33xpHtdV-8zNl4tdTcBI6wEa9a6T7L-fl_KpmVHxcJSNzod6_pM8ndmDtZNaifb8juniIKT99i_m5M2-tvuRUltfFjPFtxe89F_pzWDKk8Yy2_7cIvCX1UktsmopB4ITVMPyFx4jdheZFlplLR0UWogeQTVspcpKt2njiobH-X3xCi5rhePuza2dA3cXdYaQqDFgnuEM1JJPVPYeUZ_USnYIlgLaDJ5_gJDs759MeU4xbUc3e2g-0vDaXQeH00DI_NMKUsmUJoo5ajLFuRUtY2E12VTX4zPnhp3dh6on0CFMEvDpsTv4cyMj2sv4r82GWxDLHgDuLJqnBg4apNkeFUSf9M7mpUmRUESTQft7/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZ-Drlhb2wokREuV4YeyyZcc.jpg",
     "address": "2153 Frederick Douglass Blvd, New York, NY 10026, USA",
     "phone": "(212) 866-4500",
     "website": "http://harlemtavern.com/",
@@ -32845,7 +32845,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Cozy pub offering a huge selection of craft beers on tap plus spirits & cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ1bpep2L2wokRjaoBxorAv1Q/photos/AcnlKN07U5j29aDliVQmAaSxeI6bub8KnF3IlmwGngTZbX9PTQdHG15Ip3WU7f5ilrVxgiF4JzlI_zbGNJIfOPg8KHRKm-8mYHF6b6S9q1AJinDQpswDEdgXFoghNvJbVzA9a_X5tIkBRX6KF9EHB0RiRZRYVScTwUc41pNBLYF720lYNRpPIF90s1N1Jp2CLXn6h25sTZQOHTiuHVLEQCAQTAujiPhDP1lUIri9G8EqFrqj-5M6_CC9yHjx2J07gcXiejNVh32vv5mYFBmraD-lGA4iKws1p8jsOI4heNJwee0tOQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ1bpep2L2wokRjaoBxorAv1Q.jpg",
     "address": "3612 Broadway, New York, NY 10031, USA",
     "phone": "(212) 939-9404",
     "website": "http://www.harlempublic.com/",
@@ -32879,7 +32879,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZQ6FpBb2wokRwnkohLB7_zc/photos/AcnlKN2RHNO_OcpokrnO1m_68qc26CZF2HB9TVhb3cDC3ERlxAAlbDgLshCQaOwDBa2kiVbPP3RRY1rj8VpD5itiMLZ8yFnLtZulgQj-tWEnHhmuTiNiju55PEFCdNnXoI-zLeYGgIO7sq8qubuylK3603thj0A2ohTTI9v9Ym16Gz-3OVp_1yzgPVtQCtGDDz6R12A5QKZp2tSlyQw39QdrL7h_21sf8iDlSivXsM_ikkx5FZfZPv76GerticMyc6Gcv3D39rVNu8smvYvna9nUpR6QMKiLpnHkrK1V3-BPvjg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZQ6FpBb2wokRwnkohLB7_zc.jpg",
     "address": "2224 Frederick Douglass Blvd, New York, NY 10026, USA",
     "phone": "(212) 500-6175",
     "website": "https://www.thefoxharlem.com/",
@@ -32913,7 +32913,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Craft cocktails & bar bites are offered in a low-lit, subterranean setting with a cozy vibe.",
-    "image": "https://places.googleapis.com/v1/places/ChIJiZbyumL2wokRhLgS-Pq3hqk/photos/AcnlKN0qLUzyDRId0ByXIoNNGspwI_No6MgYDSunmwMYiii6C3IBGa3UnE4SHTJoeqPfPVKJOxywsbQQJXcjgT49rUsE7QBdwCRWt4WGpk3SR7Gr_Xiz4mkwuFcNth-bMp__7QqQ8xpD84sBzSrhLTDxZxiPk7qSlzOorImPj6f9Oy9LhfSRYnlBdcwWuJRF8RFz-FvYhh4JWFjcIrIUTQlGORmrgwbLowiqLkDaMTjVihu-O2vQoY-HyoTg26szsQXvisHk1bkuvcfHaDMh8wYZSjJmAAAAYdG9FeTzrTNsZ6IabmjBQF_cx_-FeUvlMi2jg1952lT-AiiZ-Tmx6c1Lwsd-nB6TkgLmTvHOYxUOpFpWIlWOm_kO12Ce7h0lOiFCo3_-06_hxZeRhGDIydpMw09tU4k5RZmzOtZIazCWTKcqmg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJiZbyumL2wokRhLgS-Pq3hqk.jpg",
     "address": "3604 Broadway, New York, NY 10031, USA",
     "phone": "(646) 861-0489",
     "website": "http://www.thehoneywellnyc.com/",
@@ -32947,7 +32947,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Rustic bar & music venue with charming, old-timey  decor, craft cocktails & creative snacks.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9_kfOnf2wokRrq8gM_GzsXw/photos/AcnlKN0ntYR072Y63NpVIWihZ6uY5uIpUmyF0cqFeuFYjg9Oas0i_hu1Va1wVDp0Gxav68kz9CJpTncpA2F-a68cMkFQkDabifmn_OfotiVwWOmdevup2jO3k5OT1jfhzA-7Wi38YUcBj0enmR95zVz2R6SnAzWOr_AiPgVA2zr-W1Oc-KMVB1b_eILVP4gEBmny-DtQUie_UnmHDT91HOB6pn_Ero5Cru00LtFD1xYHsb65pOXR4I6j4Lmt7tZv0XMEEuYGgVfmmHFfgcLCiN2acX6Iywj84WppBwxLVIZtb1Tiog/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9_kfOnf2wokRrq8gM_GzsXw.png",
     "address": "2361 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
     "phone": "(646) 820-4603",
     "website": "http://www.harlemnights.nyc/",
@@ -32981,7 +32981,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Popular, stylish comfort food eatery with creative cooking from celeb chef Marcus Samuelsson.",
-    "image": "https://places.googleapis.com/v1/places/ChIJFcYLJw32wokRnP5A9xO9JqM/photos/AcnlKN1zI_sqvCdnx1YlnHOrJGdTiObuxNumYQQbb6hfC3cNIQtSdnm6k2DrWN1FPFe6AYvmx3ji7MVlScrXy0xKfRtwpGwMzHfYwE-wV7HbsyNyptCFnD5bcyVr6BS9rWpKRwQw5bEpsHIji4iouX9KfRe2xP6gsQxd97L2eAzg-blEcAN3VdeYYcn73vfhdM5gdvRmVQanVP6SVTWHycD_8emuiyJfViw8SfBSh-ma1iebPpSfxdOLMKwaRWzeI-vijes_COL2vc02pwOR_8ywVUf-GXoI634mKB27-CclGyM/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJFcYLJw32wokRnP5A9xO9JqM.jpg",
     "address": "310 Lenox Ave, New York, NY 10027, USA",
     "phone": "(212) 792-9001",
     "website": "https://www.redroosterharlem.com/",
@@ -33015,7 +33015,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Harlem restaurant/bar with upscale pub menu, craft beers, outdoor seating & special DJ nights.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_TI4LA32wokR_4hB-16nbas/photos/AcnlKN0jrQIny2xeNhXXc3rQtc7IAx90qZd7EmkvFyzvDDmd1HbnF3xugdictNsI7rjUgyIyZJvlrcu6o1XkBlHj0lfejKqtQJYg2W-ZHendthIHnxKHJ38wpyfoHG5PHkXtUlqu53CTeHZrfPJDFsKRZhpVictp4BtqnMCOFT8DdQgYrGUlfEavxGb5jB-iHBnU5i1vh_rox8DSz85hsRzjUU9-I52d1NkA5EQsz9BnAMzB1-oA1Z2cjP-pVKuonoT-Hr7bu0ce_0OEiFMBvHGYuJ9GgBz9K9W-oxfcM5jdZT-q5A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_TI4LA32wokR_4hB-16nbas.jpg",
     "address": "321 Malcolm X Blvd, New York, NY 10027, USA",
     "phone": "(212) 510-8552",
     "website": "http://cornersocialnyc.com/",
@@ -33049,7 +33049,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrWGPN9D3wokRaw-MMbid2aA/photos/AcnlKN0KHAnffJ_h2v3adWgk2QYUP40FQ2x4X5BC-m3guLHAw_fnDUUZHrONhJKeJdmtrKcgDJAWb2tOmgu6sFNr3OWxV5JmZJtaSi_gPRrvioR7zLym6pGbm04CpweZobmmQZV7QVMRcgKPEtMaBmW12GQS8thf2-Gssg0WYqb2_7jIa3QR0HOkoZllxiHhgA0isPRaws03r6FJAZ5Cc9_VQ108Q2Yh4P40lYUNSYOZjpF83-ZwrMPSl5LGXI_biKVJaEA2rzfTHwK-X_A3oAurezcwMDsf2pTa5rAez--LKfxYVg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrWGPN9D3wokRaw-MMbid2aA.jpg",
     "address": "3569 Broadway, New York, NY 10031, USA",
     "phone": "(845) 669-7371",
     "website": "http://birdinhandnyc.com/",
@@ -33083,7 +33083,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Eclectic eats, craft cider & brews served up in a lively tavern with quirky decor & pinball games.",
-    "image": "https://places.googleapis.com/v1/places/ChIJR6Y-pWL2wokR2L7b5pdH1DY/photos/AcnlKN0TMM0cyF4Vz05F8K-XqJ3Q5r3lzUgZmdGJ0Zqv5OkhT5e1uTtzrqm-hdBU_7XIlGAAB0UL9MKRwSny2CTaIzamraYVn_xJ_ryqXhKMUxX7pU5NKWZHa-MOyhlH7CV4BQ9VJplN9xzZ2VskGXFCFR3jtOCbav0DnMdB9fc5y3WrV9_E38n5Ekivo0G__3GazAjmVwpYkH-GdxyOKOBXuR9GcjDXmfBg8UUL2jflHRQm0c6C0CTm_ukZ5SMYGsLCtMzYJQXyeoiRuXEJP_ijbDWEiwG1H7BG_lIbNL4ZkJXAa80t1c_0BkNjn8l64MzhlKJisQSEoA3OAkdeawxbahGwEiRHXgTx7MSkTqdYb4hs79Wc8PvbBrVCRXuO2a4WPGSvaymtej1UAl8Xual6gcwuz6LuBUGmsYhRhZcyxb4IJw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJR6Y-pWL2wokR2L7b5pdH1DY.jpg",
     "address": "3612 Broadway, New York, NY 10031, USA",
     "phone": "(212) 234-6896",
     "website": "http://www.atthewallace.com/",
@@ -33117,7 +33117,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Arts & performance space hosting all-ages shows & serving drinks & bar bites.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmU3ycHH2wokR6A8gMLe9sNY/photos/AcnlKN2jD0khF9X4QGZhaCUigygEJFKQZN8mjyl3geoL7jfqM6supHojDOoeogdWP0KkfuPh6DGJPzdQxX3RtweTEQ4uUiBzzbTg4DTgtsO4Hy6GU-VdbNOiqZHLCCJQXb8fKAsWTmXmuJwgK09LgV0trLMMPh4tQcAcScBzM58RiRbN72VpHArQb7zMCdc2ety7J1jDmoLpVgT1FeFZbAoHGTVt9Uj1Hl2CzKWVMW5jaqbUad09AdOme_bAH7sDxnR7DghgMDn9KFLbzmC6EKkWafFExtnZGp3MPWanTjEazM8AukYoFg9_UAX88ZDf1EpTrxtlWHb0saw4A1RTjd83aW_eHMfHBf3T1eDnkO5XDFNVsU-x53MoADQsIZGOAa2xx09liMHUviLUjOs4a1jFWswoxoIu7x5HXMT-OA-RjX_zkA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmU3ycHH2wokR6A8gMLe9sNY.jpg",
     "address": "2271 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
     "phone": "(212) 690-7807",
     "website": "http://www.shrinenyc.com/",
@@ -33151,7 +33151,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Cozy bar pouring craft beer, bourbon & original cocktails in a narrow space with a back patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmc_mBRT2wokRjtM7hV2F0F0/photos/AcnlKN16XQcPoJ8O3K20ElPyBByj-gsVRPPdEbPe-KApl1rLFDOLycUhtng_IOD8gu62G13-2XJGrkMYIwUPkXGCgcKICfMSXJT7ZDEZmAG8QTCaf9dcJGkdNNKvfmdrhaTx28v6iqVcFKfWSMdkzdGv6iZiFbi8BxUBOB0hhqPe7CCVxiRrbBQuA-Bdtf9zrZZApe05BxvRD1TAAvk_3EPnOwKxyz_T_wLtWdyXN3ZVASXAfaT84FcCe3MH0Cbwr_DnpihvFLEIiXE08IKf-83fOSMi4OVltETlCshH6a3M__GjFFN4QJKodHV45P-O4Pi-O4jt8TqMGJ5d6qT35harGc0uayvgTeqILvjH03Y-ApN0RMEH0SnuLDYgBEepabwRNj5u7TVdaxjxMQ2G0Ga-rTIWE6l6Q8s9T8cl97dOsWj8bg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmc_mBRT2wokRjtM7hV2F0F0.jpg",
     "address": "2194 Frederick Douglass Blvd, New York, NY 10026, USA",
     "phone": "(646) 974-2725",
     "website": "http://www.messhallharlem.com/",
@@ -33185,7 +33185,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Roomy, funky joint with big booths, a central bar, and patio for Caribbean food and cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYSdWchP2wokRg1uEFJMWTQs/photos/AcnlKN2E6wgdgNwys8EeRB9Q9jtgqiRKQ_iyZBLJVjcNACV3biqlN-MojMoiK6slZe55Bg5MMrB1BcIojwokx7hMeF0Iv-7Msnkg9_a_u5GhGSSQUY67mwVT0bK0j8rTIsaScaUwOMl-M4Z7Q7ZN2A_1D31UqjRXVU--R81W70swBgMAQsy5z_G749RhjLYEEwJO2J6FV24Ryq1_uJYHg_6aQAW3Xyj8QNt0sOnGKxXbJoZDm4MyoZUsPMjX6WUUv4ENct_lHWK9MvStMOW_2iiveasc0FKtp-v5PUoFWj5kqFfNjw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYSdWchP2wokRg1uEFJMWTQs.jpg",
     "address": "2272 Frederick Douglass Blvd, New York, NY 10027, USA",
     "phone": "(212) 316-0350",
     "website": "http://www.angelofharlemnyc.com/",
@@ -33219,7 +33219,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Urban bar with a brickwork interior serving craft local & world beers & international pub grub.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCRrEeXH2wokRU6mKA0g8Aic/photos/AcnlKN1vg_oSDuYo3xxJ6DGhQTybdNt2XExmgv44xSczOiD1CRzGHQpdUzAqHTom6FeSIDdydxrq99PGm-ya28OsKZPrUkf6Duf7pikcaPavaj6xSOt0yzBr4yOFS1tBSzQHDKJJP6GRWybKJkmRJjZQv_oM5wjIFhoHiC53ZBon6L3Ct0XZYqWWjfqVco7sOXPscbFB6Ry7hfFnyiPpvBOFEVh42m_N3cwz6Ax3rgncUbODlxMtlJECY4hNLr0Gg-N4gqu4jkgp_2sHfdidjodpabQrg0YcPNMXNSGdXTyHIUrNcTzsxm6z0U_Arr42ToZKzVIZPi7WGRY12b3F1kw0sMQk9mWz8tsOaqWk59ordGPyGyUXOfztmzn45bF34WKhUaOS0HwyzP22TmblZed4O8G2B92qQBZD0yOt-ZD-srKbvA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCRrEeXH2wokRU6mKA0g8Aic.jpg",
     "address": "2268 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
     "phone": "(646) 998-3444",
     "website": "http://harlemhops.com/",
@@ -33253,7 +33253,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This hip hangout is a coffee bar by day & serves cocktails plus a pared-down food menu at night.",
-    "image": "https://places.googleapis.com/v1/places/ChIJbblrGCX3wokRM4FasdVVFio/photos/AcnlKN3FG0Sb17Iahj94mPDBV8kFIaqlkmsXUK2zAzhshBMoNP9Qg767Y_vzalKQZGW0-Byg6mqgIKYQf6fc6ekXG0rNh8AaDCj0pUt48RwuttLrMI9X_132NpVsmroxp6W2fMXxNR3UU8rdUkzywMcPlWJwbNJcf8ApCtULnoKzcuiLcejkFQ8Bt65s0F0dwmYnEJ-KUWybMoigxGn4cHHcsqRCiWpVNX8t0TQj-tv_bfW5770BmY81ZA5TWY0g01GuauEbBG16Q56e2c5lXPKzpOV0cHIPzIu1p9y_Jd5ud2PHVHIMChc0FQI6EK2833SPjDouu_x-5nEVWgymQ-DI0LDKzinV3vbAflu660wJutALVAhOp5pLsV4UhwfEW53b-bWkqfOzc4g0DDaQ7f0tPUKnSbaVV5HeGjVb3C-eixM7zg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJbblrGCX3wokRM4FasdVVFio.jpg",
     "address": "26 Macombs Pl, New York, NY 10039, USA",
     "phone": "(646) 370-4260",
     "website": "http://lucillesharlem.com/",
@@ -33287,7 +33287,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJY-TbyoP2wokR7y0YfHv10UA/photos/AcnlKN05jtXZqmX3w45QmuW9NumTQ_aPFo76huOSok__QeH8DXSUD1GxInonghZpBat9NIBF8aTbz8vFm32YO67RlfIh-2oA1oXTY25lU7nGtMuH_V56wT0Ftj5AvlYngXFH13hmtDY_bIKSCSzDR23XXnlkyQOi6dbzTMCoIJ9acYQHviJbBAHTet6yrEtnKOHXSqUqSLQhGGDuMg3KtSQ80QBm5Itv3drALjco5Ma2BMd2ZJr-ccb7AfbLD81pVERhrQ2X2vCZnUgZ7ENRPOZy0QUMPeGGsanAVzebkLzrQT8GznWcTOJvARiS2Yahc19GG-dM7cYvOJHD7Akq46sv3Uasz9C2CMFvnbpsUsmPtfTQffF3ebf3DMPa1_OmJVzISIBr4qBIR0lmD5jqhsrme-xtxZZdRtocI9N6LexAxypGzw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJY-TbyoP2wokR7y0YfHv10UA.jpg",
     "address": "555 Edgecombe Avenue Suite 3F (Buzzer, #107, New York, NY 10032, USA",
     "phone": "(212) 781-6595",
     "website": "http://jazzfoundation.org/parlor",
@@ -33321,7 +33321,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLc6nSAr3wokRdF20n0J8Eko/photos/AcnlKN00SUxsxFykJg_KDvrU8aJHyzEVGXKyA8gmUcqV9arJGwL467cMM5T5dWN4ZBnyn5gUeOXQPNHJ0D1P96zN3f0VhjD2gZS6RQIJbamZQ5dkFEviYJKkmVR7cihsnTNw6dplsifHms8Xf8ocHSXAEIzcXLA99But_Z5eHk11BnyB1MEvjT8XyEGYxuEQXwvnjhniBt5P3enI6A-XpwGEEW33-DjmPsA0cebMkAOKgCH9XNSkKO-81orQl1txMJvWyzwQPrj4OZjMpqW5B8CX5Q64Mpqneyxqt3wiKqUuRylR_A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLc6nSAr3wokRdF20n0J8Eko.jpg",
     "address": "3473 Broadway, New York, NY 10031, USA",
     "phone": "(646) 559-8253",
     "website": "https://www.thevalepubnyc.com/",
@@ -33355,7 +33355,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Cozy neighborhood watering hole offering bourbon, beer & cocktails along with happy hour.",
-    "image": "https://places.googleapis.com/v1/places/ChIJicCNHIj2wokRLCFUpD4OC6M/photos/AcnlKN2swPqgQ3i75WtM7wXPvWgVF8cxNgKmZld2AA9sYxEk845h2mD9OMRMcoO52-g4IkPcJBa4u8zOs7CwMAKQF-2ahm59ps7UasNI3XE5g41VWLBQBl8MCM6czHndzikmH3MGfwi8YY91t9dt6HiBo_UqF06KxSOw5uuW6psSqLQCd3ivHUP-CkZxPjKeHZs8vjzXkimliA4UltyxznZVBgr4SFra-PzfUEAHbqDbRl71_fNsKypKAdUfUnfUteh9waErO7gwukR_fkR7Ys-bP0o7e1xDRKfusJm1PXMUfoIOJg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJicCNHIj2wokRLCFUpD4OC6M.jpg",
     "address": "3631 Broadway, New York, NY 10031, USA",
     "phone": "(646) 918-6627",
     "website": "http://facebook.com/UptownBourbon",
@@ -33389,7 +33389,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Espresso drinks, baked goods & sandwiches, plus wine & beer, in a funky space with brunch service.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2d54lnr2wokRK-62uG2nIx8/photos/AcnlKN3FQ3_cXGGPF3NqQvY8SH3yuyOhuunVEJUD-eJglGGwYs-Y6bspggEXUJWz5753Ia7k01tpugOOWPzFl5VYAaWFxhHV_ltvKofAq3fBm21zo9ZT8q6Dr2783PNrS6yRKMR8jmS22YYCq9xpsdx2Tz5p-mEJQ43w5PFVi3OA32F2QbHEiNAMerLXQ9EGgwJyY-MLK6fv0lURFtXsorzyHc78SsMqm7fx-Qnr_4jjzGn_3FEPBTjhewjWGhIq9Q-O1XTrUejrURU4sftivfxep3S8YRD6A0A4nYugjvX7J4gksw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2d54lnr2wokRK-62uG2nIx8.jpg",
     "address": "101 Edgecombe Ave, New York, NY 10030, USA",
     "phone": "(212) 939-9688",
     "website": "http://www.theedgeharlem.com/",
@@ -33423,7 +33423,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Harlem landmark serving generous helpings of Southern comfort food since 1962.",
-    "image": "https://places.googleapis.com/v1/places/ChIJb8Xw0wz2wokRXhp1-HSLvkI/photos/AcnlKN0j6P7ab5beM8_UBzXshBQv_2ESy5sysxXCmQwoMSBqDjDF6BsH-EB0b7YshiLdrk8IQ9Whx2QFQAkbuDKeSaXvv-b7zZsnVnWXM-l0LWZ1AC95ml3esHZsHmzz72bpiim8r9E3m5bnGEppW7I44eKW3y0kNaL6YIfRtIkP_qxKv2E1a68R0WYXM9Y_gr0tmHngm2G7NdnwfKWhRh6gjP2qmMKBsdqtoN-YoJzNTN7lpV5P2KT8rzifHMsPP429gHS_8ninRqDkwNG5_nx9V8Nv4N4FsFec1eZ7Xobbr8VUxg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJb8Xw0wz2wokRXhp1-HSLvkI.jpg",
     "address": "328 Malcolm X Blvd, New York, NY 10027, USA",
     "phone": "(212) 996-0660",
     "website": "http://www.sylviasrestaurant.com/",
@@ -33457,7 +33457,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "The bottomless-mimosa brunch is a draw at this sleek, warm Italian eatery on a Lower Harlem corner.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2yTMoxb2wokRixfwCY3ltok/photos/AcnlKN2RImMGF6CGo3p5vfkL5oi5Od04-gtIeqCm8r2UhvrKODF5KldFJLSui6-yeB6PNT2dsBGyVdoAReWvSLKJBbC7v706kMdCO7Mp9pB2ceDt1Ju8ZgV3MsKcjm9UwOSzYSERhwU1yW1uSTg27rYqaIyCz7WYHng1I9PlPGFM7BqpS8At6yT-FUXntXd-lqx1TD8sak_DO7fyy_Y7WHt-IAOp5kr9D8ntw0WxI95kIdtL3zHcE0WiCYvVaaVxzrxPrUwWkncRc7_esmKNQTdD2ltrFLGyD8k9SJyG3sG4NfMHMQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2yTMoxb2wokRixfwCY3ltok.jpg",
     "address": "2168 Frederick Douglass Blvd, New York, NY 10026, USA",
     "phone": "(646) 490-8575",
     "website": "http://lidoharlem.com/",
@@ -33491,7 +33491,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJr9rAO3f3wokRg7evFlsrX-Y/photos/AcnlKN0wYTezfQkfqS8hBedIBYa_4iGrT6iQQ_26rJtf4j7geulyUTlj1Z5VDm_8OXOV6N5dQO_u3CSvkYe9rQrdS3R2JrSZ2pRvT3-e-S9M3Y-Y938hcBuZBf-CP1hVU10FZ8WA6XhhoqRiNxm2UIer658bRBtvVYO2PDzpEIGj8eTw-pMQKt_1pMwtv2e6XH8m4YZ37iMTcVjeLP5-bKucsvRlkwCYswBYNnZ6i_MBDh1zWfz_YQ7eCrIrbnIshJNCMsIPgC5mBmkhClMMaleKH69vZXJj88hLSEZCDIu4wnhViA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJr9rAO3f3wokRg7evFlsrX-Y.jpg",
     "address": "1694 Park Ave, New York, NY 10035, USA",
     "phone": "(917) 409-0103",
     "website": "http://www.thegoodgoodnyc.com/",
@@ -33525,7 +33525,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Chicken & waffles are among the classics served to locals & sightseers at this down-home restaurant.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7V-ZqxH2wokRwaES4IMqwQU/photos/AcnlKN2hmBLlolbpeVUaEqWP81W5BUEFWQ83PTksX0GY0KquA9AO-LUpIkhFk9W2-Rvxzp4RlzNFgTWeKK4BCIJ0taWJXjRzeTUG0LdJiWl0IEMI2VtfSJ6ZEPCiV8oDsMjc_j3KLJSLja5MnrsUOPL97AsLHka5S1ZqiWZmYzNkOw2i_3R2kLRJvIXc9uIP_N3O4WtXyd1ZqVORZiVqkxGyjh14tcPwNxTSyKUexJ0O4gxIIWge4BC6CWYA-ifHDw96tyHrfqk2WLq78H5m8WUfptoQStv48krnZw3WK4MUNyHAWw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7V-ZqxH2wokRwaES4IMqwQU.jpg",
     "address": "113 W 116th St, New York, NY 10026, USA",
     "phone": "(212) 280-8779",
     "website": "http://amyruths.com/",
@@ -33559,7 +33559,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "French bistro classics, including breakfasts, in a light-filled space with exposed-brick walls.",
-    "image": "https://places.googleapis.com/v1/places/ChIJd3H89mz2wokRdk5JHB3Aino/photos/AcnlKN1IpdrnRa8mtXNvFqUb3rl0rflJ4WKkSRKoBTSpz5Ptus-pEMcHmoWfwuxiZiL5nvXIfVODV2e-v77MXnqH4inVSirB16WZsEK9lzmx5h0dQ6uDdtEo_7zqDNHIQaygIhcOjkcQ6VW977tN1fb62lzCxLmz-NjWD7JuFhlCpKwRaq6gYYszRPLlw5hhuq1YbqRasyQKg2BZchNYSWR3hUvWknY4SR7pPZPiMZzsrPpRbtevEhaSCydImOT95DXklvKvNYAUuKGlusYGlo1Ojcmu7f-3eraLct19yVxXyRZzULU2NFzm0HyyMhtg0QP_d3_5LlMVa0nE2JCVJpb_g6yFKqJAQGDNoliOA8sgPbbeeESLBscLMN9ZlMeSOB9xHwY9-FD2DgFhFZfGTcP9xBA6YPTj6nyiBNVvJ3gmhrsUmg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJd3H89mz2wokRdk5JHB3Aino.jpg",
     "address": "341 St Nicholas Ave, New York, NY 10027, USA",
     "phone": "(212) 222-9224",
     "website": "https://www.maisonharlem.com/",
@@ -33593,7 +33593,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Handsome, brick-&-wood clad outpost offering a range of New American, French & African flavors.",
-    "image": "https://places.googleapis.com/v1/places/ChIJy8PSLHL2wokR-6RfFmGybOk/photos/AcnlKN2miXCUWX01ehWbBZN0XIwLTvzrYLnRtyeOoRjCYQ88uCNFdOHy-vlwODsIZokr8NEJckKUqHDxAosuzEedUnGReamcZFT0Up2dieUZfLqv3AXyAbGZ-3qrbnJQ-MTHsDPfyxz6AFkVribhvVPq6q2hVNyqubxcRFJR6Mp4_uc78OK-AEJQIz8QE0FhbWormfOezWRvTOUfiIMOX6bMwRffVkEOyCvt4TryUcw2A9KaIj7ZfuZA67-YCMAor8jc9d51u8wN6R7QbANfHMsy0ovfCWjFLC4gG3o9Irk5y9gcXQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJy8PSLHL2wokR-6RfFmGybOk.jpg",
     "address": "2245 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
     "phone": "(646) 838-7604",
     "website": "https://renaissance-harlem.com/",
@@ -33627,7 +33627,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed spot with a casual-chic vibe offering modernized soul food classics with cocktails & wine.",
-    "image": "https://places.googleapis.com/v1/places/ChIJd9WGjg32wokRD-tzqpGQTSY/photos/AcnlKN2fqWh0SagXw1z9o96NxngHuCilMEYqtiOIuTIolWw25d1cJzodxoxSSG-rTPlvRm8dFm_MRNpHBej_I-ZHzCdVYi3W9bK6RtQ9dCCTy9pCZHyoQo6JbLXgq4NwHuDv2xbFFSrRR9yC5F4sgd9xoFDyqWGxXQeuyXSrKO31wIV6wJx6YdWwG9Hivx7jg7pdIoov3LN99tqIPCJ4WGK_SCj9RKiGFFJMAlfTRan67nsLOdaifeCyMHBLMDtXjsDW_UPDAmbRE2iWqV381O7ScGDDPH8SYogVRPJbMuab5KmyPhoXb6z6LGLzJlrB9c8sn1FDrbB5F4OsMPulugFoqxKZONyYZNpO6DFLDmauFYEypnEWfRV_PTINWKXv7mqX1hx2Hqg7UK5tkt2wSokA4NCxD0UYEGcLkPqAyzVVF7H4Qg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJd9WGjg32wokRD-tzqpGQTSY.jpg",
     "address": "2149 Frederick Douglass Blvd, New York, NY 10026, USA",
     "phone": "(212) 678-6200",
     "website": "http://www.boulevardbistrony.com/",
@@ -33661,7 +33661,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Southern classics served in a retro setting that's relaxed & homey by day, bustling in the evening.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ-bhM6yL2wokRAtIoWi_TL2k/photos/AcnlKN3MEsA6nWB5rOfqpJeDcHlLL-CiLRx4yYv7Fdays9TGjvbrS7JRea1l_OKuLAfuNFAWuzbSv9mmcXbW1Tea89V0JIYuh5_2BX0rPjZnMbHjQbsh2KPY5WRXgk-zFsGjY2knfcdO--ay3aW8tx5T5Kqj-N0r1QKsoVL2dJhbIZvF554EH4aJsFtxfy2AaEHKLF2O84aA4qWIx4QuRW7frVRObildZdiKx9QQgVQsQC7fxSE2QV6x8FsNJ9znKEuKaUZ7_PJTeFcOpfVPxIHVDYXEG9lRxi8SC7z9KiIqzdd6pOiae5qP5HqzHdlTfziWt-hcj_HtuEqxjcyNZopp1SqBcsGW4egcp7VnrwQGRG0SJ9wIuluYYITDHUfnqzoEHpfDhlzMrIdCUg8No5jmzGB7uDMcMfxr0We2V8-Lc4A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ-bhM6yL2wokRAtIoWi_TL2k.jpg",
     "address": "300 W 114th St, New York, NY 10026, USA",
     "phone": "(212) 864-7777",
     "website": "https://www.melbasrestaurant.com/",
@@ -33695,7 +33695,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Buffet & salad bar with Southern, Caribbean & Continental fare, trans-fat free & sold by the pound.",
-    "image": "https://places.googleapis.com/v1/places/ChIJnxjnEHP2wokR-Dgf5gfBf50/photos/AcnlKN2jqyu7E-I2gssNyUXLfWjKReMR7to5i4Wa7rIXn3bgxy2B6xemXpUSCWK8HkQDySw3n0GENYADxTF3X3hbIByZlvVmQoKAd5B26w5Zzu0AHu8Yvlgu9HIf_DumOZkCtaJs7J2dAp2rSf_ntiaQ5dsCL7KRjlopqCGcOPUwpdgjmoRGjGQgZeU7LBp2c-MbmNkGPYTjxNzt37U1Ns33y10KhuMZeg5PqHxFHBhffWT8odVjYjrpARPEaZzGWPyl1udvHLBUl9PUPlQ03d0fd5P1js5WzXIyfoymn3mW0qzlOg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJnxjnEHP2wokR-Dgf5gfBf50.jpg",
     "address": "373 Malcolm X Blvd, New York, NY 10027, USA",
     "phone": "(212) 866-3663",
     "website": "http://www.jacobrestaurant.com/",
@@ -33729,7 +33729,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Cozy destination turning out plentiful custom noodle plates, plus dumplings & wontons.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7UPihKr3wokRg3ddiecrdXQ/photos/AcnlKN18GIyZaKepGB31mNtzYCuLbe6UmjILkHM1x8emIJdAgO5A6NQWRQeeDoWXqX4IxOvdU9O7mozK6d62Rh8bRgJHp5QKhIGyc4IsfArAJ90UCHf702w2Gmi7Nr0pBHsL-NeZ4BM6kbK4YxxwLnWY3HqPHb8r0IMW1gWH77xQyVpMcwLr-m7x91ibgc6U-8ciaRWQZawmXmlBcfrttIKXgnmGghLNcLIcj6OqmHnjaZWhdoFhyf3i2h8N4aEMXyflKhayghoUp79fFMUWnXKmLdk9Qi-Meu_Pv819gD7pSFA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7UPihKr3wokRg3ddiecrdXQ.jpg",
     "address": "370 Malcolm X Blvd, New York, NY 10027, USA",
     "phone": "(646) 850-0208",
     "website": "http://www.thehandpullednoodle.com/",
@@ -33763,7 +33763,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUxX5Dy33wokRQAbASxmcU8s/photos/AcnlKN2tWiKFtFEoCuG1XhExwrJSzERyZCa8dmN3ZvK9wqA4ixF1eGOMZw3mcAulqmJKCAjLThsRG-QK9KenCEXq0Euz4DHPKYZD_293LVTdfRWhHpTOxYEl1XquRT-x_p92l1L6z4yhF8KedsDs9gRaaGCmOGUZuBi5UkUAcVGvm-KQAVjE8WVaolqUfPRqGHP4sXjT6eYXTqGRKgSNeN6xt96Y6M7ym1VESGpwv_Q8hDlS5uThhtXGrN8SF3zurBXUJotgl-QjvwusPtBHDs6SAMo7LxOAnA6F2dmnkPMHsaCzDw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUxX5Dy33wokRQAbASxmcU8s.jpg",
     "address": "2374 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
     "phone": "(646) 767-9582",
     "website": "http://www.therowharlem.com/",
@@ -33797,7 +33797,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual spot for burgers, shakes & more in a modern, dinerlike setting with retro Harlem photos.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_Wfccg32wokR_0Yoxz3R9a0/photos/AcnlKN3R3CyD0ARy0dlhcrrCw5BddpJgo4_fkSWTVLkEbRxtaDXJPQZi_c-ByBSEzfYlRbHOnd0-yz3lucaod5I2aGu0O1Hm2i5_PUuFk6gT8WJ_ANAgyjRrnWbhwVts8NYfyQ1PZkcN5PhkxD3ahD854kDoVowFizSLvZ-b66qF-71C6cPNnoogJvpoodjQnZX1nl3KOvgAOk5HEqvuQ_qQi5xhh9JOrvwhQNPzV3_C93WcdjkXrGxUgCnbwe7Q3PupX6GsUiNq3EoC9GFNV4M2W4hba3S1wYzpbJrVS5tg8tNHsQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_Wfccg32wokR_0Yoxz3R9a0.jpg",
     "address": "100 W 124th St, New York, NY 10027, USA",
     "phone": "(212) 222-8300",
     "website": "https://harlemshake.com/harlem-shake-124th-street/",
@@ -33831,7 +33831,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUelrZgL3wokREoU8Uinnoqk/photos/AcnlKN2H1Di482hZ8hqAIC0GZyf8lwgcgQd6XzWmkmwfWG1sS7bvEMizQFURTr4huBJ7o0ntoUR4ozGj8C5OzA5inVX8r06fFL4LI97-8Qw2-7QhrQBjWWfG_nmbM8DUSgBeOVseh7him2KlLoOrGVB9QONflTvQqKEJTOUjYqwfL8aWIxE2R3gxvDbclsAjxP0bNPzN9E-uy9BTXW_IdEWeYQT_InW6BgZ-TKIrw1ykB9Z9FCLIH89NewosTgXsoAitx5Aa9PA_G8Pd-Ta3PmFkrTPuWKjAepIaLrWK7cECwWCyyQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUelrZgL3wokREoU8Uinnoqk.jpg",
     "address": "2319 Frederick Douglass Blvd, New York, NY 10027, USA",
     "phone": "(212) 516-9475",
     "website": "https://native125th.com/",
@@ -33865,7 +33865,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Chic, contemporary spot pairing wine & cocktails with upscale Italian- & Spanish-influenced cooking.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJSi1DBT2wokRGHCDOA6nQ2U/photos/AcnlKN2GESTzbpuLqbIurrmJepFBlFj0hbjV2izP6mf8UfvBW7yd_AqCvty4cii4UXctb98VAq4fxchDGCpRN-zQ_yeJwzmj3ZYFv3YbODMNMIXcKWIT6Dcw2_5pBHm-tC7IyciKNWqw68Gm_lEKqc7yqv89GM-GaXcZ599ryhUlaFqD1LIzIkUFcQbUWcJkcowb_Zh4-GKcfrwkFNe1LjGjz0zYoQBKPAfOL1g9IgBLxqbSB_qhtTDZkX7o6DpDISDc-dsKsC9r8wp9-ABAp-nfchHGy_NhvGNWkZiu1mpRirG_EA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJSi1DBT2wokRGHCDOA6nQ2U.jpg",
     "address": "2211 Frederick Douglass Blvd, New York, NY 10026, USA",
     "phone": "(212) 662-8462",
     "website": "https://www.vinaterianyc.com/",
@@ -33899,7 +33899,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Seasonal, farm-fresh New American cuisine & craft cocktails served in an intimate, elegant interior.",
-    "image": "https://places.googleapis.com/v1/places/ChIJaSRAphT2wokRXj22CM-oIZI/photos/AcnlKN2e4VPK1EeEHjAv2KRGi2PH7rSYlLnCoi8yWSm-f-_bfiARQPZ8CFHxdPBf3OzE-hcShvAWtVmSXeG4XhUjiDMzj9MdIZofRVtBh2BA4JSp1wFLIJUV_W9SipEjUO-BAmFXqyvGRgM953B5c48A4TbtJSr6s9_05-m2EwUjYbZBkFK2g1ZzRP5efrnrX8p4Tt-6TEfzhWhcfg3PEfP9xutdtGpaMVMcAwzmG4XQqCDX5NqymsAZlhidlhBs2Y6G5_IEOgZEpOolSOhaOdFd2heGZ2Ts-mMCyymbDd0nJnWc1EHANJc2FS33wShQksRwjZTJq2R7Ml58vvllZI-DN9TM94iMyMics3CpJ9FD81hpLieqgnCd2PrA5Z8nzU8L-apGUQphJFnkqCQc_hFbzC_LjFWcty4Bgo31bWO45-qSm-2P/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJaSRAphT2wokRXj22CM-oIZI.jpg",
     "address": "553 Manhattan Ave, New York, NY 10027, USA",
     "phone": "(212) 729-1850",
     "website": "http://claynyc.com/",
@@ -33933,7 +33933,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAQC8ixP2wokRA33P9pyei_U/photos/AcnlKN2eNQqpW8pnmhxDXMYnpgs54weBAZEsQUQEXmGRQdu7c2pcFs4pVhzJHCQESXDxNXzDUi3W8V-rsf9atpfDajlI8weondQQfpjPUmQKQ-mRhL0U999c5WbdFmQaS0l-UGhWDtm6f9vRanVjT93mdeWh1dSt4jED5Ofkbi6LhHGOddvaJzsgGhroLryfvh_VaKLIQELUogcrNYMK7C0aM7z7pdbVz6cs7Fs0QpylNzIUu8GAYVxDqS8KuT-PuLFPvElN04JmU6-5rtZBPUFxwM_9pEr3PnTDPE2D4mvY_gHloSkuhx6ZHIzLyuuFMsCbj-3Q8hw-Y28I38chO9sBhXayja0LzYpn1QlWhwO1CK_EgKBAAzcefV_pejLjX6SbB5P8e9hARS7bUNhvsHmTJSwnJ-VKQgPzXkFbRQiEcwaEUw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAQC8ixP2wokRA33P9pyei_U.jpg",
     "address": "2220 Frederick Douglass Blvd, New York, NY 10026, USA",
     "phone": "(332) 265-8442",
     "website": "https://www.enotecaharlem.com/",
@@ -33967,7 +33967,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJr2-1yNH3wokR9jiSn9DRkbQ/photos/AcnlKN3eR9U7elwLwNh00LexA3XeKy7YWgh4Fp07qRGUe_2q8TmsbuNO5C74LbQfqdJTbbdXHW2A4l6LVsXBoy7fY5-WiPR-rONBu90uDA0M9pIdTRpNyud0hyDsopGvMInW_RfcWy7q0iv3Ih-q7FwXQq5GDcyenmapKyo22__n2jLFBoSfBK0rdYy9JCo6XkTjBG1NvELnXO-CyDWxQ0UcMNdz62d0lWxxZPk9gfvX_XWf2cffTMfLoFQox2tx6r-2BrcHtEVVmOxi9pGYEonNddO_jjJh3Mv6NHrHp7NCWVvQutzJGRHdyn3HZUqfbbYWWY_onYM9tGRwsqs79np_bRZyvioe2LO_-Z4jWVmwBqIW2iHl-gyeoDgWA06AUiyuRijgfLbJQbSsb_p1tfahmf2moWfKzbBruR27etKCH-9dC9ruXdDP4UMyJliGnQaI/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJr2-1yNH3wokR9jiSn9DRkbQ.jpg",
     "address": "231 Lenox Ave, New York, NY 10027, USA",
     "phone": "(646) 682-7432",
     "website": "https://www.harlemiterestaurant.com/?fbclid=PAAaYi1phGndi6pgBp_Kc5ArhLxvUsKZ8eNnvEHWYzZf0yI3Z5UsDUBRFLlhc",
@@ -34001,7 +34001,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_1bljdn3wokRW5OpgG50Q_Y/photos/AcnlKN2aveWBLMQPccquX9l_s3UylpEXam4l8a2EMcpWf-A0bx2_ieskD3d_Vh7FiNzZMcBhxWr07qsKIxx3ENVD93rKGZAbC6o6wZJ4Kd5zBifmoEXqPJcezlI68tSp-1MNNp_ioH-3zTXszn_TBmuwGCBGt5QsNkB901YpE8D6Te6dEaasEJBvSX42ZgqvcqbU_hzUbv_6h4qwrmgnaKtsmrDgeC-i1zIXaskh1TMcqn3rmH2x4yQDVRrzVIB5CKOZF0tgHMqG94NjSOF-VA20BBSvkQ3NJfyPZ3LWjLSaeOfF3w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_1bljdn3wokRW5OpgG50Q_Y.jpg",
     "address": "3628 Broadway, New York, NY 10031, USA",
     "phone": "(917) 410-4127",
     "website": "http://kanubar.com/",
@@ -34035,7 +34035,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJnRzGT0r3wokRAck-n0zKG5c/photos/AcnlKN2hgdi-hozfFsO4h_fjIepaJDdM4s0xb72bfcDnKu0qpnPCNZPnIjqe3q0cv5oEGP0T-y3zQ7q1N7nJxyl6b9YBXwX2pYP2TP3GlyPqMpsS2pQ3mc4TUwEcXioh7S1ShOUtynfxGCaS568nMSGJGXab9EpQ1wAzEOTDXdOBk_VFmVqWnsnLRjnYjTRBdXWE8lgpF9jzFZ6vouvKTSVgMSH1PjquK8UMIyvD8r6i9g5EYDroDpgAimHWW4bWgWW4KqKFG0uFSjy5SJkyzrFl84sa5tqiYUU26BxR3yldM9QsPNwmKS1u-OC7dKt-XRySlSM3A0n9reFjR4jZGa8zp1DxuY2-fBfKlXyFECA375xZiVyEv2I-sN7_sE8nsd7F6QLPJLpgTeoals-rSQFBMDHtB-MtrIuDQzR0ZYII9gciYq43ovJbK2E341V9kD9V/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJnRzGT0r3wokRAck-n0zKG5c.jpg",
     "address": "3454 Broadway, New York, NY 10031, USA",
     "phone": "(646) 912-9813",
     "website": "http://perlanegrabar.com/",
@@ -34069,7 +34069,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3_kEiLVZwokRFHm5LRT1fTY/photos/AcnlKN3tYd08O2r7Wm1V_3G_jk2McalCHFpM4L0eyQClxqPgZQOOpej-DGc-lmMuD6b_kyG15fO5wm2iHnZUzEVQqCZg-dsENMY_qnqAgSy56kdP_Jd4UIfAayHqwt5N20mHHD-TbVFY5VOM4Osv7dYrmIBe0KIsX_JJFregMjg0644ky1bMek9ltw1QS1fXcTYuwQe0RJB0lP8LpUdkP20kh8BMTpt9ELx6hjXooM2YBfm94Sg_Q2GC2lCqleTLHhH70MMb4VzdzYPCcwmWUpHNJYZwMa_0VcHQ4RCky88SOZrB3Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3_kEiLVZwokRFHm5LRT1fTY.jpg",
     "address": "177 E 100th St, New York, NY 10029, USA",
     "phone": "(917) 213-4480",
     "website": "https://bargoyana.com/",
@@ -34103,7 +34103,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmdsiqK_3wokR1lEvmzhY5nc/photos/AcnlKN3GMtc6wWcdeA1VERmP2EIg5Exw68wAWdQjf8ulsvmQnytJnUSvQAHuPFQzlAuF60w6nJSm4usIA27jN8etiYRNxBWrF47RQNYu_SEeK9mP2qmPKYIUv04ijtKRr47YJuZ_fnKr-XoN1gC2l8rLH5OwjMXPpGlPmse4yX4y3F9K05SQXjD-dX_1crFyQgi_HFjToB1urjZC5f8kwyuhirP9_6fp14mD6LjgugtoSqoDHixsxSMWM3yuK3fru93BRUmvgf4By54a056ziVpEXZ0XrdJNnYI5F_9FpzrkuHtRmQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmdsiqK_3wokR1lEvmzhY5nc.jpg",
     "address": "3496 Broadway, New York, NY 10031, USA",
     "phone": "(646) 719-1155",
     "website": "https://blessbarkitchennyc.com/?utm_source=google",
@@ -34137,7 +34137,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJr5HCUpf3wokRVRIWsXTKEwU/photos/AcnlKN1CSr3wP6VdFl9W07I04iWkk_05AvULdQF-ePGg5SwS3aeZHQHwArNYEfGOzN3TqK8U61aqkPIeU0gMQt-Agac6SQmvXeWpE9NSl1KXfNKErWxmLCmPdl0x2eEOuXl-ZzYlSpDYqmUexMDvRm1Z6WYwkUcsrRFxVSBmUfjfqX-gMYID25-hRdGoXd1TahyvTG1dQjRndCI6qMt9P_LbvbfhlfLvBURCHbfZp5BwR-pbdCoG5D0PEEAa_xyA-TpR0K0a0TZTl7aAXRfsViW7Ujos749ILb5Y5YSD6LBEtpKBog/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJr5HCUpf3wokRVRIWsXTKEwU.jpg",
     "address": "2164 Frederick Douglass Blvd, New York, NY 10026, USA",
     "phone": "(917) 409-0570",
     "website": "http://bixiharlem.com/",
@@ -34171,7 +34171,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7XjS19L3wokRXa-onkubxlM/photos/AcnlKN1fM7EWt7pJT09SlxYNjbIORyvCykl2pAS6D5OJQSKDFDMGqgBQYg6njbElywUFU-LB3U5Em3RAipf3-QV-lSW0-o0YZbwx8TCG21TALhF_DTeA1zCD2nTGxc75ayFu7vu9xDcwCzIOfqC6er7DbHN4NmkqFVVtNxabXCb2dixYpANkrnllLLHVlMhzLm3kfwkm9SdDs2834sklGLkZtD59MOtC1kJk9TUKXGD01AXKkQ14aXXoSe219qkM687C0uJQA1opDPrdUNEgtB7oX-9Hxa90BQLbhbaO8WfR-rcJXeFS_JVUx1IlVG-ZGGfnLgT0taT70QZeXz9BGQSSclKOUOP46ljIAlQwuF6W2P2s8pklywuulctbaXNeouP9ORJCBe_kAJCLxP9TwYvPY6BWpc5NIxmrjAvIXnO50fTtXQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7XjS19L3wokRXa-onkubxlM.jpg",
     "address": "420 Malcolm X Blvd, New York, NY 10037, USA",
     "phone": "(646) 707-3271",
     "website": "https://www.musettewinebar.com/",
@@ -34205,7 +34205,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJlzN4B7v3wokRdTYFVfMvz8M/photos/AcnlKN0mdeDKUAXeu2eYA2uiHuDj8ETH_zJo8DSUZ5j1ml89QEzN_DEot0ZfrFTpi7GyBWYavdD-rf56xmX1ZncsXaMR3mjPgYSZLSX4wCWnjob3aHZCrNaqr0tnN3vSCWdRINehTJNErV97O9kAAWVo03uiPrLOns8JGjK2iwuOJhARCf3IXw4m1z51ieIXOKM-4KTY5DK3W0zWea5__YvZ_Vo-gnUbnClVJTZ2eRfPdiSv26ldFFi6ol-WaxhJS5BTOCfKcuYONerd4aks2_S-sZNMKn8NbWzrJ4jXDfV6BCa2GA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJlzN4B7v3wokRdTYFVfMvz8M.jpg",
     "address": "233 W 125th St, New York, NY 10027, USA",
     "phone": "(332) 266-8727",
     "website": "http://www.victoriatheaternyc.com/",
@@ -34239,7 +34239,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJKYBCGCf3wokRZ-6m6zT5BxI/photos/AcnlKN0wccVNdF7H6tb0lcGxI66sU7ZzbzH8CiYCpd5BcPRtJw1xzYum7Emqc6gvavbZGplzKr6PYS0PbBlxuo-Q86JrwhNK09OIDpwnvLAaetKq5MC11Kpd7FS07b_VbuybkIANH3f2Ht12D1IOWJnkrRYc4zUACqwm3E3FRmcenZo4eM-ULguyeAnNQc-alXqOHP8GVddvfeAA8h-aHRDK4N-WDI6QlL2xR6l3WnzKwxOHlqKeLIv-SMvz91J4zOBQoZaMmygX6HM9EilzOz55D-9IjoGkWDDbhOSngxb2jT1g9A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJKYBCGCf3wokRZ-6m6zT5BxI.jpg",
     "address": "3493 Broadway, New York, NY 10031, USA",
     "phone": "(646) 454-9797",
     "website": "http://www.hamiltonhallnyc.com/",
@@ -34273,7 +34273,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual eatery serving an American comfort food menu in a modern setting with an easygoing vibe.",
-    "image": "https://places.googleapis.com/v1/places/ChIJkbNGdhT2wokRJ1wWesV8yK0/photos/AcnlKN2Tbjr14b5ZWBctPgJv44nuF__kq7eKeHR8jusveJTiV-p-jwg9L_hSx8dxZcOb8zCTgCJ55rzAoblK5gytPrTgfRaQLT03PH2UAAZgNiY_5SaYfLaf-SVHEnVpHASTPCZaaLl2NEbvLEgDFr9quarnQtH4yHaMVKKVHqBGq7T91f0Qs2dQTSj-E0SANvCNiC-mxxBNem6QF0ABF068mK2JpUaF3oQIlkNd4EEHHGkP4jRBru2S594BaDx47aKsyG0bqKHW_NNu6Xo1rpr8y9X3KiXDPa6YWIRMXwRquYwZEw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJkbNGdhT2wokRJ1wWesV8yK0.jpg",
     "address": "2223 Frederick Douglas Blvd @120th St, Harlem, NY 10026, USA",
     "phone": "(212) 222-4545",
     "website": "https://www.chocolatharlem.com/",
@@ -34307,7 +34307,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Updated soul food & craft cocktails plus live music in the basement of Red Rooster.",
-    "image": "https://places.googleapis.com/v1/places/ChIJH-kbJw32wokR_UxCBmg1weg/photos/AcnlKN3x4RiCGHTiaDNh6o9CRRue47DPe6G3WnlE-nWfm1cCaezQMpdO6lg0U6zY81WT7Ul8dVAmGBxY-JFXTNIBDLIHRT2MmkVH_SIwNOBJnvKVV7qqG_5-80m78elbSsPO7zVs9CL5hCfQRIM4haHfODBc_-QunzXd2zasXEX4phJD_HLHtyGDsSgqO_4rCiwHv686SIXX1KibWfofdECvwZnd-kqVXH4YetE5ishrGc_LRL7-wWvlg3dE6iu2duGevM45_nG0xDL3a_0pJrDdsvWmDmdTR2eyceD8hW4xUnCkLA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJH-kbJw32wokR_UxCBmg1weg.jpg",
     "address": "310 Malcolm X Blvd, New York, NY 10027, USA",
     "phone": "(212) 421-3821",
     "website": "https://www.ginnyssupperclub.com/",
@@ -34341,7 +34341,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJp04hg833wokR1NsZLEIU_D0/photos/AcnlKN3XJBV5tQX61mU6gfiVeK96M7LgYwoH9NM_gnQBfO9IjU5jI4FBs9orwOF216WAt6fBIL--BkSjkn315hzM_do-uvnjgTCobSqbTW0h3Pl3aG7U4sTQMDQtJ5SgRbUr--DawDVutq2oxjIukDWGaGi6a_goMX7oFBB98kEIAQP2waa2fHSwxTu2oPSJpvC8sL2zzRj2zD05TLTTJ7RzHoxrdAYjGSAr2rhZLrUQs3aWkS6RoK9KI2eant_H-Xz1lUOaXX6DV7bJL_ns742EqtGEVFlbw8Hk4sqBRIOfapdWKfNifNRiIeafUSggx7BnvFvRR8MDC04zkVtftRgnoNlyq5_QZMIhSk91OoLE-aW14UbKzBU9h1WM4sTpf2NiCXGNVJPcAzYLeCAT0uczGO8IoN1MCOxQOrFOAdow2pazGL_xaJu1eaZi8hM7S7uU/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJp04hg833wokR1NsZLEIU_D0.jpg",
     "address": "2167 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
     "phone": "(646) 930-2006",
     "website": "https://harlembreakfastclub.co/",
@@ -34375,7 +34375,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ92TjdQD3wokR3CrZOtC9g3c/photos/AcnlKN3gRf6BjwjWoH2KF8nN5UrmZFPI2LX0eIx0_QaJbDDWZMSOqD1-RgmGdwNtsl9TmYpJfVquWuq9OSoV23kslUVDKnuvuNsUCa1xjiv-GEcTGF4PaC-yrt4ZQSMSOfNcA4RRYAFnH0REyTS-jYJCbn0vAUkz3CyrVb7w_SJvJR8CQmZzqjN52rRGkXaPVfI_FBEdwsi9Bcyw2scjZNdg6wzKz7g6UuT24eBC0BT5PQX-pD2rZIYTm7aOCskufgrNyzmfrWVAg4WYFg7Z1ZVn85aJ2SqYfI4oZI7zi_IQXFqIJw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ92TjdQD3wokR3CrZOtC9g3c.jpg",
     "address": "Pb brasserie steak house, 60 W 125th St, New York, NY 10027, USA",
     "phone": "(646) 567-4693",
     "website": "https://www.pbbrasserie.com/",
@@ -34409,7 +34409,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJPej-FQD3wokR0prr8I9ftPE/photos/AcnlKN1AOBz-uJGsauuWoTl8enspYKyPidPIRAK-zInytKspf5Au-Iv8VNij9bJAe6_J_AEp7x81Xt4zCCjUmdH-CT6FaCqPJqhD1bmioA4yh5YVxA7I5npZYzGIbTCRssoN_fho_D5rRe115t_o-qHt1mh4nwqAFF5FsrOXMJids0sur4ocGL0_9TpsoJh6Rol1aW1uLZpqbePhz6xjUaAeeRjsqgAvG8LTX7017S56eSE6TArJEV4RQ-4Lc_Jv_TDWNhFcpC-zqp0mkMymbSv_AV_SZlPxdQ5AZrLFHgTz10yq7Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJPej-FQD3wokR0prr8I9ftPE.jpg",
     "address": "1792 Amsterdam Ave and, W 149th St in, New York, NY 10031, USA",
     "phone": "(646) 666-0958",
     "website": "https://www.crispinshellskitchen.com/",
@@ -34443,7 +34443,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Counter-serve eatery preparing rice bowls made with heirloom grains & global ingredients.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHTUt_L73wokRBkywY68ePoY/photos/AcnlKN1NUxlT0no7AOxwY0jjBFcGtSgb6zOe5VvciL6yBNLVSrRNE1HiVejUV2kQGluNJupkF0012GpiR53-8q3v4JAa68ddTFd1G0VfSYwgBNYoX2JhsmCrNc3z5DqLtJXsZxJFH3ZzHPXQ9ELXwnbCw8ZgI4Bssl02EK5a0UisqJdUSKk26lqdorOKs5sPAPGmaj82zu7VyOzROG4sM9NbEwAbVLGVOqUDjOF3YSs2cAx2LGcI5swBA7MdZ4vlgTTXCt_gGqvSylFbgKFVZQOXn24uDnQceQ1FWQFd4ZrEmkxs4w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHTUt_L73wokRBkywY68ePoY.jpg",
     "address": "109 Lenox Ave, New York, NY 10026, USA",
     "phone": "(332) 281-7311",
     "website": "https://www.fieldtripnyc.com/",
@@ -34477,7 +34477,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Convivial wine bar offering a huge wine list, French grub & boozy weekend brunch in a bright space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_WGAABL2wokRNthCl_PuyFc/photos/AcnlKN13OSP9iKF6YRFbTDOPjPDBD8quSsSKcjvMnzu-sf7yrB7f61XrAdoWvOgFWWWcxcacVmmCWjFKqrG_lblQ4zPj_4_UsK1nNWVLaS5wlHlmtqPSxnBLh69uQCf0HcSb-1IUa0achWxNTyI26WBaAc8hpAEI6EVKEKw-xwShxzHx4-rWccMMNl8jn2l0M3yB_hwuJ7OzgtzuRlIfXgzBqzBoSFHsmVcKj_GJU9Itf85T6GiFbKyrIAF-5h2ccDX02p2HT3zkI5SrRbGJ1hGawOjBfJXp0K-yVu2BiKR7lcL70G0ruXjVW4KBrF3tq8h4o3u2JhFddqFJYJDZzCHDzhZ5AInkD_gC0yvdh1SfkWGu37-QP9905RCT-dkJyIYBEYAAl1JXYk3eSmUo1LF0AbTbRpVlmGjJts3UHY0waABzA7Ra/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_WGAABL2wokRNthCl_PuyFc.jpg",
     "address": "200 Malcolm X Blvd, New York, NY 10027, USA",
     "phone": "(646) 756-4154",
     "website": "https://www.barawine.com/",
@@ -34511,7 +34511,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Laid-back restaurant & bar with a terrace offering traditional Mexican cuisine & cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZ2Lzpu73wokRI2UaVhV1mVs/photos/AcnlKN2lthe1njrw0TiTZyiyoR6hacCpgOeCB7jLVREdS6JFFXvPqL5DiG-sc0YfSInjYq9gwWPZqwx9PpyRRUiuufSSkpcueZJR-dt7F7c-Ay0AfrmxpdG5EAEiGJZuMd60ULWB9dubhopROV6Z5qsKhoOzo5UXlsdfPuBSwbZMboi_QJ0BVFfBL43KtvWjF3izD_dBV5dIo8TrxjUI_RWsmGZanNHasOmyQGkCDoRaVA7vVb7HwJgv6BsQQD-E4vmru9JK2anjt1YxVfNrNkBkRIsWt7NxMIorPRfNO7vnoY8NmA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZ2Lzpu73wokRI2UaVhV1mVs.jpg",
     "address": "701 W 133rd St, New York, NY 10027, USA",
     "phone": "(917) 672-4111",
     "website": "https://skinnyscantinaonthehudson.com/",
@@ -34545,7 +34545,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Buzzing destination with an arty urban vibe serving classic Asian comfort food, plus cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUdrnWUb3wokROEn6VyMo5QM/photos/AcnlKN12ORYaxpFNUA_b_ejCyj2d5zYx9xSye7MmlWAzolnk9f4_OwGIoUCw3aXh2zTIltmt-boayDKG-fTFuC5JnDWittAbWvrk2TqpY9BtD9mFMP7Eu5AIramGdheDMcyQPP3bqEx6SjzxhTsG9ri--Z1efuKaX9X4j2G8eqbldZ7towRkZqlGRGoy1hl0PB7CHIggj6Hb86n8Omn5KafBK0xS836qODtyLomliVqv5GVmzrYwFPunxDJVko2Dfu_OEWpjVgM0VRktb3S8QBkdHaEX_i9XpurW4RAHKl-vXL43xA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUdrnWUb3wokROEn6VyMo5QM.jpg",
     "address": "2331 12th Ave, New York, NY 10027, USA",
     "phone": "(347) 905-4192",
     "website": "https://www.pandaharlem.com/",
@@ -34579,7 +34579,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "This cozy cocktail haunt features a bartop with mixed nuts suspended in epoxy & other quirky decor.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ6_yH46ZYwokR1q4cyEFUSlY/photos/AcnlKN3gY1LK9SxEWAuazFYNUhxIvsoX3gm1V93a7WV05Tw00ZstjcVvPAqfzH89X1W89DOEjvtXXShQLQJ6Hzt6oiKWRns5JXIwwldjly5gBYDJPdDTz6LjY6V4CnUNTMFJwcy0wpUB1mIQNM4zAzE8CgUVB1JehCd7UqOxV92DiNkyUOtV0tlk_M4AupI7AZgflRZIxSJkJWlD0BqW4fNsQRNbV4F6khM_bQdgkf7cdPmJuwsXszSt4Izn4Tw8q7GVbZHW8geuysGH7Ix9uCSAH-_KuKFcxj3kh8yse1qckyV47A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ6_yH46ZYwokR1q4cyEFUSlY.jpg",
     "address": "1259 Park Ave, New York, NY 10029, USA",
     "phone": "(646) 907-0169",
     "website": "https://www.theguthrieinn.com/",
@@ -34613,7 +34613,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJEaKK9e33wokRblIDqZvBEOk/photos/AcnlKN2E_N01TEdmmam1IfNFYwQioanqjfpEpzPT9G9iVlPtDNw9evzcvJDZzXQElHISTRIubdwgDrwe-zua_aoF011cgZFAR-n6HBCfDdlLK3vy3BzZ98Ff4BbvfGHOAcOT0WiNbLv2wV93e6xNE-TgGI3QyJYOaACUqiw-S1249pt_oi4KewZecZYqRJeOjo6Guj4lDwuNgsj3wTOFFxmBuwQvPxjDo1H2Wr_mezZv3Erl2FcHOxgsxSf_vhl-rmbg3OCq0M4DVaZssEjZ9zcmhiEc2PskxZGA3ysybrAzc2qKzA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJEaKK9e33wokRblIDqZvBEOk.jpg",
     "address": "2220 Frederick Douglass Blvd, New York, NY 10026, USA",
     "phone": "(332) 265-8441",
     "website": "https://www.enotecaharlem.com/copy-of-restaurant",
@@ -34647,7 +34647,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJu-BDu1n3wokROCGsqR8c8Fg/photos/AcnlKN1WWRgQUuDQnY-g83SkTQrAKUwB2kPjGA-DHEn_buJ34_pYbz7Sd_l_KuASeL4OOmepk4z6SkLtB-s0-JyFao_U_XKxoTNdSH-L4-RLHnEn4KqwIko1uEv2X1HCDe96IULUqtfMKVvurW_90f2XvrF7DCk-5w9Mv51Udv1YOT1j4pV8ILQodx5In9CjbVneuP1qOti2D7QM8gm_oN3JebfZltER5ScajB3Ukb_03VpUkZaQtstX_pTFF6xkh3fa9OLBD9Q0jx56xnE0ou3qX2_XaZ3RcNWI7dWfOn6yHCQwDA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJu-BDu1n3wokROCGsqR8c8Fg.jpg",
     "address": "656 W 125th St, New York, NY 10027, USA",
     "phone": "(212) 663-7980",
     "website": "http://cottonclub-newyork.com/",
@@ -34681,7 +34681,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJm-Expmz3wokRbAqZKv1_4AU/photos/AcnlKN11ZP_3ZADnkvKOQ7Vuyl81drOL-eLOKRRtu2_46I-nO8CzZg7qmfSExpMgkqxPsz0JWV0R0jXranXja_EailZn7gUEBYbwdG_b47cz9trqBSi9W3oXjCy46QvhO7fnw8au3nUjZCeuX-u30VCSOFSxZrcXa2hgKNzLvyMG9hFRSfJAwBfvW8lM0HObnkdRCu3GxPQW-LgbYXI373H4h_FcZRzIKKrzI231okWEmNkPwFPddHvOX3O0Jzq6v_kfUrIJp4CIpGC75xgW8XZVW-H6-FPiKI8tL9atWYIexuD7uA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJm-Expmz3wokRbAqZKv1_4AU.jpg",
     "address": "509 W 140th St, New York, NY 10031, USA",
     "phone": "(858) 842-7761",
     "website": "http://www.dariameyer.com/dclub",
@@ -34715,7 +34715,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJiUkiuwJZwokRf1pYzH8ZgY4/photos/AcnlKN2MwDMoI22WwgTxr9oXhi8V1q7pplR2hmnWxs-1ysNNjIgxeOOEXo67hCeGlWcMUlzxeXoDGZ8_f5HRLJ1SvnTmHwEbsdfgA4xsdlX6UactqXyD21-VUMEJNu4YvvgpfB2Ds_BjjWSMQaas5Rn_hvO19itEgyL2gdAan3xBl1umB8KFKXQFvAkcIR5V7zp0Hm72PmviSIfMBWX0A8OPvK6tm6_mENqlTEJlIDvuKj6b4s49RncSXq590fJjYHjMLyERf88CUJkiQ6tYZAhXWnOjtz1pRgldPjReaL_ki1lATwkqH7l_JXfQY31rmCAsXdpp8WZIGZh5macsGv3S3HW1SbmCL2uua_qvSmM_EZsVsy3PM8EDD1A9nDyGTuZ2g4WiECbfHP9HEGxJAQ_S2oPG9kOv-CfFCerrZ1bzcjQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJiUkiuwJZwokRf1pYzH8ZgY4.jpg",
     "address": "250 Bradhurst Ave., New York, NY 10039, USA",
     "phone": "(212) 760-9600",
     "website": "http://www.madisonsquare.org/",
@@ -34749,7 +34749,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Popular throwback in the historical India House with steaks, a wine cellar & an adjoining cafe.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoSqkgRZawokR_ZAqr3pOMO8/photos/AcnlKN0Yc9rraUxzFu4ypmVkyVpNOyQmJqzILq4JrVaFQHchZbHF3Mzb0fHrIdnAdNTTe0v6i-Uw1xBP92fUvVguZxSdH7EWq77qLMHKKRsQ0H4GDYAgZGyBydKHvHl52ZYdhpecuFn0BXbbk_Yndao1QiXx8CaMlXDb0wSTGr-dO683kXTy6NV8CfiQIi-7LY04MU303PxKLaZwtyP3ZxWBX9l74zb6SMDBjCOVNWuNBThLIFZ0QSv3WmXoXF6-dy_4LQWxlT36KD3BVTK3-vMOrhpuhQSZiv9At-LQ91PEM2p-_g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoSqkgRZawokR_ZAqr3pOMO8.jpg",
     "address": "1 Hanover Square, New York, NY 10004, USA",
     "phone": "(212) 785-9200",
     "website": "https://www.harrysbarrestaurant.com/",
@@ -34783,7 +34783,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Warmly lit bar with creative cocktails plus craft beer, happy hour & bar bites.",
-    "image": "https://places.googleapis.com/v1/places/ChIJiyxvtBdawokRHeEVToh8Te4/photos/AcnlKN32524w-TWja2X9JZySAOO1hVFjDj8MH37tig7Axo6MBVMDCcHxl_bFPH-Of9_utnKTU89lVKim46DZY7wrFnMkSN9Q1p9ACISYK7Ds0_Ze6oFsLHKXvmuQFe_mUf_VKaIxymo1SBP_zWtYXvttHhHknfdvTowBFlqHnkeqmuztHDy2wkORg4Ow5JMgPjuXS17kyjKb_xHk9VjNOjcckuxgVKXTgYwksoBfnt5tISd12MmL8ZYzilNO08VUzjjUs9ml80NBrPdlE2UNJkOhvdn6lndAMEuDvxr17cnFEVqV7A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJiyxvtBdawokRHeEVToh8Te4.jpg",
     "address": "25 Cedar St, New York, NY 10038, USA",
     "phone": "(212) 344-3467",
     "website": "https://www.cedarlocal.com/",
@@ -34817,7 +34817,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Creative cocktails, wine & snacks in a retro-chic bar with a 64th-floor deck for panoramic views.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_8dmJ0lbwokRIJHQFfXiMNo/photos/AcnlKN3FT9maXFmGg47d5MHAOY8HpaZEc044XGWaRUFtURxbLDnko7Wb8Bmq78msmRCdaOnV6GIs5EINVGOLvTuLlHq2dkfziK9Ukotrhe71MzgY_qmkdc8URBl93fv1kQAcZ29Jr15BwJncm7Vw6IytR1y1yhEbih3TeDdihlOGzwfIiqyWfD6t8cdsCtlQSyF24-FvoIFjJ_AK3VrXVSx0So2IYB_uy0Mo2CMf-n65yuKK1XxREtxgQUr15HIw-jk3y0KE9in7aoxZy8siKvw0CzZh2CxVrvQWzPs-dB2FG6bm3Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_8dmJ0lbwokRIJHQFfXiMNo.png",
     "address": "70 Pine St 64th Floor, New York, NY 10005, USA",
     "phone": "(212) 339-3963",
     "website": "https://www.overstory-nyc.com/",
@@ -34851,7 +34851,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Contemporary bar serving up a variety of craft cocktails, in addition to wine & beer.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ61jm4H9bwokRXQehusts-aY/photos/AcnlKN1-3hIJnaUXkRERghgU-7ZfubrnFNXL8pHB2kEwLV1fEnCpDsxADXIWwmEMJ-tlltdcr6NYcufEJZ0d5cd1U_Li7wWspqzmaEnzAY7Ahg5Ud4yAv2KwtPsKXz50_IVrHbzJpsBeieg6GKTXhgQf2c5_-gkrB2NfVR-Xa8ZkLpuj9kLMOP_SQYc1XHt4Toi9RmNrjrCkz0Xh0_uveIDm5u1q5gxlvonjOrlsK5cs9igrorPH519YJmyLWdZTYAekN2IaCgkQTJbhyxCKah-tHEQ_OXw3azK0jdmVsqIBSR5YeQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ61jm4H9bwokRXQehusts-aY.jpg",
     "address": "40 Exchange Place Ground Floor, New York, NY 10005, USA",
     "phone": "(646) 799-9575",
     "website": "http://www.spliteightsnyc.com/",
@@ -34885,7 +34885,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Hip beer hall & courtyard garden with numerous crafts on tap, creative gastropub food & Ping-Pong.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzyOU_BBawokRj4LQDcuFZkQ/photos/AcnlKN3VJkLkIwuyiOH6zX5YhGvKWJTPpQNMkngbX6SHznjNhbBUtOZU0k4wKnhf4TuVvIJ9bSdY9yinW0O_bR4bhGTLb5wNS3n3aaroTlaTwGuXQomjmdZVYqtXJ-9u8VNBvDjPP8L98acdQhKDjr3pLCTZByrFFZuJqybv2FhwSlICXWEQZ-GLlkvrhBys1M_f3cpupahtLUUaqNiM0zTVVHBGNSbURWG0qRRD-AlAbrKySA4smoTl4slDwZ3g0ALAFuXxRM86-Q3TM491yulUeB7BZeCItm9I3tBLCc1XZ1xB3uD-8XzF0qrjIvWOKfIZz0QIa0rRaEwAeGbkE4jipez-saGCydoJWUxMhBohLonRY9Hthou2VfKJBW2IjD1tCFlMnyN9-uAl7sOCdyPvfNhhJqb4CtDw_dtUGr1-MGrFSroUkWadDRUCJkoe45Q_/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzyOU_BBawokRj4LQDcuFZkQ.jpg",
     "address": "90 Washington St, New York, NY 10006, USA",
     "phone": "(212) 363-6000",
     "website": "http://www.clintonhallny.com/",
@@ -34919,7 +34919,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This hip bar with cocktails on tap, light fare, games & a vintage vibe is a co-working space by day.",
-    "image": "https://places.googleapis.com/v1/places/ChIJMZp8OMRbwokRj7Ky0oSz8RA/photos/AcnlKN0B2b5RZxknZH2jBN6x9Z6s8wgoOjFTZ1RCE6uY1OMotSyVFsm0eV-ABXkvDkWEpqFWJuDBOaulAbZZHgw5NxuotlcVtw-3W_RhO-mAuIucbZ6t71-ENIdIaixhwmlX9lem9cl-x2v3nRzDlfLrydv7qzFKHRTLsk8El--rMsAuVKAHJXFhXTtKqN0jcG0vix2qujswwFVlpVKqhCmPPwG89H6dz4nB8j0yXGCx3orHfTy2wFa0fPyWpMXNUCdsmIEaMZK7xJONjmyExO4cHHVwy38vvYZxRKz4UDvy1BPWtA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJMZp8OMRbwokRj7Ky0oSz8RA.jpg",
     "address": "26 Ann St, New York, NY 10038, USA",
     "phone": "(212) 257-8886",
     "website": "https://www.recreationbar.com/",
@@ -34953,7 +34953,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTXXOF-1bwokRmT5WZCpK8EU/photos/AcnlKN1BkW4F-0WlCZLUp717aQS-xtkq1omViVya5YocHiCzXiHZCZJ3gNN-rQ7flXZIv6zhFg6m27mzcJz9Pjvt5UxaOl0ef6k0cvFUHBbnz9Zk-Zk-4maUi0vtM7QOj9sCXhNxriJWB8stMZCe-UPsBvXnPeif3gqqMuM2Ke36JWluVM9ZKjFzcFsH5hGVglrXA1BHTvo9epchZ9Jp1Dv1oXcosIZ_VisQ-3vTC1LtCtbVrvJscPHxPiXdVon5SyDVBwtJyv7QfsZSWd9dBp19O73_-PuFXzAwfZrMSD8bbbcqKQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTXXOF-1bwokRmT5WZCpK8EU.jpg",
     "address": "62 Stone St, New York, NY 10004, USA",
     "phone": "(212) 920-3721",
     "website": "https://www.harryssidebar.com/",
@@ -34987,7 +34987,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJMSRJCF1bwokRHkqp4hxMm-s/photos/AcnlKN28laQl1kBfwgiGmGpavgrEZaoPwTfDC2T8OmCE5zgL5nh5HA53QHO0EYea7IXeJFeTh4j78oFGOtjLEb6Ee8DdWiqtM3Vy6sXBVX9PZDVNkh5soAgdlnWCCb3HGmm0zFz0E8zAFUzcECe3lwJH-uRD9fUXrcrXQiLDNfA7DSG56NZWJmxsgWu_b8hC4VDZe0_K-4vhhPc2RqYdUJNh3WzUd6xE31YjMQ6JReA_zffXyKnAjMsaef93hw9qAGRqVs97fqhtHlw5zE2Q6cWbjvhX80gD5MYOKrk03TnNg3vimQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJMSRJCF1bwokRHkqp4hxMm-s.jpg",
     "address": "88 Wall St, New York, NY 10005, USA",
     "phone": "(212) 688-9255",
     "website": "https://www.thewallsthotel.com/dining-and-drink/lounge-on-pearl",
@@ -35021,7 +35021,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed tavern for beers & sandwiches, plus live bands, DJs & tables on the cobblestoned sidewalk.",
-    "image": "https://places.googleapis.com/v1/places/ChIJV_vNLhRawokRt36u5nIPaVw/photos/AcnlKN3QyQc23zlW7okmcMuMtjdGhwevXduw6TG_wMGqMu5qTnrRiTzaabX-wo8y1npOHfatMM8cghbEjiNARUKZ9qtmMr7n7qkTOmU4P56cPEwK8ybHeVu_IZkHf_uKjQXWvVVKA-JyVtzygG8ezwjdbH_SOOtnMNbonsv0ZMVpJ_5L_Z7i9WSCDMUF9KNLK5ZCFUcOz0LHdvpVUupVp0A05DTiZuk9SdbDqpC_ReY_gSbDQP21PFCVfvlY3NU9r0mzHD3Yv9-2NkStU4nXGsUYsL9qWlCnnW6LdJq3NTp6dn6kuA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJV_vNLhRawokRt36u5nIPaVw.jpg",
     "address": "58 Stone St, New York, NY 10004, USA",
     "phone": "(212) 482-0400",
     "website": "https://www.ulyssesnyc.com/",
@@ -35055,7 +35055,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Craft beer, classic cocktails, and American fare served in a swanky, industrial-chic tavern.",
-    "image": "https://places.googleapis.com/v1/places/ChIJT4JpKxhawokRJsGwYfLpp60/photos/AcnlKN2764liOwZDhCH07GROXICyc5A4w-iTb7rwdqNMtmfuCE38U4ONKdaOZrjUQ8RakkNYFTAtmx2o4Tort36p14JKYSXUHrKNvmWF70TD0SdfTzOrc7kHd4U2ahEJ4y_MEuJ4n5KjBeorIX3FM3kJC1D3tOxg0ntqKjseTae4gWp50hPAbLsUoteq_cP4MeB4UF_aIPQsoxiusZKrYshVAKtaJyIGKuwmmXuV5KPATLMwvKIAfUXrXQIyrHOfswUohxcygfn8msdrFZEie5ewX3xqNeM1Q9vqKQw-eexZT712xQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJT4JpKxhawokRJsGwYfLpp60.jpg",
     "address": "9 Maiden Ln, New York, NY 10038, USA",
     "phone": "(646) 682-7577",
     "website": "http://www.themalthousefidi.com/",
@@ -35089,7 +35089,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLX5S9ZpbwokRuhbbCZkqI2Y/photos/AcnlKN1y7sxde5n3QQw1TmE95msO8h2kx0uPYpYbojvtFV6vCF47tM67thKWmyqDP7N9vo2t5Mz6q_mSaup63nzpPIpHYrYAsGHbHG0kHeAzCGs5yp21faewWg-Hk0MLHlLNhXN96BidIeR0RYDfPmAt5rmTi1gYnWQdm5X44qkzalpEJqJHBa86Na-70C-U1VZcCn9ELn0ojSASAzX4yBFxIqk6F0BB2ewjmvSXHE0CCh3hxhhxZ5peJ-LuCbc9_sqNEi84Cuagsxx8VITmvzwUS0Cs5NM_-4h_bRV30ZfXz-MSpg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLX5S9ZpbwokRuhbbCZkqI2Y.png",
     "address": "36 Peck Slip, New York, NY 10038, USA",
     "phone": "(212) 217-0449",
     "website": "https://www.peckslipsocial.com/",
@@ -35123,7 +35123,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8dxLTj1awokRcLagjGlwyHc/photos/AcnlKN2h33HW3oFbdPW6FiixGRkzmMTZ0nlDW_p7oQaMGulHN6uSSXgpwyZR02kHzrMHVq2WZWFqIJm_upXs-AAm67XzsJHudUrF3pcqrswcJfYexzkuv6LtBrqNGyAEmODlQ_h9GoLrBnx-2kycAGx4Nn-bjGEWQ2dv8kKCVhkzh7fu-IEYWyloQH8CQHDm6rXi5yO87cRbiXvyCHIY2vJfHhN-_-Wg2x4cW2S6A41Hd2XYvStVAMv6ZZ_mb1SNSCLewVD1tvE2wkrlwLKSUQBUUHx4UNooeNNyAwTue6VKaQjzG8xLNNRVj1NdTy9GqBmdCm4sxIZ1e_MnvLQb4tqvpDANnHC4ybUmj4MP6_7AumkQXRWjLkJnUaWY9NWEn1BBXAx2PKfIoBHtRF4nS3_jVfGoKjt1BAyrNBOUEWIamNB4G25b/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8dxLTj1awokRcLagjGlwyHc.jpg",
     "address": "15 Cliff St, New York, NY 10038, USA",
     "phone": "(212) 602-9991",
     "website": "http://www.holeinthewallnyc.com/fidi",
@@ -35157,7 +35157,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Sleek outpost with warm leather & wood decor offering Tuscan fare & a long list of Italian wines.",
-    "image": "https://places.googleapis.com/v1/places/ChIJtb0E3RdawokRqLP-FNIxvf8/photos/AcnlKN3e9ADXx5DXPfMOyU5CN9bl5ZmIXLzrTIXI_6bmvdgo6eU8Ye2ZuEWWuLXlTuR7Xu-8PILIAL_Qv4dr7WGHZPS6vj2_OHHQNFCEWYMMexjfMpiysX53lsLye5daEbIq7tVuC2jsRmL2xhBsWaP9Ego3749kxNOoIc2JorTDOlSpATKMfMtLBquoklFDOXlJQeLPU6OKey7BUEIt1Naw3UdfNkhRvJni4F7Px0oo7tuxuc-z9pz1Pa9N46xp7gnJsbPQy3uH324QraQ0ALtnmuy1SGXc7iyRXIEJPV4TA_NYhw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJtb0E3RdawokRqLP-FNIxvf8.jpg",
     "address": "15 Gold St, New York, NY 10038, USA",
     "phone": "(212) 785-5950",
     "website": "https://www.felicerestaurants.com/felice-15-gold-street/",
@@ -35191,7 +35191,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJA12lvtpbwokRx1g73PPypIM/photos/AcnlKN2cp8QYlyUXOKDoOh8yrgHg65eom6kY1Y5ozaTyFyohee12m1uCC-9OtU6KoIyZq3fuAL8jHHT3M65Uw2WbT4Uvmex8BdcbF-3fxK-w38W6TX5EPswfRA6_oggGPOANiuQzWHU8xXqu9tKlWHsK5lTd8ET3rjS8o5KZJho0twiF8l2sGuDVanA-rKVlDiNlXOGrsHKRGNG1CVpV9zujjVMx6NJZA9aFWpB4J1QTvTLPGBRXu1xnHG6MfblKSWGi5sKEvNQCQovat86E3fZpvtyIkfP7JwJOqO3NDSH4wBRVyA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJA12lvtpbwokRx1g73PPypIM.jpg",
     "address": "83 Maiden Ln, New York, NY 10038, USA",
     "phone": "(917) 409-5881",
     "website": "https://www.mezcalinyc.com/",
@@ -35225,7 +35225,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A New York classic opened in 1837, serving prime beef in old-time environs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwy8lmxZawokRtWUTg5wuv6I/photos/AcnlKN36PAbA5GfU1iYKtWp9eTzyIJdvJjW8QkefbG9q6JRERaoNLbcxX268XsKc4XSZ3pHFM8VfEDZOaDFR-IhMLlKbqcWz2PD2hYYsFf1YP3C83hxqUWYmEHhQPMP3FniCwQETuNxXHBAMuRgxTW0NMZsZRAx10iF4l0BDPIoj6YnPMe38821MgY8cfgJe0G-TVITs9I1ocKQk6t6QsXv5wLzWpIJniW7H_d7buUT-XSZqTubuUfbP3t754LJK43edZVDjZzVRbp0FDk6QY_dfd7I4JtKnXJvuxAS7YV7iHeq0bQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwy8lmxZawokRtWUTg5wuv6I.jpg",
     "address": "56 Beaver St, New York, NY 10004, USA",
     "phone": "(212) 381-1237",
     "website": "https://www.theoriginaldelmonicos.com/",
@@ -35259,7 +35259,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Industrial-chic New American restaurant offering wood-fired pizzas and mains, plus a river view.",
-    "image": "https://places.googleapis.com/v1/places/ChIJcaQCwD1awokRuJEpTiEWOtw/photos/AcnlKN3ZLETBegJEIOtbO4RpjMZjD-lctRQaf_q74gGnyNNRNOtfUHfQe0TVSG7-OUTlE0LYeMBn3p5acv8u1zKUhRyW-3WY0CGfiEkTaPdNzJoTL53YeK0t5zNSyv2chJlMcjAQzQsPCxWqEpUXIVeKTgn1c9X2E6H8vp-q-ykctTbVQvUg5OOOS6hW_MGfExnvKewMpFtNBuGqSn6D3v-ahPv1EzpwXK7IQBV2totdtvewRZHw4ydxvMDei1ob7syLtzvxIexvRNVAlrtmUqrVcsXdDWhAby1V7RjOsF06_WI/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJcaQCwD1awokRuJEpTiEWOtw.png",
     "address": "70 South St, New York, NY 10005, USA",
     "phone": "(212) 487-9600",
     "website": "https://industry-kitchen.com/",
@@ -35293,7 +35293,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "American eatery set in a converted bank vault with original vault doors dating to 1904.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4_AAQhdawokRzbYlVLyzKlk/photos/AcnlKN3s6RXNVYWQDs1rHjQbPL6hdS-PJk2UTPpShjEy6kANngdKAGD0tOBXDw-etZ5j21m8YilTNNeI-darvBOwtczYpIaHO-_feWYD7Yu1Siw-kNRul0JZ16-sROk1p4tPAlMiB4ao7t-He2XI4mz9CBM3-FlIobTzxlvEq7ZofHnt0-4b0XGXmn8rmUBYcaRh5-TeCHz_VrCFn-V3GwlXhR1y4jpRxb3-w4ykMEF58ZQnAVX6QrETNSE53M3eSu2j2kMTk3a25YC1Cl8o4aAQ92BCNnnO0-FfAzitJiy9ibsevw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4_AAQhdawokRzbYlVLyzKlk.jpg",
     "address": "115 Broadway, New York, NY 10006, USA",
     "phone": "(929) 581-8961",
     "website": "http://www.trinityplacenyc.com/",
@@ -35327,7 +35327,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Upscale eatery atop One World Trade Center with a seasonal menu, cocktails, and sweeping city views.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXRDwzxtawokRcQTLdZuAsKY/photos/AcnlKN2YFcTAD_TxM2lqU-LQwTIAtJgQUGDnQ0EN_mqHP9DjXMQ07QjzSRgVQVbTP6ctsc3ImkxIimAm9QD1g6Tyyebvzuus1gtUPPzjO7QPicqAte8uxBJ58CKvpTq4RAHWrHg_0s-0N2eei7OYSQs_uoWZ5eFUr0WR2Eg7zz97Ed-_d8Y8IMoV4NOqMdZYB9EgklQ9_57xh7AIY-OB299FrpJEbBTqC3QVUpCY6oCjmvvXJjGit-it4pW-XYkPXdzvrTdEWbp0iCMNJwB51KtR1WvOW7PedD5aBnIKU0w7BJhSw2Au44TMFrVt_7VXlaHhPInp_-OMR07Wx_d2bf--asivcYO14GKAm0W5_rQBwo72489UHH3LwGDrGg-sPyA_RUiv-DQYxdFgY1z2jGKri8OZcv87WHemVGatnEhPTQscgZrj/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXRDwzxtawokRcQTLdZuAsKY.jpg",
     "address": "117 West St, New York, NY 10007, USA",
     "phone": "(212) 602-4070",
     "website": "https://www.oneworldobservatory.com/bar-restaurant/?utm_source=googlebusiness&utm_medium=organic&utm_campaign=places",
@@ -35361,7 +35361,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQV4litZbwokRPc2qPtWjFsw/photos/AcnlKN0f8C-6az9QUwg-SbkRIlCYSJJAhLFOqP3ncclKpKetg9d11upbzi71UT4lMrcCif4fr-_NZtZ3dpQ-ukFx1u5y8LTySNfNMW8nbGok6mzHEpbvSAlxFPVCjhnEiiQ1dWe-Cq1S2S2BhDblkcOzEajpzNt2yWxFELzhAs-Sq69bzUoiBYFM4bA1bYGS3R7sIZO4LksPpOsKWihATZmo2afZDO2zi4W3v-PzpOEWyThhTrt9mHTR4ZJ0ewt96iw_sAtLAj2B3ciINdtgRu2uJZtIUTrteleswiauMEEIAkmgOQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQV4litZbwokRPc2qPtWjFsw.jpg",
     "address": "123 Washington St, New York, NY 10006, USA",
     "phone": "(332) 333-3208",
     "website": "https://skinos123.com/?utm_source=google",
@@ -35395,7 +35395,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Austrian-Mediterranean food in a space with communal and banquette seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZXs66hBawokRizEXnDJplPw/photos/AcnlKN1EplJ-pIc7EQsAaeLr4FZIi0pEIheqsrHjFekxwDfXzws17pCRksRrgoKJ2Lh0hVVri5uY18Ffn9ea8U4RjTHcMO831220UbBEUdAhKsFWpZm2MnM5EdTz_jQATOCQe7VDpilHxyoZ_G5h_YYv0LULEe-cOk2-rm3fuZP1um_AAJTI8TMJqy5JsK0LKK3fyNOUja1opvQtNOhbdciEy9Z8zl0-r1N2FnsZJEhjIScIJSbJh-xL26kgoP74q6DFSR6hh2afTZ-vEUp8ydw7N2GwvwI02bf_ZKh9XWQ6nXlnrg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZXs66hBawokRizEXnDJplPw.jpg",
     "address": "109 Washington St, New York, NY 10006, USA",
     "phone": "(212) 406-1200",
     "website": "https://www.schillingnyc.com/",
@@ -35429,7 +35429,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJU4Y5bNNbwokRu8Y53Q4_PdY/photos/AcnlKN0pqkfqGBKFuje58NV91VqAQWJH1tvTOLJmsELWl-SBdSMdb4dOP6hRh6kWQAkfrgCzad8laqWSVAiA4iZnSE4Nk5rzfpUMHp69BMqWr1tfok1hGPc5YxkjaCA4uEPHINvLCiVdLlwLpKNYmiGTThOuvZt-2gXBz92lo5Tnb59lxe8479hHziJLHAk5-5LWgsW0Y00i8wgjEHOy9ZspEWjYNm5RexYxls-T_Poc-tzeBq4UJ8upggjRBDUHa7FHCKXpse60dhMhCkED3_tzykrJ7yvKY-wnrlayX4f8tLt5ukx6I6JBzd_S88pFVpwLSF6YnuxAo42zvpt3rFy6zmboMctMcb9DTzHRWP4PheRv3FMGy7rW1oOeFZz603e_aFCsNK5v9boMtUjSOz6tLRnX7gaWhr88eB6OE-YnxBJISx_VgIRF3NeSj8eQ8A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJU4Y5bNNbwokRu8Y53Q4_PdY.jpg",
     "address": "30 Broad St, New York, NY 10004, USA",
     "phone": "(347) 647-9030",
     "website": "https://serafinarestaurant.com/",
@@ -35463,7 +35463,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJU3qKzRbwokRbfw1WrUWIJ4/photos/AcnlKN3MCBy7_3hob9yx-Vt2n9-qurCjVngy3sDnw88FlDQelLN1VN_rTl1qIGuegCmSqYdBpefb4gc7jDPRQFYnwkqRpfJOlgjGZ13Pz59ljznvpp-RFfiAhyRbWXzwfnT5XMsZOz0zM-cVFnIQZ1UbrEKxlx5HOOP3XK6qP-UY2OLU7yaFFxN9tw9sfDju5kPeNUWac7-NrIO1esDBbzA5N5wPjA7ZyT5Iy-Nwfwc2R1VmL23ualZKRb2nAjXULzv7edD4lo0ZuxsSD8hYTHPJIoU8p4WKsImVEswl0O2lO5pzYw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJU3qKzRbwokRbfw1WrUWIJ4.jpg",
     "address": "127 John St, New York, NY 10038, USA",
     "phone": "(646) 476-8084",
     "website": "http://hey-thai-nyc.com/",
@@ -35497,7 +35497,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Quaint French style café with bright, fresh decor open for breakfast, brunch, and lunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJt1KQKxhawokRujL-AUeoW-Y/photos/AcnlKN2yZIWa2iE1z0l0BcI9_LNq8FBMRRS66Yta58DqfukvymRhuZLMqjEm4H0x-q2hJudG2xUrt9-0cMl3MrZOoQGWXiIxlyW_aJZlOz4BBkFnJhXIyQ-RmoSY1KiZW7HzSUnC_aIpTBxzhI4kPmWT3pQlhrmB8lhlg9ZCYXUQV0Qx_FJ71J7lp7z_UYIA2rVv4qVLHb1wIdlQfzzABwp-RCujDmh_en35QXMzvG_ByDtCYfFXVP-fKAuLzZe-3G3DlWBm1RAmw9Uy0urusCKFFeNP6G_e6jVr6VpQ6bFrtJDCVA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJt1KQKxhawokRujL-AUeoW-Y.jpg",
     "address": "9 Maiden Ln, New York, NY 10038, USA",
     "phone": "(646) 756-4911",
     "website": "http://www.laparisiennenyc.com/",
@@ -35531,7 +35531,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Classic Japanese noodle soups & donburi served in a snug space with low lighting & concrete walls.",
-    "image": "https://places.googleapis.com/v1/places/ChIJv-EALxhawokRWFsBI5ZKjV4/photos/AcnlKN274WOwYSB01OaisNsEyA3JgupcMZlCFaef9JJzdZePT5m6eGHYwhievyxInYGL6mDuaMhLOTJ4vfuQEb0RyrYuR3S8nw4BmUBlv7MkTh3oFln8W9qtNqqTc5DttJi91kX2NR3NkvD6a0Dya9DKS1ydEKRR1D2-jN1dW-rgm9kY12Ksvf9W6-1_S0t159ktDR6bxTMCAmz_2yUiYId0evEQSdvZaA6W7RcGMlGUnu-JFWFVXTGRnEk-HxK2T6SLe0r5FlET_eghlDQivUj1JlJFB5RLydxtLP4Q2HDEaWG7Zs30SRGCHn3PIlLQcZmJ3wx-97voKzSgW5cDrBAP-fvAxQH6fd5JMUV_s-7wZynQrgmXMYrP1J8hrtEQuIzPSJE6qQl_COtYkxuG5zFMzLfYcv_MXT0kgqL6S1U6wozatwxX/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJv-EALxhawokRWFsBI5ZKjV4.jpg",
     "address": "20 John St, New York, NY 10038, USA",
     "phone": "(212) 571-7177",
     "website": "https://rebrand.ly/kuu-ny",
@@ -35565,7 +35565,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJj4fN7HBbwokRCB5xca3KF1E/photos/AcnlKN3Y3xeSOiekaF68yI438Vx7fyYl4eiBh83PWry0t2Y1zUNN918H5qnPIsCNh_k_IVR0GLLCXU1iVWEVeoL5HV92k6qItGLabHKe8fz1dCCuhg0q6_AvARgTssnMUJWFccYx2A-7ZE5uoTc2koRNKkeSDtk9RVqdP_dIJz-NRTkpY85hutNYnqAh7ttjV09Ut94rrewsN6cgshEZu9ppXzAHFgFsvJZSphYEbhv_ajy6RQbKoKZ4uOas8VJc2ZnQ1fRXfxq7PiNbHYJ0WUM71F0JAMoYp3aKeShTq5ct8ZEmOg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJj4fN7HBbwokRCB5xca3KF1E.jpg",
     "address": "5 Beekman St, New York, NY 10038, USA",
     "phone": "(212) 597-9020",
     "website": "http://www.legratinnyc.com/",
@@ -35599,7 +35599,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJm6bGIFZbwokRFj_nvTLlvZc/photos/AcnlKN19-UL9E8o6YurDG2_we6k_ceQCu_1Sv7o3XqmLRC7PXxf0j2QgCKOMse57XNdZ1wjBHPjXo_J0K8nqSnLsc30Qm-nU4vnIXSLNSTwGiqe_mqrXE69TbBrxksYgznBoj9HbDDOJ9hJj0GJ-bXagZho1qy7M7MHtClelgcZvZ6E_N_y0w9UpgZcktN-m8TMYiBgFBpQqdGDAeSUCg-KGu73gm8QYMmhbknOoKWosYh78iKF88LoNzEvEASid_hSGJuz4XoV1z43bWcWRINBJkZPkJRuKNYNNz1OiPgYu_qYwDw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJm6bGIFZbwokRFj_nvTLlvZc.jpg",
     "address": "22 Peck Slip A2872, New York, NY 10038, USA",
     "phone": "(917) 267-9030",
     "website": "https://www.quicketernity.nyc/",
@@ -35633,7 +35633,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJk08ILuVbwokRKBW-ON446RQ/photos/AcnlKN3cf3ggDuE9ZUygXPNhVZcRdf1x1I7Pppf_p2jTrCvpIn_0sd1xu3iDiANk7KP73BKRCurpa3HJZ8eSBuxSKQnwzb7hVYmWkSLJm_P-uiHxT6DIR_5YtGqaSgeqnkMp6zX3KjMCqMFEC3E-kwOdUO-n5hXLvvvWliVUXDftWbBmAk-Bq_G3qCGujFMgD_BBiaxx6EKkgRSTvEginEMXaMI6l4hwC7IaxngayJthvSvPCTqHrTsB3IqWQah_NW8EPiFYfUHXrUOcVL-H-22o6E97lJN-W_LFB3TnmmJN5uOiAw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJk08ILuVbwokRKBW-ON446RQ.jpg",
     "address": "55 Stone St, New York, NY 10004, USA",
     "phone": "(646) 346-6366",
     "website": "https://thebedford.nyc/?utm_source=google_business_profile&utm_medium=gbp_view_website",
@@ -35667,7 +35667,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJL8gCanlbwokRuOv6QWomh8A/photos/AcnlKN22u3PHMkCIRJoL7wZqSAiEk1OrSx4jPBlze3zgRVC9ckCfczkEtsEbtdXXVScCCyEhNBa5n6Wr1s2rnaOfOHJrDMcTvt-LlCAyHKZ1BAH_fSlvwCZVMrDsfJDxWjeMq5ch-Bpp_lK1ozniOqcjNqJ8xVcSUz64JIdU7DzhleanmHwv7iqHMjSA8QXlpwCtEsXBypHKECJ33P22uURrCTn4nuW3pU9hiiRKeGk2J7w9zQkWXWK-GJOzXmPWpVy31QMYVHrf3OWjzrAHTRDFbxxGXxsuIuq06_-0oYIr2JB9CA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJL8gCanlbwokRuOv6QWomh8A.jpg",
     "address": "66 Pearl St, New York, NY 10004, USA",
     "phone": "(212) 725-4766",
     "website": "http://www.luckytigernyc.com/",
@@ -35701,7 +35701,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Both locals & visitors come for cold pints plus burgers, wings & bar food in a neighborhood spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJueUCrBBawokRiw9LMJFm0_o/photos/AcnlKN0o1fXJDkgue8E-cBLJJKIoEe3v_9sXGE0hvPfTbG5IOV8PrC3Ez5wAOQyrMLXJJZTxQLa6yYbOlFRtZagZD6rEmk9ANVZj8Iff1dtJwZzrRhfz5d7AYFXk74t4pp1pFPA0iTrCnrnAZL3NAhkpH7vWvaxgmPXTWhOABhGrQy57B99GzWIuD88ZsG6S7OtOWbTrl2DVAeSzkEK0o-H8KRRZ1xYLKkDb6_DwF5S8tey4OhqsrCQc_QqOCIUXMKdSqQjPChsAaPFInkXGkAWhJ8FaCTwk1JE07hxgxOEOIQ_u2MUAw6Mq3HyR7B_24J-qWLuRpkPcFspDpIH2ovegimAtRSU0Lig3lOM4L7hJPm1uAOTboWthJRdH8aZpwjnYdmTyt4CmY9EqpzGJuurCGnAGIaEzxJEF1iKwgPtadNqCBfASKP_f954lD_ec0w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJueUCrBBawokRiw9LMJFm0_o.jpg",
     "address": "120 Cedar St, New York, NY 10006, USA",
     "phone": "(212) 267-3032",
     "website": "https://oharasrestaurantandpub.site/",
@@ -35735,7 +35735,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Classic, homey drinking establishment with a 101-year-old interior bar imported from Ireland.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzch8PBZawokRlpx4GoWmnXM/photos/AcnlKN1i9JKVC_UiAPXgavytdSl_XCPD1XL9djMk5B4EjtuKM2Q75mTafM0hWJP65ULwrusN7NEvqO2AtW0WHxL0QSieOuPHDFBx-LVU2ydjzDBVBR6tEFIB3XdkSXH7cStivwYR4uH2S1aJFBEO9rSds86uLzb30zD4qtGmDHq2ybM4XmYscUFRfiUzWLlSsXkpCuhvj3XHdseFF1M16m5EKbB-EOhjES1e0fH7aaOhVPqV2qiktP9smC7ZbBPjdjXhAtx747ufhHaCsFEX5VtOzkGNL1YIgMDtm_LUX3_WB3UNqEn9kUCyojz2Dhm9SK9ukHrEdc_ypwDqDLt1gT6gYtaCWgiaN6As5vKT1aedvFgwpb-yVfxZGJ5nOke0e5fDDittM9kTk87CyKSpRCuFwuYTTz58VA8M2PM0FkmIV_62x_eXymsix6BKcWk-IcMT/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzch8PBZawokRlpx4GoWmnXM.jpg",
     "address": "160 Pearl St #1, New York, NY 10005, USA",
     "phone": "(212) 422-3855",
     "website": "http://www.thefullshilling.com/",
@@ -35769,7 +35769,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Inviting Irish pub with an American twist offering hearty bar food, draft beer, TVs & a game room.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4ayAJRhawokRjzLOsdPWMCs/photos/AcnlKN1OnIis1a8SXNKCcE_XGtwFf_np12oUwZ_YkBheCWa9HkQyBVwSdixgOtXRJVQr7fh2IKzAZZLCrFmweJmt7EWhzF8uWtxP4vNulKh-j1jt-o1fun2-oO8LA-E0IDIj_BuLcYaBL7mq7TWtcopRpeSm07GVVvfaquFi-d-70jN7pORu6IhxsxjBS89KFMaUBmOp2XsA3lDU6C37oSPjUZin9Yb80v28u74IzH9wVZeyXNFyCCVzznN2bACNm6PsCDETB4JsZy5DQoSOkhO5rghNEYzQO6zmRfG-BxHKd6Ikjw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4ayAJRhawokRjzLOsdPWMCs.png",
     "address": "17 John St, New York, NY 10038, USA",
     "phone": "(646) 414-6223",
     "website": "http://www.irishamericanpubnyc.com/",
@@ -35803,7 +35803,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A full menu of American eats & plenty of beer is on tap at this Irish-style tavern.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzfaXRz1awokRr3iYyWFIRYo/photos/AcnlKN1FceZczVRLKLPtW9eBt9rwINOPA4ZXHfSoltYOpFLUFsN3KAuGJjE1g8Y4vA7AZJp0fKvUkwucdHW1UMnBLeuWAByayVZmUyRMk2M5iPfgToSmR735uJobUWJ4lBfSwb4ztfeKx4mSypW3-uEfm03DByqOYkvHUCC0Sr9FwpeoMlWcGAj4VPV1r-GQVbhEKUYKN02XcbayCQQ19riqrGkZN-tvxraqvmEuMosP4qg5lw1jpVMx90qo_zFT8Qm72pIo5LJWh5_AwKof50D9Nz5nrvhg5kHFyPk4M-qIi6uj8g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzfaXRz1awokRr3iYyWFIRYo.jpg",
     "address": "28 Cliff St, New York, NY 10038, USA",
     "phone": "(212) 566-6906",
     "website": "https://www.ryanmaguiresalehouse.com/",
@@ -35837,7 +35837,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Burgers, sandwiches & other American eats served in a wood-accented sports pub with a soccer theme.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCw6SmaxZwokRIzJBmyt6E4k/photos/AcnlKN1SmxPsLtuI4wyFTgOtUWouwr05kDcWMwxkgDBL_pj_HlDH0Sy7B8S00LyEg8nzOGxhHGArHvmkpJdzuN-eMl2XdfRlJ22DyxTlcswdJqL7lD3jN_9cBxMByp7NgmYzs55o-EFIm2sSYAulR2St5YUA7ZdaOZCDot4XaSAuddQiYCZbUqxAG_z3wwnyjhOiPOIb-IEsT9hqpwHCfU4mY-Q63ujNVtKcM6Wa4jteLMQ9EAR5jhwJLa0f70Xz38ryLTvCc2l-1onmokjJTfTrOknUeCc-8xgG02GMGdp-YfT1Fw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCw6SmaxZwokRIzJBmyt6E4k.jpg",
     "address": "Basement Bar, 17 John St, New York, NY 10038, USA",
     "phone": "(646) 414-6223",
     "website": "http://carraghersnyc.com/",
@@ -35871,7 +35871,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJOU3lJqhbwokRd2agn9Mw4gY/photos/AcnlKN3Y1Ctj0oTR4gnFjva4UQepeugvpArSHe2ARxo2pBwFYMu3EBgc1oIgj0ILHxc2oQki3ztTcl02JHwYSnNKeC6rpMhT91VRIP6eTf-K6TmLH_QNyUY0VS6qZ5kYiTJezxtlYg3sBMiJEuqtPkauNOckZ2vg5eDuBS0KLm8MyHfFW2zAYmO7AQ9DXof3gczv8GMjlqh2jy76ztwWUAPS0M6NOb7-NMkjLhZ6css5l_Khr2VKwOi7EQ-hor5l1tE5rV49rXjkTX5_7-QDQrhWvwJ6oOrQNBZkSTZvN_fkDo_liw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJOU3lJqhbwokRd2agn9Mw4gY.jpg",
     "address": "140 Washington St, New York, NY 10006, USA",
     "phone": "(212) 842-8007",
     "website": "https://www.one40rooftop.com/",
@@ -35905,7 +35905,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJqzcAQwBbwokRk1OLl0dxvyU/photos/AcnlKN0AODqSiPAcqfKg4vH9uE_UdXsjyb1nAEt3mK40isvUcr-8CRUVUXGz8hO0XAY4a12bWaJZt3B9r4oxKr0ToAQNr9mIb-FpEZjX2WdlQmaAqa8P-szoQloItx96iVEUJFIgP8VGxYZs1tDA6GfncRsVkm9S3XbDjnivFtGdkaoFuBTMDFhq5IyejQz4iGItGpoGY1CFcJQu4o77hWZoJ6SXtr-roBsmz6vtIqHJ0DDRq15E9nuxApm4kAeLIm4ov8q8wbRJkLiMCosSluDO5H1h2TT-J4ry8bwdSSOqjHV94w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJqzcAQwBbwokRk1OLl0dxvyU.jpg",
     "address": "41 John St, New York, NY 10038, USA",
     "phone": "(917) 599-0001",
     "website": "https://www.opentable.com/restaurant/profile/1457866?shareReferrer=ios-share",
@@ -35939,7 +35939,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwbmbdGRbwokRpdV5H4afCEc/photos/AcnlKN33AOoTLVXrvr6Qbo5zx_dD4EhkjOye7H9iPMmx4yqoeJX5CUsP_1MPFKmObynsyJWV5h-wlMiJC-r8UC0cFgdBZTluicupVXiK5tvIoW9t2EJjdiZh21q6ExZgEgZ3-oPNC4jlWxl-X4sD4cXtz4vH0Mvqw2qgiVmUyQgusvaccPgLC4We4rDA6WYeUlKBpEP8OlXXQ6NO4CLQt61BkUyU23ijlnem3PKi7bJf8JMqmWg9SYBhIj9nkE5y0kdQU4yopEaWOyP6uvVExaJ2xl_1RvsauSxAizoyWQTylM0b2A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwbmbdGRbwokRpdV5H4afCEc.jpg",
     "address": "19 Rector St, New York, NY 10006, USA",
     "phone": "(917) 261-2090",
     "website": "https://www.regular.nyc/",
@@ -35973,7 +35973,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Basic staple since 1950 for breakfast (omelets, pancakes & the like) & other short-order fare.",
-    "image": "https://places.googleapis.com/v1/places/ChIJtVcN3BBawokRfYHdSkgPmwY/photos/AcnlKN2yl7EIMjruIHEBbsF9mgNjBtgjRFTofH52Jraw_kWN7GoZcmwBJHTFAlXDrEqEruJGLFKrdT9rme2Mve2-uWRTQXmv5C5DufwYCBg47XRs9zUhRMV3ad1TR3rs5LDP3miNO46p-_LNvdQjNVgSZHQunCVSuIZSmZBEGiVCW8BJEN82aE3HrimYsnDRVrmAURJVACsG7czCiW7-TyuMbtzax7949mWELJAeWQdCIzNiC7z7GAvKxyYLjUUVONgGOpkiV0jsDwMM5HCPysKSC1tWb96FueleS75CR--Llkr8hcOJemAMBpGRlJNF1FJvYt2C047Rm2XIAs0fRSFREyL33BJK-6_U5Pew3myFeWWYubc8leQgWRwb3-8f9MY-GEFRakkQ8D-mD2-Yz5DNqOZKYnDMqN8Pc0GPpYp0Ov3AX94/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJtVcN3BBawokRfYHdSkgPmwY.jpg",
     "address": "89 Greenwich St, New York, NY 10006, USA",
     "phone": "(212) 269-8026",
     "website": "https://www.georges-ny.com/",
@@ -36007,7 +36007,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Multi-level hangout offering elevated pub fare, craft cocktails & brunch in a relaxed atmosphere.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUemZBRRawokRXSg4Yn-fyvE/photos/AcnlKN34A5XZtM0zhEIQbV0_Vdhu5BU0Q1frsNRUsD7u9o9oFNdI1i5nKSClxhJjzayzRUUYBb3EB-eIJJQRkai7v6SJhcNPvKnNR4TY18YEQlHhd1fILts90bmFIc2jBUSAl_qbg1UCmKGSwqoBEA9UIpt0znhlkq4wvGnegLUXrNqfB6pmYG1A_rg2BwFMaM_4dqDdKpOo3fcK2ThSkjNThdAh5TLe7vLSKMxb-EBMmGP1eOhE2dyUDo8-HNlXJETrjXU-Z2PgWKNbY2w0ZNCcbxC_PmIYj-7EkLgoaqpo-1R-DA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUemZBRRawokRXSg4Yn-fyvE.jpg",
     "address": "88 Broad St, BOWLING GREEN, NY 10004, USA",
     "phone": "(646) 707-0426",
     "website": "http://www.broadstonenyc.com/",
@@ -36041,7 +36041,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Waterfront restaurant preparing a modern menu of wild-caught seafood paired with seasonal cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJaXwp6UBbwokR1Ki9x6-BIug/photos/AcnlKN27KeuDw2jqXuLyIK0YBaLOcAd7nR74tyxJyUTVbIgIeLKKIicUvv1I_CRLTXWYpDri333Im00Z98eNtLpE9NFFSvY0July_i0C31m3WggLQh0aqL3enidfqo5wnVoUDtUj3CzmwSfzvAtTyWqb_NPBWc7LQlbmZifK8ZuvSxmvYqGSYRESaW-T_b2zFFlqS4GfvfrJhjHen7-d1aac_cbb4bkrcxCREZ9lx2dCDgwqHcbVHxJltLIPQonvGIvGEbFkkG4l4yF4SPFaWiSZELkzAX9UdpEGxagQ2L97wFN0Gg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJaXwp6UBbwokR1Ki9x6-BIug.jpg",
     "address": "Northeast corner of Pier 17, 89 South St, New York, NY 10038, USA",
     "phone": "(917) 633-4221",
     "website": "https://www.thefulton.nyc/?utm_source=gbp&utm_medium=web",
@@ -36075,7 +36075,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrToyOI1bwokRv6vrvUsOM7E/photos/AcnlKN2g4xNORZ6b8wmn-c-4QvhVplX5LYcjLsPhBYEXVn2_OzBuuArzwQrWH4d0frBhBoL5arZstWVL0coP9EgZH5lmzOUD8RsURVqM_Y-QCNxK1oBjTC0OJvs5akjUGMs1VLcKOECsmhiwl3IyGHO2yTuMbYpHpGdMnBqx9bI2RYRJnjMZl6T-Pekt4nuggCJU5RUcY24sHRfiGe46u2wKfhaY5KMdwAuF7sssEUbKx19RST_WV7LVSUPAAkCmbHBUyVM8T_MfdtlSgu2T9wcI1tn5nAA-m8vFLoSCcoBTtL2-mw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrToyOI1bwokRv6vrvUsOM7E.jpg",
     "address": "96 South St, New York, NY 10038, USA",
     "phone": "(646) 868-6000",
     "website": "https://www.frenchmansdough.com/",
@@ -36109,7 +36109,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLbVjDF5bwokRZFE7PRwuRpY/photos/AcnlKN1o5ndoy4kPEjgL0P3KlZn2qHmKbBZUV2xc-7q45LEvH4_bAh9i7o9IhtpUOniZL1SfkmFFjUhp3-eCIZZCeqGwgZ5XKKEgm-SCXxnEa6daJAj-J28IQSrY5CI-zw4HOdYFgdOCTb9eJUDd8NI4c-5Fc2NVLu75KD4cEk6taftcCvTL0uYhfZRDnLGkgkqyw6fFW8lmR5USfPCee5_wrboCZf1FS5LWecM5dUEY2h4tvPtdFofIqDYROyok4vujA-a0ho1VDSRSUzZ94v3ibllVku2z-ptNaiPy5PCa-n5L7g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLbVjDF5bwokRZFE7PRwuRpY.jpg",
     "address": "Located in, Performing Arts Center, 251 Fulton St, New York, NY 10007, USA",
     "phone": "(212) 266-3018",
     "website": "https://www.metropolisbymarcus.com/",
@@ -36143,7 +36143,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Basement-level white-tablecloth dining with Northern Italian classics like pasta & grilled meats.",
-    "image": "https://places.googleapis.com/v1/places/ChIJST0cgRZawokRNvJv5mhG57E/photos/AcnlKN1lj9BX04ho0ciJSgmTBnLpFFahirAfyb3fGOuLF_KKQ3q5c5PnQG49FEu7IvLFQli9cJmLeGNszKmC1iDdn8CCjFjwJ-EQi1TQc_O8ddiWh4NSvaHz0Mepf1AMcu5ob9OysRXQyrw3lBXvttkMPTpMdYIyoH8WxmZNB0qzwW-Fjo5wiz1dSX1J4CzIgw7Zcox1V2Onq2jm-GM0wfsxEHeqW46IiUA6ZeAQh7RGT5auGnvO5qbgn1jNOXy2AMnjiIL-EBuhYdCjULd_67r0K1QUB4-N8zgu2E-4aQ81OEOC2Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJST0cgRZawokRNvJv5mhG57E.jpg",
     "address": "3 Hanover Square, New York, NY 10004, USA",
     "phone": "(212) 747-1300",
     "website": "http://josephsnyc.com/",
@@ -36177,7 +36177,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "This stylish, open-air cocktail spot overlooking the East River features burgers & bar bites.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7ek7qdRbwokRt3sVsitU9r4/photos/AcnlKN0kwXYdjIXZAKw6y3CxLCuQfn8hUGm_rMU5fkpXaALiXzxcMC2Bm6eEOMqSNuGkQ7xVdLC7yHsthQ5lO33QJz8T7JE-vCQKOsMvO-FXayE4U-wPQio2DyG9UY9xRt4gv8DXgWomPButj5Rt1W-zh4d5vwKH_wqJSKpgPtOahNmnDnfW2QKvquQWBI9qbjErti410CuB81WEIjMJy3oIcPBYhPW8fYIHSWmdlEgqEK91b0AxQP1d-UdR3H9xBH6jcC1fk71tSxMN6tWI_DhkV8AN4CuRdXc7VFjq5ZifE-esYw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7ek7qdRbwokRt3sVsitU9r4.jpg",
     "address": "78 South St Pier 15, New York, NY 10038, USA",
     "phone": "(212) 742-8200",
     "website": "https://watermarkny.com/",
@@ -36211,7 +36211,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJme4A6d5bwokR7QwUdTNRp5E/photos/AcnlKN3I9hn3uRocvnApJzhxzdtBqHCrTtTjQ1-pV9xQPzLhQWYd8aJVCd1ok2eU9eMyUcJbjF5qGHdtGFT8_FN5am6Z3JE8Cmacn8AbetOtvQRLZ0hTATipfAgZ9ujdut9Flk_ET5WfQqjXDcXYzJ_mHAcPr-cpUH6yU6lo0ZZsrQ7nIW-g-0r-TST9EFGIHVzLd9bTtKrsNClVrNWSdiKYIwUmm_kL2fBZ3SgyoenK8m_DOVNqcRoKVCWODf6xgLd5uvwfFdKCVf9w8hwEvjpXKROmi_KI2ynMn36ZaMehp3akxA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJme4A6d5bwokR7QwUdTNRp5E.jpg",
     "address": "23 Park Pl, New York, NY 10007, USA",
     "phone": "(646) 449-0826",
     "website": "https://brickyardbarnyc.com/",
@@ -36245,7 +36245,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJR1pTRTxawokRyzoX5XQ_alI/photos/AcnlKN1Gh1ptjL6UPvlmSh_T7uORMn0faX9uq6bC2LrfpfL5Tck1Zs6LYQi47x45vvvVG71T53C4y46-GVEXAb6rZaLlMI1u2AUfnRsQSn4-ywiokTF-IeroiniGhcqREKLDIgVEs9muiZH9akwdSBhyX33pDn7ZZ_qcaeB5HtgRJXx_goijhZbcJAN_S3kUoV22pN8hx8Y6IQ8f89eKeXKE-xj-MryjjAeSM4UyEDaG2LGO4LzAqu3psznGcMp0YbHoh9yMhE_TT_nztFQMhyEYHYJKk1LyV67GoWQN9BGJqtKYsA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJR1pTRTxawokRyzoX5XQ_alI.jpg",
     "address": "89 South St, New York, NY 10038, USA",
     "phone": "(212) 732-8257",
     "website": "https://rooftopatpier17.com/",
@@ -36279,7 +36279,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQybAoRBawokRf5pM_iQAnnw/photos/AcnlKN3holf6rA4aaWfa4WwMG4H0pplEtivHV4vtZa9xaN1nlLiO-CLuSHTmjOmaJC8OkfuHPhVyslSaH0wB1PrzCgh40J_q1SHfMM02csd8nz3HzQoqHOYbygF2oo_yuhDKK8iYtKwRUwaPlYtruyGFnY_e7ZFN_cX2QIJT8JuogA0WnX3U2QhQZPLMCI7HRGl76OEksG8uQ_VeNqYeI5eNpX8F4249PK0kvgXUadtNXLYC77USC81oeTOU8585PvlB7rc8-9jdPdZF5b3MkM2QjQ_BEVnbB_sFazgjleJdGIkz4w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQybAoRBawokRf5pM_iQAnnw.jpg",
     "address": "140 Washington St, New York, NY 10006, USA",
     "phone": "(646) 746-3200",
     "website": "https://www.clubquartershotels.com/new-york-city/world-trade-center/eat-drink",
@@ -36313,7 +36313,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2Swh55BbwokRla0w-rYHSQk/photos/AcnlKN1W4xbifwqghBNqTz6xFwydcvPQCppMSSKcVIIrHHbY7H8N7kNWatB3gtcdxR3SKgIpy7vfSmim_Boc5c_DytECOhjc-LZFNKPlCBF3F_dcFLs1b0K1T6VFRJ68LlL4IRqGEtBuLGL0bq-11cqs0dQc275sFVZy74B8cNH4qgYchfQaT0taMEwCMedBI0OZpH-7AqwxQ0EOQp_stI0sIGf19HRtwQlNVpKff4oqpHMqnSaJvBIp3mdzcZwwgA8FTvJueaDq54GanFGFaetYXdOH_QzC18tQRBAEGeVmTnc/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2Swh55BbwokRla0w-rYHSQk.jpg",
     "address": "28 Liberty Street, 28 Liberty St Floor 2B, Suite, New York, NY 10005, USA",
     "phone": "(332) 216-3200",
     "website": "https://drafthouse.com/nyc/theater-bar/lower-manhattan",
@@ -36347,7 +36347,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJC84CsGBZwokRDlHzVo4wJkw/photos/AcnlKN2JKENsmP3ORS4rVYNWHWSgPe4kTMQxJEZRmeEBRkkFYl3LKwG8YzeH9m7Gze4v7lDM_WvxwpfDZpn9OpStAVibMatuiVTh2ymBSvIXdIaAKFwIsKUgz30x6sOm-cUZqaRsmdH_lkkLeRpVx_y_j9JuJXH3-lDbKDXbCkVQQczI-QHBpH97h_fQPkXwUaV_IQsUqoz6qhf1fVgybW4h95bisBWkIfBg5R3zCcRqxD3Ug0Um7h7uVpO9P9PBE42muilV79hGm1iffUDHdusFn2ez-ORQglxHYf8DLqEktsXuCA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJC84CsGBZwokRDlHzVo4wJkw.jpg",
     "address": "588 Grand St, Brooklyn, NY 11211, USA",
     "phone": "(646) 624-8420",
     "website": "https://www.thelastcallbk.com/",
@@ -36381,7 +36381,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Sprawling, boisterous beer hall offering brews, schnitzel & regularly scheduled live music.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ1_tkw2BZwokRCU4l1ZUB_ew/photos/AcnlKN20zi9TfLjmjsrw0SyKGDJxEz9OvilcEPI-1OcQ-wS77HeRCETj1B-UA1fsMa0UuzRxXLZToouHTkFk-SxlTPFq4ZgWv43wYHoZGKJaoc2yD7Zu7VXs5P9G07M9vJaA6qKNlxQ6wnn0k--hWtj35H1GuGEThrJBmWBKBpmiS4sozJV4vJvnKKrsSeXqzgpWdQPpUhfOr0mL0LeDJmUGON77eiX_qxIj6NOLzRd_zb6fkjGztSIPskDLYuj4zW5w192kmZetB-G60u0L99v9zU0CZkVLub9C7nOjDKBPMhFkW40Va5CNPVnTuYeEadLRPsNX1VAEmq6doszIImfkO6UxpQWJlrMwL9dflx1GTenE_qy84J0NMwZz16P6BNFsgw-H1-JOQc7sOEPCZvktIUwI1COYrcwdr2sgiJS-KJjwWUZOjJoxMJSnRi0-qg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ1_tkw2BZwokRCU4l1ZUB_ew.jpg",
     "address": "113 N 3rd St, Brooklyn, NY 11249, USA",
     "phone": "(718) 963-3973",
     "website": "http://www.radegasthall.com/",
@@ -36415,7 +36415,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Rooftop bar with panoramic skyline views from a terrace & glassed-in lounge plus craft cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJW0OO0UJZwokRaQpYvJ4sn0k/photos/AcnlKN2VoobyjJ5OpZAVfQbrN8Hu0cQDPoHovwvoM0LKsYfVzxCVm9OugUY0npBTfIGFoMaH1Vlg50XnNWv0lDcY04M-VFeaZPV_4La24MP6msrnttaHO9EWS-pD0H-akGUkyZl6MN9h2ZnywsIZg2kFortqjmO6xZ2Qb_iB_i8USNErj667NXMwIFj0XWCYoVmslfrf9z9vtiILFlLjM8s2RkpWWuRItGGaAG1dMlu5-Vw7u7e2r3H1GFDS2ybnb8X57NwHyNn2ly6fNaOwpCunXX3ebP7zaVay32nYcpNnS_fS0SKu6el5lBwz1oW-ZmrfDrjKQJwXuOW5R-s-sfm0VDsR_pNkbcMP-rTkH7WogDRP4ib8GBZROTJYMMPGY6OBmS8omK1gubZyk_hrsCp4r04UHncWarLi5SAZz8zhDOYXNouMO7-tTngJc2Ekef7t/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJW0OO0UJZwokRaQpYvJ4sn0k.jpg",
     "address": "111 N 12th St, Brooklyn, NY 11249, USA",
     "phone": "(718) 307-7100",
     "website": "https://www.westlightnyc.com/menus/",
@@ -36449,7 +36449,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Relaxed watering hole with beer, booze, hot dogs & snacks to fuel pool, darts & board game playing.",
-    "image": "https://places.googleapis.com/v1/places/ChIJN-vEwmBZwokR571lPuCCpC8/photos/AcnlKN38FOxFtELLWCmwDj6wKiGRGkJtM4L2AYwZia2K9nXB7OI4LtuE7lafUBGk4JtUfh6-spioRO5MSBmrcae1opb-Jwxiac6LMB4qMCJZKIFjGch2NXhB9v6riGbfzod-qOF-1Gj9zxaVVFhtW-t_nQeIqr3TJDZxSl9n1sg7-8015T4jtgF8Ro7PYPlG-ZdarNse8wkHXWdxBZ2rpclk1Jl5lxt55MRfWVjUfYs22u5oXUyVc6kS5oRrhqRi2iz46l369mc_gV3BdobKGtil08cjMvXllPVXDCOVaXwT2a281Q2e_kB5DIkFKGkbqOsLDFTV9oUuurJSF78fT_Gs-iaJrkPMrieG-OOoV7jvQDO2YGDQ3rFDeR2eAOl-qFY86k7JuIctvhfL0SuCNFD1plbVVQnTkgHZik99joUd4L7erWlI/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJN-vEwmBZwokR571lPuCCpC8.jpg",
     "address": "212 Berry St, Brooklyn, NY 11249, USA",
     "phone": "(718) 218-8787",
     "website": "http://www.theleveenyc.com/",
@@ -36483,7 +36483,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Stylish French-inspired cocktail spot with a seafood-focused menu & sweeping views of Manhattan.",
-    "image": "https://places.googleapis.com/v1/places/ChIJvz7ih4RZwokR2T3AC5NtWrY/photos/AcnlKN1PHCeabNoEgK6B5V9x23QXEj-JX7bBv_mIKyjF4flfDpaOc4EKw5guRwEz5QnEiRUvWYtKQNobidRwrUqtnOjRx5xBy__q3UNNTmTNMwNIWl27QGVEZIOH7psT0KjQJaM8Xy4OFr8UoiKZyAuJQ9M82fuhMlHh4LAW9rzHgkpZUQfDq07XQrfUS39TspvXDa2wy_wsbDd7fAEittYtO2DPAXnz7YHXx5hwW23ZQqqJ4E0pQ2B4fL-A6kISzEImlPsjGeyYULLxSvzIR8q8ECfOzKZepgEoevdKyCEzMJvzrg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJvz7ih4RZwokR2T3AC5NtWrY.jpg",
     "address": "80 Wythe Ave 6th Floor, Brooklyn, NY 11249, USA",
     "phone": "(718) 460-8006",
     "website": "https://www.barblondeau.com/",
@@ -36517,7 +36517,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeegOaZtZwokR88IP0_DJq_w/photos/AcnlKN206ZjhkB_YEjBfkChkB7RxBPKlIAkcCV38e1qJa5QeuGa-1IF4xWpOFknH-Yu_MxmWd0QTjNFGnRDFiTvaVCJ8fpi0I8At4vAvqIsRiwpJaBJ3JArUa7OvG7E8BQETVpapyBDCZh_JQDhJAOUY4JISi6ecCIEV5i9U5dzvOgrl9xJXRIop55wZfN1ANGQn081pW_ELdpApAdFhSGpGhN1Zl07BQW-So0z2nBgZXIxCUjbfuA8It2_5Jp_NHEXTvud-saeCHEPu1ubtioWL4e_kiCXf-HDAbrJdYBvU49w4ZAvmZC0NQNdfpVKXJ2tIXEuHEBbJR74nAQTTfdfTTaO8TwLZUZ2ZQ0jGtg1fhr2QVxQ2DT4gMUtZK_Dq3torcMd3tIFU8QLpB6bQoGU2ptmt3ilgXLx5BAO6IVAK6MjRTbnG/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeegOaZtZwokR88IP0_DJq_w.jpg",
     "address": "519 Metropolitan Ave, Brooklyn, NY 11211, USA",
     "phone": "(845) 836-3039",
     "website": "http://www.hhreserve.com/",
@@ -36551,7 +36551,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLwxJEL9bwokRrXWoSRU99_E/photos/AcnlKN3-xgCPR8x9PF9lLe4ImMDTGSV8q9QQhc3dfgehlWuwhYPK7YkbAL4Nu4nWQEX5SDkqnu5t0wv6khdDRzuixMztvIjRh7Co2P3GgaEGBo-583v-j9EKTj52Ef1h7E1KU3ZAW1YBsmp7U-GhmEVLJ43DgSsYOlvV0uuYQmnH_AOIb-qyHEbcK-QCjX0YhzFakBg_9OD-b4kSoinYu9eYWQzkYD_Ahg02qhk_6sPuTt0ZKuTyJT1JP4hEWnDs_VaV2dUYWpCeRqXuDQb8P1Zyp6Sj4BtxznoXWeC_b_J30eyzsw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLwxJEL9bwokRrXWoSRU99_E.jpg",
     "address": "251 Bushwick Ave, Brooklyn, NY 11206, USA",
     "phone": "(347) 987-4898",
     "website": "http://www.sleepwalk.nyc/",
@@ -36585,7 +36585,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ__96vgVZwokRgkcY1cmk_VM/photos/AcnlKN0q5k5SpiLUcyMg5P4guZE2wR1mbgGEq3laVQ-ez5NwQnnxcmbM8XaqxgH2dBpconMLOSo-KTbUIqgHIsnQYvBtw8mX_bfuHWHfuEWblwI4hf23lbu9pQQH6D2js58pwsr_95Mr2HZn56davMH_0lnQrFnOAQP5SkaFc42x4gzpjhrS5QjA4hJqU_jbIalFp35zK2NEQ5Ecl9AuoQ9gluWKdr-rIi0bshKhDrx7BW-RMO4HAGvLNXl6USwXMqsKlIjvnNZ4MkReJ0EkT4BmrBUSDv6cozz9dboth-OP2JoNeQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ__96vgVZwokRgkcY1cmk_VM.png",
     "address": "65 N 7th St, Brooklyn, NY 11249, USA",
     "phone": "(929) 531-9781",
     "website": "http://www.beeskneesbk.com/",
@@ -36619,7 +36619,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Oysters, cocktails & small plates in a New Orleans-styled setting with an atmospheric garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJW_WGT2BZwokRNpvZ4k3lVcs/photos/AcnlKN0TLBCciFndGp9FV7aU6gnmNHh2g0c005BY5kULc1Ae0eL8gyc_B2GEXbQFnHpOXzEuSM17pa0hG9bBmysaywmO4aMSJRlcGFMPqhv3R6bYOhVL9eChbeaKgc8Cbh7nqTuYrebpie5y6n80RoYHNH5oJnyYf_b_VVf9V-UwIyg8XpOLUdaa_zsvPliNoXRGlOJJmaA_NXkk4owkbDyI12HtNf-VnRt2oZfvTYziWhd3yRdtsDh1u0ogp7ovCcu4aZl6IVg6YrE2UkrC8t6y_tK5g-gMlLJb3x3cq7bgMc-rTg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJW_WGT2BZwokRNpvZ4k3lVcs.jpg",
     "address": "298 Bedford Ave, Brooklyn, NY 11249, USA",
     "phone": "(347) 889-5710",
     "website": "http://maisonpremiere.com/",
@@ -36653,7 +36653,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Snug tavern offering approachable cocktails, craft beers & regular events, plus outdoor space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJtxAEdHpZwokRh5_jOETnK8Q/photos/AcnlKN0BORFfLwckdesRp-kqVskrbLqk4bkwT3WlbKYQuUa0QrDU1CU4GrA1V2HUdiOeynCkp5S21Rb5cOeauLE0aT7E4AQXWI-9S6YFXrc2Q8vdXK1PRDUHYorJaloa0We1hyyeSIvceVaEbWt5vVnOe1IOygM7cn3VhkGbxPWn5Uv1z5uo2YxqTXxxUk7C-v3FY8enaXDpbhC-ct0tniDkrfRlnE-F5fOTwDaf5Qhh4joS819RiKpflQCShvzfNWctXTmIR4NleRkIxz_TZ5DKwCpknDjpdXMY64JkfUDkOPN0mg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJtxAEdHpZwokRh5_jOETnK8Q.jpg",
     "address": "609 Grand St, Brooklyn, NY 11211, USA",
     "phone": "(929) 295-8055",
     "website": "http://www.blinkysbar.com/",
@@ -36687,7 +36687,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Dimly lit saloon with an extensive whiskey & beer list, plus grub that includes occasional BBQ.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ57zC6VxZwokRJ__c3api1B8/photos/AcnlKN3Q-hPxf-QGR16Dxjjm2C84gCB1vEUOseS1KOLdwHRueVX5uog29cB95NzPcU1nJMIpSbLCT38Ord7JQppCkEW0c_By-Hkh7QJN6aQklQOBJ-389Ccp_Jn32RhcLMlBWogXghOF1vLhfPchlW49ThUJyKHs9kj_bcDgrmBMEA_cA3sSb7ptkaWeJ7T4da6fBCIyIcEZPvpc-nY4vLeRZpj2GA0refldJBwAaiC5s-DwnxhDXHlyU3IN8oqP_6lVLcdWIhTc7Fil0nf4Vo5N8Dp4gqLcTzmbELoR1hfxZhx5qd7d87q9G3RQNPhbWXO1qA4W8dRbjoIXIxljUl79fVaeZTgii6EznIddbH7_0jfd_Y-sx__J_h9kS59eaRD0WD8XAcFduYAEoB2y6iuJuUS3Mx-DBTaSgM6FBvz7lE1ZsM3E7CTEAciSDvKrQJ9l/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ57zC6VxZwokRJ__c3api1B8.jpg",
     "address": "108 Bedford Ave, Brooklyn, NY 11249, USA",
     "phone": "(718) 387-6296",
     "website": "http://thegibsonnyc.com/",
@@ -36721,7 +36721,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Funky bar with frequent live music, an outdoor area & a downstairs restaurant with a compact menu.",
-    "image": "https://places.googleapis.com/v1/places/ChIJSy8Bbl9ZwokR8QnOQHNn4hk/photos/AcnlKN212UO2IdRIz7PLBbt7byFkKVt6RvSF4o8ruQFHedGxAyVkF2C30hqBzScpL2xpBuDgJ4Tugz_YSFwA-t_gxqNMfXSjcXvSvNW0ntAdNqlWNObKaDrGQsK2-W97Pj79zIBlJy0-rt4qYDVkZfsLAXqNNWJcX2q6uI-NQ90MPWJ29ZivINx9f5fpGFPI9_WidbUjXfpDmMTujsoKqBSf1rgE90KJ1ZlgzIFThOQJMuWgLS0m53mjC1VSifrtAsXU3pW_K1_lsBV5VNRrSzrZbjx9MhZLqgGSIi-3JcuhbrdYgg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJSy8Bbl9ZwokR8QnOQHNn4hk.jpg",
     "address": "345 Grand St, Brooklyn, NY 11211, USA",
     "phone": "(718) 384-4808",
     "website": "http://stmazie.com/",
@@ -36755,7 +36755,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Intimate bar with craft cocktails & a patio, plus a downstairs dance floor on Fridays & Saturdays.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoerR5V1ZwokRu55P9DJaNEo/photos/AcnlKN0OEjBA6mk_smX-tzh7uiq_rMx05Ryvbr68uSuXPm-KGiHuasISd12_7EJl0J4p0C7JcB3IPEe9MUvrd8LW85lwRayJ3K545med0FfRMyseiVCltYHTaf-TgNpvmYLi7_8HamA7pmgb6tLwdqM5FIfE2yefIIJQwvkvtRXgpJ1RnRUXZqbTZziPWeHmVXSffhfLR-QPmKtON19hCqeMeqmZch-NfNYC2c0eYVkh4LxUSNcvUJdQXzrPSabdaOuOwoBPsRy37dkJgqq14zrhb_1cAc9CK-7sgVUFM4h8zh3u_9VXpflTbaa6j7QWGT5o4RR79h8vqhGsx9tbOA5eKlDh9lBFMJQLGeP5IUQ3Da2my9ayVXdBeiGQKlxq6FHRfF0vVR7xcDdrq8GRtQk0TJp069ZXKa2ajUpOouFgfOX95g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoerR5V1ZwokRu55P9DJaNEo.jpg",
     "address": "149 N 6th St, Brooklyn, NY 11249, USA",
     "phone": "(929) 295-8176",
     "website": "http://midnightsbk.com/",
@@ -36789,7 +36789,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzRBPAz5ZwokRd0AUXGm-2f8/photos/AcnlKN3QaweWgFhoSR50dtKU-PYGxek2MInRslFDcntTSWGTOiO8fBaIztQy3lvvulcAqL3pFdgYghKO_bx-cSJN7xCXmMReGwO_7BnentREq2rJY-29otAJKXGtKg8mamUrSon7hFc4QyDVzGH3H5TpgGQ9Tbiw9FRg2cL88z_18tsSDUUrXPeENDmSbGieclVVIYxulH_MFMyB0SntfJm_mEnxg5S9yF_VpORVh1FanM9XVkEReNZUDSq7dup1xqc6UCJsQM4N5pZBeoBp29duAt1XMVrgWQ7_XrTn_Ad9GVlOVg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzRBPAz5ZwokRd0AUXGm-2f8.jpg",
     "address": "292 Bedford Ave, Brooklyn, NY 11249, USA",
     "phone": "(929) 295-8361",
     "website": "https://holeinthewallnyc.com/williamsburg-1",
@@ -36823,7 +36823,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ27nCgv9ZwokRSMWUV3OS1aM/photos/AcnlKN0pRY6c_j1lDK213ytxYF91y9Eib7WQ-imMwstHRZDZr4mlCUEc5QXSKvo9yBywwvR7stDGDZyXvjjxhtrB_CBX6oMR3TOTXUyTATREYBcWniERof378PR99Xg5Wv2WipGviwX_g4dUba9TfpDvXdNThzP1LU_DGhhbX2DNp7FXECustV3uOAcvgBzDW9WDTf33lmyME8cJ6x6UsgGGU2msjWRDpi8YGtw5Xo7eLdDDmuiuiC1ZvWOaQgWF9alGP8qnT7r8iwHG_qyA0BLFhAsju8bSvtqYzkOkSWm6xcO1cw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ27nCgv9ZwokRSMWUV3OS1aM.jpg",
     "address": "103 Havemeyer St, Brooklyn, NY 11211, USA",
     "phone": "(347) 227-8829",
     "website": "http://www.recettebrooklyn.com/",
@@ -36859,7 +36859,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A Tuscan-styled dining room & a large, leafy garden set the stage for rustic Italian cooking.",
-    "image": "https://places.googleapis.com/v1/places/ChIJkyeocGFZwokRnutbkIk-vCo/photos/AcnlKN1zJ_bb_8MMURkIT-D5yP0Cq0TWuu4cRkKTB8VceKy1-slm-VMtewP_RvVqQQwvUztj7sCHflaew98djDcrI_gMPcHTE8axOlZE3w5zG7Q_EXHamvQ5xkZwkl8_smZmWJ9JwYPDlGuB7Met6m40Y_0GTTKkKi1W0lJprazehiH9Jtb8ee_wulzwii1iEMZpqxH3m2nF2gpC8q-4fcFofXbZKdIAly4fbZpmwbg0YZIhKFihNYY57Xn-pKAe9dys4RuWctPpQm6RrDee6FGS82b9lljMkrmQUVvew96qdQBORw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJkyeocGFZwokRnutbkIk-vCo.jpg",
     "address": "70 Grand St, Brooklyn, NY 11249, USA",
     "phone": "(718) 388-5100",
     "website": "https://aurorabk.com/",
@@ -36893,7 +36893,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Atera alum's American restaurant with a marketplace, barroom & upstairs dining room & garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJkRWC9WFZwokRfa5Uzor3e-g/photos/AcnlKN3v9aYAD7pjn7vwoPREv_54RbsTKb8NXmpvruuht64NozUvw-h6sDmycr4p5Mv4FOR9FTTSS29UD7Z7mUc372NW_m6MYyf8OInWO4iVDUuY9DC2a9x90qN5ECvjNu-l3dJhhduJByXpa8ZuZbTCN7LmydNTHVHRN80vjkv1OiPrI7VvSSqWm0I4JNpLlcyFBHtdQqbIofDVDJE-dLZZ20Qt4gbuM0rtAGEMhUp5lt-Ugn8Ay7C-zouEsD6ZAJBWBqXnsno9vItyTLKjaVMJ5TlEPNpzsqaKSyKkW5BmUtV-Xg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJkRWC9WFZwokRfa5Uzor3e-g.jpg",
     "address": "348 Wythe Ave, Brooklyn, NY 11249, USA",
     "phone": "(347) 222-6722",
     "website": "http://sundayinbrooklyn.com/",
@@ -36927,7 +36927,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Sprawling spot at the Wythe Hotel serving French fare, wine & cocktails in an easygoing setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4faAXmBZwokRebmpx9kQxx4/photos/AcnlKN0XIT5y_FNr7OOmNIFu6Cnp_l2xEoVyc3y0f3iaOEagnrsAYfJUQza91SgZiRn3qCbkRv5K9C6MfIE4ySGbjGVGnmtfxj2M_QiyNT6pqaGUPeMHBkRt1-qyFUNnLMFSEF1ZTWA1uAO2yXIRtBWSmZMPThjrconn8uoSjHGZTqvlm3hQKG7cr_9guYc46Vorp777l8uC-UHpy7-FRRXSmjiuD8s8xVUJd6588vNQkeLagRzNgEhzAiEdRsApox3V8H2QmeYR5Q4KUPJARA0tEOicBtuuP2poXWIY2y4HXjwsKQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4faAXmBZwokRebmpx9kQxx4.jpg",
     "address": "80 Wythe Ave, Brooklyn, NY 11249, USA",
     "phone": "(718) 460-8004",
     "website": "http://lecrocodile.com/",
@@ -36961,7 +36961,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Celebrated locale with covered outdoor seating, turning out classic old-world pies and slices, plus inventive flavor combinations.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQ-hJIuBbwokRRUdquw_5w5U/photos/AcnlKN3D-zBnelaxtCJRY3BZjQmHKiW0Kh_ZchqBXEni0H9Y_kV5bAxq-f3OMYB0QWqZuQGGJM0mLbahOVOeqfQ_ndqFjr-q41Dv3OOumalySSTQOXbQYMCL-h0jSNXTCydGwdsbxlv4RtjCUi1utqIQyaJWJ0NsuX0xPtNQylwGlml0LRjtpBy5btVQjVKaKHxcLxVQ7SJ_dkK4ljEFC8xjeAoPWTtUhL9AhBi48sZnxoBKJq8oCd_8_-fiIVXEeaWx2TZzNX54_CblQbhf-AC_uDvQl0pblP8oDATCxHZmoYdRSFXhaeI7qKT2BS_xTUORhJvcPclK_mw3WtqtzT-UQltImpEDEFllE3hG6is7qvmg46omd0Y7-G0pZknJZtiesgC2cL5l3uMdxLeQtkCw_3wS20339HPiHHSy_tc/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQ-hJIuBbwokRRUdquw_5w5U.jpg",
     "address": "254 S 2nd St, Brooklyn, NY 11211, USA",
     "phone": "(718) 599-0002",
     "website": "http://www.lindustriebk.com/",
@@ -36995,7 +36995,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Steaks and grilled seafood are the specialty of this brick-walled spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJc3Sn6BNewokR_RkenZvQhlM/photos/AcnlKN3dh_gF7buB5WA59_c9JcCYYqLWfVRA78DUTMv_91TyXr_4tRESCzp6-6sGRKiEKQvdwkp5JmaMDsV4f7W3atM7uELM89cHYr5-dyMLPfRwFJCvAZ7nb0lWSn0ri8n4Y9dlZbBYXtA5Xor5waMWh82Bv0pRzmNOpnuUuTyF0g_S43-k7e47FSYLblb0IS8m1ceH6hKMiC8EjjF8PfbIQwEF6bki7HE4-nL-LePYd4toaFHKzvvUCwJjPXOSyj4Z_2iwVGC6pwi51VpwuRF3W96aqvG-2SymXUa_FKfofAAieA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJc3Sn6BNewokR_RkenZvQhlM.jpg",
     "address": "355 Metropolitan Ave, Brooklyn, NY 11211, USA",
     "phone": "(718) 384-5054",
     "website": "http://www.stanselm.net/",
@@ -37029,7 +37029,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Lively restaurant serving global cuisine & cocktails amid plant-filled, industrial-chic decor.",
-    "image": "https://places.googleapis.com/v1/places/ChIJqSwWaP5ZwokRuHaHr43H39o/photos/AcnlKN06Xj5QeDQLULSLg90wVnzMkYfS-fEQc1a5_f631xLZWqEbf6g59RCYkEICQwEb3jiOWP5-F6ObxWr4U456uSWI14v-ZZtr5ofeCFyXMc-mLF2OAt-T10CZAPxG6n7bPwVjHtqaKBD-fKgI9tjrsXkMv7KhLIeeL9-NLddch7NhLfmrgtk6WR8l_RMa3JiwBasDPYa_iMY1x_lSea5unIoSr5OYhj0FDUsBlqa_lbn-tr2NippV5YHRVPgJTzLd68lFzgtJv8Wl8GrjGqBN_hwCJv0MIacgyTpKS3F016ToJQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJqSwWaP5ZwokRuHaHr43H39o.jpg",
     "address": "74 Bayard St, Brooklyn, NY 11222, USA",
     "phone": "(718) 388-8877",
     "website": "https://www.fandimata.com/",
@@ -37063,7 +37063,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJk62gNytZwokRSLZc8yzal0M/photos/AcnlKN16ztaNqWW1BLjcydfhxMBkW0EkW9SypBmegKWARRpNb95ICXHOpj1pxhXNF96NnnqIS2DLruWvT4SIGbswfelvNupvO2zd9FksVPanYodBOu_-XmYi3ONQfEF5wipx2GzLe9Bj8My6dl2311HUAsGE2efpZK90D9wvceTCp-M7z0zS-ys3vvaAyFw7mvwCynDgF__qhsarVxLKPkUqJ9xuShfapewkkJw6CXUZfw17e5NFUUYmT3uMXH6HeO_yNaV-Ev2BXjBeY0r1IUgr7_hOb9NMzwZ_ljGMW86FaB4ANA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJk62gNytZwokRSLZc8yzal0M.jpg",
     "address": "291 Kent Ave, Brooklyn, NY 11249, USA",
     "phone": "(718) 302-2200",
     "website": "https://www.blendwilliamsburg.com/",
@@ -37097,7 +37097,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Chic, relaxed rooftop restaurant with Israeli-style skewered snacks and Manhattan skyline views.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLyS5dYRZwokRlkA0g9eijjs/photos/AcnlKN0kzZ39lfSiMeCCI3Jl7TOtZRHMsauqSSK1Tk7OiSvdeAjA2TKOU9UvDuoRrqP3DnZIUCqg5hPuZAFpYl-SAxZfPy3vVHNskH00sXhz3yjOlpK3CeubrK-5GAG0u9Bs_JysnLPYqogJs213A4SX-wBxyV8TMU0O5mS4daeJndp480C8PAii7TlNn8_s7Mzpn5ihU9Yjcz0V_QS4nnUtoSZi5V8kuHMn23zrbuo2SR4vymO8CX25j6eHLVV6qiQ0-muaC2QSQy2Qwca8dJRfP44uEPRhlCJQP8aTD7msI14V6A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLyS5dYRZwokRlkA0g9eijjs.jpg",
     "address": "97 Wythe Ave, Brooklyn, NY 11249, USA",
     "phone": "(718) 215-7150",
     "website": "https://www.laserwolfbrooklyn.com/",
@@ -37131,7 +37131,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "French-American comfort food in a bistro setting with banquette seating & a summertime garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJq9QbXWdZwokRZxXepe4LyWw/photos/AcnlKN2c8HSc1_XjT7WE9w_Gr2YoupKNCmhhxPUeACNnpM9C1hZKlffSNKCrzn3EsFpShD7O9utCRRK2tVupcJKkDdspfo00ZCRRKbezOw6a4ATi4AJiFoqhKIE3H5HIzLiKYMi9hTZ4nUK83RuxBK9dqAPe5ncKnsgYDnP_cqYkKBjent5Y8tjvpW5y2bEV1aKJulQpRnXdDXJND1iyl2l73r81lQ7KziS_UJ3kjvePxryYifwT9KeWGYy87Ei5LUcOaEM2QEIIfAB7CdnbJuWSoSaLR3b-mvr5zenNQppWZmWPIgT8SwFQ0ypxx2xohZqlH4cj0XC_5TF15Z4IpL7c3olRSgoR3Oc2oj5v5IOzJajF86grpfvBszrDMjzjcw0PHP_ldAyzjr-hwJr7tHj9ZYWlBiFqg7cgbqzvR3a6oEhrBHTi/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJq9QbXWdZwokRZxXepe4LyWw.jpg",
     "address": "105 N 6th St, Brooklyn, NY 11211, USA",
     "phone": "(718) 963-0608",
     "website": "http://www.sweetwaterny.com/",
@@ -37165,7 +37165,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Relaxed spot dishing up Southwestern eats, including breakfast burritos & green chile cheeseburgers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQ5drEVRZwokR-IeGxQzxDgo/photos/AcnlKN1jNLvI3dYMP1RJcRmeLBhE2voBh8D066YO9_DbYGlG5-aE4ADX3ytjzH7Vk9xpjHqEl8aV5Kl91ybn3ulq4juBQVBjUjKmnUWd0Wc3phQyNhn8lzJTTQUXiIYxUcqhcsNieAHwvSXeSk_NTFAUTgHvGkoH45qNItmurkMJlNMR8RXhxuXFHk_ajrls5gLkw4FhiWZZvsgE_4GQgdHcTQHbH2nb-KXbVTHh3WKGHKqR7OinxLk95MX-jUoV1Js-K4OGGgB7_w9Lhvg0yR2QoCd63odZwWmzlXLUKhY6OI8SEg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQ5drEVRZwokR-IeGxQzxDgo.jpg",
     "address": "178 N 8th St, Brooklyn, NY 11211, USA",
     "phone": "(347) 304-1759",
     "website": "http://santafebk.com/",
@@ -37199,7 +37199,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJxzWCXBpZwokR_f2MzdPXfs0/photos/AcnlKN30PayGBs-eD4wxxdQf5Y2juHm7Zc4qb7yfqHW0UNK8Vt4vFsg7PNplwMRJuOP6oEgZY3nT1mHarNQ648V90HAJy4YTMw6S_Vd25SO6wmjpBGGUXhynJF_krKb7vXP0bOIXjzjg9LiCgvpx0wNiAZg0d8wjop9nsPQfnyfmPZqGiAIAezzdXEQpdtbLS9iHduA2P7bANxr7Ryg0B0u4E2y1zQsygkHMQfk6nxazmve23VuHGbuBP7oqcK6vfyAbYkVjjn_wtvQk_JG7tAg_dGDT67CGmHhNcAznAAurmsIFow/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJxzWCXBpZwokR_f2MzdPXfs0.jpg",
     "address": "66 Grand St, Brooklyn, NY 11249, USA",
     "phone": "(929) 215-2275",
     "website": "https://www.isla-co.com/williamsburg",
@@ -37233,7 +37233,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Wine bar from James Murphy of LCD Soundsystem serving small plates in snug digs with light woodwork.",
-    "image": "https://places.googleapis.com/v1/places/ChIJbTCMl19ZwokRUohF137p9cQ/photos/AcnlKN2tvSllWxWSLVDKtOFcqkVt5qBGdeD5p5qHKH9a7tVDl8RIH-EkejAMKq-K9RGekkwmyfuKACpZ9ym_4hdSTRmiIxg_CzPlO8Y9YMp4bcXW_tD0U4LcUu7bQM6xpECAJ4U-8Y8W9MLUaBjWpAeTjFDApZmmGnnCM_NmgKBEGBoXXVJzDjKPtBLNPibFkmLztkad4TJ_Howgb5vD_ymPWZeNY8LgTTShizx1wiVxUGAUq0uRL-OlEnzYVyMpWtaHf-xk7TV_Mq11KrlJEX8b5881pDb-Frq30-ISfFUuYAOjyA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJbTCMl19ZwokRUohF137p9cQ.jpg",
     "address": "295 Grand St, Brooklyn, NY 11211, USA",
     "phone": "(718) 599-4900",
     "website": "http://fourhorsemenbk.com/",
@@ -37267,7 +37267,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Convivial brasserie with an open kitchen serving up European-inspired dishes and craft cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ35V_tZlbwokRzolpCln-mG4/photos/AcnlKN3J1DpsVgkrNe25mX4iGAXlhtwH38BbPwz__e-ptwZGvFmdqN2WzfE3j-Sx9fNbYMJURuoS3uOAcjP9ybNECN3k7Xb9hSMY1zP7L_gwAkLn3GzRp9m9U23FjXQQ8WYmX5jVFQ7M2XI-iEClsHK4_Z5k0_KT7BPhOa81zzkOsaUj3kXLXUzt4mArSmMnd2D94aA0yue80Y80xr_JyoBqfAJg_XeIxAyDVCfRa8BJaR4Sbg3drfIO6jLLu9sHgnx6qGylVzwjhx7senNFXWqxVDAURSTP7lEESswfDUdP6xU5MQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ35V_tZlbwokRzolpCln-mG4.jpg",
     "address": "136 Broadway, Brooklyn, NY 11249, USA",
     "phone": "(718) 218-7572",
     "website": "http://www.franciebrooklyn.com/",
@@ -37301,7 +37301,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "French bistro fare served in a Williamsburg space with an indoor \"garden\" room & a roof deck.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmzYoB15ZwokROjsEj7yZM_k/photos/AcnlKN1_X8FtijkYm9in44I1MkUTy0f-Wikq1BCkmfVZRf0xLR51KC7jbIOdk0ph_L2NkfuVyqdPSAaNy4ThjSL4pkWmmdkutaD5pElScseEHfORZJP0ZLUNlNEOYf_bNZvuVqz7gszppcVJWo9foZ_rZzyzAcgO7qYv1taspJEqGzWWEUgJlBmJSaW-tWtLS3uIkqx5tMI60MS9OqsIM8gsRl6r1ODF3CjaN-ls31ZxdKL4m08hmrhRLY380L81V4oT7IFrExA0htlmlrncGSluYdO8atHxc_Zu2ZI7-f8Qi_5kGQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmzYoB15ZwokROjsEj7yZM_k.jpg",
     "address": "135 N 5th St, Brooklyn, NY 11249, USA",
     "phone": "(718) 388-9222",
     "website": "https://juliettebk.com/?utm_source=google",
@@ -37335,7 +37335,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Bustling eatery for traditional Moroccan tagines, couscous, and more in cozy yet charming quarters.",
-    "image": "https://places.googleapis.com/v1/places/ChIJN5X_gWdZwokRck9rk2guJ1M/photos/AcnlKN1gSgLB3Our6IhhWKKpb8QtR7F-5lgE21laCRIMbfZE5J2aER3pYuYrCUByssaPK3vbeXDceGF0XgPynBGvziItSfsRjgpGFVlg3PuYsMHrn8RmjdIZftcY-0iqq4aKS3YYfr8d9U0D7fvKg0_9M3dwrjsymdri-3jdEgzxk7IY5afPsX4bUwM5DpZ9ouA6q6I_yt0DX_C4o3sCF5vpvDBtARUCFnWMScWH6LiljfjeTtiyqHXqnmWdKOGPTB8jijImSCAQhrG_mwbZ22jxaggHxdVIfVc3YBuSVlRFqvbqVqm0HeMBzn_S28Xx6xMyiBPB8NFmUkiGQxjc054Z4LiGfeSBfL9GtmdL04FA0yphTego3kfR7DGLTCVjmwhKcgge-LkWQIaKl3Pd6Zg3ocrwYFljcj9bMJfDghyXDYFRcw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJN5X_gWdZwokRck9rk2guJ1M.jpg",
     "address": "133 Wythe Ave, Brooklyn, NY 11249, USA",
     "phone": "(718) 486-9222",
     "website": "http://www.cafemogador.com/",
@@ -37369,7 +37369,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Cash-only steak icon where old-school waiters serve aged beef in a German beer hall setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJR_bK295bwokR8gM6QgEdmkY/photos/AcnlKN0C3ORkUZfr17fjOZSJI8_2E8ifZ9VT14SK53x50aR3WScfJurg0rxHlygc1C9xK_G1aWYWPAxP7kD2txCzRNqaY7tZqF-b0V1L73JaWjBCtZ3oqP_h3sw0rsQAHlYTqr2ULuO4y97PK9vHazkGhBo68KQgEIs7F0zZP7SIEb66kIyM5X4Wab9oWbq3XXUcMC4vBCs8o4rKhaTrTqkqLlNtffUD3P8cAK9jy-xWR5IHzxPrLCi1AcdpRNmX8JnuNRa2o__idLVNmgyver4y3d7Le-ParIy7WJaiDTzVrSpzjA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJR_bK295bwokR8gM6QgEdmkY.jpg",
     "address": "178 Broadway, Brooklyn, NY 11211, USA",
     "phone": "(718) 387-7400",
     "website": "https://peterluger.com/",
@@ -37403,7 +37403,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7foAEE1ZwokRuCUXXm3WxGs/photos/AcnlKN0LQLXw6Z_TspQLpJauHIaiZFQKaDGm-QS1hzLmVFFsI8yWxTtG5KmS6GHuU1KNKuzcFd88SMrkXBrZMjsmE3G7fquuk95L0nnXmd8A757-kARuqtu22H-FPAyQ5F0KbzX2VsM4LepYwd-9J7z7I6qeI2IJTRb0tMm6A3GJSZJ60M7D7bUhS9mcxbPKX5T7L_gf_GWli18v8ZixkxAKKH69CxNlFVS4Y3ibrjmpd1Uh4vqj8MiZ2QWDxpjkY5b4kwcntDgQ43DrYsvt0TQAU_s6piNyLjPhqKJLnP19Xdl9bQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7foAEE1ZwokRuCUXXm3WxGs.jpg",
     "address": "96 Wythe Ave, Brooklyn, NY 11249, USA",
     "phone": "(718) 408-7251",
     "website": "https://www.sungoldbk.com/",
@@ -37437,7 +37437,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Informal plates, beer & spirits in an easygoing tavern with indoor & outdoor seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJcUYuBjVZwokR0hbpWj6d6X4/photos/AcnlKN2aOrjerxNSzQD_35Kf2Mi_ki0GlQ7MXqRzQbDIA_wBuzNh74wZbT4CY2sp1tIbkMnJwGJx5Oi9MLT4ag8qp-oJb6IvtHli0j1DJxLrf6T6Z9GByu2pGRNsPin6N-AJWEf6WvP2R6hGx9aGIdJSOTYU_QlWTt4B44gd00lwPFUvtWRhJ1an1bIK5xNLnoIA_WGEe5SH_ka6QGL7WcVYKyDRQ4UBn5S7p66zg1pmu_F_Oth14W2k8QqDRxUyujzw5NBjFjgj23_vnxdI_FO90GyWHIHbzkZm0LRq-LQVUvbTJw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJcUYuBjVZwokR0hbpWj6d6X4.jpg",
     "address": "434 Humboldt St, Brooklyn, NY 11211, USA",
     "phone": "(718) 734-2792",
     "website": "http://cozyroyale.com/",
@@ -37471,7 +37471,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Mediterranean-influenced New American dishes & craft cocktails in casually hip digs with a bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwXUoA99bwokRU2bF-gdB25I/photos/AcnlKN3HZTL38xh7itz0j-y5jssDD0jqXIO8mXQK4abr0cLk5j77zUWS8TH3r5iTYnkcTMSS1XHCl8xA7zloyVPmFobnSbxVpRtRlHbIDozl_ebaCUwC-Hy5ojnE9UFeNHBITTcoN-lzyCayxI-BBwHCSICnwYM5mUL31JYWtTTKjw9oQSke5K_ASSlK9umeZZinFC6ub3mPt_KFL6yoAJ3DB3hrcX3aGP4ensVRcXHMoX92Vd9M65SKpYJhsn_gYedCnF015QO53buT3HoX8Cp0Oa4lheIGPVboiE35WuL_4K7SoA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwXUoA99bwokRU2bF-gdB25I.jpg",
     "address": "149 Broadway, Brooklyn, NY 11211, USA",
     "phone": "(718) 384-0673",
     "website": "http://www.meadowsweetnyc.com/",
@@ -37505,7 +37505,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Seasonal Scandinavian tasting menus & wine pairings in an intimate space, plus a cellar bar/garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUwatTl1ZwokRUDXxYoFa-hk/photos/AcnlKN3NL17Ju-bqyebPOaRPE6pBWL8ulRdcRL_Iclh0J_JAmBA2H0aZVIhGHPTi9A7CMlJXosQIPTB1uP1SrFka-ZuSULTKjyFCAnBwkbRWJBt5vJny9VZAdCH-Ukwa2fb1ASkA9G7BtnB7Ru-IoHUE7WAQx9nMNXsGa32bx7Sttyp0I7WQdvARJKsxUdScqzfVAK_4hhpnpSmnC7v_xUD7IdhFaEKNbCGXeIDMI9RqDUvXE8QGfpFuQljrWrPpNX7eCxGTIRobUzpZ5IjuYFoh9gjKIRZa_hFxNoBKf7IE15Ut4w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUwatTl1ZwokRUDXxYoFa-hk.jpg",
     "address": "47 S 5th St, Brooklyn, NY 11249, USA",
     "phone": "(934) 732-3710",
     "website": "http://askanyc.com/",
@@ -37539,7 +37539,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Local outpost of a Polish concept serving pierogi & traditional plates in an easygoing setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJl-l0rSdZwokReqiZ7S2yx0A/photos/AcnlKN27su9qe8c_y2lh5U3mrMKUeU4nyBs-WWC3a8Ok0rw4eov65yvyX6vMtwh9XYXeFjAl0SCyYN8ScMWguiax4yaLKmH_OQBomT3A0gF31LMxIvXgioh3zXDA4o-9wQtHeG1D2aof42zH-F4BB2opBzCVZW4WcE9t255s3q1E39ka9q7nlK_hXamiVy9qaP1j9quTUhJB8cEfwlh3MBawkeo_Y8rzNdN-uF5pXP8EffIVdV5-9NIl_bvbCUDYUQUenMRj11kzC6wNJIb-MLhRLdIrAzXCPjLRb9xgJeEfQx-Zlg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJl-l0rSdZwokReqiZ7S2yx0A.jpg",
     "address": "592 Manhattan Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 576-3866",
     "website": "http://www.pierozekbrooklyn.com/",
@@ -37573,7 +37573,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJM83r0aZZwokRg1mla_ag7Rw/photos/AcnlKN2j2jrK1MP8a5wMtcjlgGnTgPz6l8dCy7BjGJ9UU6e1t1jxUddR6l8-bZbE4PfcUy0UQ_OKFwOcYg86Gb1I3gNsq_1-RL7RwDr_BUugJfUReD-9Ygjss5-tBJameZZ3IxkEgHWSMR0DZJrO1oOF-DHWNaUabTi9WtmhpRYMpMpQyBlnqUHn2TiOpA8EF-B5WioQZvMza0Ygp1X2f-0I-SPlNpVtx5NhU3LJKNWLNpc5xh5lrTKMYQkH4wzx5MFP0H7fEAFdFwWp18GwbtbdiARaQkwTBJmooMPaB62BLshXRg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJM83r0aZZwokRg1mla_ag7Rw.jpg",
     "address": "52 Havemeyer St, Brooklyn, NY 11211, USA",
     "phone": "(347) 223-4838",
     "website": "https://www.maisonprovencebk.com/",
@@ -37607,7 +37607,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ34eY6E5ZwokRvof_huM7t3U/photos/AcnlKN1oulyddn-KeoEgJPacA-VQYQt9WPglQ7BgAVQr8YvQphA6arDqYquFTn7udskMvXkQc7S7IKdwbf8JM_bBkHIQoQxweXPuVYQc4oG7plrkdw2sNXRfYLSn3-PwgAKIlDUHcN3uHKAsCva6P4Orw9y3LvGaVf8srQs4QAhWHHC79fYfFgCAuaD_BS_d1r9mY0ZeP5Z4zZdzrOH383qyLtiUH8WfRLD7SRFdKAYtH_-0Q3zdTbA5FnOMjArIbPJOiY9iBFITvJqZw_xHlyoJk_3HuoP8gKL1pxDHw_Tqyf5Xo4WywHZcJORaHAhcMf9nmqpn78dqRKm-4AOSKXuMfBsPBZkXuYYY_ySWz3R65BpmYysirz6WHa0FQfPkmJnn8ntnz2ev4keQiu_eAh_0mE8syBLHlAcTzgH9JIfphu_XAIBZ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ34eY6E5ZwokRvof_huM7t3U.jpg",
     "address": "50 S 3rd St, Brooklyn, NY 11249, USA",
     "phone": "(929) 989-6979",
     "website": "https://shotaomakase.com/",
@@ -37641,7 +37641,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJv9ZXILdbwokRkAUmIvX8CvM/photos/AcnlKN0Md4YdvjLNCSgVeiky6KYz6K4E2VbtfiuZn2q7AX2_x_sEaElK8YYEgbXjLSrmNwsvankRd73RHfMQt1NROuQH73uvQyTiWIoJpjDzliRFSrDifw0d-PYYU6iF4V9w4du21F8xzXp3Ho_1o7Va4mOU2DIGFC5HR1TFS9sF5yIpXs41xCCXZ_tfDvUcMVewIqBIfwzq-dJ4XFWDfUbMWHR4Hl3JRE5WI1dUqls2TXHJnlWW16PTR6pIApLJtk6tHw5Qk8svufxSAQpLUK-X5WMgYv7zSkkZ1ZnfaQSMRqH8Tg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJv9ZXILdbwokRkAUmIvX8CvM.jpg",
     "address": "353 Bedford Ave, Brooklyn, NY 11211, USA",
     "phone": "(929) 489-0150",
     "website": "http://mesibabk.com/",
@@ -37675,7 +37675,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Airy, stylish spot filled with plants, offering brunch fare, dinner plates, and a robust wine list.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYzpV4SNZwokRfX0a28jsH5Y/photos/AcnlKN1-twKdiWNx9bn3szGXbwRnEewMOY08fkOIrugKDrc3C4_0rXu6E9CAG17WEUsk1qcI8tngWswmtEZ_YzfSuGG-EHth-coDw2P3lSsY75ykCHfZWFKBKdlT19yLRd0pUHPuBen7EXW0BPIGG9ka6QB7bwdlmrGUOR0gdBkbC3BcYWdyqTT_5KkKJ0y8MF91c4b2gjT7dFaMHxofvKnygaOj_e_i-L9d-KOQ8duzNshGTazdrByS8iAiP3cogtnc9WxwvBf1_cdL3YtzNngcUuYh6eG9hdKewrmh2fZFXsB3bA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYzpV4SNZwokRfX0a28jsH5Y.jpg",
     "address": "46 Norman Ave, Brooklyn, NY 11222, USA",
     "phone": "(347) 672-1222",
     "website": "http://www.nurabk.com/",
@@ -37709,7 +37709,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJh2cqMDNZwokRqMMqNP9srxI/photos/AcnlKN0B7UYfV0GQKnNa5Bqiw42OVfGbB508YxK1A7SLrapx6pLlhAVoa81YktTYDdwfWmiC9dcOa147GyhDWpgOwlbGhm_-8DZmjjtbkQokeBBNN9U9UzNSTJy-Z93hFkbOZL9J4YoNqxz7f2z5t2Vx6Rqy1coeIxu4w1azKXF-TEkYol6ZYO9exTWTPKFjepo8To9MdigOzi1aBrSnp8F6ZpKat8mmkHOe5ebN137wBjmAG3nkjhS32o8pB-PfuYb5Xk7mLRpaEgDlaJtgXE7nhCS0zwaKcrLsQa0Oc2OnoJERzXA88fmnZ1Jd1yPiTFGEq0CNJErCCymvIrvsrZ2TfhprK6qf8y53Wfvy3V6RBoNTyVHRM32qwKOekWHywDCsMcp05FjPfmzdQpQt4MZUzfkirpwyxVedvDwQvyay01etMdzs-5eRyd_RYNtALg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJh2cqMDNZwokRqMMqNP9srxI.jpg",
     "address": "55 Nassau Ave #1A, Brooklyn, NY 11222, USA",
     "phone": "(347) 422-0270",
     "website": "https://www.yuunewyork.com/restaurantyuu/?fbclid=IwAR3V1uhGIP6q5V_4R9aiSpCHhy7UkIedQQVwU0EzQCrrjGCwWCubFS0jUDw",
@@ -37743,7 +37743,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ5x9XaIpZwokRl3nSTwXki6A/photos/AcnlKN1OYysiLdNQGyjpjD5aQfD_r-vcqeEqj3JfAKPMt04flSbw9ctfAbuxL7TEaPG0WULApJQTFdrxOs69IkTNhtbbzI8A0vwAULH4fubweYpsNRh5t9yG1CWmQfWHVSxT_iewzQU6aQXU7QFKZ79_TpI2c7h0BpIRqxPqzyELqwJl4xhWD2mT-HmAUNxL8BuQwCB0RRzt0RZhLQumYAqZi4ftOoYNqZsaU9ZH_mCgN2EOEiUuVCry_li9lYPwAA-bIlVWOVq9rLe9aIbf8yMPlPI3saIt9KSPWUWIrn-YHL851_drvBmP6iUr8Kej9RhF8z4XaywyFgLvXoY8rHBQq_A-EBSMjEWj_8knAvZtsYEMUljGhOk8KLDMYAKOg4rFm-e1YK9c8CE7mFOTpHeudN7S6VVb3cKSNIjywGrcpQAg4Z3a/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ5x9XaIpZwokRl3nSTwXki6A.jpg",
     "address": "593 Manhattan Ave, Brooklyn, NY 11222, USA",
     "phone": "(917) 909-0670",
     "website": "http://www.hideandseek.nyc/",
@@ -37777,7 +37777,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ-wiIVmFZwokRwQ4qXQGX1ng/photos/AcnlKN2oxHndFkdPKdpdw-v8-zzHIwdAYqhyaOuoyHUOLGG3CqNCZT0rvS9ZmzsuXtY0HrWjzNrpYyDN5GWw5bMrmLeHAhrXZQ6QI4D3jcmRKsi60RMvWzE3wg3PVSU4f5Lma3od_CmvpKfDi6n3qEGTXWUzPQlCGEM50qe-XsJwvX9VLQ8-PPjv9_sZayMnYOVfp1g0X_H57ue_Sidex8war0723dJ9iq9WeumVeZKo5B6x9SZ-TjhWnjbeAzTlPWu3UV-SZUCADaY8QrGdW1w-mnnvkaerpKlO-uV2lz--62tejA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ-wiIVmFZwokRwQ4qXQGX1ng.jpg",
     "address": "323 Graham Ave, Brooklyn, NY 11211, USA",
     "phone": "(347) 889-7597",
     "website": "https://www.mommysbar.com/",
@@ -37811,7 +37811,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUWhXmjpZwokRjvRZ1_vjTqI/photos/AcnlKN3sJQV_Bo11IM7sS0w4I5jZjDkoSyDwE3Z9wfi8oyauSFUwTuALraD1BmHvJR86qB5YInghrOMW_TOO20A3j6MJJAsn5Jqta79U8JrNXnDvx0cjjmCZB_EdMxUaSIT4eBbt24jsHhlSNWfeIb5mTSn8g3NtSZjPRXVXZccU3i5NGWLGjmHfaxjhnlT2wwZQYOh-BP0s1p4gK6C8ztYtXa7W65lEa6d419PTqvq35al_jtDIaxPU_Pqatm2aKFD83hodAgrqCd_jra_NtcdgTnlowSXjAe2x1pVHpJK6etyK3GykXL_8ki17ETEFHAoJGSx516v3p6_RXcvjk8OsncOnHNsGNsomlqXtmIMGVR7PgfNo2MwpUZZ9WWJ4LKDpFr3AJRRC4WSAkKHNPp-lsOePdVrkMmziZUPFsH-wHhGrIw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUWhXmjpZwokRjvRZ1_vjTqI.jpg",
     "address": "367 Metropolitan Ave, Brooklyn, NY 11211, USA",
     "phone": "(347) 987-4545",
     "website": "https://barmadonna.com/",
@@ -37845,7 +37845,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8XT493RZwokRyZ4OEDHcX3o/photos/AcnlKN0ac-vfJcydkXsi_CN_74bOk-aaUnEPI7QqrOs_37nAg7aMYvxD3PLPe2Iie0OCjl1_kZdGrdu2EoaMwBJNCkp2RMEKzSP6iX2No3KxE9FKbOxj4lMJE_hseW1Io223dTefWCWSOeilTRvi0xhsc0iN3Cd8Rgtz6zaJhS5QYM-cplBVVYtximjCZFmwAZ8614u83LCcca5m2sFCi1HQkG_ZwC95HTYF6Q6We0qzXh_h-0DWo4lkvw8CDOQtze-JvmcFQ96SdfQLDE5mOpS6rpnlU95W72K3kk-Wj932W8DX_Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8XT493RZwokRyZ4OEDHcX3o.jpg",
     "address": "80 N 6th St 2nd Floor, Brooklyn, NY 11249, USA",
     "phone": "(718) 874-8100",
     "website": "http://www.instagram.com/koibabrooklyn",
@@ -37879,7 +37879,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLfNNGJNZwokR5H_5qlF22zk/photos/AcnlKN3OQdFAbmCtSUoa_ovZxzGvuF7L6Pd93qe1PipH3ocY46jyShCBDxAVrjMagIDysSkto6Tn5zO_oysthTaW2lKVvST4BaBdXYYkkxjvxBZpkkW0IMIZ1QU6O2wDPou7zWf_hxUuD7Q2z21F08D0rr1B6GUBp-4iKMrTwud0fEO1Tke-ADJ91etmO3Q4YdCT544i3Dv2-smiJFW1zLAy0nzPhDW0uYQjatkcGhX7fNhESGDn8l0ZJ785PsLXmSt4r1VNrqbWNRbYqWM1wt7_IdLr3MT7jRrA8gZKQaLXBCGjUw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLfNNGJNZwokR5H_5qlF22zk.jpg",
     "address": "61 Withers St, Brooklyn, NY 11211, USA",
     "phone": "(347) 529-4038",
     "website": "http://mrmelobar.com/",
@@ -37913,7 +37913,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ___iQYlawokR1pE_9rihJ7A/photos/AcnlKN3tsG4DmgkTCk9SQJ1sWKab7lnt11U1xpqBthbsn8pyLXFh1jDWoJDbDhIuClnbFMRG3xmPtK3MobEPPKY2JeUnkozr6WB0JhsqPPnF5BqJjii7ofCOzATG7GoSC258UspA1Qdd0Jn8Fh6OCfaz609tIjIa2tvlHCuiXj9I33ZBBPJdVPnJayrB39N1J5PcqDunc-3TxWIPA6fJp6c2ISES8u_wcpAwRNpQ8HvRGwYZz6JYtN4uA4rLfRxOf8EXlGsaXqCkR2GemJ0cKFfabgVNS7qOvhcobAs-4cruvle9HA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ___iQYlawokR1pE_9rihJ7A.jpg",
     "address": "372 Fulton St 2nd Floor, Brooklyn, NY 11201, USA",
     "phone": "(347) 689-3677",
     "website": "http://www.sunkenharbor.club/",
@@ -37947,7 +37947,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Old New York lives on at this 1880s-era bar/eatery with stained-glass windows & a famed Bloody Mary.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQUuvnV1ZwokRRugJ-lZyWDA/photos/AcnlKN3oQKaAdZXKOiXWjhArJaXXWbFdjv8yx966rcczeYihhKXt0VGTBUGUI7tJI8Om57HQJS_IR_htfPwu9HTvClJWxE1YDTfBgtNSy-iQIBXEoz2zdbY0VP21zGbuh0vN0EgbWQGtJd9fuz5O3d9rX_gO8FArpK4Kuo1BJX9P5j1epVexfLszOt5acxojaYH6Upe0TVvaOjLtMO5RG2CyfPOPxtVI1mMEOQ2c-sX97L2MTIKfLcarMx7ADgeoO1Ch5yEGJJ3hIv4vXyXlySedIIPXnjNxRZl1ZH1tqE1Wq9hWig/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQUuvnV1ZwokRRugJ-lZyWDA.png",
     "address": "96 Berry St, Brooklyn, NY 11249, USA",
     "phone": "(718) 384-9787",
     "website": "https://www.teddys.nyc/",
@@ -37981,7 +37981,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Relaxed, light-filled eatery with a horseshoe bar serving American plates & cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoSVt6z5ZwokR8FZDxnAlV10/photos/AcnlKN0YCWMC6I7W-wZ0SQPrPOr1Xnpmn-YiD-3-x68eyHIelvNrwJuciDwNrqPc4-XA3SUiOqVawWDQ50rw-b66F7I8nTWZZrdLAJlqUzE36edI2EWgWgsGlgu-EEi6zguPSZfXEkeklgcoqaTFeCgfray0_BLC_darPDt1eAuRCmkQQ6P8s9z_bZ7JnfsSaElwM913ZrMKEDF7aJ3h4-_WSLn4FCF7EETuf0vnYAP_XSzWYnSm66lgO1lix-V9R8U4i4Kxs3DgdOTBuK2CzI_L5p0_HhXmFHIRb61Qytce4jAbJg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoSVt6z5ZwokR8FZDxnAlV10.png",
     "address": "689 Lorimer St, Brooklyn, NY 11211, USA",
     "phone": "(718) 963-0384",
     "website": "http://www.silverlighttavernnyc.com/",
@@ -38015,7 +38015,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A diverse menu of steaks, entrees & snacks served in a clubby atmosphere with Skee-Ball.",
-    "image": "https://places.googleapis.com/v1/places/ChIJkzb6A1hZwokRg10qCDA3ka4/photos/AcnlKN3otaamEx1tpMlQPi_i7ByblYOhuWQk_t-CXpZ9uiKufuKf_y-5RP7BoaS2FyK-VUiyed_lzjya-ErgJo4ARoOcxnvY1RRtkNei4jN5OHWDeTI1RmlVWUuJO3TqZgREb3upb5jmWNML-VsGCnEYNqLAqFgeopcjCFn91Ce7ouHR48LrYS-MWIxKzIQztlyPgotEWdXjUs1V67WTwVWaqamAk7yg8Pi6ESireANyrlolvevrCtN_6aVCiW24MJufXPifbSFrITP3Fd3mXt_3au8NOIvbkg056lrAjuLKOD9-Lw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJkzb6A1hZwokRg10qCDA3ka4.jpg",
     "address": "596 Grand St, Brooklyn, NY 11211, USA",
     "phone": "(718) 486-3700",
     "website": "http://www.thestarlighttavern.com/",
@@ -38049,7 +38049,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Washington dined in the original of this faithfully recreated tavern now serving fine Southern fare.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzYk6fQGJsIkRTfvy-usLpb4/photos/AcnlKN2An3S31j7f-EwjaxdP1dRs8w18VLhi0IC__Pb6_UPHFJkMkNUw5v3w78cAYuCQ0JElKZN9RVP20kFUUu0TJF85Nun1JDzNOu-3U_tFkLpGqptvvBYWuUMmF1LH5T1-vwb_s9310Pxf0dewLGIbzbxpyBYU6d1gcO4710Z_Is4-aHVTlvPLzdaicCfaWG7j_FSXsLghZblu3_9X-o6RSX6jXA0OntXH2JSNK0kDKKXmYr-Ho12oCVVXoIugX7So7UAmotezuXc7QxbYbYbPtjg6u8SPDQmiNosKN_qk9JyOYg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzYk6fQGJsIkRTfvy-usLpb4.jpg",
     "address": "101 S Waller St, Williamsburg, VA 23185, USA",
     "phone": "(855) 263-1746",
     "website": "https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/christiana-campbells-tavern/",
@@ -38083,7 +38083,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Circa-1900 neighborhood Italian restaurant plating red-sauce standards in a retro setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJxRbhJZbmXIgRXq5i2VErjJ4/photos/AcnlKN2ExGsmSMmeTsccwv0CWo_jeFfTEiknzO_l3JXLf2Ndphl814nlEsBbyI-pAHK1XxGgOuKcg1FVuyQI55bMkrZVowAkdk3mGpcP0O1urZkwwrFTvW7fB8fLgmOfQ_70q-W_KE4yNiZ1ycjxayPt4I6qTdPHc-baZL36Ch6ZAzyM2MPOZzxjJFfhsAorsKDOI7FfbpZ7g2phrHNFOhVYYzkWfblhidQLy1WiB_Td3ptl5gG2gIgmZTACJQewY07-ykwka2dQ5BkBZrO4xnYFPNHT0-eSU0Mvd_r9t6oQBSxEvelmxuSu9aNhYrdRigVkt0EHeHRVAy64vKrorfymUdvCCyHqJmbwZ-JoWeen76jo6IaEuhtFXfW4lqz6obbs1Igyes_DxC-ptWHSI33WulyQQnQdjdoeMkGJQwVclcSMzfwnr9HOwKoKByI-NbpY/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJxRbhJZbmXIgRXq5i2VErjJ4.jpg",
     "address": "32 Withers St, Brooklyn, NY 11211, USA",
     "phone": "(718) 384-8831",
     "website": "https://bamontes.shop/",
@@ -38117,7 +38117,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Local bar with craft beer & shots, Mexican-American pub food & funky decor such as velvet paintings.",
-    "image": "https://places.googleapis.com/v1/places/ChIJp5C1XlVZwokR-4vkeemYjXI/photos/AcnlKN2hoaEOxTmgGI_1Jwkx-SQs4V7j3Q4CFZVMSBtgPCTM35mbUsvJy7YPYO2-FbQYBmxLclvTmaI8KEPQe91x4YxsZ8cRa7ul-9BJiTkZ735d1tP-9xWw__HVVXAwzqQEkGqCh6qL5APgt5E1B9kvK9bBqsJTQCV1nvpqeJHIcpBaqzgNnwuenTLHqxn5LRGvvTY6JPTmhkqIbdZr6TZDqx1LkQOtlacYgDAo1-aJgPaLubVh9JOUDm-g0IOwEBp5fi6rXfo79FRN7Kp-C8zsbBurk1xfq5grI05EstiynG41Mg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJp5C1XlVZwokR-4vkeemYjXI.jpg",
     "address": "57 Waterbury St, Brooklyn, NY 11206, USA",
     "phone": "(718) 576-3298",
     "website": "http://theanchoredinn.com/",
@@ -38151,7 +38151,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Utilitarian sports bar pairing whiskies & other drinks with inventive pub grub, TVs & dancing.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQ6u8GVxZwokRHCzArhA9lt0/photos/AcnlKN1FDL5Hs9MI9jjCah64MUOR9NmbKj5rM8nIBIEv7Vh7qx24Ca8KTZpr7XbHPW2qt0Nc-bxbEM8L13Xb0jVTubk2K_mNhRB7Qf0j_82uL07aYNC1tjd9cJum3OswbcjVv4MAOH8kv-dPKx8Pvl1Y154kM477Xi8cypgUtzdAcX-SVB7RDZYT0gowNfIuFSjapyN8VYskQBGEvWJJkufoh1jDaqPVv5R19UJQjOIAQD4gEy-ea5u4HSFtWswntWj1IzIDBwSzMLQIwjvA-9fCewmGZh8TsxpLzotNmno90urGUQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQ6u8GVxZwokRHCzArhA9lt0.jpg",
     "address": "225 N 8th St, Brooklyn, NY 11211, USA",
     "phone": "(718) 388-3088",
     "website": "https://www.roeblingsportingclub.com/about",
@@ -38185,7 +38185,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Buzzing, unpretentious watering hole offering drinks with free or $1 pizza, plus games & live music.",
-    "image": "https://places.googleapis.com/v1/places/ChIJA6tWv11ZwokRcLSGvY7aKYE/photos/AcnlKN1CFIl8lN1_px8Wm0vDAwimQ35ONdTG5cS4QIQX2F4uZof9ZiLAVF2yEIZgX32D6yZqevSI61DnpyMfN36YhtFQDpejdh2-Fz8IDPFHSZUZ83BnYwITu9NJHf3gJKdkw_fyYsKFqjtv2OaiSOTMn85ceQL717sGb2eHQZnierZaPmePAfVQpknB1s6pCd9vwmq3Dq-krmtyNPyrt5zFpagf_jKiVTPvO1JcwGO5hBAVe6lbIoncNqfKWPSxfenf69xeL3OM4VxdjmZY7kIOImHsTsnuFw5aIwebStuDHXs/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJA6tWv11ZwokRcLSGvY7aKYE.jpg",
     "address": "174 Bedford Ave, Brooklyn, NY 11211, USA",
     "phone": "(718) 599-9599",
     "website": "http://charlestonbarbrooklyn.com/",
@@ -38221,7 +38221,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJN7sVKcJZwokRZp59H74tSFg/photos/AcnlKN3NBGxaFRW0gHEALcScesaFFci0viFOcPnOEaMLtYiwdg4Ejec5SZXuIdy8Ef9hNfg3mSfbsKj_3O0-keVcD6Gxe5_x2hrDB8G0CFMWQ200D85glA9FVb5pLVziJVcJjPmOvwK6c4c2E-AH_JEtlBY9yx6206-BD9z3GUW9IlyeFJoFO3QmXBP77ghTRFf2qYqq9s7U0cirjEvsnqN8GQkL6Uww-s5NBELG54RhUZ5kvLgCfE83ahDo6hzP38QKIX0cQy5qQH4IelUkB12cchSGwRVO3vngzS2xGAPMB2HaHQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJN7sVKcJZwokRZp59H74tSFg.jpg",
     "address": "66 S 2nd St, Brooklyn, NY 11249, USA",
     "phone": "(833) 998-8711",
     "website": "http://antidoteny.com/",
@@ -38257,7 +38257,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJqdEJl-pZwokRBDhYkP_ocL0/photos/AcnlKN26aUw2wa6KIN_di3lE4sI_I7nb4BEoRcV9SrUbsK108t5ZUOngxQ_aNYkbL90YGZk9YkQGB2Pgqj96yENeSwgP82alI_miFfqafZrfG3sHU_X3Drmo7VPUF8GSaw3T4U8ojSP0l1dq37REwGkHa34vfYaUwn4-1895mG0GI5G1WhAs21X-uKiNYiGAiF_pDQPqQSWOBnIBYHTqpY2587phm_kglR4oJmFcdPUEsbmlZw14lzfGb5xIh8OjOy3V4lRMNPxIDGEOOaXgli4LbBbkqI1BwJCeElcbQIxDA-e7iA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJqdEJl-pZwokRBDhYkP_ocL0.jpg",
     "address": "172 Bedford Ave, Brooklyn, NY 11249, USA",
     "phone": "(347) 844-9008",
     "website": "https://www.instagram.com/bedford__gardens?igsh=OWx1bW81M3U4YWV3",
@@ -38291,7 +38291,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Lively, hip destination for natural wines, small plates & a charming heated backyard patio, plus DJ nights.",
-    "image": "https://places.googleapis.com/v1/places/ChIJIThsB6NZwokRMhJbqlyA6XY/photos/AcnlKN1qVjXlGqwq507mDGeiwYgBQPBwI-8lyhwVpheyLWlpD2VOVpu2ZnBL5Gb5EFmKWRIUqa5u2qRWdJUqm_mx-YQ-e73QJW8L4Guq3IRshy3CKVHvSii7fdm3RfilnRowUp-8pd7Mzgl4Yw06KHq54wyuIsRQPlA0kPA37heBt5UaaSdiQTt5tnt7FcehS0by0ytf4ifKbfJ3JUKbaXbWaVshK8c37y_vLOBeKFpjUt_jfBHuHw6uJojt6KbPC8yD9cEHrzO3sDKTzK3TWx9iqy-bpjPo2xGufnfv4OCQ2Tghew/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJIThsB6NZwokRMhJbqlyA6XY.jpg",
     "address": "47 Withers St, Brooklyn, NY 11211, USA",
     "phone": "(929) 295-8424",
     "website": "http://www.babaonwithers.com/",
@@ -38325,7 +38325,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJz1BOzx5ZwokRCbrpgsDyf4c/photos/AcnlKN3qCw7KZomCqqO3W5IbBmFxwzMaVekW5EtSKW36lNERvwwvYzAmZOtCqvj992ob0NKHAR8ld3w4f3X1Y9k2dtXjWxYt9-WmFu9vfJyuShTvphrTdBy9WI827AqjI6FcaeSNBogHLb-iw25AiGE8eDZrLCg_0prq3r6sj47hwnkvx1r7Jjc13RCPgi5KoQ0QfWwDs-JPuqTaGRXCywHk-Nvq8iTP9AnJCilcG7DG-M0WMOO_Zt7kU3yDwVbbNkIDxajtV8HyCKrdmi78ByKF_VQp_MwNtL_Yoi0LzcZ-hqGEjXfpwYMBaWzewV2TN_xC7vcqTIN5MKBE7gYKemzAuTfGK367PNBP4z9CkhKLOzANWI8qm6u3xn2QF6qkdhOeu_mzq8hRdOdwW19qo4u7hE0RIu33gx6DVR_t6vyRKf4YAj2wEDZVlH15zsu9ZTKE/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJz1BOzx5ZwokRCbrpgsDyf4c.jpg",
     "address": "258 Wythe Ave, Brooklyn, NY 11249, USA",
     "phone": "(718) 355-8280",
     "website": "https://jackswifefreda.com/",
@@ -38359,7 +38359,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Rustic-chic space with a patio for Uruguayan fare, only accepts cash or Amex.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_Xt15F9ZwokRUWuI3cz_VHM/photos/AcnlKN0Y0-5dp9eYwOgYwTlOKC6ZpanZJnjtVPbG00etgRCif68aAgPuUnoWGv6AseXJNLeXFTPdhaKJHC-WTteLNJyc_sEWRwp-86eRRC58neiUFJyBT649-PZ0GVsf4q_fJDAueu8b1riLiMH5pKt40de1UxukspxQfoTUCec9zq-eCKx2anbSz1MvRX-6zRox6KQcj5Mxuk8Fljw47c0CzlALsBwH-5YvX5Szl1nLdJ603IOEQ4W0YdRpFYcL6NYO3Z8xUhuOvcZOYCCEqvRQ6e4A7dksvvYNr_pfL3qZu2hW7Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_Xt15F9ZwokRUWuI3cz_VHM.jpg",
     "address": "221 S 1st St, Brooklyn, NY 11211, USA",
     "phone": "(347) 335-0187",
     "website": "http://www.tabarenyc.com/",
@@ -38393,7 +38393,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJn0_pmCpZwokRAnOcDOHTook/photos/AcnlKN24hXQ6kJ7PN9lLneFtcg53TX0ABzeDwln3_T0vQJIJ05Mx9Yob8d7eXw6TGoVxBn4bT604oARyUJPfUIA2AmWBrFKTXwMrbXADIV9D2GRN3VtdRnkoQ04liLrD_FY6gkAKTZnEIsIuQt-sprHoNvXiSziQpaItZWZQuKBI1hiacrKWvjCafzboodRiO9p_PGC3mguqUw6Rgms2_0YdtwwvBKhJNcCeejbjcEzxQnunj1gTGfTSnoltU_DVC9_SzEQuHegCj19X2pJs96UtqBzDhxvC4MB_-CiY7WG5LNuuUg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJn0_pmCpZwokRAnOcDOHTook.jpg",
     "address": "181 N 10th St, Brooklyn, NY 11211, USA",
     "phone": "(929) 207-6354",
     "website": "http://www.republiclatinfusion.com/",
@@ -38427,7 +38427,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Traditional Italian fare offered in a formal setting with panoramic Manhattan skyline views.",
-    "image": "https://places.googleapis.com/v1/places/ChIJx6POq9lbwokR2Fm47S6DojQ/photos/AcnlKN2qXFGVYKfpAzwEM6b-4jmtfpXSzekeDp6Vi27bun4T71egYRqeIjOcui26pprVQPjWRyWuPGl_8_TWwKWZNKZZ_KkidYbIU8VVeu-LAz_YmmfzyPr_4vWhtTlBAqZYfw22FZVHL7n9zeALs3AcRd-sSjPS_tFjgYNNekn0dTxQhxsZlz-A-tvhgUlSaH6zJms88ruF34IdIbRbSD3N2gdtvVXEtC6wEgKlBIB7zY5qkX6KlNifVDCxwdkU6Z8OqSfCPaV0AdIpHKp-ACYUH-EDBgXF1X61Di9py3-pPjTEkA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJx6POq9lbwokR2Fm47S6DojQ.jpg",
     "address": "400 Kent Ave, Brooklyn, NY 11249, USA",
     "phone": "(718) 387-7000",
     "website": "http://www.giandoonthewater.com/",
@@ -38461,7 +38461,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A schoolhouse-styled front room & a dark lounge offer distinct spaces for American food & drink.",
-    "image": "https://places.googleapis.com/v1/places/ChIJC9ZN6VxZwokRQD2Rzzd5DlQ/photos/AcnlKN2EUhStwLr0DsUW5VIB8FwnkoAx5T492J6d2t3XvspWonGI2513u2kkfBuH6zdPGZ7HGzdqdfNiPcaICTjRpv7KuV2xEUrtfHjQh-HaclI0C77uAx6LqcSjir4gwzUXtcJgYmudIOKyyz6Dnc5k7WmHfJkpUq_dp0ZdsxDkhLYu-nbRLUQTYzNnT-8tUPNF4NThHEZqitrhDhTAlHUIO053UYmgTyHxtr35nz_PUf45kJ4ph5Dxms_4Se_W5D8-CZo5CXLuiBk9HSWJ0-BQRExHPDJ9sxh4rlwbI-wqoCBu5w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJC9ZN6VxZwokRQD2Rzzd5DlQ.png",
     "address": "110 Bedford Ave, Brooklyn, NY 11249, USA",
     "phone": "(718) 302-1002",
     "website": "https://thebedford.nyc/?utm_source=google_business_profile&utm_medium=gbp_view_website&utm_campaign=google_business_profile",
@@ -38495,7 +38495,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A European beer list & an expansive rooftop are the draws at this German-accented barroom.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8WxKP0NZwokRTpqvl3B8lIU/photos/AcnlKN16SkBnjBkdzpG7h4zmI9w2220-6Hhjom-r1NqUBFJ7H_00SXb-U7Uzcx519NPSDUg2lGwgjlgdZ4s_m9ieDZssTw1Hts0i78ciHes0W3hLtRvNwW_xl89g766qipEy7rQVwQjslGlMRyHWTtGqCpbHsuuMyAHs0IiPdSrQdlKg4iiAk6Nq9m9yR0SrHGasiXUZJ5Lx185Vd1fyoqn-nKKd1PJGCTRTIOIFySHKSUln7Upmgj1-hcpNbgGunfCm-wrtXaLAXLEk0rpmBiLmL5cB7uLYzZy42nQ84GM8S9hXURhkoKfLw99FzLlkLWX6YYOozWFKOUds8kCqa_PCDtLmzB9tKrpjTzI23T_5mC7IM6KUZgms_rGuGSnGYAEYojWHOm_ffXVxJe7nKTOer4FUdbdnQLYoaT19x3LGb5ikWw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8WxKP0NZwokRTpqvl3B8lIU.jpg",
     "address": "4 Berry St, Brooklyn, NY 11211, USA",
     "phone": "(718) 782-2829",
     "website": "http://berryparkbk.com/",
@@ -38529,7 +38529,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJgTIQRVlZwokRyaPuZMcpHF0/photos/AcnlKN2QIiXTRDE73NY4AUKvjpbJCmOtm6PhIQ4rFf95bqVyqMLiT6rYk8UBcCpPkmGxTCFWPoUf6C7xePLA8J1nPGzLyiR8jMeMcHzT8nenuMsNeqHfm68_IzB-oK7Yl0Qcd251uD80NuaQaVxBP_bAnReJQom6wyxIPDfLg3kOQvMnM0H7MxdldLd5ypBWd9c1g494emSRJz4J6pmoPIQIqugqmH_gf7h3Ks7efsJPW7SPVkIgrVk6VVx5Ku86M1NYi38zqpxNmYINJir7v-1RnZZRvcOiHQZRuEwIjfZFFtuoBg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJgTIQRVlZwokRyaPuZMcpHF0.jpg",
     "address": "288 N 8th St, Brooklyn, NY 11211, USA",
     "phone": "(929) 594-2028",
     "website": "https://elnico-rooftop.com/",
@@ -38563,7 +38563,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Chic rooms & suites in a polished hotel offering 3 bars, dining & loaner bikes, plus a rooftop pool.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuSLgZ11ZwokRWNfffMrarg0/photos/AcnlKN1cgD6s2AFVSHommxf23rBACteJp2IIVaxcBLALOpY9pDFcH34b30pIiSFPOMMMwL9MKvOMIjc-rqgMRwSEurUIJg8YQm7Tm4y-Tm41Mkii_gbnNOFQUZH_WzJwTJaqNnFYtD2qJJR4DdM3lCIuIvHPQIht4XmBB9YyNwbj83AJOPTsEpIHBDv4lf7YOD-RZceGzyCtVl4q0QsezMr4bVWG3YOZWypnEfx5ULlE0NbvO7u0gvWOvf-HplSWpNmuJ78N1lkIu-JMiJbJmVM0wyswY9XP2H1QWX1o6mdRPBmYwg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuSLgZ11ZwokRWNfffMrarg0.jpg",
     "address": "96 Wythe Ave, Brooklyn, NY 11249, USA",
     "phone": "(718) 362-8100",
     "website": "https://arlohotels.com/williamsburg/?utm_campaign=GoogleMyBusiness&utm_source=Google&utm_medium=LocalSearch",
@@ -38597,7 +38597,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7_3mQABZwokRKrRL8Uy1Fic/photos/AcnlKN2qet3nSTO_kMPdgu2v4t_3neXQByQLoLTOodZKM7-Pl_OBS_HAk-Zxu62Lxuaf3-gcNTfFlkVFlJkDM9dpD84T8_InOdBCObG_k9qmIxsK90VoI3fKqkqddHnRbXGuPvlCBCLff2sUW0nCEZD2DN3fl0Erb_HHFx_7QONyGNmtvbuqV3et9tcDoqOXBaxyAJTgN0ARRJnMyPNPj4H9q_9oqmoz3Mm7DJ__-mDcRGhVYSToZ1j-tUnEFkPbbUpX_pHOuVmogsEXhyvmvP5_PbKq_qP5WAksaQ2Qf4-deNrtOw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7_3mQABZwokRKrRL8Uy1Fic.jpg",
     "address": "160 N 12th St Rooftop, Brooklyn, NY 11249, USA",
     "phone": "(516) 960-1936",
     "website": "https://www.meiliwilliamsburg.com/",
@@ -38631,7 +38631,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQZdCa5VbwokRjh5DcPByUIs/photos/AcnlKN33JK-rs5uAa8WVWnLmMSkCFIikK0N11Pk3kRbkACx75BnVawy91loBVrt3AU8St695zi_IQoe6jGQVzVmkgfx_4dQFloNu4eTsW7t9q4dJjfumd5t52H0k7lJ6peSPZ2rcZlvvwJsItJx7IDjashQEOO6ge0h5wNNvIQq3la7exuVugt6RS-aZQODzcK1066f5o00dnkrlZVK9t00w3zjiN-iUetNUfWag6iuakwT4Q1rtIYbeSP4DmQDfo4zoNJP0PgZ8Qn5_q_lTa-a_PZsNN2M61ghJeAFjQCyOwG6jrw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQZdCa5VbwokRjh5DcPByUIs.png",
     "address": "353 Bedford Ave, Brooklyn, NY 11211, USA",
     "phone": "(929) 489-0150",
     "website": "http://www.lillistarbk.com/",
@@ -38665,7 +38665,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJBTF_ACxZwokRk8y1ICME3F4/photos/AcnlKN0GXZnW3lZLS2QpIobFeKfdyfgypr75am0fF_GSVbvM1QFUBbXy8aNOYL-RCry1q-mHk_VUlI8OEn6tVnh-hu4SCi9NAkHuRLwId8Oo_d3e39_ZHjOCyZFV1ueFWFCmV3BLy0JWkFKHnAmOcLcPA8gVlpEzQf-4y_ltliSVoFuLa7LR5Iwwhb-mh7LzP6-iseCfHwXG2vo-RHoACvsoe7MTcTUQpIP0u-a8H_JgJFexEVIS2JvsHXBLlJUf0QIzr4q0EyeP6h5VWM7X0ecPP6duW6chbLpoFjkLgqiuTjXwEQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJBTF_ACxZwokRk8y1ICME3F4.jpg",
     "address": "103 N 10th St, Brooklyn, NY 11249, USA",
     "phone": "(929) 489-2284",
     "website": "https://www.abathhouse.com/williamsburg?utm_source=google&utm_medium=organic&utm_campaign=gbp-website-williamsburg",
@@ -38699,7 +38699,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Boutique lodging in a former factory with industrial-chic rooms, a buzzy eatery & a trendy roof bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJucbIy0JZwokRvgoW5tnNHM0/photos/AcnlKN2beu_Cebo2zl_QFtOA0piAkfPRjABZ_QxF9zByfOOiZ7rByCn2qkTpRazHdNLyJNjH1u3DJk3OoXmfGWJtK6GRKmbaCPAlnBl3FcKPMqJeVCco-pMVdgkeftns5yOxMSLGuoYofDfa-snMIdXiJyhx2dtuoYVVWnEpNQotS7O7GLYBOpDGdEmUeAnKaPbtTZ1d2zOXUux-TEjRtYN5sKRahf8SD0AF_E94ThlbJTiyQVBv9n1JkEEbgCglNpG9C6ZyIaYPuJUHvpO4ALwRyGTqQn__y-wkRWQURTALObULzA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJucbIy0JZwokRvgoW5tnNHM0.jpg",
     "address": "80 Wythe Ave, Brooklyn, NY 11249, USA",
     "phone": "(718) 460-8000",
     "website": "http://www.wythehotel.com/",
@@ -38733,7 +38733,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Bar hidden behind a deli, from the owner of Cerveceria Havemeyer, offering mezcal, ceviche & music.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVWTHJ-BbwokRHNvPl9-v-Fk/photos/AcnlKN2H5XrLvpb7B6G7gyryIh11e42V9wxnimTs2oH-NbksG6bLaxopa9PLlsYPiNAAj2VLbQYiff6V-KXY0ceAkbvtn0RdAVszbMV9JuajKVuEmvDT4Ac6pUJPAAddCSur1m3wmcwmlQfNnGR7LVWY_pYIz2y8YJZhWivoEq0m3EKxi7l6GqgprZJZqjvn5EoTJBxzV5fSoelRcZW4V0cgnjYgo2rQspfJ03OX9tWTe1sKbx4nSMg82CygF_N0TvXvF-J5md4ijFOYxOklU60back05mUoM04zYZSp8k5mxW_mzLB74iBsdEIDMkd5Yto3_B3ZNhVa6oRMNFMQEDUY0Hr5TjVcOrMZ9Nj_EX719uIT6Ur0Z9jfbk8gbmGibPSwa_dwWDyitHAR0nku3D4zP5Up9VcWS1E12ZOaLl4JmwKSW2E/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVWTHJ-BbwokRHNvPl9-v-Fk.jpg",
     "address": "149 Havemeyer St, Brooklyn, NY 11211, USA",
     "phone": "(718) 599-1499",
     "website": "http://cerveceriahavemeyer.com/",
@@ -38767,7 +38767,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Styled after Marie Antoinette's chambers, this cozy hideaway offers cocktails, snacks & live jazz.",
-    "image": "https://places.googleapis.com/v1/places/ChIJA9B2kEVawokRVO8zdeHwRe4/photos/AcnlKN1vWaVRhcE1LSsA-W5qCVJAlZBi9DXtrKcnaU9vnIf2tqQdtJ_Ipri6hrWKb94TtSfnmErHcaPqBmejNUnWf1txnQNdPBrTgPOUM_pK4t2IPscOKoIqT04i0sOIALqSUdQrIwAlHetQ_5g0zMUmWy1yYGyVG3OPiRYvOdTiSgFosjTrslxXectkz_OOFGnZ4Yh2WdvaGyu_PHTizLc7lOl3-VyM6MPG1ba_c9yhOP5TXgkhEGI3eN-XIFeqI5vrY8HyJFrIj6QI7fUh6VnZWHgzCDs05GSd3dBfOBT8fdG39A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJA9B2kEVawokRVO8zdeHwRe4.png",
     "address": "135 Atlantic Ave, Brooklyn, NY 11201, USA",
     "phone": "(347) 227-8337",
     "website": "http://www.boudoirbk.com/",
@@ -38801,7 +38801,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ1zCN0kBZwokRCHKhkfXbC0Q/photos/AcnlKN3qFh8b5-9CFn4atpeJ90nEB62jQXmUULNrOTlv_ZP4zqlH-skxjwn0XVMcOc4uggFFewTXTvFULSL5hYxOzwyZUx1xzpLui6RhJ80WHVCgAOdmo8clA-mhrgUyoFbzcKM4ijevbCJcwfJ0bsXPanCGkGmXgnckSLCxFsykVRsBDuC0UsRfn4d76sRbKaQ1KAIAVrqxqeVIlIsor2ThzPSrx-y1W650hGkA5vz6xdYxiFg48t6ULoNGv6t05kBXiODI9pZmjx5dBuuhykLnEGUD6Fi4UspNpO-7JlG93vin1kG4HpzMsOAZOf8Vt4QBroZzpBoU1_efK1oVL3n_oZmPp7cnWrRzCOaARcH2q1FBihECaSIjbxnWD7DFuZFQ9rkoe6DrcJMf2et1e31IDDep6f1KTb7O_qyE9z0YGmlUGmEjKRJbUO55OArLqQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ1zCN0kBZwokRCHKhkfXbC0Q.jpg",
     "address": "860 Manhattan Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 475-2055",
     "website": "http://sunshinelaundromat.com/",
@@ -38835,7 +38835,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJ3abKu5dwokRT92YpzeVhwI/photos/AcnlKN2H0QcbVNFgefWLs-EcgGJu0UZZWH-1UJ_fKtxVtYBsLvOzuvIZvodN3vLqZD13YbTQcN6qBQTF7VA-9TkA2_yn-p6rMSZVrW5ckMxWhSHsIHqa0UqkWtPi4RY7uoAV4W84GitbCeQXEvuiwwgIgyATYNlSzVNm4AdTzhCUWcPlLWkWoOeHv7AdInNQzYoRkTcQ1WwZnoZk7r4iKdDWzc1nee_EDBLANjoWh_4S89YrndoK25enTwMHEv9T2IeLlmU9nYYs5v24uaLaVJJxOcJzgEuQsRrgE8D7YuNFD1nWIA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJ3abKu5dwokRT92YpzeVhwI.jpg",
     "address": "1114 DeKalb Ave, Brooklyn, NY 11221, USA",
     "phone": "(718) 484-0548",
     "website": "http://www.secretpour.com/",
@@ -38869,7 +38869,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJgfSGFItbwokRyapm3iSkSsQ/photos/AcnlKN26VPFxKMHJroWJnTFgu76h6WB_m8FPZrlBqKXP9jFmsKj8cU9nDBbyrRxSv9CjS1VjIO52WzSnfEkNLFfONX2is6fdKdZQxR71qdR8s3I7rHh8XWO_Tg3IoBVCqnkVkGhD7L_IGI_Ym99eBQk1BPE-yqNb8C__NJw71JOyMAq1Dtxa2AuZeEMO0rtcR8D82rJk8_wodLHLhd9-y7zAWsvwCKU08iHi5f8TosBdhoDRCR1nyXnLt2NlB0Cwd99LPyyHt7xBhCIdnM5I0NAEIgIeTLTNi8flOOSPycWOq0G5cg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJgfSGFItbwokRyapm3iSkSsQ.jpg",
     "address": "198 Union Ave, Brooklyn, NY 11206, USA",
     "phone": "(347) 599-1230",
     "website": "https://thewalkinn.com/?utm_source=google",
@@ -38903,7 +38903,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_dEen79ZwokRCcfpTzsSprc/photos/AcnlKN2NKErLhZUHRwsXzLgQI4VIx606WJKrVL4W7gfIt5X54Z3daYoBM_eHGGMZN2wjW6vgUa4DL5jtIbbrIt1r2ZAkmxnCSj9MsFrHIv78qYvPdDkPkDsJLJj4f9RRvVAdZYyuG7WGFOdfSra42LdorIRS3TbKEkv_hsm7aDww7wXk5cOnuHXHdfb9YUS8gK0AGUcbMu7StflwIgXwLsfxS8DfBJVbc0yiPbly_ASDfzUXDdptlMfuv0iVkkyZYagibBg62BNDkJnZCZozFMzEqnh0vfeWhsML2PysDJX-TIzfjQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_dEen79ZwokRCcfpTzsSprc.jpg",
     "address": "231 Kent Ave, Brooklyn, NY 11249, USA",
     "phone": "(347) 749-8474",
     "website": "http://thecactusshopnyc.com/",
@@ -38937,7 +38937,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Low-lit lounge featuring craft cocktails amid bordello-inspired decor in a one-time massage parlor.",
-    "image": "https://places.googleapis.com/v1/places/ChIJlQABxVBawokRvy_Se3f2bsQ/photos/AcnlKN0OxTvZ4rRFmzrZhA7V0XUm6_LgVD4vRB1q7_lUiCkfEIbDQJtgsnLMPWi7t3D9S8O5qZ0-mkmkJPwZPwSdG_o1gbI8bm2UJ0np-81hi0DsyKoECrjBSf10xqqPQx-gjc1Yxxraz7d221vpyPj8lxVdw2S2EDNoGRwChC_ShZvaIMkCp0Yt4owwLd6Ly0UHYAu69f0raWThNe-8K-AWppB7EMpq5WzzE-f1Gfx9VLeLiLL4UZz2Q3KheA2MuGCQDOeEJ7V0GFb39hZwVIaHeDWKT_JCO9Bm799pNZTBqqIc8w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJlQABxVBawokRvy_Se3f2bsQ.jpg",
     "address": "257 Smith St, Brooklyn, NY 11231, USA",
     "phone": "(718) 858-5646",
     "website": "http://www.barelydisfigured.com/",
@@ -38971,7 +38971,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Cool watering hole with outdoor seats doling out snacks, signature cocktails & draft beer.",
-    "image": "https://places.googleapis.com/v1/places/ChIJKxvEBexZwokR5Fj-xs1mZCY/photos/AcnlKN21_r17jYAjnO8axkFNnq2CvnBHrMs7hEaot1I8U5ZNQds6lCxUvUC2yHAH3o21Kpw8OIZZeW6vkuAX_rzC6djYADZtxQ28vBwvY5X7V6kx5XAG3uCUj4tnYWTzxFrVM64PBaWnA2TDPHQHlCBGHIqhzeq4tGFzIz_xXd92U7FucRAw93fsD38u-lVE94Fe1u2F9gRntdOzb5hAroL5poI8Lw2AB2KURVJokE8YtY_10oC1I1OhbG0rJ_ADYF7SJJ8OXnUC3zC1T1ZO1dvocL3csaA6J9WOs2UwqJ8FsiR3lw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJKxvEBexZwokR5Fj-xs1mZCY.jpg",
     "address": "441 Metropolitan Ave, Brooklyn, NY 11211, USA",
     "phone": "(718) 490-7814",
     "website": "http://www.wegotcompany.bar/",
@@ -39005,7 +39005,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Attractive space for carefully-prepared craft cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ73OnWWBZwokRquwaGqxcB9s/photos/AcnlKN2cCgj0VPK28PoD79RTsbTh8m8864bYCQVTD52njpeqbEbzxb4ZM_SjGSjqKU38JeXTeFcOO03jVPmCBYYWcVZLjVvExaDBGgcKekDB0Q4ko7VqIqnViFgkBrHbP6qVKJR1AdcCC4TQ7MWEr6pgJKLxMSut9sVNvTGli01HpXFey8cCOqM5nriW1tHrmT22eWFTtidLOJamPRDJjEtanRN6mHQ0Sx5Byt60YBQz8vGOkNFrImhorKmNJKFt9fFY_cxwN0zAPpt_VOFeJ-stRXXIp8q7INS8JTBOUsuzbk6GGQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ73OnWWBZwokRquwaGqxcB9s.jpg",
     "address": "161 Grand St, Brooklyn, NY 11249, USA",
     "phone": "(718) 599-7888",
     "website": "http://www.freshkillsbar.com/",
@@ -39039,7 +39039,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJj3thBKhbwokRReEBfyFA0g8/photos/AcnlKN3_rT31gEFHnHwooxUIKw3C4Z_mEJ3fVCWz-hIrL1hvs5cw01iyyICU06JK5fC3OntiL2aiC52oV-Ln2LAD6IG7_qvKZA-vzD7HnnHzw_rmjmOR4lPWs7VDcJafdigN0yPbKZxy_AwqcMjuNwtk4ryOLbfI11VFMOGn6n_zvJJHzZzTPDEnYzy9QJ2eAoZ4f76X6vnyG_nVpegebe9fIXlkV07j_X7cl9x4YA1qN0V5MfP7O9fcNKkYCQl8FzDd3Gu_qywsxcW1N6luVsGybvttA1FFV7LhI9apAIow-dJQLw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJj3thBKhbwokRReEBfyFA0g8.jpg",
     "address": "25 8th Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 638-0800",
     "website": "http://montaukclub.com/",
@@ -39073,7 +39073,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeQOXB75dwokRPNWgzrcRops/photos/AcnlKN1mV_fpv9hMWRLywspgo03jdYZFtHclpCTUi3axf0FpWLTQwgljz9QneC5ZSxGEU7_6DlNyKv6pftaOVcbwQcaZPXgRFECY2As_lWmd_rl_cADYRLyNdPqN0qCheaTmkPqpWD06Cdkr7yuN8iiDyJtz9N329yTTB-ECgy98gccHTpd7czYG1-1hmICwbks3g1v7HzenQ9Z7ezB9dqOAunolr37TkXT0R3bGZ9SkXpsAvou5Up9xYKFWYsWWh9EfNgFKj6oRj_5ihQ5dAxZBq9X-T0xG4KE0RL0v9ey3bxfXeA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeQOXB75dwokRPNWgzrcRops.png",
     "address": "310 Meserole St, Brooklyn, NY 11206, USA",
     "phone": "(718) 550-3553",
     "website": "http://www.socialcues.com/",
@@ -39107,7 +39107,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJRSbQtFVfwokRtUMS7gYNq8c/photos/AcnlKN0WI8zhGF6ToDnJ9Y0FWxr4UTpexZDEmAKK3pwgu4OZK88SAxgcGv4GECBU6WnxEOz3rafhNcfcrwq5CgNIcS9itWsXZL_AsfGNvlGWQieVbeKyQQ9oLpLr86YiTYoELiiYU0r_v-Rbw4KHSotYGVkPZoAJHsj5aZLWxPNlg3EomDF6mUklbjJ7YYsnjlPAerRrHzaigcewb6NlU_05zkTKp1pXAgss3J1HxHs7eY1vrkHsSM-9GiEOt3GkAfXecUIkgvTwGOcggQ6NRpf7d6SbrND2uQ2wRi-CiE0WQunv1Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJRSbQtFVfwokRtUMS7gYNq8c.jpg",
     "address": "35 Meadow St, Brooklyn, NY 11206, USA",
     "phone": "(718) 550-3553",
     "website": "http://www.socialcues.com/",
@@ -39141,7 +39141,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWUFb2eNdwokRqXG9LcU4DeA/photos/AcnlKN3VgleOn4fJRoXw9emFgZdaIGLO4AMhr4OcWUxvPZbw1aPVfs5y93oDs6lpieKElgZw0ZLNEc6eGUlxSTghURre2EJfRxvHaje8N702ndzprgsGhDEPTvKvZx-CQCInLBt05lNz8UhSbaxeZeqD71_00OmBdYqG3zt7v8sSSiWfSIRPXsTL8Wq2bYsSCG3OQNVfJ9WRHHSDgOB6bDXuNAPDIfUa_fXatAdzoZEHxVTl_fh-JRo8ba7PmSsNoigAGU6V4JfA5r6twz7LzFm5VfSY6N2gQwUODRoqNWa2WA8/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWUFb2eNdwokRqXG9LcU4DeA.jpg",
     "address": "310 Meserole St, Brooklyn, NY 11206, USA",
     "phone": "(718) 550-3553",
     "website": "https://socialcues.com/",
@@ -39175,7 +39175,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWdRXIO5bwokRmQVsdJiMJic/photos/AcnlKN0LuTe2_9M-PedbVe5EWKlGl2gwS5XQORTL8CBs3yogWQnql-jo2LAF67-d5HX7ZtGbEvIZi7tT5-i7TQRn5MPiHXcoeBACzdlURJAkKuQJIKRgxJ1QPgXKxnfFcPsNs1JsqjKa9I92ZVJXHygA7glANt0iwKbvFNUX0CV-zcck4P215EV9NZ7NeeyndJhjLa7v4_W7shmAAJBuCRylaU2Ock82ilMbziI7zIzqKnmFdjmj4juW5_st5i7kqJlX2phKLBsLR6c8iMtSX82ZTeI0frcQx3WUUNj0o_svzGgSRQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWdRXIO5bwokRmQVsdJiMJic.jpg",
     "address": "369 Hooper St, Brooklyn, NY 11211, USA",
     "phone": "(718) 550-3553",
     "website": "http://www.socialcues.com/",
@@ -39209,7 +39209,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ-xrwVrFZwokR4dieOnhVBoE/photos/AcnlKN3v1eOxX-jvVlK9EO8YRwi8vWo5AFryOPT9p5QYm0X7dg63JdylcD87d4VgTajYJM90NzojunAavvHCrsA1v3NBFZTfW2xrdZTJX5XlpmOHyN5cdt4LIpu_oKb4w66todelvHogPsjPx045yeoe93p52SQEsS-qLiv8eKgVp09f4Y4txlOiwV4X6hmJtSuiCGUmmQO6D7BNwN2kJFghg1m-3SOygpucXvfKvlGWfVyr2jhH2a7jk9OGxW7YGUhjMjctU__bMY8I28l1VcqIup_viu9NZ7rAAAVxrAi9vU9ZuA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ-xrwVrFZwokR4dieOnhVBoE.jpg",
     "address": "155 Greenpoint Ave, Brooklyn, NY 11222, USA",
     "phone": "(929) 397-0330",
     "website": "http://www.temkins.nyc/",
@@ -39243,7 +39243,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ01RS_U1ZwokRYmG4U1zKxgs/photos/AcnlKN3seks_QsqNzjWWKH5Uo4mBex7GL6vQmp7txccgMFM6NZQPfwcxG2yNNGL_Gt3ccJYcPIze4tBXv65uwyMXX1zHCDNaQB-ZotANqDUNhv7cb7V5q8A2bhhahMTX_og89dY9XXIwWnXrCrHFQWo7UZ-5huhxur7WgfosjV_leKON72wpaZjvlJL26wYJb9zuc9L9yVpU_XhTSuYAksZgp8yfMCA0NeN1YCmadE6_4p-vabzXd3tzPcAdasi6Ks4saRcnP9bi7HWK9XMi4-qzrKzvyDurrf9qQdftR-7If5a8Qw60ivQASUO5dSbp9CiDxQYT5YGElkCrbL4EyrWhW8_hZQaPfvxtF5C2VXrsqqFYJUCPTflSqH6kBkJ9lneHOrvga_Z3YOTbEsyEFv3YuZcUFiI_OYDMnwSU4HfbgNSN0sQLBsLM7JsaVuWnhw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ01RS_U1ZwokRYmG4U1zKxgs.jpg",
     "address": "130 Franklin St, Brooklyn, NY 11222, USA",
     "phone": "(646) 971-2772",
     "website": "https://www.littlerascalrestaurant.com/",
@@ -39277,7 +39277,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Hip, wood-clad Danish bar doing boutique beers & a compact food menu.",
-    "image": "https://places.googleapis.com/v1/places/ChIJlaFjTURZwokRvsN6V805OEk/photos/AcnlKN1C8UbgEnsI_WsQBiTE-Stb5Ni7zkc9DKYXERcwi8HOzahAa0WUtuPp6ShFHhQoWVLAmZnD2u4GNeTIq3XQBV3UmMI6ckG-NM8uQPhOnooQMtI-Ayuv-9eRl1wsgx292jv5ykJ3-xBiYUgw-rhRgZPVQK_9NQDJ5LITHY0viijqnCpJbat0TJfy4BQiwcn6c1gekqQop8NGfy2pyZ56RlNuWw9uEmmIc5QInypkvJAr5HYtEflPCmV-4PO-6oVRoO279kj_Uh2YJr25bVG2us99PLTzZhzz-z6nGltiJQM/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJlaFjTURZwokRvsN6V805OEk.jpg",
     "address": "615 Manhattan Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 389-6034",
     "website": "http://www.torstnyc.com/",
@@ -39311,7 +39311,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Easygoing hangout with nostalgic accents serving beers, along with burgers, hot dogs & fries.",
-    "image": "https://places.googleapis.com/v1/places/ChIJO73cwmJZwokRV5VbHLw_rkY/photos/AcnlKN0_e7gSk0H2adNZXRd9Jrj162sZehJXbPrbP-sm9Oz9C7lQRLrTKygowzNQEphbUBGoAf745Fh9fY0MiYbspwdazIgmCu8r08VSDQbOSKlvuLURWd-TWnYf6Fv7yNnOtGfaFjjRKqnuR7VNpq8nKrvvdaaNo9L5ywtxwke9EECp0cOQX8XtdaulhY7JrjoIwzYEsoh8-OzlC-TUvuHZi1urF1ce58QE5P15agDimCODcUpJUwUFUVnabpAs2NIW1PunDreZnzvM__OTxHcyPqNfa4Ar4avbBTOJtNaQjZIYIQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJO73cwmJZwokRV5VbHLw_rkY.jpg",
     "address": "167 Nassau Ave, Brooklyn, NY 11222, USA",
     "phone": "(631) 791-3187",
     "website": "http://www.minnowsnyc.com/",
@@ -39345,7 +39345,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This cozy bar offers flat screen TVs for sports fans, plus classic & creative American menu options.",
-    "image": "https://places.googleapis.com/v1/places/ChIJNSSMrUVZwokRQP7J5TwWUAE/photos/AcnlKN0LkxWVjtkwbNHVwc_W9d5UR2FmU7WT_EfdfQH0ywTFXQHl3y3Yeq18YZh_-sva_eNlEs8h96E8vwIWHUkjRl9xcNGcB7ZUxQ8LgXH9raOpsjmyweViHQhrST5F6sYFGVpU2jVgESy_a19JQKL44Qwp0vC6jiQk79VmlYh1n1q0xR8Hl_uhdynLmJ8iIWUh1gu5pTBf0fliuU9avFmrB8VDh-sEa-l-h2gmnQp9VadXuq3xoSzQukE0i40h4a9DEEbVppERkfkbctJHTX_GivY7CmK4FC991i2XYjueoBUfTA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJNSSMrUVZwokRQP7J5TwWUAE.jpg",
     "address": "97 Nassau Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 389-5050",
     "website": "http://www.kegandlanternbrooklyn.com/",
@@ -39379,7 +39379,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJbfyMKL9ZwokRNaAxnXt-zs0/photos/AcnlKN1K-m759R9aCyPjR60mgVLou5KB7q2fuOcDq23o16K3b1HdmSO48xlHytRKdrW72Z8GrP5G7TwUXPfqu3hhMpW2NA_gh55HDfpdBnvCng298dL0lVlJEKoscCddBFczhq2ITSftRfiMY7t1nBi2iIoz0BHFFyxjmhoMIAPC1KRHmO3oFvNrb0rF-6S_e1bhlFWtGqgmFv0qu1i-TalYAEoXKC25712-UNNFRjgbEfKtDT02lXsQ9FRucyZ_Gya3H0kZT7gx1_dJfHk_kQ_Jp_agEzGzmpEACVzUiCOLQyU7rTD24chiPE2aQlGohz45w78IV1X1Taa4BCryIk14FtlTnLDf9oL9usTEbku3iu7-TGJ60Zep1pc8nMfv9ToQoEvyKVWAsGXXR69nqgafjXoZFdMq-RlrX5BIEUxpFaNsgUcH/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJbfyMKL9ZwokRNaAxnXt-zs0.jpg",
     "address": "195 Franklin St, Brooklyn, NY 11222, USA",
     "phone": "(929) 298-0051",
     "website": "https://www.leroysbk.com/",
@@ -39413,7 +39413,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual pub pouring pints to a crowd of locals, with a fireplace, theme nights & trivia games.",
-    "image": "https://places.googleapis.com/v1/places/ChIJt5IlX0BZwokR9waXJTw1XhU/photos/AcnlKN0BHTDVbnVtwIB8Pn6PY68OwtkRNzz7z4LS3PJYMCbjs2-dp73g_438-SMIqHNVzivblaC-xT3ZEjge_AiG0wzUnygpj-VF3qBneLqFPmOPffJaf8W7tqb6wOpMF3RAqht0bZBSTFyqiHmUmMBLovtcIwzYwR57cba-UttzTDPFyHYaYSwY3qOI_VsSkaP8auZT17zn1yzF00HldAdzQlYsdj50yPp7SgJGReKwLc947lfCHZzfgcO_BE09zM5WWbphYAhMk9PywnRLRFj1lPVlcwSjdq7NZ0SfGjiLc20wPf0mfNnJX_aX1YuzXF4KPSz1Vz7pPX_g6FHSZZ5n8cSSFzl98ot8VHziOejLdS0gI3BJkte5MbPlsvsNgEVhhroAonAuG3Iagj_piknmK8TOtITVaPR5w0fFdnS2J1MAYPTe/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJt5IlX0BZwokR9waXJTw1XhU.jpg",
     "address": "91 Greenpoint Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 349-1595",
     "website": "https://www.blackrabbitbar.com/",
@@ -39447,7 +39447,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Beer hall serving craft brews in a 6,000-sq.-ft. industrial setting with communal tables.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_eGfj0RZwokRykOPrmLmjds/photos/AcnlKN3Lw3nS0WeNy-yNkvMkuYyLvoyZTwCqvx9xE7F-pU-TIKg2w1sR-4dI2jTNrChaWuNnGah_NpJscDPFs24Bp4gU5WeXlIvJEQ0ozTcCAYgq1kxeatQmnn9-LdjL8f-xO9_o8fiqn3aL0WNXoybY3klQxuFTW17ZT2p7i2ZX7Qcg4bDj9e_TvBn_btizvubwkRYJCbLsN_Fq5Y9H0rJx19RPtQeBzfVV4DEdwZSS4yUOalTR_ETgM7BTpHvcKkFyTP7g53JVNYQVBpzMJXOTu6TGMcRmPeg-VKhgff-bm82OXw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_eGfj0RZwokRykOPrmLmjds.jpg",
     "address": "33 Nassau Ave, Brooklyn, NY 11222, USA",
     "phone": "(347) 987-4632",
     "website": "http://www.spritzenhaus33.com/",
@@ -39481,7 +39481,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Relaxed watering hole with classic interiors, fixing up small & large plates, plus weekend brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJKVTUZ3ZZwokRC0Zm7A4CmBY/photos/AcnlKN1DgQEKOfee9QGjV-O2Gzmt7mcceLefUBgzZhJUDWDDWflqH-pP9tg5C1X_69MxyU6PWfTzDxf2cKRWMHnG_5DWHnRzJPhU6TnISJ4cpIowWSY1cZN8wIS3eiqmd7bKlu6Xr2eWQE1jyuzd2cY_7o_vO8mCMz39Vw96emb58py6alEsjdq5xIbx3NhbB2PLTqY7dSvigiKDMIHnWgy8BWYpp2Yk4_O65VHXGu59eYMn1o8oYau2r35JTUP_Fpfb7P4KbVxIWfxdkPzi9-MzqMuAFyyveD3TaXCb8R5NCSg10w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJKVTUZ3ZZwokRC0Zm7A4CmBY.jpg",
     "address": "160 Franklin St, Brooklyn, NY 11222, USA",
     "phone": "(718) 389-0878",
     "website": "http://www.eldergreene.com/",
@@ -39515,7 +39515,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Listening bar serving up vinyl tracks on a vintage turntable plus burgers, beer & cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYZJAInZZwokR-egDr2ZzHvk/photos/AcnlKN1hljWc8OFaS90fsr0Gyo3cxPcwPT5C7xdKlZoUvIyINRR-FetmGoqPFWG0fMXPxJ4FgiIrdm5F4SFpLIpgacMRmKvt3ZmKDI2jGCMv8OmTjjRh57bBWdCh40usadS4L472BXmlLGfNia-684oEOhfSGdyrf8u9Gw9IKVLoHg0NrtjB7cFCmorp8XKLpdOrH4b90XUNXXsyFxnahJv0UhICRaetWuazcQf4fzLZXWseaGV2CUVO1XYpFww0DuVcKoKyVrat30VDQUJ_EzA-LBiezLUnD-KA9iQAjfmB7otd_oCRQbBRCEKxxYfNKzdvlHSchB9oHSl2bFltxHErJiNVTeEZzYfu-DD6F-t1LZSIMlulOQES6ZtmHCNLizPjREjHpLlk7t0B9GiVZN5YxPCJWGMCx3H7MuwpKor1tVtz8A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYZJAInZZwokR-egDr2ZzHvk.jpg",
     "address": "1 Bedford Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 383-5349",
     "website": "https://www.goodbarbk.com/",
@@ -39549,7 +39549,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJH_-tMGlZwokRqIqHR22D-zU/photos/AcnlKN3H6k6bh_CGTWUP-OJZyOk9AogEL67l-IMI9ASyeU9iC5crpKixmq10_94NH8YsDvlu_fuQX_Uvube2aT1RgxgtSzdtvwgO7CK6J_uf_r7w6ulu-MAJTsdsT9DowHYC6XQdGXvTCOMXOdUoQ9tDA0FdTynsUQZF0VZ7mJOQMAwNqWIsbSlYIwE-bxoitPW2aK6I2PVipiP4jAUx2Arc9MDBYV3rDC9s_DfthY6iJXHnIG3JLVN8RLwiymdh48iPLH6msQ_zw7wr7B7gdGrChUOXGO716CusNbxOhCS4Sg_Eow/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJH_-tMGlZwokRqIqHR22D-zU.jpg",
     "address": "113 Franklin St, Brooklyn, NY 11222, USA",
     "phone": "(929) 295-0152",
     "website": "http://sereneconyc.com/",
@@ -39583,7 +39583,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzSqlSxpZwokRnXgKKOO_yWE/photos/AcnlKN3414YAzVMyekRkYdUaSDPLuVWcJeKXqH4ne4UOsnXwFyaeykciI-9B-c_bt3n5HSY30gGioRmg41zqRu3sOIoP3P4pxHiBnPPhPDmYIdwVxQA6tJE-MHBtUZOUUS5K8D7m9E3lad2EfpzyoMLhfvkOvK7ThorNn9uEAUMR0iCPpPGnmb5NTHXleUrWhq7ls7Txk80k4wBizbL91JRHy5jMp0ziksRJI67djo_JAikEYyPLZAgLM568nMk5YMbicdONrNsDIIv-S_z_mEwNtiKxfWhVEiT6P6jUyRu9o6Y5DQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzSqlSxpZwokRnXgKKOO_yWE.jpg",
     "address": "113 Franklin St FC, Brooklyn, NY 11222, USA",
     "phone": "(347) 227-8250",
     "website": "https://www.madelinesnyc.com/",
@@ -39617,7 +39617,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Creative Japanese comfort fare by a lauded restaurant group in a cozy setting with tall ceilings.",
-    "image": "https://places.googleapis.com/v1/places/ChIJaQRXYuRZwokRHjAN5MkBizY/photos/AcnlKN0OHaa1BpEsfMFqTInd6UnbvrqGI0BviGICGVjtI3nvDBd5zmG6U_Ke5PR_N_JA3nf9VwjSU_ZtbB_uQAEuR8FVTEgR8CtmFnE6EVyrGiJw5t7w0gdm_IcuDPTERXxbH2HJ7ZQPkIS_lYlgzMfO07qoX6LjP7uZQMuSc3L5s0cqQr8QrBYvSv7xgI4gEY2aJKnYFYWjUF66YLAs0Rf8UYnJFvsKdru8W5kuWhyReSIjHOWWrTEdVtoSg5-_B_VVWdsZWl0Rqt-oC7ILxa8HUAjVCIajbqpYkYOnlZ62O3EQgg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJaQRXYuRZwokRHjAN5MkBizY.jpg",
     "address": "171 Banker St, Brooklyn, NY 11222, USA",
     "phone": "(347) 334-6684",
     "website": "http://thirdsbk.com/",
@@ -39651,7 +39651,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Hearty, American comfort food like baked clams and drinks served on red-checkered tablecloths.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ5T7dN_ZZwokRKJxbtcuO9lw/photos/AcnlKN0_vy_vjQy9ap_qf6W9uBqKnQuZXZSWqBE4RjRYYwIsodYZvh8yk520PqHeGfMpCtB0mwiQZ2-dEG-HtwtbbPfIyCuaV2bmwXRcKundHaSACg0LiJelR4AipihduSJK_Xdtbel3yUXDDALW1vJoHBaSmNx7dnoajtb0xHxA_CmLh77QMUd7GHVJq_Ge40nItwzPWoyumYEWefJoaLXh-AKIU8Du0HdD9rKLyNK3JToz42ZnH5BFJIivhtiZ_YJXkh3ZCnK67sDQAHUFc9zp8qoBR11dVvYPNzRCY-veDbvZ2y-uJUQzb0M3rr8TtcB-CJKmFgwMPdsLX44XGl0GRThL-a__Qodoz5RmjeOymWkghyfOufVuLVIKIlFmMkc9GXLBjJCNqX_yOnVHIHmm7m71a0DPP48V5uVcTSW4Oic/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ5T7dN_ZZwokRKJxbtcuO9lw.jpg",
     "address": "332 Driggs Ave, Brooklyn, NY 11222, USA",
     "phone": "(347) 529-6400",
     "website": "https://www.berniesnyc.com/",
@@ -39685,7 +39685,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Waitresses in traditional dress serve Polish standards at this eatery with a rustic farmhouse feel.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9d0I6kBZwokRHVwTlrpWxss/photos/AcnlKN1JrAXx4losp3c4Tg8WDlot0PVhVpFALJdrwvpsMa5FWzQCiYSvUjv8xf842PTaxtEbmBtivt8YFZIqdiE_qZhGv25LG16_PNmWr3vvobHJhDKQtHHWQGGjXRfCbhAtyz7FxlqYDK16n-71UUc_GLKtPxUDEZYeTv63cWjHggafcHe8m2APRYThNm-f3tXb6RpPtbOTebp7uJ8Bdo4AhVv54qtKKM1tJhinluw_znZlQKbjM14gKPFOQ_508mSnKqYoUEJl0C3r41xlXafrRK6EULP4BsDsBTl47DCWUwYNbA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9d0I6kBZwokRHVwTlrpWxss.jpg",
     "address": "136 Greenpoint Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 349-1744",
     "website": "http://karczmabrooklyn.com/en/",
@@ -39719,7 +39719,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "American restaurant with Canadian-inspired offerings, including seasonal plates, plus a sought after wine list.",
-    "image": "https://places.googleapis.com/v1/places/ChIJe94ViUFZwokRTJ3cQOMhFdI/photos/AcnlKN0xOjd6CIHQbbxovkyUp9W_cN525-4fb4iYlOPJd2M_acooTDuesGNmawI4nkOoD6ENckjdTNrXY0fWoQBtdwIWKG-1LLwRfJyGybJXDTf5lBN0jf7nhsrVk80QsXm1aMDu2oQjMEBTmgEWik4-l5WiP9xOKu00sLJ6F35Zi5MUMnWLe4K_9VkGyfkMhH0ozCMbiFBh4Y4EcjxBqqQ9iWVV7avbyf7uphnpPllMANhf7jrH0TSnk3uMUZiiccfwtRFBVXYUtyJvslvEnq78HOErzMTaxO3x14wZjIkSSj3WAw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJe94ViUFZwokRTJ3cQOMhFdI.jpg",
     "address": "90 Calyer St, Brooklyn, NY 11222, USA",
     "phone": "(718) 389-3606",
     "website": "http://www.chezmatantebk.com/",
@@ -39753,7 +39753,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Airy Mexican eatery offering wood-fired dishes plus ample tequila, mezcal cocktails, and a patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ__-z7kBZwokRezHqB39zBLI/photos/AcnlKN2l_y4OGwMBQG3sTCiadxy0OeXagbzKi78Wirai-AlwNfqvpbv8FDMeKkD7zb1L5wGS2j2RFEG6X1LsTzmDPUzLtzh_glnKhjnzLyLQCRdLCef2T0GVJxhs-Gv7f9fHgn0I02W-IHFQNlt_JsPADHZAsyaq6BGlvc7OnDea2e0ZlPPfgjuNbdKh4HTee2Eg1seOIX1lLhg-uoxX-p6yoT5WKeHEyRiVT_NK_IvDpkGRT54r28DkieYNNdMkpt6U7C0ZsoNNHuDxm8ZDOdgk9csrN3vUkSXkj31OhmnpLiIu_dk4pJBgsMFNHeKi1DrA8gOMFuCmMLVGPlpV5mPkHVdfqvqNT4Ur_9P6Zc6FvW32k3PAJf4mCMXqNmSunmrB8hTufwelW3F3nIdRX-1uqkZiRjLIOCtrOeSGcY3xODZzpM3u/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ__-z7kBZwokRezHqB39zBLI.jpg",
     "address": "128 Greenpoint Ave, Brooklyn, NY 11222, USA",
     "phone": "(646) 688-4180",
     "website": "https://www.oxomoconyc.com/",
@@ -39787,7 +39787,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuQHR0fFZwokRsy0YbU9yXS8/photos/AcnlKN0jIpF5qKzRMkrD7c5Cc6n5feOJyvW-sXE1ymYATKQVkIi30nyhL2p0XpYpEqKm4dyx5lZaQwDnsCOqTvoDtsmRmMJgEptMlUVjx6Kkw6OgnKX9AeYnatpxSJG42MU_Ckz4c3jfZFb6d-ILPAsbn2OsmW8DA9OdaYCHl0spHnKWPvpCScuAtO3vZ4x75DsIIpohJoZlGvG4-eJn_zI7zlNlC7VC5-u3mFNgsEWDcpckYLbFJgihzXLlECDdSVyyKz-ZXpi_14aG0RuZAjqo919DEF6hrCQ1grwT8uw0tPc3arP2JuI8hqn4KbgVw297TeTd-_-do45IJfQNQY1JCjxlMUsTqK5_TjgGh99EINHsykcaF01gPOj9WQ3dDcQIzrNAtzHJy96QBGrg6Cja2VHAsyCO5pebfdBWKtme76crWno/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuQHR0fFZwokRsy0YbU9yXS8.jpg",
     "address": "156 Driggs Ave, Brooklyn, NY 11222, USA",
     "phone": "(347) 987-4870",
     "website": "https://www.sandwicheriegreenpoint.com/",
@@ -39821,7 +39821,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Mediterranean fare & cocktails served in a former glass factory with rustic-cool decor, bar & patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJf9j4STxZwokRc9PDhX2eoHw/photos/AcnlKN1D3KKWqMhzuvuxVmiEhmCfPoHzOQbISF-S6vw44RM5oBYH04hi_qNO27ScNoQJQeI3VpYND8g5Ezgn18JyBAKCJlyTk1lv6x4J_EzTe0KE27z8iorqkxhv7fYwFUWrDJWhgUSZMBvg2XPGTmFNwXuP_WyLDDsKA8ZZS8OIpY528OsKcOYBz4jOETjAldTJIRE1sJYLVwoKSxPbzocM8w3DcLbcf3B_APNs7TQ3hwfwaO-Nzb6LK0hi60t2LN6dV-m7CUt01V3bH_WFyyKHPOp4Mo-q7CGfN2Uif2SKeMr_LA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJf9j4STxZwokRc9PDhX2eoHw.jpg",
     "address": "95 Commercial St, Brooklyn, NY 11222, USA",
     "phone": "(718) 389-0640",
     "website": "http://www.glasserienyc.com/",
@@ -39855,7 +39855,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "This chill Greenpoint bistro offers New American fare with an Aussie accent & brunch options.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ1dUY9kRZwokR7lu8aF4zj-Y/photos/AcnlKN3KG9Ag465aSZJIilejVP70tLEE40WwcVgOT2H-E3AYxA4A9VgOTcewrfqONFInPP82THJ97LoaW85KiymNhvu1hMq0n1ZNbKlgOesfNKYA3JxO4EBxgsZnPqlna5f29r0N9b2hzshbWeLgFZhM27rSD_0gVYQrtI_vNRZvRy5WWi7bl3IE3ov5r8D1eGl5GeY_AuAdbFDdnNPHLly7tP6uHGM6MJ0OjuRQXRI9-uh9XCI6UppgcpboaplBJDtXIiWBUsyJv8DsjTL_t8FRyM2K0PaZ-CJMHKAuCNzT1f-72-EcFzPYs7GkfsXoZUErFDVReSh12n6nWx_WR9ZzKTriCoMWJUU6yEVjNPiMPGRgAUt7c_D6WXI3cMClewFdqVQkybntiTg32LCLDhw6DIR4dTTgEQNopchxtFM3dlk/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ1dUY9kRZwokR7lu8aF4zj-Y.jpg",
     "address": "18 Bedford Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 383-5345",
     "website": "https://fiveleavesny.com/",
@@ -39889,7 +39889,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Compact restaurant serving Taiwanese cuisine and cocktails amid an easygoing atmosphere.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmcr2IF9ZwokRr-u_-UTxju4/photos/AcnlKN2lVFWk_l75--IQMOLOpMT9tDrPxEaiNwDfD5UniNmvgI87cRhh8_AWfIN287QB-RAXcGZGS7PPK6rc2nSRGYsVdtemw81A7xGag37TxwY8hOrEMtmZfp66L72HUshYHBr2CbLGcI2njjaRgBCadmFkTzRmjIJozwsA8EPvQwLwFNgqiC8Y2YUD0qG-ZdT4kwlcLNg5KJULLKM45lWCKeklk7DTiXQyEp4OW40EVwZ0jVISBMXN4rt1RIOR0m_Lhbhi3lpj84uSaOvyl72F5R6lWPI1by1FAkM3Q16XyhbVphbq-JhMT6Lmg0TNOYvgaUT9S2y-KjXe5NxH18RoxYrEWROwXp9Uy_cdmdHKv1ATeqKXwbrPf18ka1gbVgdw83Hrm4NgKk1gL2vm6yKq0tawNy_YKLhf1gA6j-flbYXjlg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmcr2IF9ZwokRr-u_-UTxju4.jpg",
     "address": "1025 Manhattan Ave, Brooklyn, NY 11222, USA",
     "phone": "(646) 901-5644",
     "website": "http://www.wenwenbrooklyn.com/",
@@ -39923,7 +39923,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJPWi-ugVZwokRLBGafASWP6s/photos/AcnlKN3_V8VGlwPF5jUjNqpDwk5B3NdpnbqGmYhZyUGpEwPcI58aTI5Bp0M2bW4oI1X_-DNw3WXLmBMNP05mNol1g1HrV2r2CSxoONu8UF6MfyPZGoxFkoWxsqf3-f5KmdkQaE-UujqyK71j3vWZz_bOBIScy4ht6usIYIA4eyPqFaL9yDkGN-mgXHQiRUNK-BtVKTWrm7NK_a9ipGIQUsa1_mUzDnblUy36LHOtRL__jp7UK8cwU0MDFD31evlpuVTbmzD9ksy5dhXJZdLwVaFYnJ1Q3fe0WdCFI6Noa6YGJNxNFZQLL8EnGDqzKOEL7wbvp-Iyuyzb-S1TVpPiJLtSmmxdGcUWTfHAMefEqit0LHRKrNZ3vq6BOyCrc-skHjZ8R2Y74syyDDzt79pJz109zpD31yL11U830qRK5uCVBgTazuR-/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJPWi-ugVZwokRLBGafASWP6s.jpg",
     "address": "27 Greenpoint Ave, Brooklyn, NY 11222, USA",
     "phone": "(347) 529-4584",
     "website": "http://www.lingobk.com/",
@@ -39957,7 +39957,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeUVN0a1ZwokRmL33czrgxWM/photos/AcnlKN0k5wd5P8ldj7itr_TtmhhtfSXI5T5JbAcSt-Ri1W6Plb4e7fGmsc1JHwbvgZl43JqsAEJojwLCUcE-vsyXhfSwQFarHqAii9FyFzHju-JVbFW5xil2-cv3yqTZHi5TFFBwTIO64_3CYcY9UDll1iXeabACs8tx5y4hM3SEggP7aZOyv7xZOSdK7H5BR6GgfeH6nwNewze46YpBlxZheHK1AKm9UN66W0b8XdoMRzbcvAnO9JQIxDYohYF39q31P-fZ2QWHaUSQGfdMZUKcWnKqqUJ4mkuVKFDuZAZYpIFg2zv7ryhGNt7DVWj1EoUTG4DuqCgZHMX1u6GqgYeHhPqNiZvZlDoM9BS85t3z7Lk0H61Fi-KMI_lOPks9DDnPniNchOuPBc1DxJIALWIZUG_yp-HYul6AxgEf7yUfwOkGT6cH/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeUVN0a1ZwokRmL33czrgxWM.jpg",
     "address": "25 Greenpoint Ave, Brooklyn, NY 11222, USA",
     "phone": "(347) 463-9509",
     "website": "http://pinguinogreenpoint.com/",
@@ -39991,7 +39991,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJl-SePCBZwokR4TtitxjHUbs/photos/AcnlKN1wi4cVBIc-wl7b2b30NC8RgUj8TzsofPaFvoj4p1hWko25zEEo80mmHJ045c8neRL_IvNe5nJjReMaz8I_IU9VYqHCXzoFGMKq4mrgTB6A7V7Un_N2J8Ks8wjrfoLfVfsf1L2nX6P5gOO113ZFpEgb7DHRUmpuxPVN0hnj4NRz7UiCjxgPqPZXPP4xO97isrMh90P3Z_GQvB8rg5dQZEcqpWgJNoBZk7E-QQsavEQiaR1whlCKnM_86w2g6JQnVHil8OI9Hqc83FZMp1UvxjPLI6bqc6NMbrRiao5tfXAiCg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJl-SePCBZwokR4TtitxjHUbs.jpg",
     "address": "131 Greenpoint Ave, Brooklyn, NY 11222, USA",
     "phone": "(347) 384-2957",
     "website": "http://frijolerosbk.com/",
@@ -40025,7 +40025,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Italian meals are provided in an intimate library setting with a bar, live music & garden seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUymwHzxZwokR7PrGIBU3gz0/photos/AcnlKN1eqs1cw2hmzaFBy4CXULtckIOe9s4NxgkG305pqhf8KHyXoIHO5OVHoH1Iv9cKLTzjvRUaH4K-Gw4FnzC5kl-_3k8VWj027fwZInM6oX6m1bwTbW5H-iPdAMPoMC9pyTo0fZagXZyhmi-4gUh6Mc9sz2hnrtLQG8Of1QuRRqwqPyEmkgI-_nXZ1FW46B32KhsvuBDhBBziE-T5UpK6AEq9Cwk7b4BSoF31e28gPLN5jNkcNjTeou1qpcn_sIPjG4Z1JUee_BBeqcluXkC-QFHnRVpykyrQx96ajE7V7KTftA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUymwHzxZwokR7PrGIBU3gz0.jpg",
     "address": "35 Box St, Brooklyn, NY 11222, USA",
     "phone": "(718) 389-0160",
     "website": "https://milkandrosesbk.com/",
@@ -40059,7 +40059,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJa51eLo1ZwokR2f0GKDB7Z_w/photos/AcnlKN01SDS9b9QATujgfZPGd3LJ17k4uTu7sFBB0UsXen5F0Jggcmwd-KBEjQlwHg7thJIAiMkvXJhKJKFGqx8GlJt-lEwLOOJIUGssxxOVPVvHcCcAZocGn1HHCstd1vaHheebUK4GpWJggD8ady7GOkNJO0w3KNSnxDv9LTkQdDXVJjcVsgnL3TVU_02a22EBmJEHEbGrJNVg4G7jTbEYtyFDsk5Cj6rxGEC_lmDX4zk2ZO0X9zoCWrfPtPTyecYxXgC2uUBneSYuyJd_o82gJU5jQXmjBUSzhq4nPQwL4-R2pw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJa51eLo1ZwokR2f0GKDB7Z_w.jpg",
     "address": "159 Franklin St, 56 India St, Brooklyn, NY 11222, USA",
     "phone": "(347) 689-4231",
     "website": "http://ohdumplings.com/",
@@ -40093,7 +40093,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Offering casual Italian fare & craft cocktails at communal tables, plus frequent live musical acts.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZ7jMnT5ZwokRr1LSqkFSdLk/photos/AcnlKN0UeVFaKhZtJjAYPJ1QyS_OCMTvPUilgLRIjEGNehu8EZBc2rqske5Ase0EYq8-H4drbEgf9_R4CM279CkiMbl9ky7XAKhpSeqHW7IXck_I0fMKanej7vw2SHbbeftPFqW2otAmCc86f4s7D0JwbuPeqFiX1a-3LXKSIDAvhgeGnFOBs4rxpqaj17-SY52GWSqD-HiCLhg2MS3iiG1RegjJsBML6OME2VcwoAFDQPZsFaTTugoUwB3aJMNjjg2Xf7MJRc-NBJWXTYQARcNqSL2k2QwUGvd7V_AFN6wbOLrRiA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZ7jMnT5ZwokRr1LSqkFSdLk.png",
     "address": "1103 Manhattan Ave, Brooklyn, NY 11222, USA",
     "phone": "(347) 987-4244",
     "website": "https://www.lefanfare.com/",
@@ -40127,7 +40127,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJadBRB1ZwokRjuBGgN8Zih8/photos/AcnlKN2TWl3PJOTdKQ1dr0-rYNicdHQ24MIui5bU-X4-5c6pg2kyZT2iylK-GF5ukXwxRZxnt0q1POOywf3hOO076y3l0_lv6hXFochHlgPfJhap4ph1AdpxrfmwUrUj5zMpVhQsXPTBvT2VISFSxitidbM295GAxumeEwT-m57P_eV2BEFzB6Yb_wMrWzYPHHrsVX4SJvyHspZ2Ld7kAUmeHpr2vK972AmM88-P8gVQp3AKGqFH6MvgcR8DbSDn_Svv0Qd6fazccYuDq662vU0ZF7ukB6J5dZ1mCcTz2i1N78AWD3HH3kIf9DovK4OV_MxypqMrBi2MncG88jvSymVm9C9KUJCOrn15kO-3s9UsrAoP6DdOksFVpOKh7pZUuwuImoPGNJJutg6jFNMs0X0X_UenVKcYLxaVc5tHOb9RNgX8O3DRDtM-CiQ85yi-v6vM/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJadBRB1ZwokRjuBGgN8Zih8.jpg",
     "address": "1079 Manhattan Ave, Brooklyn, NY 11222, USA",
     "phone": "(347) 916-0016",
     "website": "https://lacontentagreenpoint.com/",
@@ -40161,7 +40161,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJlWmsggZZwokR2yHyFpFXD1o/photos/AcnlKN2C_f4WrB7AulLWREYfl9K9O-EzVRFzqtRc5fNVeRQ_mi0mCMTDxdKyAok1LTBuXLDeOPu2LgzExDGwcFww-mQyTSguZbwW5XVNEUt388Mscg3DZUhOa-6FTjJ5ZzjGcH5q-xDEGIOMnWDy6ehbZTUlEjnpjkNisn4nJiXZgel3hvCY2Ek0z2vUgqLMyliJKWROjLf6GnWNrk78_fZY1UcJFzNlqEfxOy4f2TcQnzEzUaeRMNP4sTs2SEgAoe-3TfskCPAhCNpePEhLpDb8L767SnxMNyv6KMKLpim1RIz--UdN6OpGjmQZEbK312WPGRh1_bdhUKGE--Qik9js8TmPPiaM5_maq0UCkF6Oy2tVWExSlpaHP0CdYKyleGO7l9_YkXyRnjClTqLC5_LwHGmd_hV57Wv3jxi5lnPurb9y_A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJlWmsggZZwokR2yHyFpFXD1o.jpg",
     "address": "50 Norman Ave, Brooklyn, NY 11222, USA",
     "phone": "(929) 675-7887",
     "website": "https://house-bk.com/",
@@ -40195,7 +40195,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJcelSUXlZwokRkD8zyKGV6k4/photos/AcnlKN3GpySIe488zFLy0y45XCGyHlNkmxCc1zUKbqZ7KJgHD4ypK-9Ja9zox_ICH40tgjZiFkLD1DwQ-CsVTTvQfbTq4RvGLhH06aU_f2aV0PC_Ofxxl2XGS2YFEEFjmVCmjA1XiZNHTeZnqKnrlDF6QXUN7wcELy-JrnJt9KEQdEw_89_TV4xFk20bWhcV2HLp8Yw-IamoxbEnb_Tag2PDfIcmiM2CTUevB_4G-RVzinB0Sczr4bl5qd7S85DXHXpmS12lRBo7J6sK1dd7_w7YLzTCLQppDz4oh5WqUY8rFf8/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJcelSUXlZwokRkD8zyKGV6k4.jpg",
     "address": "132 Franklin St, Brooklyn, NY 11222, USA",
     "phone": "(347) 223-4106",
     "website": "https://fulgurances.com/en/the-restaurants/fulgurances-laundromat/",
@@ -40229,7 +40229,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHZyajD1ZwokREWLihHYSryQ/photos/AcnlKN23AEZpMn5bPE8gHZ0XVEdXbNggZphRFBqACBirAM2SmDindZ6fxcwx1_Ofvc06qt1NXNMR6GfyBRqP23tYQlFSqJccg8w7GGM-wou20pG8AKKNkSnnUO2IDLdG0OJ4tVJ4aV3riM06TVzEqrKlNBtkC_kqu2VR45LoPmG-9wldZyE4EQncAd3t6cBWUZFBZSrxcCEDl6hFii3LjxZoVTNq1lTbZFlAQCa5vFwBEnK-R6fArupkZtifru26PuQC8j89Tt1H8FBPL7ALZ1Vv9oncNdbdD3A9-8w0aqSuHJW0UA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHZyajD1ZwokREWLihHYSryQ.jpg",
     "address": "150 Green St, Brooklyn, NY 11222, USA",
     "phone": "(917) 274-7154",
     "website": "https://ilisnyc.com/",
@@ -40263,7 +40263,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Lobby restaurant at Franklin Guesthouse offering elegant plates with international flavors.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAVTGb3pZwokRmKrpkrTn1NY/photos/AcnlKN2jYCRZTIXuxxTrD0mC6hvY7DyVzG1W8-ovys4KUHjyKYBPTnQYePCQcuynVPazTspwN1XGq3MF_xzvs_wComGssB2ejv3n61uXVYeRjLbZwRz0TDQ-PubquoJJSL9q6P4S9Nk99s3JJIrHrPhlkBLbThwj1B0LiNIiYqylBqJ8IkOOrKO0tLbi1wR6Zqk8cMEfGEXTWl2YVlJ4ZsiHCWxPAJrbod9zlMv-ERHBFrXD1_ylDrBRBDHY0ks4XxAjo8-au0nXKHcEuVlPBqPM1mGJXF2xBUBrd-SVqnOlD2CpUQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAVTGb3pZwokRmKrpkrTn1NY.jpg",
     "address": "214 Franklin St, Brooklyn, NY 11222, USA",
     "phone": "(718) 389-8700",
     "website": "http://madrenyc.com/",
@@ -40297,7 +40297,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "More than 250 American whiskeys line the bar at this corner spot also serving craft beer & wine.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ0yWIjD9ZwokR2Vib1YDIIjo/photos/AcnlKN2qnBZSGc7hIU3pO8nRIYRbZTC9YcjE9HgQ-H4zzPZtmS0oPcKXeNkqvQG1l5bKcZQ1DWvOzgQ-e3u6P4WzewV-jzrrwefSUztVLLxYowcnK-3OF_Urewj4kxyjSjYQhciAq7SpTrJcrc0R9RY8XoQ8TG2lXI4U9_sU8FOBPvFPtxotsgDi36l-v7xq1w0AeEF3-FgCNvuL-b498kvLKmen1bWVpxGkpCyESk6ya3SGzaT9iJvl9rrNTqTKj4fHbbZtB-zYV36xafoTbu0pzP5BdqN8y_OkQuFIVJcULs-BKpJ-t85q0GWN9_595NyUtRVQkinz9cWKLrnXw1uIUE-rU3e5FzHW62jvKAa5TJlyPcWhksZfYndSDNvf-QDul1FmJzV8DrnNk8swBKAAK_crnK3VVhUCdC-lfGXcEZuLQA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ0yWIjD9ZwokR2Vib1YDIIjo.jpg",
     "address": "200 Franklin St, Brooklyn, NY 11222, USA",
     "phone": "(718) 389-3904",
     "website": "http://themoonlightmilegpt.com/",
@@ -40331,7 +40331,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Unfussy watering hole offering hearty, internationally inspired pub grub & draft beers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7VhT3sxewokRpnmXD6ZTiVQ/photos/AcnlKN0oXR_u7YT9ETPsfHxVX68TFjLpSCl0XxYnfk_gZwIOXKKUQ5F59AI4vqEyfht4t2unYoDbu9vxmEdP9b8osHjzbXtnc3YAHtbVmKi4pXl54k4Is_T0YXaQGwPKagTvSVzq9m7SXSe2XsSzhI3vuTUig8_d87e_B3e4SuZsO8MhlaMbLKJsLz0bx9GpTkDQejHpt3XD5AjoB86lhbX1sq0fVY02reMM6QzAfpGBnwsMAR7NRBsdL0osGCFYiDYxYjTTuq19vHGvEul1uZATnZp4d1bb1OCn4rsXDBsnz8u6S6GZ7fsxgVNF3jw2bzQs0oycmOYM1CD6xheX6EKr7PbtiYfpE8bnou4j7ztFklcRjXhjFK1TwF74njRWE923WwIVfO-_TPxGmsc9ZEWpwJxz8Ulu_gfHSX3NRXHrJJuwYQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7VhT3sxewokRpnmXD6ZTiVQ.jpg",
     "address": "33-01 Greenpoint Ave, Long Island City, NY 11101, USA",
     "phone": "(718) 784-9500",
     "website": "http://www.bantrybaynyc.com/",
@@ -40365,7 +40365,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Quaint neighborhood sports bar with a selection of Midwestern canned & bottled brews, plus taps.",
-    "image": "https://places.googleapis.com/v1/places/ChIJq7FIIURZwokRjEIcTr9zhs0/photos/AcnlKN2aHzePDI03Hmu4xqTAkzN4nOhoVwsqoXwU1PkBpEI8MgXmsCzu8uDzG4oCJpYGABsHZ-km1jrx3kQZGIU0FAsPO21Ig-V_fXi0a9Es3wm4fb_n71h0KmUkvutVsAACKOalskMkA3408pDyA9EaAVlzaGRS96VlN3S_9lgJ-WrLLKFVXksHM-4xLSeOcSwGUlbzWSWWMpy1Nkrn2YU8NS2SM5uB112zs7nyjgqaSWS66nSqAPcKao0z0aNsQDsqKT756DNSr7gfi3AcDdDB6VVukdYTnHYCz-Nzzq8dPRmWHg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJq7FIIURZwokRjEIcTr9zhs0.jpg",
     "address": "706 Manhattan Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 609-0005",
     "website": "https://www.facebook.com/pages/category/Pub/Lake-Street-170514946445112/",
@@ -40399,7 +40399,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "The jukebox plays country tunes in this hip, laid-back hangout with an exposed-brick interior.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_Y2pdEBZwokRpicoQGSBN8o/photos/AcnlKN2CDbL_617zEKv0MZLhsd8nAf0f_A4VOdgTHlcgJrjQqAa9NRVqOKkSTwtE-LGcWH8Ud2OYqORKuT-sAxlIBMLIXP9XLSek3eIKCXyDyCfiH4DQBmIiW8ah_hu80207vAb9BjdcRMNSrdsHLRMhUdqP8wnAeyUtJ_HWsvWBOZQCHUiW7udHTRqDm9WKDEaDTP1Eayp3CYyosb8yfHEOnfraTe7KjWZEWiCHxbp4ZlrmVFVzMIMuPbwYhFDPuiystB93EYcMdQeKTY4rQBlMwUr7sQDDO4ngjqsroUEqEDg_DEzO1AJ4rrow396ce1-n9CUmabvJX4i645j0o4FdWKQDphA7NmcTvKZyw3-uJ52VLRBXoUo9Cxq6zQQyY9uOhZ8tSGH7VmwpxlhFTa5dC-jAnFLQ_WFt9HvPpbHOCoDKow/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_Y2pdEBZwokRpicoQGSBN8o.jpg",
     "address": "147 Franklin St, Brooklyn, NY 11222, USA",
     "phone": "(718) 349-2252",
     "website": "https://www.facebook.com/Oak-Iron-150166341749649/",
@@ -40433,7 +40433,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAVpqh6NZwokRJOer8_6ArM0/photos/AcnlKN0P1LjNNxq0-OwgbihfokGSR3VS06iaJV0kGecpQP_m99rqJLYtH4skpst1UwukhywoEamEvZM7ptpI3bM5Q9QDm61vka-PtfZ0uB3qLgt_WTBAu3Z_Z3Nk4O0jCzzrc7z-w03xlaauCe1sO1HxhJbiJAbAlXRMzsDc5DkrJTDgI7vaGV8V8F9yilQ0AsacGeOIkyMPsQNVb5npDYnrS_sdkA9iSmHy1Lms4gGwFizMzAs4pa13gKhmeau_U497MjPNrsqDyLtJ3w16-b5O8eGOtgG_pc4bsck2SoZigQOvrQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAVpqh6NZwokRJOer8_6ArM0.jpg",
     "address": "159 Greenpoint Ave, Brooklyn, NY 11222, USA",
     "phone": "(917) 612-3260",
     "website": "http://www.stowawaynyc.com/",
@@ -40467,7 +40467,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Health-conscious, Japanese-influenced fare served in an industrial-chic destination with a terrace.",
-    "image": "https://places.googleapis.com/v1/places/ChIJi7zDhGVZwokRwoHkVROLwlk/photos/AcnlKN3weYWm3CXXzMtTkImYJgO_u2RzwNBr2veSsU_3sIy8OazUnVwdg9WkLndzP0-H1NuZbS8i55_sciIZzE2mtOe5Xj7_PQInjtqezVIfv9eI08_sb5RwAPdIiOWIaM4235rkpj3gPxHDw0iDeeazMpqWU56Fq4bvK2_FvWEijCbbbfHurA82uV-7LIn0T9eUyJQRGjFcUn9sMEePEAmaLLvHk-8rBfHAz82y53Sq93-at4hYby2zX4Z0YGuV_HHra_U9dkLXcyA9nZmlzoWoJNVTWKlNdW1fujncyFlOGjcWdJBwNjSM0lT7pJ8EnXqEWzJeBCJpPRv4Yf8PyGXB-bRndQLzL_zW9S7sHszx43IceRH85ZHU3PI1_o2T_0CCcn_IEBX_SGlTrjqZqwWM5pcWJ5m6Jmbq8VVeulhlBKEUKd5vdHxHKjETbPJZkpNa/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJi7zDhGVZwokRwoHkVROLwlk.jpg",
     "address": "64 Meserole Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 954-9074",
     "website": "http://acrenyc.com/",
@@ -40501,7 +40501,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual neighborhood spot with a wood-fired oven, featuring a seasonal brunch & dinner menu.",
-    "image": "https://places.googleapis.com/v1/places/ChIJp4jIhmpZwokRabZfKVJPoBY/photos/AcnlKN3IUneKgtYMgKAxHJaITiB8NOb7QwfPlRLYtW9SI3kjU_4ds3gFT1iAcLF5dPNdbmQEhBDh19-OZ459fb3xZZkWtBMD5rUn9JrsAJ9u8Ssa8lzCrEL2whgBeV1zsbHl3IdN1Ts4zVskO90_FNIBqB41bQFBFoRLl74BbI7G0HZWGUbzALg64UyOTb0585qLuOpijy_w1HDgTgEf8c6U0opZqVMLO-5BdXXkuUzNRt8U-2SJ-nExBzrgtjaoPrJCoXpFIbBWVu5f7mci07hcKZnBfd7JLgRctoQcKrQF9A7q3w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJp4jIhmpZwokRabZfKVJPoBY.jpg",
     "address": "21 Greenpoint Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 383-8833",
     "website": "http://www.21greenpoint.com/",
@@ -40535,7 +40535,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Parisian-style French cafe dispatching bistro fare & specialty made-to-order crêpes.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLSZlpEFZwokRkatFFV8Mb3E/photos/AcnlKN3nnUikoh9UIlTGTKJ2slbRUG5iZkVE9GDlfPqZHEZ3FSrJ72UtHyWybquCV8KnrRKKWVsftLZ6zYhYTvL0frlxlquKdk03d7bdUsT5P510mjfV8S4puhglqirAPX5i0Kon2B3_EjGb-aZr2ODPI_i18V3IU_KJ_qw6KMz-HWXpj50fYhdb8IN5ZfPl3eWF5CxiIHbjymvtnUt-xnUCZYOEf3thQv8E11i55ws7YzEk727Mk97ItIP8s_hQf1TIRoHTDfb7HxBdffsQvWo9JaucAMFh4mmMhyv_7fULQtknh6n83ovrGOsSP_JfGHC4iRCBTzH9g760KViaqUDj-exQnwcp4NZHCLADrC8owjYIJ4r6G6SIoRaJQUsQxteho6nDY4i77haD2mGKziVqRo8Mme-TmDns49vdNEoWeLJPfQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLSZlpEFZwokRkatFFV8Mb3E.jpg",
     "address": "108 Franklin St, Brooklyn, NY 11222, USA",
     "phone": "(718) 770-7918",
     "website": "http://legamin.com/",
@@ -40569,7 +40569,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3Vn-YGNZwokRKs9M6LiXVA8/photos/AcnlKN31q8n1ueMgFA71uQOMDRg9URDQ2J4YZiKY5hiXw1KiERryItOTxmr1NQnXBWMOqjldzp0CCgy5iA9J2alg4_Q_akrTvUzEoZrjtBdVv7zxh7GLv8ZBz1PP2_6PY_o9IZ-zZkM4S9Rx3g_49SF0MZ_oGTqK0u2yIy6Y6DH-9lW7JEwpm1NmraKgmOa2XZfQ6DJU2dcbzfsHP0J7K64Bo_xlL9r1C4J3J7b_S_M93i-bphqaqnxvL_qbAVg27pqzxs1a2UaRCRxAwN5aw4LDTaz_mE58Z_BXepxIgUVXSPD_ig/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3Vn-YGNZwokRKs9M6LiXVA8.jpg",
     "address": "544 Manhattan Ave, Brooklyn, NY 11222, USA",
     "phone": "(646) 688-0022",
     "website": "http://www.thesnail.nyc/",
@@ -40603,7 +40603,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Hearty Puglia-influenced Italian fare served in a rustic-chic space that has a bar & live music.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUfItHUBZwokRQLZURlrMYnk/photos/AcnlKN3M2DSAtIzyVIcql_Z9UHiizcL4bd4okIlWRFEikdHW4uQpebywkNphVbKc5Vgtg48ylcKnpvPkBrJDUmUsJGZkK4VqZZJ9PlPYJmwYIP1tWgtbgqEa4sswrSrUa2kLakT_Q3ccFzOS-7TeuLkarB7jtGdl2vivUjf9Sio8dxyy1s7pjkHdgxNcek0074DTz7X5NPYvAZDHL63OR5nhu8HOdyBUYHvhMDfRhM7sBQ-RMU6vUq7YXASrWwCMn_dMyuNx7EUvihnGVEAK4tnDyg0gWe9v6auzB4aO595NRwM/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUfItHUBZwokRQLZURlrMYnk.jpg",
     "address": "47 Java St, Brooklyn, NY 11222, USA",
     "phone": "(929) 337-8096",
     "website": "http://www.nakeddogbrooklyn.com/",
@@ -40637,7 +40637,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJMVIviv5ZwokRZOz215uVhGo/photos/AcnlKN0LQT84nNqdJjYopGPDKcQb2P-zczP-lioSdq-VT-p5ibYsK2kk8xh5nuZEC_R15Io0615BwtwF4dlziiDWWrFn6StbIfIbJOD79UG7YUqSHX_hWmLhMPc4pUj7Bvj458xwblY5aVQOCOaKdewYWvEfpqKhOedurOP_7OUbPvOrFK_vYulok5mnrHChRcV-K58OAy6l6pxO0SS_Ty_gfXC02eaC5Q09qlkc5ZNvXT2SDcAgyE1RcwqgRuBREqLj9NA9myQjtpNSBrDyeuEvmUMzOQ6HHc5104CPJ5PeExoX7g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJMVIviv5ZwokRZOz215uVhGo.jpg",
     "address": "13 Greenpoint Ave, Brooklyn, NY 11222, USA",
     "phone": "(347) 799-1190",
     "website": "https://www.theradiostar.com/",
@@ -40671,7 +40671,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "High-end steakhouse boasting gourmet seafood & fine wines in an old-fashioned, elegant venue.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAXRH6kVZwokRgV_sanKaFCg/photos/AcnlKN1AJf1ktvz1-vIYuB3zwvZPaUsDY9hKm3_5dw3B-GrJLMSZTcm4zZEXNxhFYAoFddZpxfc0hwCqv2CZt-4eYpxtFTFtTLW8eVSQlgyHZBdbQ2PEJ0K5WpmmqMrYCFnE0Kic3eYrpap1Rf2NgTH0U15T7ElJr1gOs_E9g_pDoTx84pT-Myvgo0qz7kFJr7lGJt7R-aaQ9YtqrPuGsVfcbU-4pCo1MC_4Thxi7wn06PD_rs-Llu7gldZrCw5wHI-Krto--uZgiFawiODXK_BU5Q6ct51b6YPM8kQrXkJz7FzflQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAXRH6kVZwokRgV_sanKaFCg.jpg",
     "address": "119 Nassau Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 389-3757",
     "website": "http://ambersteak.house/",
@@ -40705,7 +40705,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Cozy bar with leather banquettes & a patio serving lighthearted cocktails & Southern-tinged bites.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9_6fek5ZwokRPvoHjnF0Woc/photos/AcnlKN00IHbwwh9s0lccRh4MPk2FWfxDDX2o10l5fUuPxj1jtuhFn9_qIbXKTBQvp2Ot-31rOMNGb6x2Ufaf7JaT9SSblcC3aIFX6bdfWK2IwqeIus7KAjdMDKU4rTOqEKNKGEsR7MzcOPRcrUGHMoUwLQke_k8KzkDLa73jic_LGLB8pqzV2xZ77T1WmtoT1iecxi1_2XLo0LHtrIoWs-oz1SO_ay_EywVDSlwUxnzbN5OTxb9aJTnVFd5d7dFVaRMSwoD3wAGrUwm32kudvDKPNsiZ-0Bv9egKbbKZBxUcaNTrNw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9_6fek5ZwokRPvoHjnF0Woc.jpg",
     "address": "579 Meeker Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 504-7776",
     "website": "https://www.instagram.com/thedriftbrooklyn/",
@@ -40739,7 +40739,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJnduXzuVfwokRk2VE0PeUdmM/photos/AcnlKN04UWR_-LGq_92VDRyEsd6UgM09tPahOBV4bYie3_waWyLQ_sFxKskrO1vBHshBVW4IPzF1hMwRfPj9YG3QaLe-7dTfzgX9xmkgypoHMaqumg2AQZV_R2i0PC6E-PCLd2qflIWZNZXqNNlxI0HtvO_fRG3vx74NBT49l1I-Js11IuhoLnUZ6dTwhXrftFfgN_HB0jN7nH-WQ7Xvnonl0BiXBgZk9P5TYkqRnNDWcnrgrEkHIXdWSCDn8ZKm7rF69yLKWyJNK2ZzifAS2CZL5kf8z_jeLmPjWoaChjecqlwr9w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJnduXzuVfwokRk2VE0PeUdmM.jpg",
     "address": "45-15 37th St, Queens, NY 11101, USA",
     "phone": "(718) 550-6108",
     "website": "http://lighthouserooftop.com/",
@@ -40773,7 +40773,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJA18F3yhZwokRO2GCqMAG4k0/photos/AcnlKN0UcZQqMi-oKRg5-GbBM8SD3ddhgV6SGSOe1rBHkx5VhRhxsJD-JB9ZpYX710KW6CYCWn2RKJJiAsE4YE0J1wRR8wLCxeTElAC2JRI0x1YVMXJgwORNGP9Z_b_sGWl4xOL6yqt1ZskzuBb88ZZ2NZIB4er2Jb9bf6uTyuNyfZ18EFGJ_Mz0HmWpKkxrZoG7b7lM8GNUgn0fcCGAj63JTBWw6xDtHpka8yzGoiC8BQoxjeWzjqzGTW6e5NZesJ8z0Epvpa6VAx6jQpj1I3UnGy6KH1tjIYfI_42ua6nF15mSaEL17-NpMT3kAQQBNdRvo-OTeF1VdrmkDgmjxpydmYXZ26V-DeW50K6OIYQXwPDGXKC9nMC01QGdfsRa4_cM94M9-mwhbHQifcd06hQlCs33ArsHDfAnSnkHUj1HRC2xbzcslhwUeXvH6dq25A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJA18F3yhZwokRO2GCqMAG4k0.jpg",
     "address": "45-06 Pearson Street Rooftop, Long Island City, NY 11101, USA",
     "phone": "(718) 678-5165",
     "website": "https://skybarlic.com/",
@@ -40807,7 +40807,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Cozy coffee shop with a rear garden & light bites that turns into a hip, low-key bar at night.",
-    "image": "https://places.googleapis.com/v1/places/ChIJaWZBIz9ZwokRPKO2K25Uho8/photos/AcnlKN3QSn7qkRR-FfvE1rTg_27UWorncTF5OW_qc-lnk_htgWP9H_puhlEO-8aMPpSDLTlshbBqIPBxgbK9p4D9fvzPskyAHRA2eOG4EFm-5Y6hqHj3iEGAwwkdbs8qGRNKcNTM20w5znM9ED-V8-gNdcyWYJzgGlJZ4hswb6sgNA22qEHN9O3XPbIOvNqSujrbzZ7D3OsYgi2wNlEhNpxkqx6iLHqaGAVoconX-aM94Z7EzinZ-JjosALviGcXSf6M8nrkp0n8avtak_-XktnxOVGgoGBtCJtyb6cWBJRCS9RjvA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJaWZBIz9ZwokRPKO2K25Uho8.jpg",
     "address": "1011 Manhattan Ave, Brooklyn, NY 11222, USA",
     "phone": "(347) 889-6761",
     "website": "http://troostny.com/",
@@ -40841,7 +40841,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJgZwC5qpZwokRvjEBeA44bAI/photos/AcnlKN0O0f_Y7FTXfoUrckQf1f5qmz3cQv-tHFFMgV_5E-Pk-gtqmCGFGkhSt-MvFUZuW1PjkklfF-hDrt-deq24AO8JvEfOB0ms667o0WJU3CntmT7bliHCJkURYxXLdHZyQZHH2plczDzznhxA0A9Gux6Sjjs3RHz9w7GuCYr2zcZ9MyBCy5xMXrixrainPbnMhbUkL_OMTWZFAl-DtyT7xuoWEK8p5mwAiB34MT1app7083CsiHqKYw02tJzGl7HRrpVbJ-Nnzv8pgd0EqWjMwDSdnUJLt6IuEXpd0M41-iUUzQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJgZwC5qpZwokRvjEBeA44bAI.jpg",
     "address": "220 Newel St, Brooklyn, NY 11222, USA",
     "phone": "(212) 812-2996",
     "website": "http://www.spaceclub.com/",
@@ -40875,7 +40875,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "This unassuming, buzzy nightclub with chic styling features a full roster of DJs & concerts.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYaebsEZZwokRdaBnC6WMr5A/photos/AcnlKN393BpypYwyHZDcbtnSoHLdN90m20cgSFH0TFuxlewE6YVftToADcMad2kcNf8iiVgOMzKbAUYXB5Fabb5X3AiWX8cnqX9deSwh-c7T_Vj4sGT-fBaZQDEQF0wClkX__hK44nqA5w2ONhtTVa1m7w0lf7933luqJ2IZmITVe7xP1pHgyIa-Rgi1iAQCk5lTI7Ul5PknoTpvjV82HhixgbBspEgt4I7YnvJy1keypt0DzkI0-DWgx5zPKJSq7btrVvrUPjKbTw62YawKF09Bfa3cjVavHGdSDGG1r8OSZi598Na-oM_tcDGoDZzMoaj-CMgrSW7MTcUFvixl_SGtZ6usW_6c4tDCC2m8HF-MleJPMc_h20Lw61GGIK1dZAK9BiVJt0I8yWNBhsDHOo9vY-BMhmrfWhSlFlKewfipaSM/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYaebsEZZwokRdaBnC6WMr5A.jpg",
     "address": "98 Meserole Ave, Brooklyn, NY 11222, USA",
     "phone": "(718) 349-2373",
     "website": "http://goodroombk.com/",
@@ -40909,7 +40909,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJh_M4wKBFwokRCUbxskB3h-Q/photos/AcnlKN19VwzF0VdAOrWN28w_dPxwDV6aS0FY34jSzEaPNSmc7Ng03F9IYzGMXp2dKf1jfW7jeHWi6Otxc_ff7omyftyYGvSkDK9W0FcuV_bcycE3n-yz4uMY3JTqVkObjj9Edt2DtbytySp_FOXV1G9mXGJRxzoRE7PhzTdPvVQVU0PelfsmMI02jMN8w08rJgYaLSbxakwAAib-OlgrZB2_0U_VKai7ARFAQPQKZBC6cAyoa2seQbRynVXuMNzcUy7C08y9B5LwUWRo_ck0WATpswHDoKXTmycmVUvufGJGWt--BA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJh_M4wKBFwokRCUbxskB3h-Q.jpg",
     "address": "2799 Coney Island Ave, Brooklyn, NY 11235, USA",
     "phone": "(917) 686-5816",
     "website": "https://www.gatsbysocialclub.com/",
@@ -40943,7 +40943,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGakjPLVZwokRVwUuwN_dxkU/photos/AcnlKN22_KiPKSb8j4BZ2cjYU3L3cNrNqkA9_OCo0HnwcFUsG_5nkNvG-byHdKcKjhVp6-6eyAIjgI-8W_ITJCBHw6DE7-adovAfSFXVBj5EIpmLb7qRbpz_VWH93ciT-NDkdod26sriS9Yf9Npz52itn0cwO7c6PsWQoLqR7X81Xz0ws7J4vqfa7oN-DVzLtMsA1hBg-cKdyTyHb-Nw_ItkRKAJ70AaOeCDpIz_x4dw7Pgo_qRoG62Es7yrCHAE0IdyL2eVFWEOBJYI4ADYdjEi8nMC59fQWvHk-eBpty1QfJGw6g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGakjPLVZwokRVwUuwN_dxkU.jpg",
     "address": "25 Kent Ave, Brooklyn, NY 11249, USA",
     "phone": "(212) 871-4505",
     "website": "https://othership.us/williamsburg",
@@ -40977,7 +40977,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Convivial corner tavern with an edgy vibe that presents a no-nonsense menu of beer & booze.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVStnIxlcwokRBmm1gcbhef8/photos/AcnlKN1KiMyk0e_FE-VEYlFeC6hS70XKuel-W_7YNrTdr4prExVg7m2irUqAD_u9OtaE_Z5RhV45zJTI12AeeP8NWMecFHJ578OfN0lw_ig0uBoQL12-TZbyefbk95icHgYFdemIboLb91yYMMzCTJLXRk2DQ5HISnw_ztce7ICtxshYASiEFx6nZl6AkZzv6KbGA7KIhadxh1FjgI1u1g42BXtBdYPTHw2QSriPZsRfyFb0LD0u83LbZS6Vn7jiBzC3_Fez0pqe2J9-M1yDEDEMPsDUS1XuiomnZs9ZDvY73VCSEQ_lrGn2Nhglng8MmputhlulxXI4g3VBIwlsIjMSu71Zwvu9HqF8yYoqIgf5uP60ga9vnBQCct9jNVyR7erZz9xRDGz2kfL9a0K1z418K5Zy4rI6betQin_oAlRC7pexnR4/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVStnIxlcwokRBmm1gcbhef8.jpg",
     "address": "308 Bleecker St, Brooklyn, NY 11237, USA",
     "phone": "(347) 240-9105",
     "website": "http://boobietrapbrooklyn.com/",
@@ -41011,7 +41011,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJv8gOfoldwokRV_GezFwAyDA/photos/AcnlKN1Wvd9RX4-do9GR4TZn7KFDpYJAKBnZlVsJRyGe4MePxMLMQlyATofDcMkEnHhG_cx2HeNU6qwmcuGVKE3HxeWIuoRBSNB9gN2SCeFJu15n7o2bdYkPLQbKVQnYSfPZDBgAfINaKWcFAN1IyqL1ThsE4A_nfsUFZ2vCqSzRnDMhM-RvsPJeHGOrWlLbMf16WR1BxoZHFzTqfdNEv23vNuG3cAzgJK62yqPuquWv9n9OLKq16Anwx7twrub6l9c3s4VflzM5L0pwWzHmTeNt5XlbeD7abCqp4tKdWkORjYChmg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJv8gOfoldwokRV_GezFwAyDA.jpg",
     "address": "1312 Decatur St, Brooklyn, NY 11207, USA",
     "phone": "(201) 305-9485",
     "website": "https://witchinghourbk.com/",
@@ -41045,7 +41045,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJKTN6eehdwokRSVpHDoKvw7k/photos/AcnlKN1AH8UnWblel2dhSKLKP8-o695W2UdCTFZKlz-z44VT-H3QOaX5Rt2h2o9070uClmNaQtahuTiIvQPHh1UKMnN7c7SVx5TKpjFIAWTGA9DQf2_JU_bdGcsXBUGvUPgLXd0QC5ndZWfLe_xjarC2cdkIatJCEkwhE49i68YCnuyLY_I5epHrNvOBU_27tP7vCkbUgP5gImhytU0woDleCr6nXgcNt5WIxRfW9zcgak41na5J-q9yE2nhTg0D9ouxHvZZCjwUoFlV5vLcN-fdZ5pY57KAu4mbXbkL3tUoW5Y4_A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJKTN6eehdwokRSVpHDoKvw7k.jpg",
     "address": "679 Knickerbocker Ave, Brooklyn, NY 11221, USA",
     "phone": "(347) 240-5222",
     "website": "http://www.filthydiamondbk.com/",
@@ -41079,7 +41079,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Funky, compact dive bar with a throwback punk-rock vibe, pinball machines & a photo booth.",
-    "image": "https://places.googleapis.com/v1/places/ChIJaWWZvQhcwokRQfINO6CzlLE/photos/AcnlKN0qQKg9cHb_DO7LSokVuXVxPHBKJPAw_AEjKDmFvAB_ce-rUF4DFmX3831f6EDCsxJ4tYdQ7mevsM0KqFuieVZT16hHqVC-5XoZIu2C1_VjCkDabuRWW8BK-gon4bn9-ZioN7lANwCl2ThgXEb1UxmBtG5t_4WVHrsnEFQXDBSNIG446srh_zQBQ9PEkjqqDCnDQz8eiKxpcPOVB-qaa0ZMOK-oBjSA0NQ27o86Du7bjk3p37VF4hSwevHQO-mk1L2xLGuwO_6XNnKIuxa3eHC9JDHfX9XnzOD2QR-vxOjMv-gc7zye6njjen0BPbi_7WaEmQRHvyjZiXxFhSj_HA9k-wzE-3CSSdQjIAp9nDl1FZjk68VJZ_dGLvhZeTh7fiSSX-Hta0kQ6Q2ncUqyi_1CgmcHGsAxB2YTh_DMKEK9Tw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJaWWZvQhcwokRQfINO6CzlLE.jpg",
     "address": "1215 Myrtle Ave, Brooklyn, NY 11221, USA",
     "phone": "(347) 365-2677",
     "website": "https://m.facebook.com/birdysbushwick/",
@@ -41113,7 +41113,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "This small, full-service coffee shop serves cocktails & New Orleans-style Southern fare at night.",
-    "image": "https://places.googleapis.com/v1/places/ChIJpwu_dB1cwokRB_7Vq9WZDh0/photos/AcnlKN3ROdYsGukQ0Om-TqGysqP4nLHS7tLGHIl4Nu_kXFUMwcRgQGhPk0lQxBdcz3VJz_smoso_AyYekcCMDoiWvNsWiqnhKcpnTWc8jAEPRklOSuXYWMCpMczG65Gbt1G5sqljK0uESwHfWLXUHBTWGkfKbTt2OGqGx-RcZRdcylDoDr-1CN5XZjZJo6F3ZHOaa45-tZfjXPX6uzCbBnohDTfAaD3NhB9WSFWSMvYEgSNtwQiJpetSsXyN_zjXOFtM5QNUa2irgRgSIzQKQxMpH6Oof_l-2_0ey36MJW9ALcnARw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJpwu_dB1cwokRB_7Vq9WZDh0.jpg",
     "address": "50 Wyckoff Ave, Brooklyn, NY 11237, USA",
     "phone": "(929) 234-3500",
     "website": "http://heavywoodsbar.com/",
@@ -41147,7 +41147,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A tattooed crew runs this corner bar serving draft beers & Mason-jar cocktails to a local crowd.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7Q2feKdewokRNwPRjzsOc8c/photos/AcnlKN1BiK8idX7xJ6v-_8g8OHC-gVZ-0QVkGbmMdxWsAFnF4RtZfycBYuabuB_Gzq_7jJm4l5vzF14dvTlQ-pohEnn_q7g5LcMUppA_uU9x4AstwFaoz0Nqt_5uKF8sY5JYXNQgab78-tSOO2Ibj2FW8OReiBBwtO0LkLhfgWS2grZ3gAqYeSLuph1ur-RmDSOz7-k8Bt-DieCecL--xsccZ6kjaTBm-ILn6XvzirbkOCc53X4afWbCIMdLt5YpFaARvqPo8A6URa98uZ0e_vzjEH15GdVAVqECck4bOLbT9_CLBooYsY6t9ZgJ_yS0OUpwW787g0Gt6F4MxzDkxUtKRCWbyuTX4GsKYXmOJBziHwIaJngkwmnCJn6OMGu_bB9LSVZ_TSA-sRfLpwLwi-8uG1D4yEAA2pFA2Vvp0tjrnkBok3E/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7Q2feKdewokRNwPRjzsOc8c.jpg",
     "address": "40 St Nicholas Ave, Brooklyn, NY 11237, USA",
     "phone": "(347) 627-9985",
     "website": "https://pearlssocial.com/",
@@ -41181,7 +41181,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJDS3Yw4VdwokRbTiWFKRuNeE/photos/AcnlKN0sUfI2qDWV0LB704WHMnSSW73S7XVGEPelUeEQPUEv2M-9YkITcKSkH0eqb8vu5HEbiqedKvxuhVWkNN-2Zlvq2-yQJJZ6y5V_yqz8c7kLLqmUyk5qxY_As9pD1TD-2NSN35xBpMFK8Y4Ik_6g-kGHDtfNoAzgUALGsJSjTYxPWsAn0doGoTtbjzLzoyMVAF3wW5SN0sj-NBdYo-MDLJSp027bBoRJdOpYupXKwmc-4fcGSH3LK5p3xORF1Iay8N4u91ghATRJ5uSh3XAda2sdu2G25EzahRkJrhAwugtiZg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJDS3Yw4VdwokRbTiWFKRuNeE.jpg",
     "address": "412 Troutman St, Brooklyn, NY 11237, USA",
     "phone": "(917) 283-0742",
     "website": "https://www.lovejoysnyc.com/",
@@ -41215,7 +41215,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed watering hole with a cozy, nostalgic vibe offering craft cocktails, beer & wine, plus a patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJl66pMw9cwokRVevR2MmIqBg/photos/AcnlKN2v6pembLrvqTLFerOFf3d-L8J3qkJ4VcEZGnqwCjMcBT1eX-nqrauIHbqQvuwi7bL6_BEpTXuqMfq8yxREc7W05ABKhM9u0qRLaWuh8KX6yJ3EbsQWX-pb1tKjUuL2_fuEjzZx1Ykys3kLVmPupMaqBT8aXCqm4PMRQ9AQy8UQ4yE7Nl5a_qSSnqnu6KaBTjf2FtA7vj0_RvGDzFA2osbwQ1ZhTs4pHUx__jwFXKgUcPef-w0XXHfwW8-6DOR8huRM6tXN4jRi8yRSzNw-18KeXkfhR6VzHzRlMMhHDHPjuA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJl66pMw9cwokRVevR2MmIqBg.jpg",
     "address": "538 Hart St #1, Brooklyn, NY 11221, USA",
     "phone": "(646) 264-8426",
     "website": "http://hartbarnyc.com/",
@@ -41249,7 +41249,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Cozy watering hole boasting a fireplace patio, plus cocktails, beer in cans & bottles & munchies.",
-    "image": "https://places.googleapis.com/v1/places/ChIJqwhqNh1cwokRcUqJU2zS5M8/photos/AcnlKN0JeyLKQ8noVV7DlzVOZteZdkHzoN98uV_lSAFGvWnfuoTeUxKqN7tch0mvnHynok6f4jWDe54AaL5njk1_i3g2ncd9vzrgzGTncO2F-BNzZsya2HD1abLztNvCuOi9cbUOkO_voVigkHmIvQgbS__uouhL_XbLfFRinWRPK9tW1AVOUBWaqGdqPTsQEWXw6zDfHfpg-vnpeqTZijyDdQX6EVpcVJhkAIKKUaUZ9oyyvgIv_VBWIVXybCXJv_Lu7GFAp7wz4V5WTF6_BDugm7dsEyH487ouNEIXeFWgTIF3VK_BQSUgsd7qoJ9M9m3KVamWz-0JfNgCPB4MVDs7fMn32fZBsROST3kw0-Or1a24xJ52CGCtdUPkp8zwZ0KX8A-AFVxhD3M294p-TPwvkgXGreQR_BA-wUzG2zwZRUP8Ug/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJqwhqNh1cwokRcUqJU2zS5M8.jpg",
     "address": "369 Troutman St, Brooklyn, NY 11237, USA",
     "phone": "(718) 417-7100",
     "website": "http://www.thejohnsonsbushwick.com/",
@@ -41283,7 +41283,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Tapas, natural wine & cocktails offered in an old-school pub setup with a happening vibe.",
-    "image": "https://places.googleapis.com/v1/places/ChIJv5QvLQddwokR8sH0Q-NHt5Q/photos/AcnlKN3FttccjdZLKrbD2PrbH0oe3OvIyIRSfwyZV_8aq4I0EvYCi7FlG4NpJ_-o0gDKB-hIPkd0crhVtuplWsN_b8Mkyg9DPLn2xz2K6_qC87nPYHA38asA4CT1GoctwlYSDreQ9j3AB95BzjVAMlKHD2BOQaq2WIaF5pogEKw9u1tVVP_PJi1NvctPeJRm-ZGvOJz581FdJOtVzwV0tCbx4odNBRp5O6vJjXpp8Tt9x4ikvjB4bbr9GA63ynynDlaempm8sJ6-xsys0n2VphdhtNRsIATYWdyxzDDaD8dBXYNvtw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJv5QvLQddwokR8sH0Q-NHt5Q.jpg",
     "address": "65 Irving Ave, Brooklyn, NY 11237, USA",
     "phone": "(845) 584-3523",
     "website": "https://www.tenbellsbk.com/",
@@ -41317,7 +41317,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Artsy hangout for cocktails & pub grub, plus live music, film screenings & fundraising events.",
-    "image": "https://places.googleapis.com/v1/places/ChIJKx5RIh1cwokRi2jyqtjqG68/photos/AcnlKN2oxYZoIof_86jCGyh5nBcS-C8Kgy6xN_bD0yJbi7Xdvq0UIDxdA55ZRTWqxmmg3tUHXqLw0szdjMAHTgLIW076ruk94trO7Ta8mn1xbUXZw5NK8gmN6Jh--gOwJBVWd8bhqhP4Gg8WVWjWwYrw86Mdi19ZMIEMSje1cDzmL3eUHVSbTcax9jaczAPw6iEnw-GzPavMntqRAmXZ3ISQmS24kiIYk8Y6lJTcbucVy0mXzv62xrDrhPaRcyOC4nnc2_HDn4AurykZV3_9B2OlDVTaHNPkQJ1E1ajnbHPF3H3fjg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJKx5RIh1cwokRi2jyqtjqG68.jpg",
     "address": "214 Starr St, Brooklyn, NY 11237, USA",
     "phone": "(718) 821-1100",
     "website": "http://starrbar.com/",
@@ -41351,7 +41351,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ-TUONC1dwokRMqaawUL5hto/photos/AcnlKN2bS7ZJ6bH6dd3LiSLqIzhZzbg8pHk8CgwKhbQFZMyl95VOFzs3gVn-oTnVmzLCGqDbU7makTdy-fZvmHPWt9GGvTdL8-9RQM5H2RhKUhI0TaJu_-nZrIyS9C3MCjw4iP-MXGr3pKqCGpyARpegn9ia2tdfGE3ilvdIqE-9hyaIU4N4NCIkC45YKkpevdRQSm1Xvef4046Bx1t0gGyxV4FGkczV5pBue44I7N26gaQKxMwbxqLA84SuodlKkcrFqjjiXUVE20xcRnFCQxS40ZyvhWEH9cbK_Nh0YLAkMbMNA1Jbr0p9wMuJF_wqv3_dmGx3fvLZH1g0QhauyNignW6Y5IZMkOUAzZ6jX9XHv1en9nEFx77ziPzoXNdr7Mbg54g_6KGla3zHvJXe68KAcILYu-2APbaZog-kc3lqlZgocEo/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ-TUONC1dwokRMqaawUL5hto.jpg",
     "address": "400 Troutman St, Brooklyn, NY 11237, USA",
     "phone": "(347) 221-1692",
     "website": "http://bk.jukebarnyc.com/",
@@ -41385,7 +41385,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Eatery in a former tailor shop serving an eclectic menu paired with cocktails, wine & local brews.",
-    "image": "https://places.googleapis.com/v1/places/ChIJncjrqQFcwokRZZzyxeY-tlQ/photos/AcnlKN0qpqX5foJQ_Tv7SpGOyoxJFudBF1BvIFpMLsShn7fDlFLUOoeEf98ALnLPL9H6bezqw78sDIYW-rYiD3sLENgRuPDOWFeIAd8kirdFonwdlFwbiYuVnwNaSw7zdPkSrGnPsC3lzZAnmyyjwQPilK84N9KEbEhiRX0dAwrbz0clyERjmnnOqXqWKeET59FBcUFex2Q-sQrZ41xHR7xCM6BN9rUYvkG_tlWF0bcG7oEGVKUqLjB8hmVxSSXWdj4O76PwmdEeJylIks8Uh8xkVO1HlvqdM07aqQKHeC5divGzVg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJncjrqQFcwokRZZzyxeY-tlQ.png",
     "address": "18 Harrison Pl, Brooklyn, NY 11206, USA",
     "phone": "(646) 886-0601",
     "website": "http://www.otisbk.com/",
@@ -41419,7 +41419,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Comfy pizzeria serving wood-fired pies with a sourdough crust, plus natural wines & cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJl3Fhlh5cwokRQEja9nTWRv4/photos/AcnlKN1PLOSDiLHgVkYnCKH78u3CZQEGxVvB74TZn44ry_QF-7MJ6EZ4LiS4pwiikz7iG_XuFhqHXw5TRqNXqLpdFiceySgNtGHoLfcJ-WuQ0ey7nfGQKNqXS7YbatiZQxDNQv1dEloTlOxwtAUnNd2V2Z6U6q1o4wJEVDmcu8v7u6rj_WQSS7dreHNMgNqRFR0mSNks9l_JaMO11nXGElX7iLIaO2UIZuXrrdfmHjMyERkgDcmnfZtswX3OBN7epu87bPHeGa3XKH5g0eX2Jo9695B_ByimCFzLXSVlyY9PTGE/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJl3Fhlh5cwokRQEja9nTWRv4.jpg",
     "address": "346 Himrod St, Brooklyn, NY 11237, USA",
     "phone": "(718) 386-4009",
     "website": "http://www.opsbk.com/",
@@ -41453,7 +41453,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCzyNLENbwokR-lXh5FtzU70/photos/AcnlKN2fIIeIMcECuCWt_PNF4C5Zx3Dr4DoFPJWHNz_bjf9OrGzepN1DPHRvCsMBGWlzQVS483gXm-4NKDoTnmzLArIjt8qlxDcSjppuYNW2jEmpVk6YUMo7fO-FEurWHjwgf9zT7OF1-3t2a65mEy-z4iXUA52X1gi9iWdGiesQrLbD8Bafi_bcb6zvUqmedd3_ZI1SPobeEAedvHK5ALrPcyYsfmhjxJ9hENeKbWiqqNyp8sQG0Z8uS_UsKjsWTaTxnLcNnX78olZz6WrNw9ribEE-9vr_J_kzyendH_B50KtNzVtiW7OYbzMkhRDOaYYZeNjudyhqzgVk4sk_XHlWCemSWVD7pvyJJQ3FwdMr88br9-k033UoSSh0dIuDFO4DywycgjKDMwqt_QsYvJhjTWhCGaFWcmxCCyYH0FJ_xyBJZOYg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCzyNLENbwokR-lXh5FtzU70.jpg",
     "address": "436 Jefferson St, Brooklyn, NY 11237, USA",
     "phone": "(718) 971-9636",
     "website": "https://www.nowonusa.com/",
@@ -41487,7 +41487,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Place with a beachy vibe for oysters, grilled fish & other seafood, plus frozen drinks & DJs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJO_MlXh1cwokR1YDm45sn_Wo/photos/AcnlKN2C3GH7qraiDZO_ac4e-I67XZw14GDtFM2GjsKZyi5k9C66_wugjZA-mX_OpZXCKwBQBa95lEHDwjaIUPzPytpudsrB2gOSyauoy-xOsKeXZu43bT5Gp0DLzPDf9edAG2Qqv58CbuY65LBSXYoaIlnHYlJ5Rgy9o-OWMZXW8UHD5tpqh0aTYQQTfmhDT2SED1c3Dt7LkqUYHtX25Mz4977rA7t6F7oYpWw0mPSbY7Wq8UYRFwCyWofLco6S6Tb-6-bJtYw_oPDSs9E4750q8HIa8BkkbJjQyz9RKglVSQa5kw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJO_MlXh1cwokR1YDm45sn_Wo.jpg",
     "address": "19 Wyckoff Ave, Brooklyn, NY 11237, USA",
     "phone": "(833) 524-0925",
     "website": "https://www.seawolfbk.com/",
@@ -41521,7 +41521,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ80WOzERdwokRXjGSASkDZxk/photos/AcnlKN0pwJdx7vQtYUJXxkRsHRvzIgUm16osNseRNlvLhTtjzX12r0obFPJxrkjPJJ2gcgP6-asfM5hEgWOeDMtzmYLcC7no8N80mVgE7y0zbyJW6AJMl7jEWDPSzDxiqUzfHXW1jNUGfp8ajg10ZMo8oPGgYBSX5LkM7DG1EdRSdLt7r8VUJMJGTyDxyHGRyYU23QSIubWjg4zMxvlJWy1dWajMCS9S_dByhBi8O9u5EITXFkPCMc1Zagar_xXFV4mvJeJC9zb4YEGIZMP3gRXqw1nhkJOQG5AusiYUu1fd8zYskw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ80WOzERdwokRXjGSASkDZxk.jpg",
     "address": "1006 Flushing Ave, Brooklyn, NY 11237, USA",
     "phone": "(347) 318-3885",
     "website": "https://www.tabarenyc.com/",
@@ -41555,7 +41555,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJcwh59ARcwokRH_Ew6Plj6Qk/photos/AcnlKN1DaNo0Mlyy4LsS5BuFl6ibctlOo5wjmc1d8KGSxE2-sOrrWxXcJ1a2Rar8pHh-GP531kdDPfSFCpALBucu-lGt7YKTMS4ZSQlI3i8Gh3Trz_-EQNASMjjIZfdFwKMt-HK9uBHB04077C5tbXW3dDNmq7BsKeplpISmQzBp9w2GwHG_XOo2N8AHtra7a3Tyg3rkPFQYMTi4YtWKOPD6kWdYoP0IFCNlT_fKvpcv0a-0r9saDRPIJ65qNftgT7g9oQeoHVYe4i4EVs0Bc8RgdUaCyYlK2ASEHPoPVj_FzpA23mk_4tIhbFZznFMcpnN_8GGMZRfpuDTvsHyEzWireUNAxpNVl4YnTuDm9q0o_MugNSTcn7VdKpNnKeFWqhjtxkc9__u1DF4O-cW5vjrS7K8a0fljfk0LxbYsbmdUCzSZJAgl/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJcwh59ARcwokRH_Ew6Plj6Qk.jpg",
     "address": "50 Starr St, Brooklyn, NY 11221, USA",
     "phone": "(718) 676-5003",
     "website": "http://www.carmentasnyc.com/",
@@ -41589,7 +41589,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_yWCPIddwokR8opzBfz82aY/photos/AcnlKN0kYYpBfeeF0TgW42MRpiNDaLNjtIIjy8upsUDK6cvrn6LNsH-B6qRlkn9YOmZoQH0c3m-076kqxvH_OoEEcA3KcI2fCI0jZYMJxmF4KliOgLq1McFz5Qf_aPB-OdT8vARcw2xnGXOM71UHsKB2_aA8cW4-wRAlJ1U25phR4VgSN0Hb8X0bWjc7WvZ2xfiwRLwdZoGZpWm5TUHrbFQY4IfgJ5YzNqwUidWpme6fzSzogG7Nsy2jYtZ1przSxAHViUx_LC-Wp-g9-ECReFQLFbPlwZjVarG7gDOtp1Hqesna5w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_yWCPIddwokR8opzBfz82aY.png",
     "address": "1329 Willoughby Ave, Brooklyn, NY 11237, USA",
     "phone": "(929) 489-3800",
     "website": "https://www.themonkeykingnyc.com/",
@@ -41623,7 +41623,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ39bSFABdwokR05BHt42BmR4/photos/AcnlKN3wrc0ykRTj-_KyO3psDAX_tutWnLFntfUaMacfPimpvM-_0Er463bhQ0aYet8GxUvB--3MLkbLZMqFnWRbmcgLEWTxkr32iV_8xnm5JeAWTtSfGuqSHY9SIYJxs1XpoOFO2RTHVRsujxEVf1w6oHV1DmKHBUo81xbHsCrn1KY41a7yRSANFXHLBt40x0VRoVQzGvFTto3iaMW2cSxhWlHT7QDiPoIp3edhd5zRAFy1a7_mo_Rd2NRwpVb-d8SIm1G-5UhVsrrCF-p5hAFbX35DWG5eUmElfAqwvjAixhhHOw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ39bSFABdwokR05BHt42BmR4.jpg",
     "address": "242 Himrod St, Brooklyn, NY 11237, USA",
     "phone": "(929) 554-4996",
     "website": "https://www.instagram.com/tora_nyc?igsh=ZmtqYnNxYXBsM2Ew&utm_source=qr",
@@ -41657,7 +41657,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVcmhnstdwokRBw9LuIXIrrY/photos/AcnlKN0uZcscNWyDu67kC2tHuwVLKg6BBMamh0Pe9V-O5Ilko5uaKLy93nZllly0FChELvj5xKDLU44TNRHpGgnzXFTTqgtp__dhmVMlKUKwLqOPc4UQ9XllS62RbRtXLr9LfGhBEwL2uPn5bdz3Iew3qNRpWepmbtcCMju9-x7CHtf-JiPTJtmxt-tMQwQLk_CbviFzb5aXlHtloiiUKB7WiHVNV4dXuKAzmCOVgKWXxo-VgdznWg5FeqEA898o6_EtBXsjuwDUpcK9AtnZ5Xk7aqXwVWpKAqmJ3NRGnJ8TsYNsqA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVcmhnstdwokRBw9LuIXIrrY.jpg",
     "address": "24 Irving Ave, Brooklyn, NY 11237, USA",
     "phone": "(718) 708-4565",
     "website": "https://nanashouse.online/",
@@ -41691,7 +41691,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWZltv6tdwokR_tPaTI2sANM/photos/AcnlKN3tiBVjguXoX61EAHztJu-qnKgJE6lOhFxdvcVHbt7i1wTUNCdVAWw4buk6YajkjDbuHNEwxPa8AfcaDAYfCOvyzB6wfDrdRCZ4Z0r2MzJRxjCMEpNc5RCcofAuKVbyK88Dlhj_GNysYD90YUsDeMxjai2BtSI9sm-d2rcJdNGthn2iCyrEOrt-eAGsKJ_3KD8Y5Vyuj_NFReEykue9ywvpPqkaqKFQZotQ8TJYjSjo1h84LqsdlcayObrJ7WRsUWBLrWtNlOHuX1-TeczmSXeqm8L2lWKSM-CVITu9e2UTvA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWZltv6tdwokR_tPaTI2sANM.jpg",
     "address": "942 Flushing Ave, Brooklyn, NY 11206, USA",
     "phone": "(718) 673-8848",
     "website": "http://www.chiangmaidinernyc.com/",
@@ -41725,7 +41725,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJt3CDMwBdwokRDr_4LWE_M48/photos/AcnlKN38V0roDafQ1XibL7sLT-BGivYP47LEYVO1zZOI72LgrbKOdif7s6_VZBUWRMBRIA2zTh1oGS3pL64Rze3ZXgb_th23BnZdn3kwDTu_KjLIy9ikt45FX4CJow99N2LdpjtQl92qGNvSRzToi0qfzJ-tHuTaMat9QlSTWRTEhcl-i6dPBnCuWnqn-4ful6LNF6x3kmcH7L8quLJY2OxBrAxvhOJpX_w9vXU2a-H1KFgLZay1weSMaIEEpNxwOqwwkncrBxGt3Yu5-MW4nX3nultjW0046OwlYHBfyfTRkTCZpQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJt3CDMwBdwokRDr_4LWE_M48.jpg",
     "address": "242 Knickerbocker Ave, Brooklyn, NY 11237, USA",
     "phone": "(718) 766-0635",
     "website": "https://www.ayatnyc.com/location/bushwick/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile%20&utm_content=bus",
@@ -41759,7 +41759,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Mediterranean mezze & mains are served in a quirky space with a relaxed vibe.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_____xxcwokRvgheZgxjWtk/photos/AcnlKN3LkWuxqRnVG9lvg1kg8GRW0lLfRS0NqTt31J1crtCtxTSRv6JHuAS0cAoCBzaVUOjwbnUdgwxj2o4Vyff3sZVx0IiH07CuorbRSFp2ZYSPtkHzeEDZvas2KgdiEW5Bm2bGevX3qtMBBSgQ_2V-rpnj1Db-HhPVoQJsKCnXgL8nbBXlcISVJNNd-cqTFUY5oEi0A1ifzZB2LI-5kYhVFKXJwmZOd89WsZxp0bKGk5gstSwc8XKz_nxpMDAVEY1FxL-WRoE9SxhpnxYZrt559MWi6IGtiHz6yMalaFCap4wmu24vUce2t-NrbC5Ag7Ehb1wku1q2iQczu9v3mcfCj1hLwiw-6Ym4tm8DIDgAEOy9VebP0GKQqtklU2dovzv-g6CuNKZQT4AiZdv5efFL56DCY1CvYe0Q3RQV-29ykNIS0dZ0/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_____xxcwokRvgheZgxjWtk.jpg",
     "address": "247 Starr St, Brooklyn, NY 11237, USA",
     "phone": "(929) 227-3474",
     "website": "http://queen.nyc/",
@@ -41793,7 +41793,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Bar emphasizing organic & biodynamic wines, plus seasonal cocktails, small bites & weekend brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeTuSuBFcwokRkhegB3-vSd4/photos/AcnlKN1dHhxFlBJSWDBTbRPz8ZC9qt8i193u0v2mf89TNHCsKYAIArUI4RmsZaOczPS94DnQJM1ddpXAw5rMyh7cmXbjSvvenFbmO-YC5rUlBHztrx9MTONFtIy0cLm1Oh_l_AaI4n0wkdgxz2yphvXeEerP8Y6J3Ix68A5YH4EUr3tstD_cAEUCEXqL4LAHFwNrJnfhT-hTfmtTEF1e1jxNVWdFgjksVoftkEupNoFlHN5v3aKRQjRS-C749Ontnmc0nY18-FqZvikFOOjr7Xijwlye1VZeebZVF0ecyjMJJOJRqQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeTuSuBFcwokRkhegB3-vSd4.png",
     "address": "351 Evergreen Ave, Brooklyn, NY 11221, USA",
     "phone": "(347) 442-5880",
     "website": "http://sunrisesunsetbk.com/",
@@ -41827,7 +41827,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Art-bedecked taqueria with a patio offering classic Mexican eats, happy hours & weekend brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVy_IJAhcwokRm4ohs4-7MxI/photos/AcnlKN2W5hyTtPdrow5Lj22Cm_IxozXiOyRqdHGvnd-v4QK5YccY4RGNBwdG7tMX8sVIuIDffdJogFkL7_TEv0ipZJWp1AMB72RpvNDI7muDRgUdvXnW-KT2TYinZ2Jbn0LJz834I7kcaVsJA2REFdqJp1lWaYBUXlYDHUkFENIXtNa6XHCL8Exsrqt_r1ACFQT6pL7-hG-qpXsk3KoogETVeXPuqOtmuTECGG4_yYXw2u6sMC2cemjuhXW3NiIYPbzAYPM9sE8k9UqxlF8hInju_-xUYBY--LkOIwx2rujk02Pf9Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVy_IJAhcwokRm4ohs4-7MxI.jpg",
     "address": "9 Jefferson St, Brooklyn, NY 11206, USA",
     "phone": "(347) 715-2455",
     "website": "https://lalupebk.com/?utm_source=google",
@@ -41861,7 +41861,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "This fashionable, French-inspired lunch spot morphs into a wine bar with small plates at night.",
-    "image": "https://places.googleapis.com/v1/places/ChIJY3SV72ddwokRP1FK0G3VnG4/photos/AcnlKN1B6U89LSMYeOsulpuTKJJhBSDji7bDtywKk2ecnNREOxntiQJbOjyqVg7ac7Jug_v_9LOhBxL4742KGomBNeKDiL9Wkee8JuDTszUUCtfsIpCZvMO5zzlAsc7xPHpu6WCXQ8fgk0KcdklXC5-UrtPu6jlLRW1awHyFXmczGYSrIDOZ5CzP3MPA2MP42e8JfvdzM-YeCTwxX0sW06kezn85EOrXoAn9QcXFbkkegYbehb1sHo8mcckuV3ecvSrFdEV0f5r4wLQUgxTGs4AKz-HLynBc-79xDyn2a0neudqWqkpGe-1hC1bW8RPdLGbGWD6JfGpWsHeLkiJjt33tF_scfazVpnOOJSrHfvtTBslU_3QMmy0un3B6-DpgJUfVGORGgzXvNyaLxFlXrgRQ1SfiinCHiSGYb_qWGas9a5aHb2lZRiBYMycVUyjWtGY3/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJY3SV72ddwokRP1FK0G3VnG4.jpg",
     "address": "60 St Nicholas Ave, Brooklyn, NY 11237, USA",
     "phone": "(917) 652-4556",
     "website": "https://lacantinebushwick.com/",
@@ -41895,7 +41895,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Branch of a Japanese chain serving ramen bowls at tables or solo booths with no tipping.",
-    "image": "https://places.googleapis.com/v1/places/ChIJDwxnNABcwokRnRmtxisbW-Y/photos/AcnlKN1likX2mzxtH5_SK13_NlVb293zpJkNB906M5NJlaW5lZjuL4SqBupS0S_Swdn3elg_SQCL9p2umM9giZJ85jW_knieAL8sd8wDZDCbkyBBT9xv73N8dlwclnSb7DvTq5YhBDS3AHVG7V2bFcM2LX2ISZ0p47_xLJzWhoH2Bz-dHOAkGSQyB4haSDfITOTCXdAlhsd9ydpnXG8RMQIBVIg0MmFmYhgHQYI0vbvnAqZUgKaa_rOOqnewIYa-OLbtEQUrCodFYTk6qUdB9qPdBFU85uvGfKMVlzC4lAqgs6242g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJDwxnNABcwokRnRmtxisbW-Y.png",
     "address": "374 Johnson Ave, Brooklyn, NY 11206, USA",
     "phone": "(718) 381-0491",
     "website": "https://www.ichiranusa.com/location/ichiran-brooklyn/",
@@ -41929,7 +41929,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Snug, rustic sandwich shop supplying gourmet grilled cheeses & classic sides, plus milkshakes.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ60Ws1ARcwokR_iOeFDzEHPA/photos/AcnlKN3F-7ZP182nsLSy4Tt9KShGj8mVkVs_-jQ9-XUlHSNKcjYFcH_D15BOIEjblWCXC55ShlU6CBJA3bnfY4xpCQ7T8j-RHsuL3HRgiYy24dsOJgHOtr_ujGnHuahF3pNff4_8MlLKnTQmAHfWbsA9TPkcH0jofmFETsMYVtNkKOZyYCQLaA9ZELdkbAAJjvPa39qI9n5Z0EnMkvoQYVMJGITLNFqeIUaxQzmSJAgEpGaOxnD3pmj__HVAlxsz0y2JCTvTaR1D7ra8iZVq4L6utIHEENC9hIMIZZWhc6qsm6bJjQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ60Ws1ARcwokR_iOeFDzEHPA.jpg",
     "address": "165 Wilson Ave, Brooklyn, NY 11237, USA",
     "phone": "(718) 483-9970",
     "website": "https://wheelhousebushwick.com/",
@@ -41963,7 +41963,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJl2K8TWdbwokRVLXghh72lXs/photos/AcnlKN0OAPR7mds2AogRNQ-zBIFQ9ELOn0Wbic1gvTEI7hRpL1gl6OtnjjAU2rWiWnTe6tgCqU7C-oxbSkzReAHJVVk-xIvBpZLDFgcadFf0cv6QBD0t_WAoMitm3q25cnSRYeORGg0EwVzKK4dxY9YLWEHlTfCmWrUl0mopVkYkUr93N20xgQurjQZlMPJPPzYF_FOlYzWtRSFxNE3anPfYrtK7PfTdfkzBdkNFy3v0OBtNLatij9QxNzBZVfa02LjqjjSR575W89m8staeBcrPXZzmVruhW1-MM_GW72adjGijPQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJl2K8TWdbwokRVLXghh72lXs.jpg",
     "address": "441 7th Ave, Brooklyn, NY 11215, USA",
     "phone": "(347) 599-0300",
     "website": "https://www.lorebrooklyn.com/",
@@ -41997,7 +41997,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmeKSwPFdwokRZ--71Rq0GBY/photos/AcnlKN2MW73D1pdc9jryk7vgQPJQl_jP2O2ylLYD5EVE6KlNq-uqw5Dm2_Id5f7SUcxgaVfAqHVzSvsnddQMpgj8rDm8lV_JPosgSwCv8Fpt7tR4IJnUd_YqIWVQWPJchfpkpq9UOElNVVHNa9-6iFWQRe8rVRVilzPXLGxbKqKYkUwPhqJNjaswbhEUmiPmafxQadx6x67iY_bmNtu0HnsyrVgLIUtcNzYL9LEZnkBiT_8UBQvndoVfH-3fUmZnkZjD4jACPpAvqpJZtc4-aO1zghZ_zvKFHjNbgBiqET6j2BqJltEKa7_v0VWb-mgKScKTFNBGpg3OVIyLulMBZJ0dshpI3sZ6aAxmEkEMM9MtjBG1k0KKuDJzZPB0rt6YGENPT9k0G2q5-c4ugNp3xF_tmLq2zCBWwFwPXhvs4mWVR3JvfUZw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmeKSwPFdwokRZ--71Rq0GBY.jpg",
     "address": "52 Harrison Pl, Brooklyn, NY 11237, USA",
     "phone": "(347) 844-2343",
     "website": "https://www.sobremasa.com/",
@@ -42031,7 +42031,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Modern Thai restaurant & bar offering up small plates (kub klaem) in an industrial-chic space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJC_7NeRJfwokRsy59UhNZLao/photos/AcnlKN2Klk4R2Heggc45tIHtPHb3EUBePlShGvJmuFfz0vxLN7JJo6OK6x3lm3vmo-2RLyuOmYhhXEOXYgRYQ6ysOJyAIXOU23092MQVe4-fo9zxkXKchhhc8v_W-Pxr3Yvzt2hynMhtK5GQQ5IBRL_PnVv7UD1KMdaZ8OV7Qcsauw_lCLIVVSdrQlNxCHoO4u8hFA6dQsomf4QT1eoNpB0Sdkbku80d37B2ijYJ0c5FsmxhE10UfQb4z0cz3p_-WFwG72pFh7ZstAGh785nQ7lDW5uK4hJceM4GvO0ah4YRyRlQUA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJC_7NeRJfwokRsy59UhNZLao.jpg",
     "address": "321 Starr St, Brooklyn, NY 11237, USA",
     "phone": "(718) 366-0586",
     "website": "https://tongbrooklyn.com/",
@@ -42065,7 +42065,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJpdaiQ11dwokRLbXltYYrj2I/photos/AcnlKN2G0eFM5PSP3LWkiUYjwrVdFp_wnC2kj51LO955tcNVNyxnMyyrehdI-Gblf-FZTGi5HoFByfl6YgXqvIt5JSB2SbU_uOKpSrjyPmOSFgWM4AuFYemfVIZ8okyLWjHIZwuCu4X76F_Zulgw9pcn7GPSqrSVt_qzz1CLufiILXlATsYwbUtxMdttEuNTOXTZHLkjptuJTv2Z2fCrxD5B-a5dh2qK0FjJWIXXZskAc9hXie35NX4UqtR7gsEfkmsttSZhFiYpUnkCHwSTt1QbkRgNiZAAHzhlGB_KpeOUh_bRCQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJpdaiQ11dwokRLbXltYYrj2I.jpg",
     "address": "1332 Halsey St, Brooklyn, NY 11237, USA",
     "phone": "(914) 249-9525",
     "website": "http://www.doublebk.com/",
@@ -42099,7 +42099,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Cozy, rustic bar offering microbrews & small-batch whiskeys paired with local pickles & cheese.",
-    "image": "https://places.googleapis.com/v1/places/ChIJH16ZEx1cwokRIOvpIpgh27o/photos/AcnlKN2KYS0RthczdNeuDx4BODKfskwOcdsEVgxVkChOMp-xOfUL7zkgDMXsUHSEOKLwnn4Kb3-A0TCWLAkANcTwmE2WqqOfAttcpz-vMXSpTV14K94kpK6yaaKEfqco04tNbYcVEKS2zWbpTimtTTSN4Ft8nhmB2cJ1j-PcOcXL2b056-JbYFDXKde_wrmuSr_E6GdWdr801148CJXYRkJoALVK_J4FCTVINaad4qgCDWzH09Z-GFMYMIhRUkzjxU_FRhXJIG1la7cdyWzeDsHrySBN1O2B6g6tpUab9C-hwXNk8vuqgIbUq1w8dvMj0kgBe6iw-wyba5ZndQdMn_ipj8aPMMdXNX8UozXo3PpXAYxSQ2bkurT4GScb1-fKMJ5edkez8lNCPw2Qx35wSwCvaG48-nKoO4VLuxtBume6z4BJZg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJH16ZEx1cwokRIOvpIpgh27o.jpg",
     "address": "234 Starr St, Brooklyn, NY 11237, USA",
     "phone": "(718) 552-2330",
     "website": "https://www.thesamplerbk.nyc/",
@@ -42133,7 +42133,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJPyZGhz1dwokRlSIds1zjzGQ/photos/AcnlKN2ZjV4bgvaIS7yoYfHdCWYVld55qi52u-as6qEN4-v_IqXMdO48_QCYthBBra8fcQyk7Ra4oAdFrQEQH2VUttsexEPSTUnyvCXuSLv6G09YAQ_O6SZWGyZ6dSeZEszjuTbWi1b62O9-PJEZQT2VzF_ozLnupvjPZz9m_6-ltGYc9ySvPVzVB9xNHGcen10bj8TVNGKX3M3tOmI48aiwZwXw7WVfUSYthjyD54E5JyWecaKwQI-sTikUwE0AScQIGwb0Bx5ZPLHocazi22JF2cW_bv8Nf4YR-PXe2w5KlaHG_g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJPyZGhz1dwokRlSIds1zjzGQ.jpg",
     "address": "1272 Broadway, Brooklyn, NY 11221, USA",
     "phone": "(347) 365-9861",
     "website": "https://www.thebroadway.nyc/",
@@ -42167,7 +42167,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJn2tfij9cwokRXNb6ouqZhnw/photos/AcnlKN2T25KR0gPEbOggN967oXyo4Pmgb3qlHbf9DlTPMZqo5qwWCsCm9CEtDrWKHb6HB_-amQi37QOFsKKyeV3I9MUFqbkUykkg91XvQROzHsYyhoQZwHrjm90Ejqz_hLPMFp2MxQr9sylXoQjgWl8877bAxI_EBp80MMdpBgJTcMhuHcbCY0V7INpFZWgjPQP39UjWpU6kBOrEKiOU_zv4ze0NdfLUFaSb1bQIo_QAEGAr7Ol53UJDUDre8kgdxbvE_2xLfMPaP3SgPt9KT7ccZb7ggTuhnRmz8e4NuViBh-_7qg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJn2tfij9cwokRXNb6ouqZhnw.jpg",
     "address": "1363 Bushwick Ave, Brooklyn, NY 11207, USA",
     "phone": "(917) 500-0944",
     "website": "http://www.steelmillbar.com/",
@@ -42201,7 +42201,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Hip hangout with outdoor seating fixing up beer & cocktails in a laid-back setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJob8BhadewokROi32ccC9Bzg/photos/AcnlKN3GW-YAamdTUAUGOAQ6MM2P5S2xygeUwBKxHpif0RMe9J-pKEFwA7-D51i2moaCSUOcIZJCQ8x4lFMJRLaWAdTIhqgr5Vfajb3djveXdTpgrAmzAZTV6Veeb7_QiiNHBf8Lg-9-B7zCa4eKR5WuXRsCDxPjJ-uWonra19585pWGFnhzU-VrjUMyc7JCoK07o9VghVEHp6YIHHaYlaVwBOFnnG9IaZJ3TEUkm8-8ASCRcmU6zb8_dQfkHUoP1j2l8Ux8CLoIa1lnhS6jYOJd1GFPDzgzHnN75kTUaBVZJgIV9h5jk-z4CCuLS_G0IfhPhuVO99nqB55kS2X27_TVUsjsqD4geHD0CgCKDnvNgjRGdA4DfUs_0Gq0TkTPGUwP8QucrElqywRkeIDV5Dz5AI7qktbDKyaQSUA3s2aoyrebVY-34vsiyMPsxc59l5-s/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJob8BhadewokROi32ccC9Bzg.jpg",
     "address": "24 St Nicholas Ave, Brooklyn, NY 11237, USA",
     "phone": "(929) 210-9088",
     "website": "https://littlebeaverbk.com/",
@@ -42235,7 +42235,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Vibrant bar & happy hour haunt with Asian style décor serving skewers, hot dogs & bowls til 2am.",
-    "image": "https://places.googleapis.com/v1/places/ChIJiQHGLBxcwokRSGPEB7RkbLA/photos/AcnlKN3GjxQy4l-ppsEQJpaWqGxjXaWTian3QYkDiMOZP2WcRTJyREJdvssnJRoO-ukltzVSJ771YACtnTqH_TLKVG3gfJE_jda9xktN1J5hKDz9c7dV48xyvbNMElxbtMuyb5Ks8WXJA0H-cKEcazgqAE3D12owe2DL6zZUR74Gr3G_nQqoYyrPJN4h-SFSVsk03S8_FQHANWsYrHg4CrX8hc2Rro51PsixEO7Ez_afNtwVlxufxwutwOVaxalpRitWP-ludvgi5giwLREwBAJTZw0Lyw0s-skqClP9CtlsyCAEWA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJiQHGLBxcwokRSGPEB7RkbLA.jpg",
     "address": "108 Wyckoff Ave, Brooklyn, NY 11237, USA",
     "phone": "(718) 366-6913",
     "website": "https://www.abespagodabar.com/delivery-menu",
@@ -42269,7 +42269,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Cool, brick-lined haunt for modern American comfort food & craft cocktails, plus espresso drinks.",
-    "image": "https://places.googleapis.com/v1/places/ChIJI6KV3_dbwokRP7-GQbGi1aU/photos/AcnlKN2UT3YP9u1sgdO8xqFd6B2vROFXrte1E8rtVyM_i02CkcLOU5e9Q282OI7h-fjJPIgbmt4XKh_Bvm1YbEJLpRtw8B_JQ5UdIqctvsCQJmFodmXVFXsMoSi-7og7YRWdheRbhngz-CP2rjVyEo-cGSUVNE-bs991ICl3stvFoPyyLN_pFBKhverxawZQgLrJiIMU7rkPemI9_Sf592p9gDLuFnKNxPWUo4cIKebaD2BengPWAhnZXCEzZOKp0czB52JI1FM1vZ2cPj0wKRcUmiNpJhRv8ve_CYvlGkhRSNVC3A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJI6KV3_dbwokRP7-GQbGi1aU.png",
     "address": "921 Broadway, Brooklyn, NY 11206, USA",
     "phone": "(347) 435-3252",
     "website": "http://www.skytownbk.com/",
@@ -42303,7 +42303,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "All-day breakfast & Mediterranean/Filipino fusion dishes in an easygoing locale with a terrace.",
-    "image": "https://places.googleapis.com/v1/places/ChIJc2jNtKxdwokRkvIgjHbILiI/photos/AcnlKN0WUS2jsUjmfcjmKHux1Vnet0nL8hdVmcp3M9hkep0kaSNHh_9gXgwwFmEleRXA4ipJR_zD2rWcHzlJhemaCqKlGBVm6iWWvJyY2G7YJxIX2yIZr_V4zU87ckjtX1jx9Nw5GKe61RkZ26E7Z3S1byxWSG-d3_q2S1LpF-r08aW1xAC9bXSB4ZhhuQyhlWrDqssH45Smsrele4m6jFsGDAt1nrLX8Hze1HxY3OjEeOdbxB_QP-DfcKrZv7blV3DGKCdWEaH6rYQncK6pBgSKlQ4YLCWn5AWwrZWjolzTI9YQcw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJc2jNtKxdwokRkvIgjHbILiI.png",
     "address": "1223 Broadway, Brooklyn, NY 11221, USA",
     "phone": "(718) 684-3023",
     "website": "http://theburenbkny.com/",
@@ -42337,7 +42337,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Trendy operation featuring vegetarian/vegan acai bowls, wraps, Brazilian breakfasts & coffee.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQR97JR1cwokRQ8bprxwgu0g/photos/AcnlKN26vS1AsufR9CrSrsyvK36OXYtspz6yJLZrj1idtKfVHIGwZVxQb7HCtVDm3MJS8xP_4uqkjDUGGcK5PGSHPUwO9xJ84WeW15vRZYg0Q8YF_lGcEq9QeEi8Uvxp2083IonK67vnlH0EpfV9_CHc-ArDwjP9adCCOt_-30QzCI12oPcb-t2y8SVkwZs4xhjuGP_5QnJFD9jl0WF5ASjSltYPPrJmWKhytRDs-xXj-mi03_dHgr2z-g_x7RCUbgZUgV5ty82O0P3pKhm7MEqgqmYB_2IZFqQIfdNGMrZcOmYrHA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQR97JR1cwokRQ8bprxwgu0g.jpg",
     "address": "207 Starr St, Brooklyn, NY 11237, USA",
     "phone": "(718) 456-1048",
     "website": "https://www.pitangabk.com/",
@@ -42371,7 +42371,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Modern French bistro serving up classic fare in a chic, vintagey space with a garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJd-H7aANcwokRc9yKGMHHyxg/photos/AcnlKN3tFY5xhpw13k8jk5duVGmAlsNpRFEa0UboN0mOQPAY2ndJwgGJt5gvguNDDFHpEzOO_7D0VXnEVpmv7wmAi85i-gb-um6lGrHZPF52HxyFZ_iqIJwY35pw3c_E6MoN2SB2_S3pfT9yr2CoYygr9HV8Stppn3dpg0YGlgWLCP24PbMVK3KO3Iu-OsCd0B4YrZmROFFowl_vBtQ8nQd5mentqR8uy63tSCUgUdy1QJ1bvOrCD7WW0UMenFOY6sq7IaV51u50gvdqiAgB-YHSN3UcvHO2RFYTwI3HUqOa5QUfPBN-fhtYo4LPQi-DUnjoeSCEnWnIW9cuU_HA--bvm-Z_VmOqEbnq4MO7QxAvtJuUB7qZma4lzliswJRU2X1tQvyAXsJ8yeoEFqsPNEzMv_aVmyrkqhY8HwSGhf_lcG3Wt38p/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJd-H7aANcwokRc9yKGMHHyxg.jpg",
     "address": "Storefront, 221 Knickerbocker Ave, Brooklyn, NY 11237, USA",
     "phone": "(929) 234-2941",
     "website": "https://www.mominette.com/",
@@ -42405,7 +42405,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3RhiyQNZwokRZEca6eHrEAM/photos/AcnlKN2p9X3v_HnfuIvxR9eJpifwDgtpm3lzlCCptpuTJlOcOu_YVSPQreLqVvPh_Cmo48qA-rAO3ZGP5PxVziXX6lIRx6KDVKHpNFTypj3qfGO8NJRO0f9Fb70OieeOklE32xafxBj8oZfbIdVfJTk7HG3WObgrpa9zk2gSRjYhSO4_J041lyQfyLcBBIyOCRxFG5SAh_p0U96M-71YI240ADZtvVQakJRsa7a8d4A9ErQ04pbNGfGGGB0zehT_ObekvRW1aAtUK7kbGBSFUv1tLjxI1wSxD6mQTg-7BqcjQ5nwHM4Fo0K-mD6W_vXHA6FeAkQcRI0UaYge7VsbFJHgoPsbhzV5-wLcdBoef2mtPiRnJFzzPkGPhe9Y8g45cs8jyVeg5ytdUlSYvMlUpakUt-ZPFxDOKBJpKLBFLWHIT2b81w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3RhiyQNZwokRZEca6eHrEAM.jpg",
     "address": "26 Bushwick Ave, Brooklyn, NY 11211, USA",
     "phone": "(347) 477-5450",
     "website": "https://herebk.com/",
@@ -42439,7 +42439,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ80dHRh1cwokRb637g4k9hhk/photos/AcnlKN3OAmHgdel_Kh1LTklhquZy77zPsynKCgUw9zKiyuYrCV1sByxdp6EU9Bmwjrl3fZarl8Td1i2iY_AbUJC_KTbM-c25Y6CGtXMuc6vvAjiJ93FRnR0M_Etk8tVcBN5DNvjJl-qNkSYLsUpCpnj6hwfTgih4dkPbYK0r-9-AW-Y-NdBKxJK893VOzThiXE7RdWSHINZ39wsm1yOmJzQetB6N1FqapVd8q5VCwIyxS6I7iN6gVpemFpZVZeXxcgKiowvoL_UvvEdMUHT96AF0zEpoZrePJyRev4GWxbcXZxhQOg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ80dHRh1cwokRb637g4k9hhk.jpg",
     "address": "383 Troutman St, Brooklyn, NY 11237, USA",
     "phone": "(866) 868-6948",
     "website": "https://companyxiv.com/",
@@ -42473,7 +42473,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Cozy, funky venue that's equal parts coffee shop, bar, performance space & yoga studio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJb38eWh1cwokRS2OX0SzcFrU/photos/AcnlKN1g4GZWIGLPcanwItgig_CkCFBP7CET00_e9PFcwgzTOw4xtpx3jy8Ip-oJEyy4bOXELu3hzN7BmyAzLaLa1Rs2moOHmhTFbB17CwKUYNO6NCwIs8Diap4VJ_rFXQp_7juKtW260eRpq0xng0Cxcbu7DabC3AAjsEYqAtYjjx0MJ96UEW3TOnvLplKwlN86RVaVJQWYYssjXBDmm77dcHplRg_0ldABmLDR3fzrYTLROHmCRtevHTXvEsdT3rdONvLPt8RNgNOA6pkYsLuSWZK7M5iOUoO3CSbUU2T4KYgfzLCB4q_iLrjTPG8U8iWXMRI2sXOM_SFMXXPckEkTggvVGkLkgV4v0nqm5RO79p7sIrC_g--5JpaRgE_YxYF4o3QjgFBiGGdalnI5LUDuwrgnIM4NjY7SvtXnMvDTECJ5CegIpZKhDtLWkJv3AE6N/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJb38eWh1cwokRS2OX0SzcFrU.jpg",
     "address": "6 Wyckoff Ave, Brooklyn, NY 11237, USA",
     "phone": "(718) 418-1138",
     "website": "http://cobraclubbk.com/",
@@ -42507,7 +42507,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJma2fX15dwokR4N39k_xbPIY/photos/AcnlKN2NhHwtRoKKbVWyuduWT0oV6BQgUTGDA3fQr75QekYf419AuUIAu2RJd2H-ozmWRlLC3UPgu2cf0OGvFi0rt9fgVSXQuDvXklZBSX3wYynRfnWRQasQhQnp5Un4iYE6N60Oh5i99Sy02IGrcG4amHwsRQ0ejtmWH-NWRk-rBioqEqEiqaezHXDMnQheNzAaXFsqTrMZQ_ia4NsyZz2zdqqk5Nzd9mcS2p2hiZxt7is3Ci3pknzotYIVcfXJsEk1QtSZTtKPuYYNp3B5P7Wt7tgF_nKBdbmgp36rAs7BuOUMzA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJma2fX15dwokR4N39k_xbPIY.jpg",
     "address": "983 Flushing Ave, Brooklyn, NY 11206, USA",
     "phone": "(718) 290-9925",
     "website": "http://maloyanyc.com/",
@@ -42541,7 +42541,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQXzd1cZdwokRtPw7xNO8vLM/photos/AcnlKN34Vhx-kS_iiQpigs3e9btVGd5vXSIIM6ZuBFZSgAvuyfhzkIWU4pvt0QTuRpvWoqkptNTNSxINYyc0qzLr1mBC5JNzDPZmrFMGpL-0M9Denjj5JXgjUZ44ABSAA20zkmetGEJlgewmPwNuJ_ZKyEv1BnRW-SBzO2zRJzxavknq9ZfylfdYs2tkUuC4M3eKGyPGexdS9FkucbsN05R9ZKmvPQvjsOG66AWajCV8T5hosbHdrWwfwNKrcNJSVtpEhj-3moPS0BQlHW1YMitFSqUvjWjFnZw87hoivoU1plL1-w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQXzd1cZdwokRtPw7xNO8vLM.jpg",
     "address": "2 Knickerbocker Ave, Brooklyn, NY 11237, USA",
     "phone": "(347) 799-1016",
     "website": "https://www.ainsworthbrooklyn.com/",
@@ -42575,7 +42575,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoU9LeClfwokRko_XGzUc6cc/photos/AcnlKN3cUJrwEivEDebYz6FmgLYX5jZsTLAosPY-SqTcKUxs6c2BEtjotQAEpiYtj03EclAZCUGTpcZsa56KqUm3PlchljEZshQAbibpEQ7ap9O8UILgerDGslfcK2rk8oTlCrXxEWvpXRggXKRn0UK4MUm8PubNlvzudvP5hgo0LEfEap1zGHa6dn3QA8rkde31mgE0om_WiCtDfNlbZWmyhTebL3_s5PvbSFR8d12CnYifC3e39nLER3QWUXEbvYgK9WWLjspNSp5MXikoKWYCwfRO3KZGdzlRhjbwt-4e6jt9lq3ERpn0NeXLzKue3LERJ14WzWc7CpHw8LkhSBm3u0OKs3dK1bpaBIj_pKyNx45wXDe_TWsXwGX4SBtuY-09yUoxjNz73YR3WoUN4Qh4ca1obRW5OldHRCfIHASOCWK6Tcio/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoU9LeClfwokRko_XGzUc6cc.jpg",
     "address": "48 Cypress Ave, Brooklyn, NY 11237, USA",
     "phone": "(929) 614-5409",
     "website": "https://www.vacationsbk.com/",
@@ -42609,7 +42609,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Hip late-night venue featuring live music & DJs, plus a kitschy eatery serving casual Turkish fare.",
-    "image": "https://places.googleapis.com/v1/places/ChIJA8spEXRdwokRCEKqSASypjU/photos/AcnlKN29bsVfVcQDMN-tvokIyvF_ZCPlHNHoinFH3jjIgzCuTGY0KiKVcjady0QBjz-VdlkpueDLqHjw7M8AL_mpP0bWtf5UktiLdCfti1HSAfnmq9UxZ1qPCw1IOKK3zkQOlTAA-ZeJ9WKaR50QC6xoF8DvcbsXf1CqWRj8eJKmCCqmKXjNN2TjlNRo1qaWh1zorFxMMKBqVqVX3IJTZkMDhERqD7X8hdBBnGYC47DZ-d5kFl83qO8Kcfs3lbh7Me_VZxSXpwuAAKIlWiB5OrnEghLvX9JBI5DEWkhFWeM5PvC0kIBzF0WDu8o2j4HKSBCjISXCCG2S68VZ8jwbmLAmLlW0d-eBjop65Cj0rzgwgc1fbu6uBLHwMDjn_Aqk4dkcQDURza22muvs2JHfPkhj4cy6UYTM0ZUbS4AWwnlVqptmlhPb0EmWPB-0rVZPzWzu/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJA8spEXRdwokRCEKqSASypjU.jpg",
     "address": "234 Starr St, Brooklyn, NY 11237, USA",
     "phone": "(718) 215-0025",
     "website": "http://thesultanroom.com/",
@@ -42643,7 +42643,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Chic DJ bar & birthday party destination with clubby vibes & signature cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQ4rXC3ZZwokRbVRZd9LQPSs/photos/AcnlKN1PnxIH4QFLbRvgYz9InoG6nPAchclglFRqRxdZ4m1HlXd-3ujR8ivEO1PODWS9Fd3bwycJzcbkW_iYDJ7VN3iQh-Gfl2qlv24-vtDpyVSfUlHt0Fx8s4j4sgfdi6zwedT9CsCeUw8mTKUc0dG4Tsr0EjNMwBa_RK1TdrHgCPf3JfOutC03VMALSo2FEc0YggNUNaRzC7Wv8rPi2CDCvgM6Bx-hDmPTm9ERld-YV59Iny9belwnySWOQXTJtEhxZI2uv5n6dZJecdwTBy_lVcqx1cw4k7xd1drtNK6rYmhPmA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQ4rXC3ZZwokRbVRZd9LQPSs.jpg",
     "address": "143 Troutman St, Brooklyn, NY 11206, USA",
     "phone": "(212) 478-3021",
     "website": "https://keybar.com/",
@@ -42677,7 +42677,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJy8xMA9RdwokRNfpC3clJ5UA/photos/AcnlKN2XbRwkvrs0G5WtvHScmS8_olDcOAYiF8c0rvepkcS54VN-9Hs98vQO7vmvDK74Y1HyhfWZxaEDHh4hhhjzpib056GluoQrEn3kwVQZVw20jGPY_QbFhASs2awSVItQjo29R8DqT0LOfR3PjQYbQAlkGDAtll_1qLIhMgZR4TZgB-AAvGMHJVNH0FC0OIHwDx9L9HZDPY8BGsMgDfaJen-_A74UTqr2FU4ZTs3G-QnZo14BdiUi_RtqJfMfpYzuGTE69XyuBnQ0OsJbSyViAwGQZtSX8EOahv2iSk5sHiLFzw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJy8xMA9RdwokRNfpC3clJ5UA.jpg",
     "address": "100 White St, Brooklyn, NY 11206, USA",
     "phone": "(718) 550-3553",
     "website": "http://www.socialcues.com/",
@@ -42711,7 +42711,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ0a0LB7ZdwokRzooG9HOap0g/photos/AcnlKN2PMeQ-FRlPQCjT_D5zuV1FbHr6pOyNzI7ATHvZlPCQPKcfe0uKh08kitdOKRujuw5VYAFi9gsZ2dKqNIWRuAGnDKWP1ye2xZtOc1TIMt2VVBeALoxzZog90H3CfVvL8Rr80ScBjw9tlp0ujD3Yxye_WNTTeaZYg5CvfvZ9Uk83N4HfLV_gpo6hVuzflXgRUoQHVTWBo8l1sryVpKvOrounlDR7mB2_FR03X_IaK2hQVfdfrXrQfqfc61OmEgWR96F969uKs92KLiYAthGzsLF1wKHRQkEZHH8EVGlqqvMYde6S-gdG5FWPhMsFURyG5suSPW-ydBkYPFWrq1PYEuOs7WdtGmivjL-S3bSV3IKDBv9jahjROf20_Es7xGM7re_3BhVWfEmi5HvsklWMkKLNIBocCnrJlAVfC8mAb04Avsj-ZjeQje38iPS60A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ0a0LB7ZdwokRzooG9HOap0g.jpg",
     "address": "106 Melrose St, Brooklyn, NY 11206, USA",
     "phone": "(828) 337-7682",
     "website": "http://lovesclubnyc.com/",
@@ -42745,7 +42745,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ07pOqP5bwokRi07h5Dm_M28/photos/AcnlKN0iv16fFYuN61N4ih1kqzCyqs0kmPB77mSRdq2dGCcQMWriRBrjrM1Qf2ieui4lBII2-ChMO9S5qGo92PIevXSajrpT2PEkNAdELnNEt9tpp-0zUVVqpFx8A0VKX5WBnW0QWe99JzcMR4_KIgldHPRyg2hlksfemUaj8malssOOM_8VilXDWN5cHk-YmExEMxYUuA727hCCGUoH7bZwXHedHXtGDomm8pjaO4frqQVJTNUVGvUBHGUQNZsq5MQ1kXveDtwZfcp9VbvklalFJfM1IM9Sg2REb4pWTRu9zGsHOw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ07pOqP5bwokRi07h5Dm_M28.jpg",
     "address": "525 DeKalb Ave, Brooklyn, NY 11205, USA",
     "phone": "(718) 550-3553",
     "website": "http://www.socialcues.com/",
@@ -42779,7 +42779,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJq9oHJBpdwokRifA7zM8TcAE/photos/AcnlKN0IjONpM1uRMAqTnliNApGj13xSCmTj1N-9QGidkiaymg1QmUyFxTzYdFZr_A4CCjbw9D9lwiojHDsIzSzNnzskCT7-0UL2H87YoiRTV-hzR8AgsMUWzj0vV5LREQHQ2zhD3C0BLUJrS-1qkiRpgveJG55QqIIQmc_3WaPeVd_p_lsrOwCm8AKUeEJxdU8NaUPTvkJv5HM3bu9pCpp6sMDhEp4E8YCHYN9APyfx5hPi9pRULaQtV4-wWRUhqjl-AENjTQGd619Ad32GGu-ssRh0yuRXwrsdSALfYmqLg6cJTA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJq9oHJBpdwokRifA7zM8TcAE.jpg",
     "address": "1 Knickerbocker Ave, Brooklyn, NY 11237, USA",
     "phone": "(518) 763-6089",
     "website": "https://www.aboutlastnightbk.com/",
@@ -42813,7 +42813,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ5SzimXpbwokRR2U_8IFONFw/photos/AcnlKN0T8yUJg9hEczFLN1mE9YXEJ9oTuhxmv_eYS7qkmMOE6LHJy7Sl42CwVruvaLrvKzjy4LQx3GJ4WwOj7skqHx5q2_-zt7VHaUVdsGY82RqXfXUSHufPLzuDISByvuegvaDpg4hOApQrp2DghWKvGIJapfoB-1oahBoJ4wezAwPVKFunHeDIAwzn10sYGC_kheh2E0-qGLgu77n1nkDO_xQJIRvYZQKiZZFAef1DBh0u5WSypwiCtnHZaUGEHaxck5gugtZeT8aMiP08QFSz5CWKIFZHoq-uR3CP_Kxa5YTSCA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ5SzimXpbwokRR2U_8IFONFw.jpg",
     "address": "53 Water St, Brooklyn, NY 11201, USA",
     "phone": "(718) 701-4956",
     "website": "https://www.bar56dumbo.com/",
@@ -42847,7 +42847,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTZIC-AdbwokRPwk_gzcoNNs/photos/AcnlKN1OuFKa4SkxrK6bQke5CRB7DY_bmlY0QVsbGDnlIGVukkb_ogwLdQLYjq22rk-lXOpxXn2fGtTRjlWbAfLn8Sk4ZlxQD4H8VhkHIFLzRKjTaBxiHrV_WPLxAlLg8YKXOJRb7swlYYfxbOI_KcxcxaweDMRWmTdrT7HwfRb-QqJGyfzrFJYstMJA6-UG2cio3wRLs_jNJdMVqHhrXIiuar8TfbTA34-0uyGqyRKTie78ecbJ8-Flk6Sqv9glhmxObsnzKcPltbwBS0xKH7tXlrhVFO3rgWme-vT3VHBKfhrUkUH5GTrFIw3Og2vczRTY1Wux5PCI99YYec1T5uXkf_W1KNhB0IFTj5ssj9nifEldJodqICmXGhpODxrsVccgC6KXyOsqSXnX24obPEn_sppxCffuzFXzeYff6XISHMm3MaVCcaWaWMelY01ndfiU/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTZIC-AdbwokRPwk_gzcoNNs.jpg",
     "address": "41 Washington St, Brooklyn, NY 11201, USA",
     "phone": "(718) 541-0774",
     "website": "https://gair-dumbo.com/",
@@ -42881,7 +42881,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Bi-level waterfront hangout showcasing a curated lineup of local food and drinks, plus cultural events.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9aMCWaxbwokRZHJGmTBxFtQ/photos/AcnlKN33PehKb_2D6tvdL6dDkRcTxPNT5zzEEvtCWrH09s5XBDwRwp1Rnv5N25rUPmlednl5uiV6tSMEWA0Dg5HKxyJP3rtcAbh--vm0nOWVTT1gLnRgZOkLkbjBegCJwGakxD9CbU-vv3CTtt-W79CgwtAyOoETwMg82TD0vbF-H1UF6Nn6Um-rxb97hhlAZuO25Ydv1SJ1-yXItP3vtwt4RxlQT8ELmu5mZADZI8czd8ycylpiKSM8Oge0fwH1xCnCAa6DkzpFAnM3VZTjuWcuKy3pCBKG5dKfsA3TxTeJUuzCqw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9aMCWaxbwokRZHJGmTBxFtQ.jpg",
     "address": "55 Water St, Brooklyn, NY 11201, USA",
     "phone": "(917) 810-4855",
     "website": "https://www.timeoutmarket.com/newyork/",
@@ -42915,7 +42915,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7RMpuNxbwokR5Bif_u80ZvI/photos/AcnlKN140yNaZWlXwLvRUMDLguQmTgtDCB4PhVhD2Bv2q4K29NzYtH2gEsbpIm3bA7dL1PhI69PQsFGwfmEtTbeFeat11KkoC4HvXjA0iwDiKaIB0UD0ZFnWUMr3ttUOD-mcJv0qOD2gfsDpci8MI-5bB4p0NcgY7TmgC-XbBokBqUPkceXNdluuUbwxQcepLW5BqKernwp-XdjXWPRpSG9CkmQK5sdeT7g-RKknxHyOsuvAsjasc8fB2ZFnUe7C42txS7LbElVdyrvvWH1H85UPEO4HQpsQyUybLNaKE-Oidwy6U67RXKz_Pv-ToUGA1wt0cv1VLOoPzjpcC4q8-YFuftoqvUrnYFeW8L99m5t_LV8YHrFSZ3Jk9MGon_Nhite23e8zH2VoqeaVkkBM2nG6whvFv0REcHaEtqD9wp-DvQo/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7RMpuNxbwokR5Bif_u80ZvI.jpg",
     "address": "71 Jay St, Brooklyn, NY 11201, USA",
     "phone": "(347) 844-9411",
     "website": "https://watersttavern.com/",
@@ -42949,7 +42949,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJcaAHHTFawokRFrXMGh7txWE/photos/AcnlKN2WRjcFmAW_huWfh6C-ymE6r20lJqAWSia16IbbY0NvGD74QFvCurflqE-hAtLDgxHyOLLJTqi51iwSyKZPp7Ig7pJZzpuWAAm2UmrVl8nD2E5S5sPQcO-NbjmHTYKB12nGmDxskB26gntNmae-6hdoRnhDQ8NOKpsZx3s24n4AZdw6hHHwJndh-IlSZNwqJfwWuCQuQHdwyTN3DqraEOhstMqlymgKDrnZU0CsBgXwjaPpklDdDO6encTdR6k6J3QdiS1d_V5S7f397Rbgj8vnlBl5pYFPO0dREaTe5XA40n0ZAkgLgck5TlBxLZfMs_zCUqkrxrcK7BwXJVYc8sv-_LyjIjf4GtZ6BQ4_hsW6kan5YE2UD7sPQ2jHmbCpTNC_-7HoLV_wm1GFEnoRe_Y0ym443AOF8-KXC5_vXmxl9g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJcaAHHTFawokRFrXMGh7txWE.jpg",
     "address": "55 Water St, Brooklyn, NY 11201, USA",
     "phone": "(718) 650-8100",
     "website": "https://www.sohohouse.com/houses/dumbo-house?utm_source=google&utm_medium=organic&utm_campaign=googlemybusiness",
@@ -42983,7 +42983,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Wood-fired pizzas, pastas, and other Italian dishes paired with cocktails and waterfront views.",
-    "image": "https://places.googleapis.com/v1/places/ChIJB2xIGTFawokRSX4sCtT9djg/photos/AcnlKN1Jg9EGw1iJAS3jiZhGpwTph-22exa0qeq69LZvj_dpOulPIkx79c8hM1ByuGHyiKhC085ngcBVZeciK5amDhfm3-QTAqEJsV1dJ9uoqFLZ8SGa-32mITsfJjVlsOIUX_l9FiZssiIIaQygobJZKkGw63sA6xJLCCP0uWV_xEDgmxpfocttgPKHDgZ0Zn1hept5oiCcjMFYpucascvpbfcjdNY21DwEKGvqzWShz4XwOoeacYUPok_OZ4GQd36mQOedIsffNvHhXQL_ULsA0PBfAo6tHXVy0q5XjXsOj5Gckg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJB2xIGTFawokRSX4sCtT9djg.png",
     "address": "55 Water St, Brooklyn, NY 11201, USA",
     "phone": "(718) 650-3900",
     "website": "http://cecconisdumbo.com/?utm_source=google&utm_medium=organic&utm_campaign=googlemybusiness",
@@ -43017,7 +43017,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Local, seasonal Mediterranean fare is offered in a converted warehouse space with an open kitchen.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYSFd6zNawokRpLteYhPEu_A/photos/AcnlKN0_exoBexcO44hQx5kbrYKwFmDiDHmug0ZIZGNguMMNZcRo2pYQTuA4bRZkVRicB9Kz7gWDsTpjcWN7LdDfz-IdG8fdg-7z5iseELcIQrCrIjeHF1dOJ5r7qaK6sMcXydszUS3-GccXMuKtXRy9-I3Kzn-2VnabLnr084Zsxmj9o31g9WhO_kD5Rol_6u-hj2y_ZUFaWk3En48-6LzdTgNIyxTz1YWBs3obhkDCZw4k-2fR30aigXzZPwktU1nULvKmzMbe-SmQ1OedyI-MDf9YSSRO4IdqPKfBT5fjAmT3Zg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYSFd6zNawokRpLteYhPEu_A.jpg",
     "address": "126 Front St, Brooklyn, NY 11201, USA",
     "phone": "(718) 243-9005",
     "website": "https://www.superfine.nyc/",
@@ -43051,7 +43051,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Event space, brewery & eatery offering arcade games, plus skeeball, shuffleboard & feather bowling.",
-    "image": "https://places.googleapis.com/v1/places/ChIJix9FO6lbwokRkZyFzr3vOeg/photos/AcnlKN3GVGzqdMUvO6Edk-3RILWbLJuXHmWVchHFiHMx0AdTIQkPoUwzaH1cCbUqBVjTCoMjOllVpzdHb35IX6j0qsfRXVU_nyB8l8pHkwoO2f0QhpFZrJr3PyWQSOLx96l82OTdqOXUhOkrbQTUSP1hZyzMKnJKaOdPSPjHsvgl3pPHTI3OatdUpOni5yRjoaUPLhu0WQwpfrFFcewOjDkTTRSqnXQTQrZD03Oo-UnU2HR-YOGQ6qWM_mGtsBS6XfWRs21v0oPYwExdvB2JeNfz9xyYC8PQ_aNoVTnO31cBJCYQkQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJix9FO6lbwokRkZyFzr3vOeg.jpg",
     "address": "82 Prospect St, Brooklyn, NY 11201, USA",
     "phone": "(347) 280-3071",
     "website": "http://www.randolphbeer.com/",
@@ -43085,7 +43085,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJjfvhBVJbwokRx4L-G2wRxng/photos/AcnlKN396jQ7k2QUfoXK-x5W-_T6O4-Owmu3MTowCZ-6sNkaHMP3yjcbb8n2-3WkXUlqFgrP2K-m6bxRG9TahehIqiw4CRXkKIE7zhv8AeYxkfMXAoQAg4LB4VIm7dgQK-mhdUS_ZVBTofzbdjj-q2pxmWSqi9gYTbFJk5p1Af8gzMYYiCFMSPcdEmt3YXGdclh5xi3pWsXFzQXt_ZzYQClXDb0Ji7VjV857wQEciGJel1zhYRLDgIjdnjXt4utp8iSjjiglNsqsttvg9O4F9br_MtOa2KGiSzkLKVqMp46lsWUv25pe8x1XsbeXCmCzczWSp_kcwpG2mDn70fCb68CT7Y7RxIdjgd_-KOtMBEmIkTVBkxKgqSAya6_cCoboYki6ZF6B_kXY6ITzWSyPkq-PJNPD7KfXXAIKeuEqsqskAq19cbvT/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJjfvhBVJbwokRx4L-G2wRxng.jpg",
     "address": "55 Water St, Brooklyn, NY 11201, USA",
     "phone": "(917) 810-4855",
     "website": "http://www.jacobspickles.com/",
@@ -43119,7 +43119,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Landmark eatery, newly renovated, offering a New American menu & stunning views of Manhattan.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2QZOdTpawokRU_eN_EPJaX8/photos/AcnlKN0TsnwBfATMZQSHdemXrhcARG_HMUu4yHDGVjeQdF6uxvCRqJc0Fv03jlWqrzRXyX6rwxjAcO3sM_goWQdkyjkUz7efmLWT4VBSYDtmABwK5muY-QUfVOfAm5jMBRo0Cpa2NVYZ7WyIhhV1jx_MMJpDjDRIJRAREVOMgHjsp_WdzoBzcooKtMDG5WqPPgtIarthDkFkOMQvbP8mtZXzZqBSaXE0QxIDCzDRMTjMAk5MQPsbIzVatJ0dI4Soj5iGpvQzckwv0nQzYs88eouagQCwP-mgwsFyEogOePTFVzQvIQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2QZOdTpawokRU_eN_EPJaX8.jpg",
     "address": "1 Water St, Brooklyn, NY 11201, USA",
     "phone": "(718) 522-5200",
     "website": "https://www.rivercafe.com/",
@@ -43153,7 +43153,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Fresh produce and locally sourced meats lead the list of ingredients at this popular American spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJI4YtUjFawokRirhCTkv48p4/photos/AcnlKN3WxB7pO5VN2HanPG71pBL5vY5PkXWqG3qfkWDwCy4RzqvB-Lbvq47UImYOV1vItXz2twLKxr8tL6y_ctfcyewLjAHLmM28HYDqvWztEcY5UymjRXouI1435kdsq9fAy6GXzuPWvzr-bEX3i3A7_ffkbI_MERpXvLbHySMm1BTrfjrc9-__k_9EIkTt6Ac9nKPFJ8KJjD9cCfitRIbSUJZubC0zv2y5C5ld5JqZG9AJ_WH4MMlPhqN2qLngTkjFQQOodV7sYRZR63BppDUXIZeQykLtZhJNE1Fx5gVTnGqiSQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJI4YtUjFawokRirhCTkv48p4.jpg",
     "address": "81 Washington St, Brooklyn, NY 11201, USA",
     "phone": "(718) 618-5699",
     "website": "https://westville.com/locations/westvile-dumbo/",
@@ -43187,7 +43187,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Tiny, unadorned restaurant offering Pan-Asian recipes with a twist, as well as vegan options.",
-    "image": "https://places.googleapis.com/v1/places/ChIJRX9A8xxbwokRKZOYDX-2R64/photos/AcnlKN079pvYXrk_ftp2UUXh8KBq8SlclG1DYDJ2i5uMC2KAYQTxajdywdPMeHUBjL3GtbrtV39ox_OccFxTzeTv8SFkhhisL5lfQ9l21kOlSuPmJmsBDP9hDREIdw2UaQ1RI08mjkxIbmPc5B4kgBAzKKoihUVsqdVIdEWkPxV9JEazuTRGfd_i7udFXrM-JI3MArrd8Elq7b0hcK2zZ_sB3-lSaWaObLrZiFX8GNIwsmMRJQbTGjbItTcq5CgFJ6QPJKKMdaQIImUSzy-Nca2_MjkjknA7PlWi69t6yB0K-ttNvw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJRX9A8xxbwokRKZOYDX-2R64.jpg",
     "address": "151 Front St, Brooklyn, NY 11201, USA",
     "phone": "(929) 699-2859",
     "website": "https://luckyrabbitnoodles.square.site/",
@@ -43221,7 +43221,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Contemporary place for wood-fired Mediterranean and Middle Eastern fare with wine, cocktails, plus river views.",
-    "image": "https://places.googleapis.com/v1/places/ChIJIcKAMDJawokRo6amxIlsQlU/photos/AcnlKN1K3V83UfpCR3m7uO5PEg59aphIuRpDDamjo2jYt6zDAesEWvG6geAN_GimJd50XYhZGZTJElwY3HDEzvzXRrMMo6Ao5SFDkSN4abNIpqfqYZgmcGenEsYXUzUp3XwCGbYlKMpZ4SysLsPeTL03eCYxMkZqVXRa2kJTnf7mLmLPzsq4w6nqG2NJ7XrUs8q7MuCgjOCkBaagArdYJqA9TbErec8mHRjkKQNKr7WCFEnTq9tMKBhZjBHhVTN5WmsO-UGAZ_ZvwXfQBWUf1UnH0uCRHEK9N-Wh3XTCG0h1mUfmUw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJIcKAMDJawokRo6amxIlsQlU.jpg",
     "address": "1 John St, Brooklyn, NY 11201, USA",
     "phone": "(718) 522-5356",
     "website": "http://celestinebk.com/",
@@ -43255,7 +43255,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Stylish restaurant serving contemporary Italian food using local & imported Italian produce.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuTX9WzFawokR3Bbq2zI2ESA/photos/AcnlKN2XgOWuuT4tq0YbXyEsZQHpFA6MsXpNe4K7qDqWefcAdHUgDDYKWYVhDNCGnClCvEuxNmpvM3AW0Atzp8KxV-z9z0JRWaTHCUDcsAhkz88IkkywPwwMbiv90Nh7HAm2gjV4TjysmiatKVTY6blLyd1d6xmE2Ggp5wu1sh-xS-mLbtrR52BoEC79LvdJ7OtXJ39ncPXq--mJhWPbg1rNxz2R80RK65qf-NvX_tdo_34Y1_vrvGBdxAP3kD5BL-1LKqeUTofKOcpOKIhCB2wityHf-cmBvZg83URjHkoBDRbhfg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuTX9WzFawokR3Bbq2zI2ESA.jpg",
     "address": "111 Front St, Brooklyn, NY 11201, USA",
     "phone": "(718) 855-5288",
     "website": "http://www.almardumbo.com/",
@@ -43289,7 +43289,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHdQt1hpbwokR63shN2Iv4jE/photos/AcnlKN2P8HtDZtaCeqb6XWZS8WzqL1t1ZaUadMB-HqkZTx_EQqZ7syzVm_EE3qqRwNSjU4ZwtUDoE0jKqaJFxmQNU-RzTSuPvR2_s1ZL4N6HSPtm5h2qQH3WfoglpQN4TLvMULvUTcVxDY6zuY_vOeY5FxIl6nMpsmS7fOQU6uEJ-7uO6nehAGoOZgQkW7Dgfax1Fb3lfkUh8N5lHF1XtLY6UxpItuD8arLci79-iLSovvehK3dQiU9wgcbJHggJ5GHWsd8_ZZuUq3YanCyJymkuUzralKZ7dQdC_gdjMbRmW3Bl2w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHdQt1hpbwokR63shN2Iv4jE.jpg",
     "address": "22 Old Fulton St, Brooklyn, NY 11201, USA",
     "phone": "(718) 600-1199",
     "website": "https://meatupgyro.com/",
@@ -43323,7 +43323,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Creative sandwich counter in a market featuring roasted meats, toasted bread & local ingredients.",
-    "image": "https://places.googleapis.com/v1/places/ChIJh06QvjNawokRqh89jHc-bXY/photos/AcnlKN1lUspDlzjHn9WC0HqoJYwvXl9Y-btE43vLDgL3zp2v-sDLR1xRTW8GSH6KAA781x_HeErzVhIUt-cd6ZZkSBDxmIVGOeRJ75s4YXUDJHwpXArrva2ga8X6v_tCfEIScRVjGFNo5Zi4ZrIle4yBthQsQwwHcds2kMMkvcJa0adqTQ6YP-gIbFzY_rtg0sIh_DArVtVwjqf902VZ54lGZA7U69U1MwWMFSOXYfgij-3p1v6-kb5uZ3NwCFbrRbChDbBJt-3RRc4WaEO9_9tJdF7M71h6ZIlHv0rZyHYFYDMLew/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJh06QvjNawokRqh89jHc-bXY.png",
     "address": "151 Front St, Brooklyn, NY 11201, USA",
     "phone": "(718) 625-2220",
     "website": "https://www.breadnspread.com/",
@@ -43357,7 +43357,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8a8K5ddbwokR91gCtKTspc0/photos/AcnlKN1WCa4sbhFx8sjkBa4RD8UCRUz88qzpeMd32dHoiw4nBZkChlX1ZVlaUpuBzjHnvWfSV6m3Yg8zjZ1hXHnMj9WGdDP8Y2bealmYzSRI5dAa7G_b-4m-9wxoPAeR2b_LfqEKcP0eKiW5rs_yKiKDDWHbKNEWPNymAML2f1T_0191BA1m6hUDXjyqoQblEcRGJ_rOJNp2fUWcAVnHawRcXWOLKSBYEO_cITHRYW3eZF45vU_uyKXkvOL-4L-dDfb05T52Sd1FTZp9sMOSgWEJh5fH9f-AqjBVPKLXFRc2f7fDWw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8a8K5ddbwokR91gCtKTspc0.jpg",
     "address": "55 Water St, Brooklyn, NY 11201, USA",
     "phone": "(718) 586-5027",
     "website": "https://www.abckitchensdumbo.com/",
@@ -43391,7 +43391,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed operation offering cookies & cakes plus, coffee, savory snacks & breakfast.",
-    "image": "https://places.googleapis.com/v1/places/ChIJFTVDEzFawokRp53c_hL03Bg/photos/AcnlKN2iNro0lTbqhRDgJys6ZmGvCinKkfhiBPyGQU24cQNfCQd7gSW7VWvJJtMKlzpjWCKAyjIJFONdzYy_qf44846bunbgTt98eiMePEuoc0MON2lnVIbCzDcKOPYMifhLs6NuOgjZV090t_tq-suDT8uPlVvSly06GCCLbQuw7rpete5CCuByx3uWqhZ_hUQf8JmdBLTZu95fPrXhumKNqTVJn7FJFz8QXAio-n_HHxqe92h5kiWb8wDh0ibIQODZpPTep6LhiIYxLYDyur3ms_FvsBJtcDQpY7nZF5r9tF9Kfw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJFTVDEzFawokRp53c_hL03Bg.jpg",
     "address": "33 Main St, Brooklyn, NY 11201, USA",
     "phone": "(212) 675-4996",
     "website": "https://dawnstildusk.com/",
@@ -43425,7 +43425,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Slices, heros and calzones make this corner pizza joint a popular option for takeout.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQeysWzFawokR9YIRfdqeIw8/photos/AcnlKN1wQqh86wIHEfvXR7ADXNWG7zGgBY2oeek234SNT5F-8FdsnNo2LQWMx6OI9UXkzrGJKbyW2u0h9PJJN77lXMYmGJeihKSoZPQnTDBomqh2j0-18OsBFF69lyRGpZpG2sT6EbvFGrDdUBVw2iJbFBW_jXBhmMblloIUlv5Y8hmQ3pVw8PZ8fOpYklqJ8KOXCIjOyjNGvHrsRh0_zRsyPaXu3h3dyy4eA7Pq-lGinJMyhfw1-zbe2AQangUbJKZN5RhSUIT4XPcDNTykLqH0DlKi2Jt1EbKS0OZrH261EcY-Hg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQeysWzFawokR9YIRfdqeIw8.jpg",
     "address": "80 Front St, Brooklyn, NY 11201, USA",
     "phone": "(718) 875-3700",
     "website": "https://www.frontstreetpizzadumbo.com/",
@@ -43459,7 +43459,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQ2auS5ZbwokRZo6tE1p-kTA/photos/AcnlKN0VoDIfR7gtsKqdu5k83NbNKcHE-GkcNvHROr0USUl2sok6O9Ug-H3KyFs_qfqwdYmuefGbrhQB6sz-Qll4rlICFBtudKVSBZl4dXj4g81K6yAfWUOe0pOcASTyAb66gPCHCQ9dID4MTVNa0Gg7beth9Td3WFJsAmG-zj0pWg7W6qltIMrq8xTgh7Czcj2rMS5P6MH3TlSKB0m1Z8itZ0WmLahD9Ol5SU8Bne0zvsImrzWKdYiKgZRmlsCWlBfCsBFoLU7iizlO-UPSzULZNns7kGLF-r0l-hg5B5PRDKkXOg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQ2auS5ZbwokRZo6tE1p-kTA.jpg",
     "address": "11 Adams St, Brooklyn, NY 11201, USA",
     "phone": "(917) 310-1532",
     "website": "http://www.kinjodumbo.com/",
@@ -43493,7 +43493,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2QOSPEZbwokR5dMpgfr3PKU/photos/AcnlKN0dX0CWOqnRHeYSBOXl1NBVxCXpMzrJKNOqWhp5GrWcfiZcQtVh2p9vTB4KKy-Pf8v5Y4wo3I6xDM9ivCuVCVP--8vhLKbJmMtjXQYWL3Y7qlgRYo9GC4-dCWLpdb4M0H0QdXVHNNcrmLG2L8O5nW0Zl87O7EnIQ_SkYXCo4WbTPDvJEp4o629D0pMhAWpQmtIDaFIbjBzLbB9_GrraqdWXMCmFBFmRHuzW_wFaJEkyeWTxRpjBmGPQXMTtL0e0YReykbN_djokghKaNCthtv_qw05OVP1DzX76fanWj_EcdNS56tikxtvvrx6Tyd3KcTTRTY1rnVFysbr2NylCuwZX_mbhz54G5JXJgyfRKQa_bEluYVBVCAxeyG7RDnV3kx-uQdRhVYcYED2YwVJcjuT625PG5p7toqaX72ysL74/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2QOSPEZbwokR5dMpgfr3PKU.jpg",
     "address": "56 Adams St, Brooklyn, NY 11201, USA",
     "phone": "(347) 422-0063",
     "website": "https://www.malka-usa.com/dumbo",
@@ -43527,7 +43527,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrWD-O_FbwokRfBbFTVSr8NI/photos/AcnlKN03zRZkQ2Q8aqYco1pD83ugkDLvGHr7fKC4QRjeTr69g_rEMJVjfGiyYmy-wWDfu1GcCb9i0U_j5vU5GpOsnbwEzrCJ_7cJQmPH0wCDMH-uu-kV20w5BEj8N19ud7ysZH7A2JC4MAorgMi4-vDAhTCaLzYWV0My5oy1rI7Zlk7MPn8oW6xhZtOQXyn4-hboqjGw-yQqSi1lTho0UqukxCq7EcLTGywj0QniWsYdsv9ScZucA_p2BZmfmc-YdiYYSwJUrcSEBtvk8C25Y5ctKLf-irRsVNTsgnEiOvHIkqfcjA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrWD-O_FbwokRfBbFTVSr8NI.jpg",
     "address": "236 Water St, Brooklyn, NY 11201, USA",
     "phone": "(718) 550-3553",
     "website": "http://www.socialcues.com/",
@@ -43561,7 +43561,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Classic & specialty pies from a coal-fired oven in a modern space by pizza legend Patsy Grimaldi.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAQr5tjBawokRBBESUv8Tw5I/photos/AcnlKN29U3MIAa3rF3fK2AKVYDLEX44TaMYtcyLuozXKh2_mdC-p4lr5P0IX-DAuuXOqklaLfbZjTVwc_zFnPY4Xb0k_GghQmczzqqWrOzD1ay3Yu69yp2VQW1SRxrpiSEsiZQefaj528OXhc_d5AK8Q1y-m_cy5AqALAzxjFGCekiQdm12GIRq89BxhdfVVohMff311mXZKmHaidjsbyeNvZnF6CEWx6OefFzf20ovemo4d4vKIVa11sFF54EElsmVJXdKVX3qgPCKjCd8caAUppGP0qu922gnw8tG9xhr-qs52EA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAQr5tjBawokRBBESUv8Tw5I.jpg",
     "address": "19 Old Fulton St, Brooklyn, NY 11201, USA",
     "phone": "(718) 596-6700",
     "website": "https://www.julianaspizza.com/",
@@ -43595,7 +43595,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJd9W5zoJbwokR0RnkZioyN68/photos/AcnlKN3ha6MtAaxa7GEArvAS1iSbQCuIm_aopIXljrIUYEV-4Yun3ZlUrEbYFLXiKaL_0Aw-BaABOj_qt_zD9ztliCI4SrjZ4Iix-ZrVUJ8KI-V-hBXmKoSiKPohHSlwlROPEyC2nMZNlKN6IHyMr_5Z_tEUe7diA0mfPB8lNsg_YWw82g-N8sQgCPrEZG5pXBe4sMWAeCOG1PWQ_f-YpNFXvoqGc_epJquDtq9BxOkXu2defAG1e8QfFrzxGzHTmrm3Ac1m9G91jlrka91aQqZXlFTpgH3cLdt8FYZ9vmMUucFvdYQuRagsVbFnShiv_A0Tc9Qf1VRu8khs3P4HSRAuNjGVbkcsNHbtPQt_AFukmeDsB8ajRzgG_Wm9-Pd5cs7G97tdFXwcll3yZD8rVhQ37VwPoDoiLKygHThbp4EWN-qm190LhX4EIcVr_rRJoQYY/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJd9W5zoJbwokR0RnkZioyN68.jpg",
     "address": "17 Old Fulton St, Brooklyn, NY 10038, USA",
     "phone": "(877) 245-9439",
     "website": "https://locations.7thstreetburger.com/locations/ny/brooklyn/17-old-fulton-st",
@@ -43629,7 +43629,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWaB7PDFawokRk7UwFRiY5kI/photos/AcnlKN0RKnJCpXJn9MWZBEtX9Bra3l4CGC4k0wXLN1bqvdVQsyHepru96qKshpJjKyCtK94w0kRnPxqHKIJ3BiQa8vzHIv9qOmQAkWSF1U9AhsK-gRIbNRYpuw_ecC60uCA051sdvIv5C0XLJsAj0TS4Qy4ByBwWUc12nufiqKS7u8dmg2_-iIlLuWb6qUQ9zy6vOHQn3WOpCqv05OxwFrPNHRqQr0OM6FGJBEKmyH17SEQW6qB9KxhyqXzwEj3dGMawc8UpwdouZMFvJuF6iI6MOO2fzwc9kefh1cHIq7XFRJm01Na0z6axLUrgZSjmE3EioT2jezOnDoA9GxGs1t4wnsqNUeiFQE-AJaiyRC1OQTwdt2ztp_1_pSz9kUZkIaW2zkyV9j3heWXwYY1V8fjJ8hLHozLfWnR6hmk_9RSTClPAZAEg8UD4y8Y-MjS-3esj/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWaB7PDFawokRk7UwFRiY5kI.jpg",
     "address": "40 Main St, Brooklyn, NY 11201, USA",
     "phone": "(347) 889-5080",
     "website": "https://www.alohaalleynyc.com/",
@@ -43663,7 +43663,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Minimalist-chic rooftop lounge offering Asian-inspired bar eats, cocktails & beer, plus city views.",
-    "image": "https://places.googleapis.com/v1/places/ChIJpwdJZ0tawokR3MCsUSWVRdc/photos/AcnlKN0ep03dCXGCRdU0oFSH_wD9yByq6yEEVOBuZJLvpWQtlbhuHaCgdCfCrKr7fW0KKvfMIwSkWHvv9iyZi5BZAo54ASDdu9xgyGU5bmxb78qAD4QTo91M3SjOQzzfxIHkRJ83eXrX5vghdZP41qT1s4gJy8aBaV4X1RvSxXf3FaGBJ9sSOVoLvE2L_gtGudH3HGqUWIYf3p0YuJzhSTrK6UTriVvc8MmUDRr9PsKMmcnb4GVRLuIUFetxPFVQtPWbQy6jrVC7sLz50Y0FL_KxyTXjD9Uwmy-3OxP2-2OEywgBeg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJpwdJZ0tawokR3MCsUSWVRdc.jpg",
     "address": "228 Duffield St, Brooklyn, NY 11201, USA",
     "phone": "(718) 858-8940",
     "website": "http://www.kimotorooftop.com/",
@@ -43697,7 +43697,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Seasonal New American cooking served in a cozy, salvaged-decor setting with a garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ1xNe4cxbwokRnDw-6Rvhxng/photos/AcnlKN1zOw4B28G-WGd6f9Wk-TN-LbJUEJ58OjeMI3-tHf0P4861o1E51hie1PLLxJixYbrn8eawvhd3x72CWDrrbL50WvOhKkNy59rKuUMI9pPNxNeK2qW65tvYyNaxL7LDBxhz9xauzMurQBOzYoPu7vzOhb8k6T2m_FZQ57bR_PkB-HSm0RFtc7td04JT8QTKuUFDbGamy2EpRbAFNwgrdf4v3zQQDUFURadbfcjh2eJEVV6xQSd_RZIPZmhZdA5b67zcZuRAB2LkGttgxBFU02AnWNY9_KtaQce9cZj5i2w41g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ1xNe4cxbwokRnDw-6Rvhxng.jpg",
     "address": "72 Hudson Ave, Brooklyn, NY 11201, USA",
     "phone": "(718) 522-1018",
     "website": "http://www.vinegarhillhouse.com/",
@@ -43731,7 +43731,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Mediterranean dishes and seafood in an airy restaurant with Hudson River views, plus 2 terraces.",
-    "image": "https://places.googleapis.com/v1/places/ChIJySoGRqBbwokRjQ3Z2U3Ben4/photos/AcnlKN0op2lM998q8CxK-0vBYMnfTGyoFE6vXu7jCcGur8smAi7sDvNyJD56xdPLr18F1HaeLDAzOvXfKxFC-O1zGGnhcGfamEp1iJ6axN6UsVkFc01tVPPulNwAz0aIMblZqyUcbZJ5NHI1rKg-eCS3w1wQZrgXBnxaMcGTD4E-ChLTgbnc5547V6OjlNFixuBwlsTeWaxjn3Frck5XvSbOs6cCeDQacGfIBso0r2Wu2GxsWqbCrG8PSCYIGLr1JUakUY8EvYOLDwfWl7dLKMETit7uBs8kMqYEkcryaqzap97koQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJySoGRqBbwokRjQ3Z2U3Ben4.jpg",
     "address": "375 S End Ave, New York, NY 10280, USA",
     "phone": "(212) 432-1452",
     "website": "https://www.mezzeontheriver.com/",
@@ -43765,7 +43765,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJu69sGzRawokR-Ir0pO9NaN0/photos/AcnlKN280_wl04XtvqcxTVPODXDN0rPDM0Nkpm78N886_Cui9biEINfRiWNbQqFXqGypV6uxnEjjR7PT_bkZoo-kJor4W5ZDiKSs_WjPBegvZTSLUiN81vg9Ny57l7tRXWE6KuBqSsCidYW_JCeOG28g590OuImEYtNZEsrYnSR2E52TV_waIzwh36RVUyd8Tm9FyBZEyRFgq4Xnl3PM6D1ouACnZH35zSj-TZawv823iLNdonepx0Lu_CMHvS5tMvdPw-L8hTH2xK_b0-z0hs4YUQRw9M1LvDFeiR2L1CgIwFDa9w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJu69sGzRawokR-Ir0pO9NaN0.jpg",
     "address": "55 Prospect St, Brooklyn, NY 11201, USA",
     "phone": "(718) 374-6858",
     "website": "https://bluestonelane.com/coffee-shops/dumbo-55-prospect-st-brooklyn-new-york/?y_source=1_ODc5Mjg5NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
@@ -43799,7 +43799,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJK0DBOXVbwokRrQRdA4hpd08/photos/AcnlKN03nl_gmcZYbJgbLPm3WtNckC3cA_0Afoyn8dYJ7KV6EZ2oSwvrPnjddF8fLRmKTMT5OjP_1kkOttOodZs0Je9-7Z9O8kwVdyR9n4ZesDe5Vjpd-K2shXhKw9kiOmNThgrG0htABoriAqyNd7XGrMJtGEFQDE8wUxkiVSrA0AvUm-bii3WVz3JV-mviFVktZbqnuDAz2XTMLgg0lueHmw-4xxelbkXFW1yzFmlizjr0QwjJBp9Cl9VZLmz9jayAtX7N2QRFjHe4DpOlLkE8okxvwgrMWCJTDP4FSRRWwkRvOg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJK0DBOXVbwokRrQRdA4hpd08.png",
     "address": "60 Furman St Floor 10, Brooklyn, NY 11201, USA",
     "phone": "(347) 696-2554",
     "website": "https://www.1hotels.com/brooklyn-bridge/taste/harriets-lounge?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
@@ -43833,7 +43833,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ0c6QRlFbwokREh-J3mmQ9PM/photos/AcnlKN3_x0Ay1eAisFW-MpqMQAqBgpvvGZD1idpQFztlftSjIbmqzBkksCY7DdDUKWaE96rZxova4lDKaIPk2PJDBeeHHGinXfpksSgp9W24xl06ys2R5eRbmDerqHhRgthkd0HMrEZmFX-ewCYB5SDIOK1LjTgambdwrXNgFufaQLw8edd2T727O1shunIRpANbVpf8g4kZGWzzXP6I6rOUVdP_aokiYWTUuL1kPAtxoH1fXR4k-6dcTnm8qdaecWA0h97zv27UfnTzP10zQUiC1iIKXqea1EwnuA4AjyXXshdXjxUP_EUl9xHmVaZhtj7yxzpIcryrB-oqAlcmaOqQAKKPcsdTflpH8K3UkxTc5cYdMq78L4XAeMxQxR_0VMz1FBtuwjC2ozGd2C9Tbk-L-sljoS8uY5xToKXyVcTYPFc/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ0c6QRlFbwokREh-J3mmQ9PM.jpg",
     "address": "257 Water St, Brooklyn, NY 11201, USA",
     "phone": "(646) 381-2232",
     "website": "http://www.padel.haus/",
@@ -43867,7 +43867,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Local watering hole with understated decor, sidewalk & back-patio seating & a modern pub-fare menu.",
-    "image": "https://places.googleapis.com/v1/places/ChIJjQAPYkhawokRAAPt1T_4nJ8/photos/AcnlKN0BU4y6hkqifdTBFIr7imR2sZWYPCEmgZvVEtcFYZE2fLlZD9iD6MxLSI6kAUDE1iYa5yx97_erYKfiBhuivyw5ThhRSL-7OsRyY_yp6muPkf56ay6Ahw3K3hlNuLi_Iz5yZWTSRTcC06bQy6uyMKgUcMTbhQZctOiIfis1JFk9iBED4faOdn5StiQBveAx_JyG5RDU6ZeXKrjxMi-mreFdohaUOFxGa4_QB3Z-jBc972NzUEuovi1J5wOgE9-AkhKGyEXjt8pkxUas8BmV8mo5LNpMO6nTHLZ_7kj8vG9F_QulXD_D355vushWqe7REZyjZ_LT4Q0DNDlWHgxxMpF8blv6qqggfY2DLXp1ZPkYNf7ewczBYY042k_iQWLE4LMpsoDWIo2c4hJe66vQXo3KYgn4O4xGoFx65Yt9xF1_6OHY/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJjQAPYkhawokRAAPt1T_4nJ8.jpg",
     "address": "139 Montague St, Brooklyn, NY 11201, USA",
     "phone": "(718) 643-6000",
     "website": "http://thecustomhousenyc.com/",
@@ -43901,7 +43901,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Wash down comforting pub grub like pot pies & burgers with micro brews in a casual setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3wxUrjdawokRCvceYKTpXFU/photos/AcnlKN0B0Rj20mZyHKa33yxN9vuN-IT1LeBTIIK5SPAvRNisNl2x-n0YDfPU3Mz8BwTD69t_fjxGbY5kftzegdRPNx5jtxymt-kdZh_Anlq8F05g0SmSPP4C8JwvOHLjbN-N10nCfIaUiQxHpi9RLvqKSw8Na_sJpnf0JLlr5Vq9R2FxfauXH7_puLBWb0Pp78gr5CPSJQKuG80KjcMGYZhrCMmcNbfL0jEKki3g7dVpV7eakW7-8Lpi0d0L4pPQZZM8snEXt-qsDn34JPbspEkvYod--tPHzS9jj8vy2tGaCHMiPqHHzUN2C7Ea9Ayy49k-C8mDYejlceDh98oT-mMVqvrHQ6Gp9SVojVCA-KC5glROLiHfVmdLf7FWUpya5H3bMioHjirl90woyNtlImeE1WktkdzCeAd0StMRha9bJwu5fw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3wxUrjdawokRCvceYKTpXFU.jpg",
     "address": "62 Henry St, Brooklyn, NY 11201, USA",
     "phone": "(718) 522-4801",
     "website": "http://henrystreetalehouse.com/",
@@ -43935,7 +43935,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTzM5hI9bwokRAiAEFoTkHtg/photos/AcnlKN1PzckZu93BiShyScxWjF1QdKevzSkzCdWVmsqdvSrKxBQX4BLECucye5SWocFdoBuImQoYJa1MLppjO_T2F-37iuJjPuFzo3O5AARW8huF7ky4bovAHSDi9zpyG6ou9I_WWoz48rb0rUYnUZgK-X8ow1seQ0-uucBGHQY2eT06sFDWOdhF2GA1mxVTCVCR2Xi7ycGj87y4cSJPPVrjmlzrWpxdByqtfON8QqA0YIpn8Z_q-dkX4ig26ooE0mm_vDx3tMKSM6T5nB8xdyMH9Wp3ti8WmEUypV5Gcbhe1TpgLA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTzM5hI9bwokRAiAEFoTkHtg.jpg",
     "address": "215 Smith St, Brooklyn, NY 11201, USA",
     "phone": "(718) 971-1197",
     "website": "http://beeskneesprovisions.com/",
@@ -43969,7 +43969,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Lively sports bar doling out pub grub & plenty of booze in TV-equipped surroundings.",
-    "image": "https://places.googleapis.com/v1/places/ChIJL3MqLUlawokRhjCRuHT-sts/photos/AcnlKN1rfQezlYsQhQVoE5xMwctntBfc36hjmJjGhlLto2mUiR8qpLBgEKP-Nb2KtUtXImjFErneMN51Dp2AMP7x4s5PgRNAxhYWVT7Q3x8UbNO_1LJVBNDCbdgIuylgqZ6Y4zNI2A_xBOscFFM-mr5FOgiv9Z7asqDsQuDIqA5I2g5LToHMs469HVRYj1tIcKkWLCmlkjmA-ZIa878KCKyIACzF1XFLV_U4ihcK3MZBwDFFX_aAZ3ypSgFVHLiodUk8-3fhgzju-0lOBgad_-PCKwZ1YNTiEdtBQodEKM0pXbPm_w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJL3MqLUlawokRhjCRuHT-sts.jpg",
     "address": "62 Court St, Brooklyn, NY 11201, USA",
     "phone": "(718) 855-8751",
     "website": "http://www.okeefesbarandgrill.com/",
@@ -44003,7 +44003,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Old-school watering hole with a 19th-century wood bar, low-key atmosphere, jukebox & pool table.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7-cwHFJawokRYc2hTrsF-gs/photos/AcnlKN0TYtPxJKYr4_WOt-aeBnnpzBEECrBjTDNpKYc1UlLdV0tkxKRrCKH2utDf2L1F85lw03B-tMT9FEpJQd6LuTT8a2Fq2C5_tZGctuVQtlLIWEOqmR6FPsd0qp47vrV9eb64fXQcmREgS60La3RuQE5_dfpsTe79LYEXLnT8laVDmKsXZiVe5d6-pcK-6CmknhWKVO4k2ACCBiOsMODefOTjSFl0JMd5uKsfUTPu2N3kEq0Qi8aXS2kqxsI4INB7V1vmhB8hB-VMaRnR33Zu-h5VtZAviWF2hsQZ7cEjJ0t7osOap8_q55xsjPwqX4EayDhd9QzUu8FCTlZSI7j5UXFLhKvYU7Vs2l21Jsa3Du1J4RgDMWlOSqWypV-AA4qeTKnwL2qiHhjyR97y0iqJCrYWqepyKKH2ddwqpODcn4pnNWOh/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7-cwHFJawokRYc2hTrsF-gs.jpg",
     "address": "148 Hoyt St, Brooklyn, NY 11217, USA",
     "phone": "(718) 522-2525",
     "website": "http://www.facebook.com/the-Brooklyn-inn-146692843065",
@@ -44037,7 +44037,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Craft beer, darts & a laid-back atmosphere bring regulars to this neighborhood pub.",
-    "image": "https://places.googleapis.com/v1/places/ChIJV-iAVE5awokRqBclupCorEA/photos/AcnlKN2ZRhgNVr8tr0nJT4Y_TAHOjjSIgtfcTlD3UETt34Pc8wbOCJsT1ZFPEgANFk0Ea0yFlpr0ZbhrwXtLDQioMgk9Aiwp8aHefeyydoE9zSwZbJj1zVhTt_ftcN9eHrm4ps-VsihCddCIvEesdANjBPbKbWiskfxyucMSb2GGAUPxAhPSb5UI74XsHQyFrjtushm336sq4n3Q3qoc3aR-YkupKSzEe4w6hYS4rUPNVXwEy7zvLGPSA4it17or5-LWQXXy96tEPzECwVaBUQ_zSzyjCuQm7MfQqNG90F8U1fg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJV-iAVE5awokRqBclupCorEA.jpg",
     "address": "228 Atlantic Ave #230, Brooklyn, NY 11201, USA",
     "phone": "(718) 488-0430",
     "website": "http://brazenheadbrooklyn.com/",
@@ -44071,7 +44071,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJP6l_znFbwokRpT1_G9i2i_Y/photos/AcnlKN2S2LxGjU6ctfjptdBBZaoKFAbC1om3mQ4RQUtRCKGmhr8M_Mqk1rlDBEKggdeSj_9K3AEe6yl8k-XSRYZU6EzfBDfWr95VNnPCmGHRRIppSTF87A7Ivzh1I9E5zVLXP3LHPnq5d5bLO2E95kZGEuu5edj7yplLQuyM0_AMoRuF-QgCsfxi76iWkBrVXXmrwdZn8uAbuZVYtss8S8PwaaqZiYadjovST_U7g5rjnlou6RFbWKsAjz3HVmXKD4Ay56DYzqgD3D6cS6IqQ0EdA4KSkvtrvEqg_W0G9izRebnXl6DGcdgK2Sadh7grW7pfLyVweJj4K8xSgH0MSNI1Sg8yB3M79zKazs1vFNzLvZuUDSqNJhnEO89sud6KV7NUDnOuNdPQoybImBqXO1pKqPnNrV6oC41k9M470nMXte7cfG29/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJP6l_znFbwokRpT1_G9i2i_Y.jpg",
     "address": "66 Hicks St, Brooklyn, NY 11201, USA",
     "phone": "(917) 909-1177",
     "website": "https://instagram.com/ingasbarnyc?igshid=YmMyMTA2M2Y=",
@@ -44105,7 +44105,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Classic '50s-diner-style lounge with large windows featuring upscale, creative cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCS_aaaFbwokRWcrz1dPr2Bc/photos/AcnlKN30ZdsEpoLi6_rrvRkZyH-zlXSccqC-P-wqwjJfG2bj3BO2jFdJCs1YFbNlW4sS7QlDMKfWqdlHEcidrA4vXvz4B6-VMKE1UUPGSstMHPxkyS06Smqfk9IX8Y81wihczhxI9TvLfGaAPBpw3gdpvVi5VFNLd25uxHYzIOphbtEJzF4dgXLUyKFwXHRJ-qWV571HE7cQaijROpGQybO8juW7LB7zHMFP13-USWD0tyNlIh2rnnAvAIeRhUY93G6u9mqmTt7vg-ur2AhkHaREU2A0YOOaWiKuKYgu8H-82bdqhQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCS_aaaFbwokRWcrz1dPr2Bc.jpg",
     "address": "686A Washington Ave, Brooklyn, NY 11238, USA",
     "phone": "(469) 232-7333",
     "website": "http://beardedladybrooklyn.com/",
@@ -44139,7 +44139,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A long roster of classic concoctions as well as some modern twists accompany a small plates menu.",
-    "image": "https://places.googleapis.com/v1/places/ChIJD1nl_lBawokRmefauQpPr7Q/photos/AcnlKN1eYAJIhrcDLaMX6HzPKF5_kYSm1V4LAd4Agt-lfJDxVAds0DWmA_Rkd3qe9BD9CNrTFagOqgfMhm8zq4jNwJLwb7p0lV8Elwp0vUzWNVXR5CA7PsTS8hVEHEXWnzBrirA0UQ7zLX5zMfpOgtr-BlnSfyWlDGQjINDdX67lubvzzOh8zgIiFzaqXSlw55CL3q_J1i5bMlJW79cMtjYZmE579orUkPyalWb9N-xbuh6E4G-6lsf4tBsuDXjrBmQgEY3_vsthAGMdu6AwQ3-hKGbhxfyJ9enaJhqT7JOiADC4yfeph4aApiyBZeKdlcOVGmiOk3iWLT0K7XNCRXWlQhzwrFXpeVGGv4csnW8Vo_u-LFEgPbt-VByb-VIdhWciw6c5-wWHOzmg78oEFSXiGHU7_kVtD_PwE_rIHZJjJnYQhg63fDJmj5-22S7dtWkr/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJD1nl_lBawokRmefauQpPr7Q.jpg",
     "address": "210 Smith St, Brooklyn, NY 11201, USA",
     "phone": "(718) 855-7939",
     "website": "http://cloverclubny.com/",
@@ -44173,7 +44173,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWTDNM-hbwokR1ijgAI9CLN4/photos/AcnlKN08bHYOvRDGAAl9RH1vLDQ_nCEpy_xl5WYYEPrKvSPshvUPeCrGwVeFRFAVxHzlXVKyGz6oLwg5lhYrLpryWMmx6BoqsTlbN-3TYeAHdEciiZOVgt4OvpszXT4GQzbvvE4ylLXmKGa1woSXYMtbwGl8Ys87YfNHehg01sg9Qe7m4RX2xZtSxTmo9sSoFzfmBBqdysfkIq85jooQepBgZlrc7DfIFAyN1Vmi0vTNLp-XsSmtNra8C9ukK_O69maBH4Zu7ThJZtagIFN_j8JLvxYUa9OLQUcN8kUybmZB4nYlmA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWTDNM-hbwokR1ijgAI9CLN4.jpg",
     "address": "151 Montague St, Brooklyn, NY 11201, USA",
     "phone": "(347) 294-4544",
     "website": "https://www.xisandeclassicbrooklyn.com/",
@@ -44207,7 +44207,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJvXMOAbFbwokRZR7e3KnBBc4/photos/AcnlKN0k5oiC8wVX0367nGHkztWbKs4JtPJWXdZRfDC0A0-EHgreHWiQGqPcWvcCZE0W-zlsNYdoHexX1MO3oYOjW50MIHGMRgw0r_9OoaDLyUIfbnhEjM0SwE7_8U8okgwlEoMUiWsnt1lrGmzV5tPW0Utg3RT1S_NPG-SKhPnxfkBGtp0VhOgDqjMFfCPunKTaREo6EphkcXpABiDoG6-lsYg1wqVk8RYIBuKWt1MZZJcIWdY7yYAtb9RJdmPuh3cVv77VAwHohIciOqqnog2APWsRHbtHxaUUqshN8EhKKQeRdg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJvXMOAbFbwokRZR7e3KnBBc4.jpg",
     "address": "121 Montague St, Brooklyn, NY 11201, USA",
     "phone": "(347) 689-2725",
     "website": "https://www.chamamama.com/location/chama-mama-montague/?utm_source=gmb&utm_medium=organic&utm_campaign=local&utm_id=gmb-brooklyn",
@@ -44241,7 +44241,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Inventive New American cuisine featuring seasonal ingredients, including wild game, since 1973.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLdYpATdawokRiMEMn3lHExk/photos/AcnlKN3PxuhHwSITSYNGmxOM-71-EW7RSxeNPQnoTz6PZQuOO3YQkiem-4W3jBNLSkFLEZ61_lyT0N5A3zVUdbvX_Cq8CDDJeuhr2Me9iT-6YP-roQ3dAoxI5xhZp4kQzVpeHp2_Nk4puzA0Zx13FdzbdBYplJvIfWUdEJsA698cc9aNc8RiX5bloOm5APApj69isv509vou0IO8AsR4s4ogxExQDiFjqx_RRSTA40vHRdOL_G_E2RBEULvzMqn7m1GP6R9EAFGjJia9svm6FQx0sE8wOrqeaWnL9zGNPP6QOIHkvA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLdYpATdawokRiMEMn3lHExk.jpg",
     "address": "72 Henry St, Brooklyn, NY 11201, USA",
     "phone": "(718) 834-1776",
     "website": "https://www.henrysend.com/",
@@ -44275,7 +44275,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Middle Eastern specialties are offered in this down-to-earth restaurant with a terrace.",
-    "image": "https://places.googleapis.com/v1/places/ChIJL_1fstBbwokRVaeht7CPayA/photos/AcnlKN2bqc5-vIEn_ZVSp_n_49DBwc1ZlGGQnTho7bfy6UPRNVKhupYy8CAQNqn0CrrwRyaKqxLTX37sJGJUVBAgQth_oD2WDwJcQgAZKEfkgn1sfFeBbHV8MKtodGnGZM4kTU_NtLA9CwehFIpk_Tt4yYa6Nx-Pr8Loa8aHk9ANYQPZR62l-6rREX9V3V5pNJidzcGQ6brqkXukhdPFBpcz5mggEgSyc5Afsl5o-4aIxtS1E2buKXQohU90jrrpLErvMXn0EzHPa2EQ3AGA0SFZ4Z37Pk49CjZMpR57gJUcMfRtFA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJL_1fstBbwokRVaeht7CPayA.jpg",
     "address": "151 Atlantic Ave, Brooklyn, NY 11201, USA",
     "phone": "(718) 689-5888",
     "website": "http://www.albadawinyc.com/",
@@ -44309,7 +44309,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "American & Middle Eastern cooking styles meld at this modern spot with old- and new-world wines.",
-    "image": "https://places.googleapis.com/v1/places/ChIJh0mec09awokR8AJ75UQHixY/photos/AcnlKN1ilHVl-voPT40eu2t2HOSnCMcoZfaTD_c98NORAdBP8g8UFgD7wMzrVnNxeltXGQN-e6LNGIWvcupyzjf90keFyMiiLUA3cvsQHoqij-KLdBunkjUYHRj_D5cVnBIoo0BetRdjjiwXeJDtjJX2wnVkBU_8I_X9fmfsMRj26wbTK7ULYpc6-vzcHbi-zjEA7tsB-WGqwDrrEwEkzMF-r_S_laRQ6rXRlAWvQW0uNZWwHju_ZQoXNTFpV6WBe3BhW1S2VODwckHWPlNhkvckOnDpkyqwEnHkL-XvKz29lqyUJQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJh0mec09awokR8AJ75UQHixY.jpg",
     "address": "185 Atlantic Ave, Brooklyn, NY 11201, USA",
     "phone": "(718) 403-0055",
     "website": "http://boutrosbk.com/",
@@ -44343,7 +44343,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJieXewR5bwokRqDs_MCqYH9U/photos/AcnlKN3qYjUsCP95AlznqJwGhh9yTAuGwmDYswSo94ynaAe0UyAjMgqu1UnYeiMpS2gE-gvbrJI1NvXMof89WcrseaLdqhWuBqYlHijJwickEjqu_LKq8tafDgutaIqFbLDpwlwwDhMZbe2AasYzoKdNOu3fd6Ih5uBXU_lSRSgysPldpPJP9ky5z6OpdIPaIMmvV6mDcen6oOh9xJG_9GEtunXuCPE_QlES1NV9MYfxUQVabOyTz0-lLMnbq2HD_c66MuERuZNUYzCrojORFPR431iuVO7i6YYNcR6UAn2XM3KNcg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJieXewR5bwokRqDs_MCqYH9U.jpg",
     "address": "84 Montague St, Brooklyn, NY 11201, USA",
     "phone": "(718) 475-9877",
     "website": "https://www.felicerestaurants.com/felice-montague/",
@@ -44377,7 +44377,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJP0J9AE5bwokRwOAvtU84Xtk/photos/AcnlKN2E2Wjx0tSV6mc0DjK-0HifjgIIUpi_eHfl68si9K1YPNeePCjD60mci62UAOzEJ81FF84qh10xf75d0Ppnn604revOl-0ODlvj2IiTISkShGCgL99QCszD5TWoCltDlxgSbnhizUb47AOWuc9KWHwz2ce_XqxeCHY5uj0sKdj-GFTGQFdRroNNuA23j0Y2IQsSKjGPRSER3zCZGkIRgnZ0M9yIhoub9tnuvumQCYqIIscNANk-fSfPeIdcDVTCyGEhjMk6SMfgXemjF9ry7ORmfvLpZkazjPbW3b1_zqs0AQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJP0J9AE5bwokRwOAvtU84Xtk.jpg",
     "address": "128 Montague St, Brooklyn, NY 11201, USA",
     "phone": "(347) 294-0179",
     "website": "https://khaosannyc.com/?utm_source=google",
@@ -44411,7 +44411,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJfVWx3SpbwokRXGOs1emov60/photos/AcnlKN2JX4-dNJK64WWofAUAiheKzIDtS3EycU5B0cffwdcw7Rb9pAHMvvpJOOkQxOL_S0t3SHvo8g_Wc7TbdWSQ3stN-Y4wi2St2qojY6eas2DzGmvIMCJrfU9aZbDVBTkCxmnQ82oTzrYlRNhjEcyuHImt2FA3pKEzMhWVvFOJ2p7Ym7GSyaIdJ6FojhobKJXpObAeV0hiRmGpvnoDV0fARHt0US9RPFI5LbiXS3TuESkEuzZOCeQEqTFzTofYV7XnMrUGKu2CKBEYPATtavKgVhK8dsgOu1DCSXVVVnPn5cd3vA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJfVWx3SpbwokRXGOs1emov60.jpg",
     "address": "80 Montague St, Brooklyn, NY 11201, USA",
     "phone": "(347) 227-2852",
     "website": "http://brume.nyc/",
@@ -44445,7 +44445,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJc5j1BABbwokRA4csWdGzsU0/photos/AcnlKN13Mz-2LCZKY9l3Hu1ANLSS05Xsd08B87-d-ipk2zfhMkoOIhIdyFJI0nLFunVFWQRv7jz5rDS5pbP8X7IznWwEHuqzUNzuVhc_nKVVujb0kvku_XUQeTdc-Qpcam6k6o_LXYK4JZMOVOhSlyHvz5Iy-Lvkd-gqmAq05e2-tL9q3tAPJyajDNahL5SeXTg6aIsQqFRa3hAhhdrXhr7Fs90rdepmuXr4drEgzxMt0CaM39GVU2iDxSqJ__JshDPGp5XfHRVjKihT6-rPTZpM7a5DKoLxXOJbg_2zuQQYoCNfU1BgO4Zgx-5I6XQUSe1xIO7IqDjZOoOKzON-5UkNLUdSO7c_1hw_aKpq7l5w3ZkPRzyfUJQKiRXXYBOsqN2SLJCTDtvpgjATgqjvBmCxy65z0kI8z8bJt2eVtOmshWt172eGS6jne6PMmnx8vA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJc5j1BABbwokRA4csWdGzsU0.jpg",
     "address": "148 Montague St, Brooklyn, NY 11201, USA",
     "phone": "(718) 500-3287",
     "website": "http://montaguediner.com/",
@@ -44479,7 +44479,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJr7YDu3VbwokRdw7xLzXwPx4/photos/AcnlKN1JuQf6-zcZe2s3BjMHPYmi5khZWkfkyXKJNzdWY8ly7mf6Rvn_GEwvn3RPFQUU0i7CF9WvR4BL2mpOF-slRGaoGLH24YN-JAnfHtHfUCQJiLzlTKPadFusDQDFQotiKIiOYDz06zlsBdOBXEdP2ZeyD6enbkHNHKyjLo-NECtzzScpQdidtpl5rksiMPrvG2D5MQsT-1N0kmO2SxA7XNjeX7X_Ckt4Zv2AobqjEtsTLIjzvdfn8wX1IDDVYegDtRABmnuyVssGoZv97WBdvTsiH3iJtLYzA5i7z6zBNiaRnHip92F0c-Q302vT1DfRQdAVbrH0mLeuuWiYbqDSUJWJ4NSsTRLFw4lirrh_7tA13vNk39_io8M3obgbTGzV_8AsCE6uZ6dOC-Jdd800K0Z3zxVfG2lL0ij8x11TJmU/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJr7YDu3VbwokRdw7xLzXwPx4.jpg",
     "address": "138 Montague St, Brooklyn, NY 11201, USA",
     "phone": "(347) 916-0711",
     "website": "http://taboonettenyc.com/",
@@ -44513,7 +44513,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Thin-crust, brick-oven pizza with a gluten-free option, plus tap beers in an airy, minimalist space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJRYqTNEZawokRuSMWeyyinyI/photos/AcnlKN2_YH5IungQCZ4u07XH6KM6rACCr4-W7mUjQ_UBN2KGUJlRZBtxBlIUdVHRQE7XBs5_jXSJ-hNaL1HovEfhejjyWEvO6-WVS0yxv-19yRXPNNSbzoihAcKlO_JlQFu9Z9lxy3l-veS3iSfliO55YiSxprz_spidUrXzzRo0jRS7E6cqx1Ecy_4mdXyvPcIKegRYpdf7B1JfSCpbxwrpNS65Hrmq6pFCmK6wG8j-XEfOxB5Pa_UqeUOQJQ6LOJ2ZSAuKYJyLlGxHCOtR9rhBkGNkKkjagYClzavMbaDWPYiYyF7FTifXbSzqOiqa6-lRpuhULIR7REHEmpJ03c3fJ7Danaa9ihMHk9Oh8WQtR8SzhZHdWRfR3b1c205B0374IPYQUKAr_VoBTHR0lslNIflY0xt9B0etMpWyXpqZXzmSw_sa/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJRYqTNEZawokRuSMWeyyinyI.jpg",
     "address": "214 Hicks St, Brooklyn Heights, NY 11201, USA",
     "phone": "(718) 858-1010",
     "website": "https://www.dellaroccospizza.com/?y_source=1_MjkwMTY3MTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
@@ -44547,7 +44547,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJIQFtrv1bwokRkEaNwb8ltZQ/photos/AcnlKN2ps-B88KsMbVwzVh1aRyydaAVWw6FKvdLUMz6XapJvaoreAPTtxonBANSsty0912Ths6fzGcF9SaQYabDKKPpUVGypDd594bqB8E-cS_UbfRIfidn9b2VZIxG7pQ0_16MwrcGFouvbxCKJt-xzaIA5PyMeOzYy20JfN53TaHi4-_1ykFaNttHTA8r8ZpYVEEV_YfK3F0DTM9Oj8iwfjNZvx651LZVG1Q_uFXeXuADYzvHQsxVAbxGIXAmhCoR0bsb1KUdwAWsArokzs5D_usx_wMCPGJSC-4Iacm9Lf0OhGw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJIQFtrv1bwokRkEaNwb8ltZQ.jpg",
     "address": "9 Old Fulton St, Brooklyn, NY 11201, USA",
     "phone": "(845) 314-3606",
     "website": "https://www.elephantdistrict.com/",
@@ -44581,7 +44581,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Narrow neighborhood standby dishing up Thai favorites from noodles to spring rolls.",
-    "image": "https://places.googleapis.com/v1/places/ChIJP1sRv09awokRDPi8okFBDOM/photos/AcnlKN0Dv8cw58P3QOaNUN5RyqNxv1jgkELwbAovmAPCnNoVQo4ScPPFwFl3DH-JMDC0fYZTRjdjx-MOQvaU7ohc3qPGTdN8A8L1-B3N8npDlOHWy4AyY6dv1z7wrUOYD1KPPl3YWTcpkZatlWf2Pd5KQjV-SyE0LnjfqUU3Uf2SOxWU9rpBDF934--zrp4RkbiQi1mOQR5WyLXfLIoqR0gpGnp3yPAN_Rla1mGUcFhYAdNvaKXOQUZlXFewiOZLKHEzv4sDyR2PiltJItST_vjAKt89mT_zX-X1CsHCSFVHWqNMl4krvK54UAlPl2TEbv5E7SsMFtKSBQcTZkg9KNN2givGzIrGRO30YAGLOfplKqEuy1L4nqA-ccSlWSm_Ljw5cM0iHZW30NPgwQsw9QNriGLWnCzDW6tzQ2GQWNu99UDzfDGS/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJP1sRv09awokRDPi8okFBDOM.jpg",
     "address": "156 Court St, Brooklyn, NY 11201, USA",
     "phone": "(718) 522-9728",
     "website": "http://lemongrassbrooklyn.com/",
@@ -44615,7 +44615,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Hip, homey coffee shop serving light fare and pastries, along with local wines and beers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJkdevwDdawokR0j_3ECiQ8rE/photos/AcnlKN22qPEACxdy-a0cfSke8i4-5LoZSgLJfzw3lWU3ZJTEYJiINgqKBbGqrnCmiKSVD77_e5HYLW52HIr3iDKU9TNXJ_ck2ak-WcU-loNDNQxPsmWp730AJLCMjK7qJfghlvr18yHgWwVVtiiX0h_vpipIiOwrcOjP8geqHrv5LnxVJyJGmZjH2oDDj68fO1z5sDWvu39-FImUftt0rMv_u7255Brt8cd1dH5X0cQ0LUtcB7jwzZP7hUplurKB38IWTtFZMzsjPQFKWtGOG_iP104m1uUy2PR2jQ_iFwa1AkziKQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJkdevwDdawokR0j_3ECiQ8rE.jpg",
     "address": "71 Pineapple St, Brooklyn, NY 11201, USA",
     "phone": "(347) 799-1035",
     "website": "https://www.vineapplebk.com/",
@@ -44649,7 +44649,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Breakfast fare, signatures burgers & salads, plus beer & wine, fill the menu at this relaxed diner.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9xQS6wJbwokRjKiBiw09eWA/photos/AcnlKN0xbHXnw50E3Qci01K_YQ8ChPYAp9tVXlcGEO1a0fPYYxZJ3ADB6_cOF-K4KxiWxPxvntlt8wTRMrKGp378RV-qS6Pn6Vpkp4hhSST_kS8z0xQ32JLcVidNptrAry-Z9qo8L1bPhMnBuZCIlCf24vXAXXMeywL-hi7p12aHjWlQaj-WniB14hbJasW-a6YJC1t90-JEK4XF-CMezPm3GekBCGUyxdsmmtwu4iJtKPgqOX_Ru2NdaG4v07OC_ovjaXOsKm3rw0vW54Mb3R6nXrMnJUr5rmJBjNQ2uqx1xbAdEg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9xQS6wJbwokRjKiBiw09eWA.png",
     "address": "143 Montague St, Brooklyn, NY 11201, USA",
     "phone": "(347) 889-6670",
     "website": "http://www.grandcanyonrestaurantb.com/",
@@ -44683,7 +44683,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJz1ghIXVbwokR8p2L3_ci3KA/photos/AcnlKN03jeavpAIIyZomND9gFuyGgnJwltHMEqmWrMmMM_zxd2Xw-HRxn8tgR8BhHYpKBlfVrpgVWPI7IT1dhO_iIoBhOnEFq62Dov3OBL5-8Fy29iUGip7ZyRsdhkJ3c0g-VnmWXQtENFNtjZNCSv1h71p-N4eupgVSTJ1ZQ5zfmBnjoO6NVi163F0DGMSGje3kktFF6qkKyHXNp_zr-pqVILjecK1-IPi8EcnvrQK-WncQ-UdR_t017t1-8yIWHVMtZ8i3729Pwaxvfu6aANv1Y3iisEDf5VgEvG8W6CnAWWLVEppeTv5GyJ-uSi8M_Wup4sf5dB5awZZbn59P2peMQqn1j12VsoiUM_bymnLFtHeMaRHkAAP1HxKfcL_knqSstbw_5jqOe6HmELRi2kHXMC28w1cW90CBZou4OgM56tJ0Ww/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJz1ghIXVbwokR8p2L3_ci3KA.jpg",
     "address": "79 Atlantic Ave, Brooklyn, NY 11201, USA",
     "phone": "(917) 909-1037",
     "website": "http://www.diemeatery.com/",
@@ -44717,7 +44717,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Modest Middle Eastern restaurant with outdoor seating offering appetizers, burgers, salads, and sandwiches.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAQAsDTdawokRbXcJnQ55gBM/photos/AcnlKN2D7p0UZxdaZQEZkpc0pu3v4CAQS3AC5b9Nqz-46DzEg4bwIQLOQ8TuEtCE1w3A9eqcZ2DxaOxA2ULgNqK2FbOVyGK_msN0Ek8MzPfgVECJe9zUzUjChvQbvbOoyxYd7CkwasY9CstPrLZgFXWVDS-KE5OBnOf2iyhUgdmSAG0FaFCtc2Hqoho_e7ne6Y3TOVYWhBblrKFtI_3S9iQOMQwvBI6oocTHt7nZd1-SJYBord4qjHO_o3bEmRW2ga2XHtE3DF3B2Ph1bJELOK8QTU2Ke48jnNGYe2UlKi9ltMIGxQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAQAsDTdawokRbXcJnQ55gBM.jpg",
     "address": "47 Hicks St, Brooklyn, NY 11201, USA",
     "phone": "(718) 722-7777",
     "website": "http://www.ordertuttcafe.com/",
@@ -44751,7 +44751,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQeCPaFRbwokRXIJeDP_gwUg/photos/AcnlKN2vcMpjlI0rFF4LG98PA5RECCS3Lcsj2wuwn_e0lNxXrDLfEQ7DAsKc29TUTa0tvOIbslCH2f8nCX1kHud9229YcVVs7Kvw52mtwVWpVdQGOV_Zv6n_zavc3TUKOoQnA1zLdnjbc8QMWoqrRZY1IJo2fJfd7ab2k_I5ZD3lqmO2az44ez_isHujJyTYxJeoSEqfGBCU4C-4cEbPuS3AzCC6W9FtvMfj41LzyDew4ltXUACZkNHZFKI-Qc86GcyVrPIbPtGk5g6WWQhaQ3LAWOf8iRfbKGnaeoD-hv0Uvr0Nlw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQeCPaFRbwokRXIJeDP_gwUg.jpg",
     "address": "223 Smith St, Brooklyn, NY 11201, USA",
     "phone": "(347) 689-3694",
     "website": "http://www.levantonsmith.com/",
@@ -44785,7 +44785,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVdRVFvZbwokRvTMvHpvu0PE/photos/AcnlKN09HIpCJt6HC1anUSTJVgBbv_AKweYkPJ88rHEl8bdFq4YIlvKv8bSHnWdaOsrmi-DpPoRbxfbOBeS7db2RSa_lkdg36cfvUTZd2VqBhMyWKlmw_k9UXv2mgs5EI5kwH0Jr4hwid6PibHwBYi2YGCZxkpQ2T2dw5meXWaIB5Auo8BKLeljOpoKpeNSFnA5GO7xLVrh8r-ExnxdUIb3p0PSmG0qOCTdbdx01RpWEuaTlfEINOK0_RpHM4EJfZKUkJBtCVxq4FiCQQ49V1_ENIqlOJQ4ZSQNOsOByhQqC5rPTXQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVdRVFvZbwokRvTMvHpvu0PE.jpg",
     "address": "200-3 Schermerhorn St, Brooklyn, NY 11201, USA",
     "phone": "(917) 790-9689",
     "website": "https://www.maisonsun.nyc/",
@@ -44819,7 +44819,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Spanish tapas with Moorish & Jewish influences draw crowds to the stylish storefront restaurant.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVT21BE9awokR_TVyGHmHvtU/photos/AcnlKN1qmAKaZuJSI_OLjHt8eeZ9_rSh_uMtL-0XMpxyJ4EOHo0Nj_NkWZaALH-KZ0KCZPVegEDl4blq1WE_pl7FtqCLudGp0dj3ge5C-GvrqZS1A5Pm-_DscEM6ZGtD7cY_PTWI54ezUJwNfBkVLO_6sYtq50TQSGM4F1CJQD7EAVJmOZTXbPhe3GWq_goiWeTMTXWcRA5Y8JGQhxsaa5sSC_0WtGOai5vHJ21W9YTk5wNJrBSqbagbTTS1nIbEBJ7fDdv5YUvtOf1axg-91YaRv6zfBZFNqCFBi51TaQacfV8xOFP_tg_M6m04Fve2zzhDcBeosyl5XAYs48JmpkPP1f-hevpRBh7cA9hDbIpBi0QNU-VMg66_SOdnY2DMrtA_D7Ls7QxTlYwioqxVVDJsiBs56Exz2C5cBfObEhTzO-p88sjLnNgk6vzhIGNf5xCJ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVT21BE9awokR_TVyGHmHvtU.jpg",
     "address": "268 Clinton St, Brooklyn, NY 11201, USA",
     "phone": "(718) 422-0065",
     "website": "http://www.lavarany.com/",
@@ -44853,7 +44853,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Laid-back eatery serving classic French bistro fare & creative cocktails in snug, brick-walled digs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAQsbm0VawokRcg7_fS48m1g/photos/AcnlKN0Lwxuzl24bqoXrA6_jyc4EscmrpkXOhkgsxGugJWXGtdhUjtiBZbxPjrH_SL3c58heeVaIu2dV_m7HRKC622HeNTZc596rOW8xcR8cMn_kUrFwh2XmP6uQeyH5-sQRdDalfFkGGh6-TMxWf7rj4epXoRPVAZwRrzrWicDPuYQ5Pk8UEQ-T0vT-Ft30j_bNle2dWsHtdg9TXZ4BJowwkxXRkFtfLv6FBac5EyIdlgVho0XNCz9RNarZPOBik2raa69J6HpDC3dcJZ0DkapgZqF9s_ZeCuhDy7ce6LvTHb86Kw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAQsbm0VawokRcg7_fS48m1g.jpg",
     "address": "135 Atlantic Ave, Brooklyn, NY 11201, USA",
     "phone": "(347) 227-8337",
     "website": "http://chezmoiny.com/",
@@ -44887,7 +44887,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ1xiKnw5bwokRPnqqm2fOkto/photos/AcnlKN07cHJv_RgCD0Mib1rlhtxDZ493PsgaNuppqRBNNtqkxab8abEgO6O61e1yYLOi3b5lWPPxUCT4_V48G5nHNJPfyemUl-v43fxdHQPIW54SE0pm0Z5Ug2P4Bo7D7qC74Y3SMv8lhBSQ193dsELkZYjSKXiZ5EsDPY7efsU_Qn7KinGiiiJt9TI--94jxeAauTwWd53uzQWOmhGXdSrPvD31m7TTasiktHsgqB827I9fOZk_Hg4Hs1Sy1v8Gi9EBwoco4dvJzg20uE9_MlcxBhvY6hh2i7wh5j5kGWszgkRag_ckzTI6Z5s3dAoVlrEd-AHiUr_xJASxoG5N17CD4q0R_18RGvRQWocpLfjbveAKSkNqCXqq5uo7CCji4OWDWdndQH30-H-NrO4CpBKfgqe6p6QQPbjP-CiBTJ8Y0j2JdA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ1xiKnw5bwokRPnqqm2fOkto.jpg",
     "address": "835 Franklin Ave, Brooklyn, NY 11225, USA",
     "phone": "(917) 723-2155",
     "website": "https://www.instagram.com/theclistcocktailbar/",
@@ -44921,7 +44921,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJH2vRDZBbwokRR9fWYeKp_BE/photos/AcnlKN0YTI5xpVGRe4R7HuSW3Tiobxd_pupjN7uL0HtlbFoRhc1d_sv-ih18yG36XgMGBVwLLBQMirCsj0VcPMEeKCbItEkU4CNgfEFko10JmmYlqhobx2in7Zjnrf1sDGg8QHPBQGxihfYMU-FJ0dDXgrgLG-0RaMqYGWZvSkdvifSSjQ4b_fI9OxZixm-8knTjMmMT2blThRIPeZuKWIxkciwbNd2JIuW7QlU0F3WNBluKK390PUTwGUTZsq0xp69uD8CAj_6Og3L7J6odUOFmf51cOiCFMXjmqPeDQZ0zxh-dnw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJH2vRDZBbwokRR9fWYeKp_BE.jpg",
     "address": "810 Fulton St, Brooklyn, NY 11238, USA",
     "phone": "(718) 885-4728",
     "website": "http://barfrancisnyc.com/",
@@ -44955,7 +44955,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJNdlWyKRbwokRO7wpa44OWVo/photos/AcnlKN2Xg9yZbjyW3s3ocYkl_P_64IAUEgvyuQLKDg8bgVgxIE3v1uHI7G9MXD0INVFsxo0uWLsESrw3Hkxl4iBplj4uSWprTQCy7xxrsOUEn5Rfhpd8hTtNewGuNnJ-a9TMOCBTSlrwAMRJVmTfZE65YaTAOd7jUTnFqoRl7aABUux1W4oZCnOyxP4YYwFkS-aq96LU1B6PW8sE2r8LHId1louitPk8JFweAqgPbguSWJsnUHCcsWHnXaQQX-s-izhyZE9wOyh6op8IGGgMR11LQJwRZGatf2qjY9UyRAzy0KjtmQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJNdlWyKRbwokRO7wpa44OWVo.jpg",
     "address": "390 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 734-2902",
     "website": "http://www.390social.com/",
@@ -44989,7 +44989,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJyXmV7jlawokRleaWxviJPEU/photos/AcnlKN2DjT-r6l9ZxdEzWb-SDg8bcX0x5g7SwMmiCruNZ03NIpYdtI1I13E4TsDEA3ZpdQlY6CigIUYrDLWJLFsGmjh91NHWn-PWC4N8Uw7Qj3bi-xXVfDBj76Y08tP_RtrDUnuLYFSLnEkmC3mNWbzumUOF77-07W30RQruOphfk4ekI-_lDIIToMw9JtwYdl_00qRknPeTQPNJDyTkJLOBdBS5jOyIdQXpv0lUw9GJ90qdtOzAnCDwL1QpN_hf-yCMnxtc_olZwDeMwPKPTK7LAnmDhV3xNscVytZmAjQkQAK5hA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJyXmV7jlawokRleaWxviJPEU.jpg",
     "address": "60 Furman St 1st Floor, Brooklyn, NY 11201, USA",
     "phone": "(877) 803-1111",
     "website": "https://www.1hotels.com/brooklyn-bridge/taste?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
@@ -45023,7 +45023,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Relaxed cocktail bar with upholstered chairs, chandeliers, outdoor seating & small plates.",
-    "image": "https://places.googleapis.com/v1/places/ChIJFxhfYXVbwokR134buhAyoi8/photos/AcnlKN2Y-wuoNRZp7UD1b-EJ6nsBGXS-T-ncTrs7c0sPUHzIutvOw93OTUm-1u3bIz-OJmkWFRt3WI-71KHZotHOi1Y6hNavAueydP1OyELZtY0JxKadp0n1AB8l5McmdJn_Eg3_qWkIkG8uB0gwvKNYNzJ0yXMXdnhQxlP_QwK1bJCxu5WKeNgH5tnZUEz1k8Rar7b4Axi1fNVS8D2Bp5ZPNqcVbRCOw9LBE5sKXTXTAHlujxJ3m6K8IXnRIuyhKh1hfhPpKtmtHaIhDiVpUgxaJOnRIRXALLhBaNcLzKn2chX6oQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJFxhfYXVbwokR134buhAyoi8.png",
     "address": "768 Franklin Ave, Brooklyn, NY 11238, USA",
     "phone": "(347) 789-3833",
     "website": "https://www.drinkbk.com/",
@@ -45057,7 +45057,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJF2grHfFbwokRMJul5yRY4cw/photos/AcnlKN1Sn2f1futVKuSiNMOWuKcw9ljjAJ9ibs6-KzAYF7BYKuTzHz5VuswpCr-JB-NYsyiPKqfpMZkNGSlwP5d8MMwMdiv40JTxbpRphvDPiG-n3ajdUkekhhBW6IULTbxhuiWZIwgYatnlj8p0SXecN8ohVTDxdSvummj_Pb9idqUny-_uygCMWC3ndXQjrWDxSbON0WU9LF8j0aBLPrSj8Fg2LElSIUpDx2menRu0qVz1EgN1Hj4YwIf4poui4QytEauiUZaYwafrWncJ2YJc4blt_xTW8T_NsLaWkQVmzLbvOvYHOtb9C3QMbrEuVhK8_LLfq37RocJjPKjTXgXCO1-daL4fjX5Oh2V4eaJBCiUr6_MvvF8_aXbLzuOhXdqciOk5QkTghyhN5dKhBDiupHsmznZ5x3bG-JweFUkJwQS-ew/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJF2grHfFbwokRMJul5yRY4cw.jpg",
     "address": "497 Atlantic Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 954-9901",
     "website": "http://www.thelittlepigbk.com/",
@@ -45091,7 +45091,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Hip Cobble Hill pub serving grass-fed burgers, salads, sandwiches & sophisticated cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoZPin0VawokRilJi0l11ubA/photos/AcnlKN1lnM8480ZAj6bXp0HelZEH9SKhawXc5Y8eewpo60YCYu-Mif-YSpWEHL8uCg3iVfzJzVPcLjzQI5KCXQ1BYFfsSwlrHrAr9QvgqlqpotHLyZpUTJ-p6Ac67g_tY4OJxXG3u1yH9wl8-FmE_Yue8cYcoPxx1kNhc4gCxepDIEFCC9mMux1AqgpU5o9s1AItbjcMZ-LMXLAN_n0eMnDy7GseKk32iBLybyMUA8hlwKjqGrQ1CYbKadX08Vby9Cc5G1c1EjEGpYxZwAqGRODeJ1k9e6oqKBPIMfIX6ZrBr0scCQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoZPin0VawokRilJi0l11ubA.jpg",
     "address": "329 Henry St, Brooklyn, NY 11201, USA",
     "phone": "(718) 852-8630",
     "website": "http://www.henrypublic.com/",
@@ -45125,7 +45125,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Historic restaurant with retro decor, serving oysters, steaks, and chops, plus wines and cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwZz-LWlbwokR_hshOuzdrkw/photos/AcnlKN31tIa_-eTtIkz2FOfmaI-lp87ZW49rzRxTFi17SSNF15Lorhgs1GJppi4z85Lg9c4jQzTPaN5NXO6U3vxewvYZowC-9lGmC2r7aGZ5orXv0sTJUZgtlUWWhnUxqX9h_hKXvlSXtea_pEMcVzUIL5XH9N5S1F8BFscrWRQlREXa1MVyyx6ruYNrlNlFQlot6ki_9eovm8gAJ5xGTl67aDZfO9crAkQEOPgsP1_Z7E7VTDrbRAXA9sk5wiRCmp77OuE-GdntRRIyWSOMAjIQuoIdAXmuY5cdq2J_0X7dv1mnnA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwZz-LWlbwokR_hshOuzdrkw.jpg",
     "address": "372 Fulton St, Brooklyn, NY 11201, USA",
     "phone": "(347) 689-3677",
     "website": "https://www.gageandtollner.com/",
@@ -45159,7 +45159,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ6QUKUXRbwokRYn1IeT8kWls/photos/AcnlKN2yJnjpxm9J9PPJzBT2hSahR_15ct1mirK9azx-V39_GZ5RtP_zqAED3HP1V_YjTTWnWQOsvi68hYRgNY7sDAdHy9Z1KtmmVjRXbDVh9ptl4chmdtK3V8iQ272je8tau4iDaOAK7Ga_eKVaeIX7K-5j_mwoqku4IQ57d_e-ep1yLsOFtNyri19ilHfi7HgqTEqf2etJ2IHRcFCRQT47GowVzoVJgZdBvKN7n-JND59kIJhLu_t8hKRA0s3BsDrkENLdVAuPO5Yx8thxmP8vBKN-mVs0rkNQbIwX2UfpLXVRRQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ6QUKUXRbwokRYn1IeT8kWls.jpg",
     "address": "789 Franklin Ave #8, Brooklyn, NY 11238, USA",
     "phone": "(347) 221-0881",
     "website": "http://www.thecanarybk.com/",
@@ -45193,7 +45193,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJqwd2aGlbwokRjotGcADIRFE/photos/AcnlKN1bU9TkPo0L41T609oijBKsgTUNaAPoh8721iwKCgvC3r3N63UfIhXzKEYD32v9Mo9_cJspN8tl_AvIwBbWTLkBS-RTwlcnP4ZLS-Mxq3_UjeWMvdGD5xotmTDRKXDTH4NBMSCq1Du5fNsfGcOUs259lLn2V-84xTY_7exTA5Tw57X6895ErVLo-hcXMZ82oAoulO3iSiekeLWU-O3OyCHl9TGYwWTSRcRkEggSm734T3ajw50itjdKobL9u45KxkpPTZ6p7GsM0FZqzFRdeBa5aU30RXsd4xFqeSWAfzrxhA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJqwd2aGlbwokRjotGcADIRFE.jpg",
     "address": "449 Court St, Brooklyn, NY 11231, USA",
     "phone": "(929) 298-0321",
     "website": "https://www.luanastavern.com/",
@@ -45227,7 +45227,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Irish pub fare, draft beer & cocktails served in a comfortable, warm setting with a long bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJsTa8m65bwokRJdKLMPF5yUI/photos/AcnlKN08Jd4MGIBkKcLrLR_KeoBB0X-BxkM83snw78QOuU928FODNHz3hqgsJbxPqhvsHyuOvzWi1G54OXgCvZBDdcFalCNO--9WRKIVjcXbW-P65XgbTeuCBJ3Du2X3Bo4v-MlM8PSIdjr9CNQ-pq4bxzcbglFin4BuGNsou17RVCQ4Cc52XqrJU9OCPTo2QKlFe6CRaVnajmpcAoWzD1EdOv8hGfWLsiq1wut4rI1mltGYIJoNUu6Ghgr-rTQox0HJlJIn9QTreaLk3XjBlT0eIgv1IFyupQSQZKTw8giUSvpOD8ERQs-egPAqDv5XTwcyHrD4svWYEbTswfXNOPm1kbkjLTz3UTxGrUu6XDXgm1WGvj6O-6NnAapWykxwdCsSQSoA1-TdsiS22RqtsyU-5ST6l8a_LbniwN3ckWSTtxCfzNS4Ip_5XcqKrlEluACc/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJsTa8m65bwokRJdKLMPF5yUI.jpg",
     "address": "39 5th Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 230-4549",
     "website": "https://www.mcmahonspublic.com/",
@@ -45261,7 +45261,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Mellow neighborhood joint featuring sandwiches, bar bites & cocktails, plus sidewalk seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzfp-qZNbwokRPNi37sfG25I/photos/AcnlKN04BsPMAOaTCoU5_ZK97RBHfH1v3OffxlK0cC8oWddEjvO3OBmEzd16Y5QImjjPtzLd0yKBGoCeGUmY2Q6eCAmDO9sDeq6VYfLl2nV2tctkvF3zUIhu-BqG0cojcsxQbyjlxB--OAe-AshUZwOBKwUvVqZrOQV0OG_FwG2NKsmZ62LInIo7FGFzAcVvLI_LX2OmD0Ogy_7pSUo3jJ2NhNmUbLj2zuvLOVLhNMHsIhaqT-cfBAi6Ns3Ofk8BmI8-BfYYOxkkjT1EG20QesegRjx8bQJsOgSEdG2ImFezMGt3_w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzfp-qZNbwokRPNi37sfG25I.jpg",
     "address": "497 Greene Ave, Brooklyn, NY 11216, USA",
     "phone": "(718) 975-3887",
     "website": "https://www.captdansgoodtimetavern.com/",
@@ -45295,7 +45295,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Cozy eatery focused on local and organic produce, with a dining room and a covered patio. ",
-    "image": "https://places.googleapis.com/v1/places/ChIJi73FVqNbwokRZ4KIqLtNoFw/photos/AcnlKN2BgeQgwRDMvQ2r75f2W8G8i2oqFJyOsGgcLh5eZEhGGI6Xals1CRDbflIyY8_GVMxBTbzp9sQ2jB5juVHyylOVdQBg34_dWXS6XwDidn94PMNb3jbQqg4T2GX3Zu4SUYeDmGfS3RzCBK4mLuQyfayjpc-euGmNqgiUhp6HhWRnWPYf8qUJhm6j7A1lTIGTO9GnEv6K5H0pW39SBO_j64Vy3y8Pgyxq5cl4Y2JhLyyq_49ab5Dcu0-JkQZ6xE7NOa8buPKIkIQrnJBaPrLbuD3lHOrioS8AFGz54zFxirJhxQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJi73FVqNbwokRZ4KIqLtNoFw.jpg",
     "address": "900 Fulton St, Brooklyn, NY 11238, USA",
     "phone": "(347) 763-2537",
     "website": "http://sistersbklyn.com/",
@@ -45329,7 +45329,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Warm fixture for Caribbean cuisine, including jerk chicken, guava wings, and fried plantains, plus a bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJgRd23gFbwokRFaACKwWIF7E/photos/AcnlKN26s6D5ZAxZ8Y1q9TWx_hGDJCW49rGJReA4Ub_cPVsGqVrWqdd3N5lB9Kh66KjL7MKrURWjrp5kaP4GObglFSjN88AUJelYLFMuYhn_2Btv-RdV3tc3V5hUpzpRXS_vwc1myUUcIJjAhw0SxgOokf-Jm4TDfPvAgexhOhzOiu5HaObj0sRUHxDRLSfpBr6ARL8d4OxpPXCn7jt-eNjYfGLZo6t5KxTcKj8Wh_LWLkaN9ytMH75qMSoGaFQY5gisdqgBN_CnQrOMhzeMEdbPvn_-7oIcDHQr-D8iD1dlKOCJLw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJgRd23gFbwokRFaACKwWIF7E.jpg",
     "address": "448 Dean St, Brooklyn, NY 11217, USA",
     "phone": "(347) 799-2345",
     "website": "https://charmbarrestaurant.com/?utm_source=google",
@@ -45363,7 +45363,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Cozy eatery dispensing American food & booze in a narrow, brick-walled space with retro touches.",
-    "image": "https://places.googleapis.com/v1/places/ChIJd9qVa5VbwokRJ7q_7M3XbIQ/photos/AcnlKN1iBU8GfQdtOVy7vxr2QkGb97dC5MGE1JxPocl4U4hofCCrBHoFxWDrZ31ItDtBlYD98WRUgWvD5abif504cXSKZr9mhXTrLtG0TL8gtU-04kcPpFNwzOtUkVH1Nrw_f45iCsqDBb1vuPaVEy2e2XsOHINjyJZGto9p1ObG75uVbvxdYe1cOl16APHFb76waMlFnNmTtiGAsZBf38WRYGKPFURovH-1Rlg75gS87PDGftbBwsPJvxfm7pxSjauHCsbcOGkCaJcp_ATIu6-c09VhfQ83DpkLJwjk5q2PCEgeqQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJd9qVa5VbwokRJ7q_7M3XbIQ.jpg",
     "address": "471 DeKalb Ave, Brooklyn, NY 11205, USA",
     "phone": "(347) 406-9700",
     "website": "https://rustiktavern.com/",
@@ -45397,7 +45397,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Intimate eatery highlighting thoughtfully sourced plates, wines, and spirits, plus brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJjW_xjcJbwokRhrgB0I0l3Xg/photos/AcnlKN2f7Yl2VZXB6jDXKer1qTGdVUhiNhyHLCvaO_fX3NJINloLnAYH92CJhQ81_emGFBClgZgfXgKJ6HmQELphNOPdXt2oVpIFlu3zPzzbRFxRMqs0Op83CqUi2LX8Ryr1txKk9lLYCGEVtGvNVcHzL8WuritSsp_Erj0HTbDOxEssvfJGecwGIltAqvPDV7UhOA1mo62-R7gCk1P6yfu6PGXwAxb7kN8wfZBwraAydyLk5d9WwTeftunQTLz4cKQHoeiQxbsvJcwqh7sGpYgz3P2hpY_D6NRWM77aFVzyHws8mA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJjW_xjcJbwokRhrgB0I0l3Xg.jpg",
     "address": "755 Dean St, Brooklyn, NY 11238, USA",
     "phone": "(646) 470-7008",
     "website": "https://lelandbrooklyn.com/",
@@ -45431,7 +45431,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ60KUCphbwokRXWseK7A_M4Y/photos/AcnlKN2aveTmQ7T-6LAFJtU6KC49EKA5USzIJbW-SQIjLustClR3v_NLNMvyhgwZcW8SLpg6nivW9BGQlZaBmSK4o4pBbX7qt-kHnSfccZhvXvC1-Owa_yR1ngsb6pXyFvBb-aUTo2Mr0Af4Xt68ue9QCrnwyATLhfqobPFIZrgMuWfwkbAvhyYwPualzhqK3A7ARg9T5X567medpTtCwCf_Remg4rGa8ASc3kJU8sTvPVKMfkOMbNKmOF_mfIwI6CeWDepjoQwnkDV_3E4_jUTSrjb7PfM6jK5rTncHjJVbJJUNHA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ60KUCphbwokRXWseK7A_M4Y.png",
     "address": "60 Furman St, Brooklyn, NY 11201, USA",
     "phone": "(347) 807-0239",
     "website": "https://www.1hotels.com/brooklyn-bridge/taste/barbuto?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
@@ -45465,7 +45465,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Airy eatery with a modern vibe & a rooftop terrace, serving brunch classics, pizza, pasta & fish.",
-    "image": "https://places.googleapis.com/v1/places/ChIJS9fr3mlbwokReHxIaQ-zF0w/photos/AcnlKN3CjDVBZRslBihrlX1NZzMXiqKPT6k95VvHqOkc25497BKUReNbyFX9J_vWPjnFbhgg5Zpo2TnBLGklENkZNnQqStsZ3Z5ITiylaWdRwPKFj-ewT-uevAiGMUiWSYHp4Qgon2dcpra8tOuu17-bCylJCOxb0_8t74Q57QPmrrn6JzMjeUCpK5Dhuj6ekBuQS-JuxqID31RBTljCJxRVZa9Plns-yHlvQR1s7NeVOHnBIhAxsmWi4FZTL2Y67GXLPvwSRTLv5_sjYlTeWlSIZo37SaWuiDgGTQGm6nz6O-t6kislhspNWieUc_h6dJKuVy9VobXdQj3EMeGUTEALPRyXlEpa_Q1kBk_J1-LsBYT1yoWogGHRuRHxdXuEXvc2tI9oMt3lcV0fqY7V1VoBaNJ2Q4QnswIx2ze8LfZBE2hibvw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJS9fr3mlbwokReHxIaQ-zF0w.jpg",
     "address": "113 Hamilton Ave, Brooklyn, NY 11231, USA",
     "phone": "(718) 855-2277",
     "website": "http://www.bassandbourbon.com/",
@@ -45499,7 +45499,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQyOpP2RbwokRjD2SrwniWS4/photos/AcnlKN2UZSZyRjF5hp6r_hu0YkWLJHwxkyVFJ1SsUo4WXq9JcbZBFFi0_rSmEDUCcZbEsBisqMLYifvg7WK1-bJYYOZ80wesHsKQeWv5RmVvAf3FWgOUHo4HfdXtR6gvjgMz05ACOf6kEHq2FFHO-mmG-v_ECR7h7tZUyA7ROAVPsej2HqHTiGcUv6anc9ybMR-aAm-3FnMxwD_DSF3-Ys2CpXplcGsj-WJfZC1lxejxV4uJD06oLvw-XQRNcPiyOt9wslxYgvpvQtow-MJdy0Vi7BbsTnKilh_HQgVWbSLtRhPhcg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQyOpP2RbwokRjD2SrwniWS4.jpg",
     "address": "554 Vanderbilt Ave, Brooklyn, NY 11238, USA",
     "phone": "(347) 221-1385",
     "website": "https://waywardfarebk.com/",
@@ -45533,7 +45533,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Mixologist-made cocktails in a tile-lined bar hidden behind a speakeasy-style unmarked door.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTy__V7dbwokR-XDg1Yt58v0/photos/AcnlKN2LZ7sovc7OnZwqNJwaipeIe7lfWskPyg4UgLCfjHl6vo3Gto8cBFrr0p_DueAgHUrD8yb9q04bW6kMvGpbJKaPtsb6I1DfJTovmzw6VyDO2lVnSX7AXyH1fW5PWm56lJMF7d7_FVVyCwjGjrCIK06vjk4DWjweJoMVdsWovxw21ZbU543bDUUveGH2t-LLZMAaxZAgivxJo_J5SVRgnyOe4sWbOnpR5FGAvK0hdfeb7aqrEI5qQaY3R402F5NMqDMwXRq_psQjJD66zNdoiiHfp2WHPP3bP6ApKFSzyuchDA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTy__V7dbwokR-XDg1Yt58v0.jpg",
     "address": "266 Adelphi St, Brooklyn, NY 11205, USA",
     "phone": "(680) 222-9870",
     "website": "http://www.dickandjanesbk.com/",
@@ -45567,7 +45567,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Banquette-lined cocktail bar with art deco accents & a vintage sewing machine equipping the bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJtRe2iHhZwokRIxa-bPRoumg/photos/AcnlKN3ETlx0K-P6tOFtDntuDmFZZVvIf-bjhIpODmsmkaPBO5Ke6rMqNfAzTw19JWCnSbVxQgTFyV-bR3pPX1eW9KFP0xozp4HxL6ndRgj9ztGl70up0UgMiND5l3Ci6yI2yVmHEq1qTH_hhcH8Vgc3fp9hhUfhAATY1pXBI0i-LNmGAMb85tYfJzTQucUJ423jur_15hT8hfeweWLe8EGHGtAEgbw0E5N_o7zbabrXMGkKqJpydgfP0ctiCrlwkeaZhf_wJiSi25ezNNtTTw2E_dKnwoYlUP_Z4K72gGwyx4Ncx07vClyx08lXl4Dc-bNfVEbMLEyarSx8YIJbmzDlhoznltfW4_Fg0YyPpzt6BM2C2Df_CotCPtsh_CjBc2lACP-jdCLnT1mOzYV_ceRWKYxEp5zL4AaJ92Rs-EXcymeK0JqXry-Zn9ILqzEMkw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJtRe2iHhZwokRIxa-bPRoumg.jpg",
     "address": "136 Atlantic Ave, Brooklyn, NY 11201, USA",
     "phone": "(929) 387-8308",
     "website": "http://www.elsabarnyc.com/",
@@ -45601,7 +45601,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Established members-only squash club also offering indoor tennis courts, dining & a fitness center.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHW0gtkdawokRehZY3jO0ewE/photos/AcnlKN001oMcAT-Qcs_PM6LWvuPZgfWbY8rFrr8V5Dyf2U9hJmvjpTmirMmplVwBtHIJOQPXe6kgjU3sM2bRYIJ31uf9kGe9SxHPzgwti1dAdsVyaPBSz4G4MmjqdeeEXe7lmWKnrdaImYM5Yi1KHhwZzuV3EVvBqocJ6Q7bbrk92OETp_w01JJlZVwNMqcvTJQyM1l6i2Gg_9e8S79-PftH8LYkR8_1faS8YmDiZZ-s_dtiDmurxjq-AnD-yC-wcAGyzHZoQv8aHIgQRSaSzU2GiQJOrCVl0RgdI9kYnqqHCR8BYH0f9hvRwhx3D5y9nuOdEcc-Vel3OIqO8rsM4r-J8MpEnGFmnM5V0zc-mZWulamLGCvQ5He66JiarMIeSzgYxLM4XMYHxMPmvddvLfXPOnyuZ0yX7W5QqkMZO-oRVtk/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHW0gtkdawokRehZY3jO0ewE.jpg",
     "address": "75 Montague St, Brooklyn, NY 11201, USA",
     "phone": "(718) 624-0810",
     "website": "http://heightscasino.com/",
@@ -45635,7 +45635,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJq3wtFoBbwokRhqrGqfJpbHk/photos/AcnlKN1ptmTzchPIO4NpGjLhpEfep0nrIqAKkBHuNCQW7WRzlI_5FMNPQMfLxl-AgdqXE5ZmT99UOGdnIXxt7W_ChqqX0m0LM1MqCD9gh4kt9CpVExFvNac7bReG5Nt0byZNEpIisykFX0zgXPkDmaVuJlvFZ8Kr9OriRWw40YY7bHCqJ220C72jGcP9A1jLvBeFmyhJjVdE9kbr4m9izwiyOExqc0uW5iQ-u_IX9o7MDjPFC434XwvvcxrxoHX01WN7DqYKMVatOr2nqPlSLbyutBTbKYCvcDSqlMDm9PibD1TVCA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJq3wtFoBbwokRhqrGqfJpbHk.jpg",
     "address": "240 DeKalb Ave, Brooklyn, NY 11205, USA",
     "phone": "(917) 565-8382",
     "website": "https://bit.ly/FPSMenu",
@@ -45669,7 +45669,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Former Italian social club transformed into a speakeasylike bar serving classic cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJPe-pfldawokRZnO3SMACHYk/photos/AcnlKN01PEXhRkaXFPqYi8cmOGkRttcssZdOFS04lV3SE36Ra9s3m0ktIdpPgw4jhAmnc73029AJAEbr9HH8PdWnyQUlL4ju-_IZv_EhQ-3WLpicPKYNJam3VU-9Z5YLJugXufubI30Kb76xq81iEkcJDiZCGySQRU4M5geCGJHG7E2-kqRbKhXrLOBrqzdioAaco5yJaDV_v9xqzNNaeIlWMvWdltHhPGmeko68Irrgb_xSarfKEgjPlrrE7T-SOc5pqAkk_l6LOGGCIDC2JRWNJ7Q0rb4Qc-HavbjoY1L9v3BcGA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJPe-pfldawokRZnO3SMACHYk.jpg",
     "address": "335 Smith St, Brooklyn, NY 11231, USA",
     "phone": "(718) 858-7758",
     "website": "http://www.brooklynsocialbar.com/",
@@ -45703,7 +45703,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3U6nv29bwokRqNqk_YUruD8/photos/AcnlKN3F-NqMWeR2yVmHX9STvn4Ze6Fp8aWGig6GVwg89hIsK5oVxs1OlCD8ZhmkeEfPWr8BRJ_wC7P6Smr2FV2OKksOJBltAPJF8ML40uUB6WxW3edICGciFRVEPGiCUQoOYrTIKhzOuUkpKngnffZZTyXIPOTqS-JEfTnh7PtcJIHjJoIqj7TMRGQjbgx4w1xazqmuItwbyCzThfeq15ZcuSNfC7Rm6a4PpfZDLnxK_C7Inksml9XNwR1R7yHQSFI1q-iBreIT43QR1WB_eSVWhy1j1bWweroJAKQ4D4BWsJAKn6qMfqwjn_6vpIy_KLKjTQWr252O3VQudl2b7UbvYmdmZ2PkcHXo44RKeCNbaos7xNqbsEGHP0CteeXXwIk_gLXfnziNAk3eUw8UlQEUnnF_8QpFs3UiuDHCsYEkWCWwMzk/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3U6nv29bwokRqNqk_YUruD8.jpg",
     "address": "15 Hoyt St, Brooklyn, NY 11201, USA",
     "phone": "(347) 434-9593",
     "website": "https://golfzonsocial.com/locations/brooklyn/?utm_source=extnet&utm_medium=yext",
@@ -45737,7 +45737,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Atmospheric watering hole serving up cocktails, beer, wine & more in simple, retro surroundings.",
-    "image": "https://places.googleapis.com/v1/places/ChIJG-GNokVawokRw5Wz0_cHxbU/photos/AcnlKN2RMHbxVkWY224IL16LRspy6ApdBB3yE4kJv27wJ6yTpms_sdAJB8ncSiAHr5wFKSlZo9Q1tOLLBHP6-eK-tvsFcT0ojpzb3W5cTfUTbc4NgJOWxTK4F1GUS8TdJWS0XgkHvMtlLIpNXoA6lrkNVXEzwEnWQZ-3WzZ4Oqqq0H3krBMx33IZgDC9wOV4FwaOmlFvko4CDKf1jEF7RF_fmlYgsuteJE9FFAL0BPC56Oy75n7OTGEKiON104h_YumLiPt919lpPUd4gmtM8maeTd8F0d-_7lAw7iJfryfO9roH0fWT7R_9Xs14_AqDh68MyAUXbzDpRpEd47Ff8CRaDuzVusGLzXblimcHVYzXBAMFtwnVmtb-VdRQpJHrm7YVLAOIz7exc-lUzLE1l1gtGRXemeyi2MPFNsPACqz1_WA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJG-GNokVawokRw5Wz0_cHxbU.jpg",
     "address": "110 Atlantic Ave, Brooklyn, NY 11201, USA",
     "phone": "(718) 625-8908",
     "website": "http://thelongislandbar.com/",
@@ -45771,7 +45771,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHzJT8c9bwokRyBhYdoeZIE8/photos/AcnlKN1h6Ozmvq6JV5EU5wn36yOT2NUyArRDe1mg8xK9pl3nPFkd5Xp0--SfYiVGW36N3v3fQ3ulaAsq0WGwA0mGqQluAZ_AkcU8PC6jypN_FHvX9Ko--nWATjVrKK0B8IMNcFPfkryl1e2CZMFM878a0PVAqspb73I1QSwxk7SqUuTdXRRkg0qHp7o-mR9o3_FA_yn4oxK00FBne-lN-ZSejWCCXDx8SOyNTHxCX6cslW-1srxdaSh7FyDbmAWnBhEJ2ZvU12tsJaaXmKZU2VVrNaHYtZwJwezo0jmFouPxsdtE2w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHzJT8c9bwokRyBhYdoeZIE8.jpg",
     "address": "500 Smith St, Brooklyn, NY 11231, USA",
     "phone": "(347) 599-2224",
     "website": "http://queue.beer/",
@@ -45805,7 +45805,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Craft cocktails & beer, plus snacks like Pop Tarts & local jerky, in a compact, dimly lit space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJy_M6GlBawokRMQEnqU8EHOg/photos/AcnlKN1djZDqokhKc3aOw_3pkYIkog1ZmxrLUCXE5nwghgyuhJUVMmJhi9oepvbPUdSGX2J1hz0A2rSyQAcS8EJFS7VVTOV9zMLh-i7BcQkMDUsP2fRuzwQNAWj3n6spI7ikV9UTyR7LL2BosJjllud3F6X8IXhdVxbxoGPti5y33qQmi389Lbjy9njsVoBGii6MoeydH-I49I2mpj2Xi1Jfwtv6aMCx3Gju3oDrH_wjfn2PgSfrPErTx1ucNO0P_7wzKB9S6cTHddDVd73AaVXMepfWq3VDfdW6FgN-ywFhcmEvSW5NnoAzKc5ikouiBUtftZqK59mK2OJi-HUwG8n87mBmYRJXNGfJy6ptA50GNAgOttVJgPZtyPg9i6SJPlTxhWh5QsOq4WfX02pAdLIWwOp4BImDemskTdpxsu_jc8Nh5g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJy_M6GlBawokRMQEnqU8EHOg.jpg",
     "address": "208 Court St, Brooklyn, NY 11201, USA",
     "phone": "(347) 916-0802",
     "website": "https://www.congressbarbk.com/",
@@ -45839,7 +45839,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A richly decorated bar for natural European wines & locally sourced small plates.",
-    "image": "https://places.googleapis.com/v1/places/ChIJo7kAbVBawokRKkafvpa2WLM/photos/AcnlKN2g4zyigEEQsoUI2qrdSfjE2AoZ-5S8Ay4I2H-n9iHBailarKwdY74xRBPge-ExdYsgYGPuDdD5betVedjG9_UyYsrMKRkifxCqVl8cvTeLaOYKKjafhHjPN8kNr2iSGp3INdkDWgZUoGxBc54-KIyVeq5VYAFLrDTmbK76E_zxPp1NfutOJUJtrkD3oZe38Lbu9_J-SEJE2JQiHYe0G5sinWHZFQrCB08uZ-05OYVmYwhKaVV8_mFRoriM1p1o-65TAlB3qfEIdC4NBza6YPG8jB9Md1w5G88zHtIXeCepUg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJo7kAbVBawokRKkafvpa2WLM.jpg",
     "address": "231 Court St, Brooklyn, NY 11201, USA",
     "phone": "(917) 909-0434",
     "website": "http://junebk.com/",
@@ -45873,7 +45873,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Everyday bar in an intimate setting serving up lunch, dinner, and brunch on weekends.",
-    "image": "https://places.googleapis.com/v1/places/ChIJDXb2GE5awokRd8pl11mJuMc/photos/AcnlKN0F-EFZaIQdwVov-buU-MQ-2mrCJpV0SY1P_AYWoBzq6JIKApCpahHn1YYZwabZ62EGW8WDQW8UbyIpQknCoMnKBxfr9Fa45vt3mszBX6dpef6mSpN-p3v65z7IBJy14yYTPUzNXKCnicNC84IYVVLdQJZpgm2PgvTc5RZ866V_MFRbFRibZbNDAx0OKULOTKMUX-aJut7UoXLOaYo-MF8tTtIxsU6ePNIx366YqbMv4VUa4fZk7exNTW_lwkOPNprlORxIjNtxO3gnQG9Mpa1PxwWqbyNpFG7OkbumXyLNAIjgsPyS_pmY0aCcUBl6_gUWQHHykNawT2cJSyr0lxZ_vK8fg9K272qFGPR18n6SndQQPNClTC9XGbR8Q0JVcsCzXztqEjv-NAySwcUZVzi-l9aKxtWlHD9wPVV8g9wtPSU/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJDXb2GE5awokRd8pl11mJuMc.jpg",
     "address": "128 Smith St, Brooklyn, NY 11201, USA",
     "phone": "(718) 923-0918",
     "website": "https://www.bartabacbistro.com/",
@@ -45907,7 +45907,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Rustic-chic bar offering cocktails, craft brews & American comfort bites in cozy, candle-lit digs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwbvAWK1bwokRDxw1O9vNXN4/photos/AcnlKN2qGq5pdCBysYk_mdC8cnmSYE11UvXiEPbhXSM6bddeLFKa8Mcb0lz0dy53vGsBQLgPRd2R5J0SqAbA1ay11fxg2cKfQmCROR6699mHOOG2T8IUKhxRNi38NekJUt2aRed_2V9X_P_wAPgyXi25h_vEUUWtEtXTlmbxDFXOPwpP0weSY_M7SZb5b8JYs-rMzEt8Q6CUa_ttFKQ2X6w12CPexUffVsGAQJWsux_0t1Hv6Jw8tciJfdvdCN-A2lYTS0fCMta2yLu6PSxhKUrzoiJDPx_xUwmvGh3x6U5z9k-ARd-YRlAk_h39qsZl-pauHal_rlHVPiEoIl_YAAZ1kabgvryQoLnqnoXQ9KkA_iWtHSNkACoOK2-LR3gVNOeFMPsAGaFV1gXey-sVya6xrXQmT5u5D61wrIHJScGpRfdS4w_1/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwbvAWK1bwokRDxw1O9vNXN4.jpg",
     "address": "494 Atlantic Ave, Brooklyn, NY 11217, USA",
     "phone": "(347) 236-3417",
     "website": "http://www.hollownickel.com/",
@@ -45941,7 +45941,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJR9uKg5tbwokR-45Jeyx40ms/photos/AcnlKN01ugJUDdgZBu91LqpHr9HigO2wWxVSWbmasYIu1ri1gT97Q1HDSFu_p8h2PcrCWgISZS14-0P_uC03Jo-4xlzBzIUYPhYFdqZnhIimmsMg17bNb-3o8KFeAVMOxsPdOleOP_2jB3m52IiuJH4wqcwabri59JOfzKd0mHTW6HgFTrHlYOzzhyxCdtFpvH6zgaMDd67ErQE-2jMtVViR-r2xZOHxbsSLFnsV2UVrwEzkr8z1SFjeFOL8EjJPNrJdaiUOmFiTny6bvZBoVDmUuevK5HcskQ_Eo6hmkk_67ONS9EMfU3EvVyzET-il5yglkjFUyWl11QUXJLAIO98O5byRM8XpeX2GFK0h-BXuGn8o3W7YEK6z76JPE0bSjHBSLwI014bxSjdGHKd9Gd6xwLDKBlM0RTPQTg2Kmp32DDuBp5Jk/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJR9uKg5tbwokR-45Jeyx40ms.jpg",
     "address": "196 Bergen St # 2, Brooklyn, NY 11217, USA",
     "phone": "(718) 513-9176",
     "website": "https://www.anaisbk.com/",
@@ -45975,7 +45975,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJG8MBdtNbwokRxOR3oVutbPE/photos/AcnlKN2Jqoz-LyMQ4XuQOhXPlJstWonouI_CWqGrDir-WwDPwOIUFg-kGsgWsvr6D3LmVPm5se9gZw_ic_e5ALdBWwZkY5a156_uYRmlXZdB06-G_OLKNcc281V65MMnbw0UuO-CZ_1VYp6dilL3A1stMGhFgDxrp6Ub69qxxRdrNsAeo8VUq0XeRG3E9sOLBIqRZHXBkTNlbKgu6ekGDdiEm5T-Q_xdE1hduV4OW68GrRWvi3O9oYB8bg3ejxk_Rg6WTBGTZGn39PYm66GtaHv3aHyUWkCahso1aVJENgn-XW0N1w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJG8MBdtNbwokRxOR3oVutbPE.jpg",
     "address": "191 Smith St, Brooklyn, NY 11201, USA",
     "phone": "(347) 294-4660",
     "website": "http://shannyc.com/",
@@ -46009,7 +46009,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuedIXXtbwokROUHVzt-XCtM/photos/AcnlKN3nNnCcvV1dD0k8ahaUEf3AszG63XBb5I0hUuZ38Y05NTKVE_Yic48NNOv6WpMcTGQ4V6HJaHqhrhCIxqFV2X869zfNkJ58dJfqe2XdL631MBF0TggwL7GlNRbEVEVA1B2mR1-hJmEhF7zzY4MXHWjLZ0l5kYnKZlSoYLAAuTBqDOygPNJVvZ1thK5tlkuPKRnTSGorj8Na9Y1T7SHTuVnzPnV_jsOPYEHzYkn3GTBnvrecr4FAZWgQYUtYKMYGT0c7Tg9F2ZBmyXZMQaV5cGO-97GezpCzGKo0JDOOZcc0nw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuedIXXtbwokROUHVzt-XCtM.jpg",
     "address": "154 Court St, Brooklyn, NY 11201, USA",
     "phone": "(347) 725-3279",
     "website": "https://mamannyc.com/locations/cobble-hill",
@@ -46043,7 +46043,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Cozy, wood-accented eatery serving a varied, seasonally changing menu of comfort food dishes.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4bYvf1BawokRn1L4oKgS2mk/photos/AcnlKN1WuioENkkhW_4MsADpNdNnsl8y__3xFzYi6wcaCscLbJkFbZrcXok_9RKeygxCR_C7z4CnwBG-HCfBJJ5r6SS1A6Sm6fMGD31Cy_be84A1mNEC4Y8fM-Z78MCVM125hOkhViEB4ta1_Bg9DCpVjxJ2CSE37WWmsGD4i9AHKoB75mX-D6ytD3mbSPv12CCghdaTDfGXVI6RJV2jgWbK8RzJaFjbKjqQ4epgKRPSvTjcGqatHMBXTcf5yPC1vNhzKQgsE9EA9NP2ppgoXH7hGa5Rd4iwFrIVGr90ny8ayuszGA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4bYvf1BawokRn1L4oKgS2mk.png",
     "address": "254 Court St, Brooklyn, NY 11231, USA",
     "phone": "(347) 599-1887",
     "website": "https://www.kitchenatcobblehill.com/",
@@ -46077,7 +46077,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Mediterranean eatery serving meats, seafood & white-sauce dishes in warm, brick-walled dining room.",
-    "image": "https://places.googleapis.com/v1/places/ChIJv9sG_FBawokRla6TIaJSNM4/photos/AcnlKN3Sb7P15--iI_M9-JDe_e5xRYr_uKyn1n_qfpC0tU0_70lBlOXYvNYRrvrxxt4vIUyfL7ixTU9jyTTtKEqfeh71f-F9iTlI6PZKKAM-rKnu4EpwJh3CbYLrfFuq-kUqFpb3kbps6oEV422i4BDQvXg2ld1cEv-UnWiyFGuZMnP6wcOtOkxTtr_DbXItjcFQhUxX6iO4a65xvdzh2ePPuK6LGL04bqrbSTNPeAR-IWFFASPD55F4IyzsE8sIWZRW5KkPBccIDSb3rG4HJR3XaTIVjttTsyDBaPF2f42Lkmo7vg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJv9sG_FBawokRla6TIaJSNM4.jpg",
     "address": "216 Smith St, Brooklyn, NY 11201, USA",
     "phone": "(718) 222-1525",
     "website": "https://www.verdeonsmith.com/",
@@ -46111,7 +46111,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Seafood restaurant with Spanish & Japanese inspired dishes featuring high-top & bar seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJC_-pxFdbwokRuPw-9HZucGA/photos/AcnlKN39XtLTiEovo1NTkrwb_7FyMO4STCP-ruhvlVIXscBagXLyefVVdVJY06oSY-UYiQldp50pndGd4LVpBR2eYnaRGqBICKuuw2Vzon8pPh0WqdSxtjS1nIDru_RrAueD5FIrGtVHdf-p9L9TEL8oaKlN5t-JfNsoVvAZ6iipQtsJgagMghhkY7xneAAamDaKKOHcBBM7KvmpxpH2CSHu6pPah8siXxXU10uoD2wcy9LXBA3DqcCp0a_pyzTm5DjNiNLk8O8wW7c5AZhxkl9FhMNBJTuEY20Qiv8IlcDnCs24gdaLNbTs5l1N7MYQvXzP1zDmtdh6X8Gh7ZM-GswbM8xT2fFtEAkrdN0NSOs40w4mDuE-TIMUeERUmEpA3GX9eKy4ZtjCOiY_MP0pas_7Edi9R0HMsJFhlXhj79Hwfl8eMQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJC_-pxFdbwokRuPw-9HZucGA.jpg",
     "address": "264 Clinton St, Brooklyn, NY 11201, USA",
     "phone": "(347) 987-3710",
     "website": "http://www.saintjulivertbk.com/",
@@ -46145,7 +46145,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJb8rqw5JbwokRBOBigHr02u0/photos/AcnlKN0AGzQLXelAvoulIyEU66vMC5PXxkDc3t3g_y-uPgcVbMnm39zFcMog7yM9hUPMSBf9QFoGTydsS0oUI4tt1yalY2-BeI77Rg-mwLyfV7mkvHeMjiMBZKVvrsDDPG-hLp5ob11QETHV3VonOUVsdrmDTSH-TcqfPbqu5bD40ogZk0yrwJb6IDPM55S1kagyyi1avOjuWl9UdZb-ISn-_G9_fORYyXbNxVHuQzYHmPeWQlPJ674y8YY8yrw9rwAmPPTQPS12uTa-LLKHfyCGN2Y18tjmEtIVqmE2J6dYgfEWfQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJb8rqw5JbwokRBOBigHr02u0.jpg",
     "address": "68 Bergen St, Brooklyn, NY 11201, USA",
     "phone": "(347) 294-4287",
     "website": "http://www.barbalu.com/",
@@ -46179,7 +46179,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJIXop_albwokR2ICozOoRz8s/photos/AcnlKN0v4brrM_G88nTngmsfbTtcjzLj_VB1yDW4HZ4GFcXMMQlmMVfts-D-5PmUVw-nFrIsFrb0-zErD4mXlmJBB3YRwcsZgmsV4oaVqZ3wMow_b4Qh5inI5gxAqo67G9LSB9Pq9uWIS5GvnLlWjXDFmNQdoH3nIBWDe7_u9maeIVAwfLVYGeF4en9oAcq1cSWWEL7nzee-pbrXpHnrC63R17I1829aMRjo2H30-l4v8gyB2xgoL-ialMdSBALFxtQ3b_HHYT5WGIYnBpXcdJ3japBsMIsaJubsfghEViWJN-6HqSF5eFlBObyNk9UPKgx6bJjkT3Ch4tJv3WCRqUToTpPm0PdAZK-7IqaBgcRU_a0NPIfI7JQJtqLlTvgnn3W9H3P3KVYi_keTR4E4MSaEzlob2--CZcffpbnTcik4WfmTiNhg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJIXop_albwokR2ICozOoRz8s.jpg",
     "address": "151 Court St, Brooklyn, NY 11201, USA",
     "phone": "(646) 536-8080",
     "website": "https://dailyprovisions.co/",
@@ -46213,7 +46213,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJYdxhM9bwokR0sGB81SipPI/photos/AcnlKN1DXTO2pdqHSIbQRXRa_GnO_q2Heb1RBplvkHkaBS81QudYSk_eVXswRynEXC3Xf1XSeQhboXweDpQBraUpF_yYbzTLSC87o_XQcoO7_tpJMPAMGslsObJN3tb-FG9myCp9a3rU8JVtv5AcXbuRaFF4y23eF5Ub_s9lKJbc-krC7-fH5u4gyKRilrc9Jq7XPDNaGRGR0ZMbX1f6iLDVnX-fbYim0NQZpDOYfQNcp3jsJwHvF17p5k9pNIpqYmWgD5yBttq1icRRbxNGoj0diESEoaqAXq-ejegmp4TGbE9kmiI5ghM_Zhdb1mfOKkIRhb2GTVbnKjUuGZtX9nlO1LMAyZbGNJ2vdYBYceCZNBOiqUiSKwyk37rNexvrTfoojd5I6GIz1ouoCftYwQh9MWxYpBu-3765eD1MESqnMsODhD6K/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJYdxhM9bwokR0sGB81SipPI.jpg",
     "address": "174 Smith St, Brooklyn, NY 11201, USA",
     "phone": "(718) 973-5958",
     "website": "http://www.pokebowlstation.com/",
@@ -46247,7 +46247,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWQ-ytU1bwokRM10czlaEt_U/photos/AcnlKN3XIvwTH4gDjBuHgx4-2QHKfBs-lTwBpWTFyEoHf1ynFD6b3e5UeJktQbmg0171esvBs_689_VF4_kTE9_PpJbCLjxDhreZgZjWT6QZ1saL6WCBTOQyMEf-b_z6FXii1VAmxl02MirH-YcEeCWG_P5Y6GTvBADJUe-WhK5tc48zIxwNbwPqt7js8KRYhIhgqXhrtuShJ3eA8zR-wDqeY9qPJ8F2_xv5V9i4hk-RrIDsxi3aofLnEp_mFgDO5bwN8ottzoE3nXnUyRb7oiGxRXxHoM3Kre2GyIeqEp91b-1DHw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWQ-ytU1bwokRM10czlaEt_U.jpg",
     "address": "204 Smith St, Brooklyn, NY 11201, USA",
     "phone": "(718) 797-5121",
     "website": "http://ruathai.com/",
@@ -46281,7 +46281,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Trendy bistro features creative French-American meals in a stylish, sleek venue with patio seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJgRjO3E1awokRoC9SdsHbe-w/photos/AcnlKN1UYtMbm0VMvd5Qj052lu8N_jADs3sMv9jt5zUJZvvbrwqpBDxgHQT53HZ8AevtjeS4hdu9BfPS2O8IYv7bMr2dVEgT964atKQ8XrLiUiK107utokya3yGHcKBlU03559s5eBPU-bZmTXUaTHB7tJf6he5On3O5CNrY5E84h1eJZxR3xd4OWtChUCzhAJ4RDno4ZcaYhAz8PDepN22ljgjVciBBSitDvYsgukULDay2lbDn63ZcmtaRWhgqxWezjyHPWYsyjh8ZtqqH620oZPJyz0N1Fbf_GWnbZXy_COgLFQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJgRjO3E1awokRoC9SdsHbe-w.jpg",
     "address": "320 Atlantic Ave, Brooklyn, NY 11201, USA",
     "phone": "(718) 935-1200",
     "website": "http://frenchlouienyc.com/",
@@ -46315,7 +46315,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJNfj_HvRbwokRe5uCgeIzrf4/photos/AcnlKN1ndKPLDXytGrhJ4ViSkJqTpex-gMl0jWKGYFDpP8DW1bpxrbEmSbJgyIPNl2mKF3wtDdg2acR_6Akpm7tJnKcvvOqBT9gBm_b3yC-BDyNsRJGDAQwbw-r4KwtSaLX632uwh_bOJudq0b0uAyTNSD1tig5rmw98tSAFBYqXlw4FHRJnGj88wN5yJ6rfn4-uBv4mnVaF-Ni7utGbDfPW1YAewWlaH4gwP4rJx-soSCt1iSPznfosNkQfSbBZUO8ge86g8iRuewbBJ-a8Ew_bhNTbLA0XPIXdcFLU25zLbG8Ikw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJNfj_HvRbwokRe5uCgeIzrf4.jpg",
     "address": "552 Court St, Brooklyn, NY 11231, USA",
     "phone": "(347) 529-5752",
     "website": "http://www.arominyc.com/",
@@ -46349,7 +46349,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7Xjm5QlbwokREJkEk_skS48/photos/AcnlKN1DRwNNWX5IySWZ6VD8OUpH1yYHu8E-LeMqZLcaVj54E_3TAoQ2spjLS8-3oQCeB9J5EH9F6xzMwaEXV5NoiALuR5bpHWcDA8J4NPo7ps9zeTtMiPaJ0kwtlz2zNoHf456xjXEN59aPF82fzbUJxnfpkTKl9Nl4UEmb15mscx8casEm3_X6FdG4GjfTdvVzbl-vo5_h453e8JoK2KLEsS3Xh1TXkwOobQ5E42LxGTbJSYebW3H1EeU_cnuog6zzPYu-UZHbu_y0FmYmlEcFx8kxKcYYKeZvMhynP5ogVgV3VQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7Xjm5QlbwokREJkEk_skS48.jpg",
     "address": "61 Bergen St, Brooklyn, NY 11201, USA",
     "phone": "(716) 466-2126",
     "website": "https://www.taleabeer.com/",
@@ -46383,7 +46383,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJDfRavFtbwokRijMBw1NobfM/photos/AcnlKN3tnjW4_hHlB4kyooDKrMaSIKQ8mo-Ipv20kV6vYx6xDLzWX58keXHpnNcH1nVuLMLbim3cTjaXZm5UDitxDBAS59Tvx1X4EkMGAdYfuCeUOPjthyDYyQKgqQjYngjVDTrmeU-OWEV_bDPkZHa3DZ6Gt0bMegbu9RrTVuS7-ZRDMB4QgFSlCUIQLhxbgRSPf3hop1GeR0tya_xyFixWX4Hzw14hDXpIQZSZvFvuRA-rO5YW-0EhpQ3QJah-zQkbYQ_ibeajLXKZNmp7gDWvDG5LQxyZUPcplw0rI97iEKgtYg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJDfRavFtbwokRijMBw1NobfM.jpg",
     "address": "481 Court St, Brooklyn, NY 11231, USA",
     "phone": "(718) 766-1112",
     "website": "http://6restaurant.com/",
@@ -46417,7 +46417,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_zbudV1bwokRyxgi4zQEn0Y/photos/AcnlKN1BwTyUtoG_KS5o2liiKiykKZYoxecD8zGjypDyMtC5DSFSLknjhJDOrA90W9L5Y-Ydr4N42pGpGMpQVEawwKNOuaV-wikfhX5mPrk0bsiFnRUjKiHYmrWvXf97xUlHyeFdiY-Xlib6X-LaUqe7U_lFDIf2BX32HKw-qcWhowZErhUKYumNndX4UFCtesmK6QIme6pGx8aSdkSTDLtM-H3Qzli5vnB5iE6nLsDYEq-tlrE2Uv4m_aACBtw0mXoU4gf7iBgO1kdnNoRhs9EaYjdLNMA5R8lR6708I87w7iQCfg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_zbudV1bwokRyxgi4zQEn0Y.jpg",
     "address": "529 Henry St, Brooklyn, NY 11231, USA",
     "phone": "(347) 529-4974",
     "website": "http://www.untablebrooklyn.com/",
@@ -46451,7 +46451,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "This watering hole housed in a historic space offers a menu of elevated pub grub & weekend brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZ1tlsl9awokRj1-T1FJc_Do/photos/AcnlKN1uA3Zcrj2Ju4hkCrAaPh3aHH8wa6EZwSq0OrOWiBJhZkODn2IgwNyYfaA-IsU6ThoGcT5BTOkhU5Mjr2A3gihG9oBFTSPvRNegaKcjEnn693LLq3W4lVHO7NGWj-YOCxLBSWloRl5F3yzAlUiQJ1CgL2QPNxE2XUeaIpWttrdPE8N5GiInzDtObwycreF1cTkqvQ5K9yPxD68k32em4BHhUVOkT21O_tBzkFidF-3Kp1d0mJaoCA-v5OS8fBZKxhjUXAPhTeSry1lyJPddA9JMjnDkVdSetXeQPVfUARFwWw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZ1tlsl9awokRj1-T1FJc_Do.jpg",
     "address": "317 Columbia St, Brooklyn, NY 11231, USA",
     "phone": "(718) 797-3246",
     "website": "http://jalopytavern.biz/",
@@ -46485,7 +46485,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Brick- & wood-accented restaurant & bar for German specialties & beers, plus a large backyard.",
-    "image": "https://places.googleapis.com/v1/places/ChIJV2vKuVFawokRhpb9MS8Dljg/photos/AcnlKN10bJFGXUYMNpvw104pcJLV9Xvx8GpU_NJ9LCGTXmx67_kgvvjKJG7p6uxYVnvGmwFFWtGRHqw9uMbs0if2r_ZrFn8DMFO07Erd4ULzbcT49mbhajZyISVK0bFPqyRjZa7-b9h0JDAWvjJJ6u2uDynRUt_C8D_3T2cYXs8BUIJm5WupAHkg6CHkKcLFpD6n1IUPN95crh5FgXZDF8JCvFUYlmtKns3J5U-LC1Rv0QRaIt2nDzGXHU8sfjxd7SLUPLb8T2IzgGCDXGp1Maa3c3amhZMgKyooJwmGC4AMSYFLCg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJV2vKuVFawokRhpb9MS8Dljg.jpg",
     "address": "181 Smith St, Brooklyn, NY 11201, USA",
     "phone": "(718) 522-1806",
     "website": "http://blackforestbrooklyn.com/",
@@ -46519,7 +46519,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWyfEccdbwokRWYv8W5aBAks/photos/AcnlKN0xzs1eF8NncQrC056H1K-e1m09hL7I3TWV5EWcw0E24b_-6ubpXL9lMxr4L7MqOlqH1hFGui2IeO4UGgNOZQ-zpgQhTq_fb0bSpckRPlfK_lHnRQvrLa1i4eefEtzr373tyBK52LM64XWMjO42yzE0CjmWPIbeFHqjLHSiPTTCspus4YndAVMATCQZlfsO69-3f6bFROZaW4Z6mP53IxNnmSGnKGJIhMQ1ZWZmREpslCF869Y-9FSED8iML1VXo9als3UN-MiNoSzz3HAF4464vjz8IaJHmpHsgoPZbgfp4mQVIZroKY7aZ8IPx6IqpgLLd1eKhbjgUOv5WNJmLUuu1Y5H2bOP5-WFQEjzHyxBoyo7IZOSZPGGWXGE1YSQlwvP_hbf83F8m_93Wcs4_QvBs7GGqnXb974TgF__e2vpjZc/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWyfEccdbwokRWYv8W5aBAks.jpg",
     "address": "252 Schermerhorn St, Brooklyn, NY 11217, USA",
     "phone": "(718) 313-3636",
     "website": "https://acehotel.com/brooklyn/food-drink/the-lobby/",
@@ -46553,7 +46553,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual bar/restaurant serving draft beer, cocktails & hearty pub fare, plus weekend brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2TXRiVhawokRvAlAEg3QVtE/photos/AcnlKN1MwG8YBlb_hQhn3ldjQoe9ah0n33_9mImfyjlQGr_ewVz8D8WRZuoPIXCvby1A4nKJIb02-AChJPSHom98je_SLzp8zl1zdgpmfNG-hKlQHG4dvmqIZjQLdA51vgXWQgkPZjr3Qh8eYzF9kYK9vXQ5EHSbEasQ98FUTq96-7lBbk3_yPCeq8UzpwMW26tCcSi6cwjzA_RcsmKL4-T8MA5tOySn8a5yd4bTrLAjYzbTrqYEtoKfm73SyUMkWWzqK_HOwPO6LMhiTuL3kt1HitH8I6EqaMm6bqiWSoSbWrEDYPWLx2aESwicv8zg_VouU95T4OJAhkGRITb6uXGSBaHfrnDoiHwPo69Dc5SP37eht_yEt0Vd7Uq3OYBFLtrkllBF72Bvzz0Bxc4JiAvE0HWya9YSdMsNpviuDqAw8EXgR_kz/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2TXRiVhawokRvAlAEg3QVtE.jpg",
     "address": "442 Court St, Brooklyn, NY 11231, USA",
     "phone": "(718) 522-6900",
     "website": "http://www.abilenebarbrooklyn.com/",
@@ -46587,7 +46587,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Down-to-earth coffehouse offering traditional American fare, including breakfast, & counter seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJj2ZYEFpawokRWntytGZC1Ds/photos/AcnlKN1UzSS0YpZQJL7aGAVOD_0eP4xLYme6uTr8YI6x68q35mkkp392EetTqBaHQkBY8i4Do3XaLwIaLH820oCib_H4O7gB9DyfviYVxkq4ML27y-7jv_9_XblFCgRspTeMWFm_-22RQA1ndnJZ4-fuJGzh-OiK3cYvtLdPRa7yDZIXYSXOu8onVaVb8g7a-dQmzJT_8z9wh27dMgnDy4Ob8BwtTi_kIU031Pz9s1MzbAV792y7bckw_dUedm8isnAsWgU6llmoT8drgWll8J41zvXVZMRd5UEqi9BL6zRRQFEGfQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJj2ZYEFpawokRWntytGZC1Ds.jpg",
     "address": "314 Court St, Brooklyn, NY 11231, USA",
     "phone": "(718) 852-1162",
     "website": "https://www.cobblehillcoffeeshopny.com/",
@@ -46621,7 +46621,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Tex-Mex standards and potent margaritas draw locals to this Southwestern spot with outdoor seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ30X-EVBawokRbsoyYfGQoeM/photos/AcnlKN1XS6L1V5rRscYeTch96oCi3hoxwGKBtLbU2Gkd_LeSSGtPM9yok95SBSGp5imSEAkvsnX8JGZo3oPoxMq8x4Z2Z7o2jNE6hvI2QxRccpZqA9HqS5B0iyZAIiG6A-WYqp28AHwvIfGQMyPfUbhWtYVVUw6NdoZoONaUZX3FLPI1UfgkInd3Ts-DYIjldGuFZkYUvCkOpCn4Fg0gBy0BWWc2rH5Flun8BP_P5FGYRKSkPGzoKmdRJwT1L12ez5uHWn_nTLCYyb68PK4uHnEtUkd_14x12x71h6wAzPvwRey-xDhBSH7xnktZVARyIvmwhFBVw7mZAV9pSUQz5DBJk_KssXVzl9VRJmCW42i2pa4q7XPPqVLuecBayEqQpe6QFRI1XVAcubiq5hbCKNBv5yrJ5zxev0DWEPw856wFZOr-yBg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ30X-EVBawokRbsoyYfGQoeM.jpg",
     "address": "218 Court St, Brooklyn, NY 11201, USA",
     "phone": "(718) 858-7739",
     "website": "http://lobonyc.com/",
@@ -46655,7 +46655,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Vibrant bistro with homey decor serving up classic French dishes, pizza & tapas, plus wines & sake.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeTg3wlBawokRJ4iUc-glO4g/photos/AcnlKN0rL6fbCSoC-3u1Mb4jMcn1ZKVpexkl_MwQqA_Lpxx2-KCQ0HNCMjczWmcS3JCHzCNabGgzipvW3Tw9FyX3KfofanQrkfY_MKgQyD2mzG_PwINCFjFVrpFE2Yarxds82Ep0LH6OiCzCJtai1m2QzQrqvd0EPF8AvthDg4D25H26w_fIu8ev5jVCFXTqeExyaUU_xgTFDKcvrL_T_hyseyTh5WOVSSysfm_RTmg-5ATeTlG-eMc6vaIBM82l9qEZzOvSvdtBtmUSrQ8wBcXw1m7MDZeIVV_SNzgzEOYHPx0hoFYCJbcgNo7Ip8_af7i7R3nzFnuPp8nBEH4z55fikxc_7-pEVXVddk8en7H9dfyq7EJPLMFKxF44kNpmwJ_CWGTLxRVHDAQ3cE_W_fQf2N5-OzjnbM7YF5hgegkdINYmyg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeTg3wlBawokRJ4iUc-glO4g.jpg",
     "address": "244 Smith St, Brooklyn, NY 11231, USA",
     "phone": "(347) 689-4658",
     "website": "http://bigtinybk.com/",
@@ -46689,7 +46689,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ1U-nemFbwokRLVb7ULwu3B0/photos/AcnlKN23FKFzD2jpyeeQ036tLOCD6Sq0EWPIEs-4pv2zC59qP8JedsT1QS9N4g6qMj9YTsoY7z7kAI1EAkpPvNdrVCQOS9CrE65uXjZpbQSRDwl_IDlWigL0E5DP70ZEoQhAKjZJNGX-kv8uWLgA3O81nJAMlTraI7j-CyV1qqtJDo6gYbOdSsLBX4-VY8rNJUZj65w_xa3J8cxpmD05_lSchdE8pZ1ZXlH1lD1z7BfGmDCZy3U-aCbKVVZ2ldB1QlUK46KbwDz_JDcqBUCiEDJw3I7WFMYHaCGaTn_aEIGG07JeOw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ1U-nemFbwokRLVb7ULwu3B0.jpg",
     "address": "327 Gold St, Brooklyn, NY 11201, USA",
     "phone": "(718) 586-5090",
     "website": "https://botterestaurants.com/",
@@ -46723,7 +46723,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Refined spot crafting classic & contemporary Italian dishes, from rabbit pasta to grilled octopus.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCbABujdawokRyjha6wBgPqE/photos/AcnlKN0GIh2xDUnt71Xeh6svo4h7DX7FMJdbis-06J_tzVO0yVm63pueWNPS8UNLJlUlAkDR36uGH6xOY36yTHiYjjljkivtaau5_2pKyvzin_tEmdq9u1Ntj83-C7umG_KpiT1V4p8Mws0pn1mYNnbCOQPVej64-iZgHNyMRuNBTkmngWAYbYsbf3bWr9zPMMsxajOLvpHW8LEEJK6TwNTipVAIV1y8Ki6q2TM0jREhdjfgXSv8ucb9_tu8yNQxHnaB0CHoRzIgCnbn4eurh8ta5b3GeWFxJ4tXfb-Tann1-iSPXQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCbABujdawokRyjha6wBgPqE.jpg",
     "address": "320 Court St, Brooklyn, NY 11231, USA",
     "phone": "(718) 576-3588",
     "website": "http://socialebk.com/",
@@ -46757,7 +46757,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Sleek eatery with a casual vibe serving French inspired fare alongside a deep wine list.",
-    "image": "https://places.googleapis.com/v1/places/ChIJb5Ir-CZbwokR8RDykFNtbD8/photos/AcnlKN2BJr0Kiq7FtzDBHQl_q902PoxtLy7czFlVZL7_dF0lba18ywN65tfNnpBJgUrniKo0UsKl24tZmAzEwnGkrqR6R3foAPRmdHVicOc00A9ycRB8RqX7zqaW2yeVNQWZMlejOxICTDzNwot2pDHr8mxvM_KohMJTQzjH93-_2Wc64Y1IpHDYtrdW2pPK5EA-g_QWq9eSVSsPDya6kmy0T1vWDn_z_zG8YExPiFm-teEU2TD0QRRYv4leai39mWh_gfb4w61o2AdY2nkg9cojrPwTvSiflyZp4l_IZKhWjfGbjA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJb5Ir-CZbwokR8RDykFNtbD8.jpg",
     "address": "263 Smith St, Brooklyn, NY 11231, USA",
     "phone": "(347) 844-9950",
     "website": "http://barbete.com/",
@@ -46791,7 +46791,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Farm-to-table Northern Italian fare is served all day in this compact, lumber-lined restaurant.",
-    "image": "https://places.googleapis.com/v1/places/ChIJSxAViFJawokR0XXS_BYL1lQ/photos/AcnlKN3--tDAVphhJ29ZXEi8LBTGvmkoZ0s3ysOtFYCbpCl9SNUY4ZhB6KhpbAerbM-GBKG1iw_3z07T-htQFUrewXsbV1DhfrQljCsAHG4jD0bC_kNalcZHK9Eo2PxH9m5eSlkeU5_EoHIZ6tJX5rkNzdypQNkKCZpXD1no7uY7GBIHsRMlbe5kg2MsS_wR_c1me5y6JsSBNllqtSfPOh9es8wMbTzntSpElzXkVunrnUwCJ5qkO9qtnHHYN48T6hegh7lg8EtIi3bnEuqnOVimDuP0BymUHgYmJsFs-7C8P0lQasLix4Xw95Tkhkuv17FeonnSIU-Xr_nlh5TWsCc2mWueOSula2W3pB6rUJh20GNoJUFThlfX2ikGG5bO5QK8j0IlUBUEl1u6qT5p66GID4SD5Ja8pfeVQZPXv-6uQxg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJSxAViFJawokR0XXS_BYL1lQ.jpg",
     "address": "190 Dean St, Brooklyn, NY 11217, USA",
     "phone": "(718) 576-3209",
     "website": "http://www.rucolabrooklyn.com/",
@@ -46825,7 +46825,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual outdoor restaurant dishing up seafood classics such as lobster rolls, plus cocktails & beer.",
-    "image": "https://places.googleapis.com/v1/places/ChIJX5C1o-9bwokR_m9JSiKFuDg/photos/AcnlKN0uzMEfnAMLpFniiM9EZM0s3YOA4o0eaGjVENNeurjUutWhXeyzvUi8sPTf3zyssoj-E7eLt_C0wgG8hqrgHIjaSHiJnnCGCz57KzqceWSIR0_hEQHO85kfg4m5vX9bzEnHnd1y1QAQNa0_w9jA4KIBYXz43PEASqFIf040I3b7WTzYraTQ4Bd0fofWt9joiGEeOomh_DNqiAvc_XfY-mO5ubPHkWHnTCyF96DvOUpFA8m4bIIcj5UyeXE4gKnK8o1mJu65yV1daxg3nj2r03PrMrKkHibZlWhofuCzM5TwaA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJX5C1o-9bwokR_m9JSiKFuDg.jpg",
     "address": "89 South St Pier 16, New York, NY 10038, USA",
     "phone": "(212) 210-2997",
     "website": "https://www.cobblefish.net/",
@@ -46859,7 +46859,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJhzICb2NbwokR82d76MPpbBs/photos/AcnlKN2RrErYY43Dm2YPbczyG2jSqF9rOfPNil2JkWnAhE5KsVpKJnDCMTZs94pf7durneHo6FgBlVZcorlWJbdZNTR4SB3s2l-fIEAYnKWIkwkn2PjKptbquAumrZlnxmB0_yvO7AN5r3uLPIyRVre3P0BTwMHmWmgajKHGZVI5NIXWmRSGxoldEJ8pJ2yCOw4Q4POyCb3YWdFc7xxOXkFIek4jiAv7YoMTmg0giZOXeLr305JuTOTUYABpUAiKw3XYxVicvN5GHtwTCshG0GahiJFuthxMQgPr0NRPdYu4kPtBjQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJhzICb2NbwokR82d76MPpbBs.jpg",
     "address": "215 Columbia St, Brooklyn, NY 11231, USA",
     "phone": "(718) 207-3686",
     "website": "http://swoonys.com/",
@@ -46893,7 +46893,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYbpEwr5bwokR46uCQtL8Kmg/photos/AcnlKN3sZA9jpTMeyPBFOFW-H_BjfmXzaFOXCbkSDd7hEy-0L3WpBNWT6dzIrs4DCop4iPyse35ddyfQ8bqNjL2By8aEq0UWbxLwsxS31PapqaKVUfbRRlx3scnj2FMKrKmH_T-czLAw93W--ZOslsOtd4pr2Dv8MYFkVl376qDfz1R9LbjX7u1iua80NdwdDX0exZpjTKJjpZl7rxMlMdd60404069HB6HotFmIc2McREnBEoNuo2v74OsIxbilwKOF-IiQXCxHil3SuYQ3lEpbrBtDV6hx_GvZmDjFp8plt09nMg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYbpEwr5bwokR46uCQtL8Kmg.jpg",
     "address": "126 Union St, Brooklyn, NY 11231, USA",
     "phone": "(718) 207-6084",
     "website": "https://www.cafespaghetti.com/",
@@ -46927,7 +46927,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Industrial hangout atop Whole Foods Market serving pub grub & craft beers, with terrace seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJhV7tMv9awokRq2HBKBKaAC4/photos/AcnlKN22_GzOwTTH-huyg58fAIg-2HX6giwzEMS8RL-am3ineerBujs8rc-9q-dOD3iFNUnXXLkR6Gwl7a4wQo4nx-wo1aOYVLiY17Ym2vZPujiqZgPgJz5TSZSqZl273g4bFrrE7fKN1AGKemLlhO4k1E9GvRsR1pnWAgVrz6iiGtWosBYf4lkh7IjhLPqyN1oHkGp55tW5WW7gTknGKaRgvHShJryxR0MDqa1tNIrS6P1s5bgnBKxGqfQFqBCts9f92FbaRPJHVWOxLULwaU2PmdxhRt_csQlf-wk759VR02HOxKqAoKY9R0GRgt5zf2ZdhAn20vqwkY0DfKMTWz6gWNZ8UQmJlnQhbKHeR3LQmU0WNuHafn8_mF5Ij7ke7ulFRJ4yBcYPkReeg7BvpNvHkhm__ZLx9GyBmK29vDol6Ua6Vw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJhV7tMv9awokRq2HBKBKaAC4.jpg",
     "address": "214 3rd St, Brooklyn, NY 11215, USA",
     "phone": "(718) 907-3622",
     "website": "http://www.wholefoodsmarket.com/stores/thirdand3rd?utm_source=google&utm_medium=organic&utm_campaign=listings",
@@ -46961,7 +46961,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Hotel venue offering seasonal cocktails & eclectic small plates, plus expansive outdoor seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ6evc1U1awokRMFPciEGcRtw/photos/AcnlKN0v47oE__cq-VP4qeYBHrglWN1z_CzpPJEgyucECECVHCK6MNpIV0UrL4suLFrB5-vai26tUSjQQQXDI_8AWUjJ41q2Q-VXD6Rih1ASci2dBCYpv0ca1oQ3CutA0zJtXssyCh2hu3KdY01DCEcDuE4uBiB-tWRVL0yiOmQ7ddmuymXxm45FUY-3MzVUMYY0t1m_v1HShVLJldBSNhSmUDbXozG8tXp_S8ctBygchB5gc6Jbp03wsjtLKI-yS0iPvJufPobLGjW9jfG6EJTilgKzFCbZtxvaZv9wckp3q0QfDb6cTO_e2NgGENPa1ZYSx4ul61inZEPje99GSfe78_V3AvX0wtJCW64aqXgDdVY0NB7cyKBOZCYWgs7vmB8O8jOeukr9BerMrSP7ncGvXCU_juD6mHC7FRBvH0f1ht2tGQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ6evc1U1awokRMFPciEGcRtw.jpg",
     "address": "85 Smith St, Brooklyn, NY 11201, USA",
     "phone": "(718) 852-8585",
     "website": "http://www.nuhotelbrooklyn.com/",
@@ -46995,7 +46995,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGcpj-ilfwokRv0kA2NqFIPs/photos/AcnlKN011JCj8gy7HQeYSpSSk9Fn3J56_tcBwwz4I8CF08BAeHyWsclcSXbpNzndQCOsyWvrNt9_7K7gVDN3HSJOY_NGckDFCOE5OTdvYk7K78-kuFcM4_EDOTDBaAzgqSNj1QeFxKYDepLFSOQbXRnKgkkOZE1gaOlaHXZBtDMFiCGWqAkKkU6wR0002Syf4Ym_7N-vF3qkJ4oOsv0wixS0deN9taaFGKUvQHukmKhbtsImDV6bzdD5ECP3LZauPmZvaaOnLptP1ZQECqrYvOZRkHXAQlWimD69h9vFdVoCuhRPIA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGcpj-ilfwokRv0kA2NqFIPs.jpg",
     "address": "90 Scott Ave, Brooklyn, NY 11237, USA",
     "phone": "(646) 893-9493",
     "website": "https://www.silobrooklyn.com/",
@@ -47029,7 +47029,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A robust craft beer menu & typical dishes offered in a cozy venue with brick walls & tin ceilings.",
-    "image": "https://places.googleapis.com/v1/places/ChIJW7hnbe5bwokRG2IHXWO1xcA/photos/AcnlKN1UquygfDDP4xWWmQ5hfie-q3AootSz9BI9x-mqq0-yXQhCr495uOiTm1n7DUUFenBoG3csJJ1gIjLpX9FcjE7yN0MMfL-alFXp6aoOif9nY0zrVZM1UJCxG2EOx3g8dSB3MWvqpZaRF5su87xCqmNiOvswBgwhbfl2Pg3_hEoRjfIGcuCWw-XWOQz9RJgWhfIZ0HH1weSzuKl34vGhd5g8K68KTJSRrPQu2Al3NB4FqbnJlJd_rRij3toFKT6VpX_mjcZ0IUxCVo6VyKjSQfGkdwC9c0s6Te7FJ7Bw4ISDAw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJW7hnbe5bwokRG2IHXWO1xcA.jpg",
     "address": "364 Atlantic Ave, Brooklyn, NY 11217, USA",
     "phone": "(929) 480-8454",
     "website": "https://www.somedaybarnyc.com/",
@@ -47063,7 +47063,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Sophisticated cocktails, craft beers & raw-bar items including oysters offered in an inviting space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJE_M9pU1awokRDf2aEI27qWU/photos/AcnlKN2-fb82AU6Hq-qaK5n_ZeTYtEWpg60EtbxJ3Xc6jOPtZjkTQ20E6y0eC6Q_TPKbC1VpXYt4fPgO92WnkK-77E0GWcgrlpDHGOhSHNW-OAgXqxaIfqOgS_0XKCP6Ldh4Mq1ILBztruEvsFNWdBZywRoxDwQirqzsXYrIRoUqH0JtTaAv1m_C6BHNXU4r73WN7m1H0cCAPqJJL3KHE0qPjVWOd78KJltghkIPgr8LeSSPhgW2piGcE69_rqCyh74GozcKNcIFTaz6wue7V_PZydQ8AmnxHOlCVu-h1u0yra7Izg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJE_M9pU1awokRDf2aEI27qWU.jpg",
     "address": "336 State St, Brooklyn, NY 11217, USA",
     "phone": "(718) 643-1503",
     "website": "http://www.grandarmybar.com/",
@@ -47097,7 +47097,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ58tFJEVbwokRKOFUuOrROjI/photos/AcnlKN0OXqbq0H__19_UpEOwaVbvDbEWFlUHWY5jJnEDfuxdQacgvaVesVdYDTrVXJA3HfnqalvqsBdT_OTaVkxKWwRk563rJFZKM4xTTfIPqvkw4XqRn5pP-OKvnI9AU-g25EJshCfDWMK0ihBxz0xNzEwEji_1afmDJlG7rH-tL4eOwgEnaJ8vBekJ41Yt6k9yHFVGSthZiTEz8pAMOVIZj8R1visOSLrPpXoZhC6mF2l44zZg4x8glkW_L77wi1FD6WYfH7TxkIyxK-RE9Qqt9zny2XLg9GY7pDpJ8SQw34b5Bg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ58tFJEVbwokRKOFUuOrROjI.jpg",
     "address": "533 Atlantic Ave, Brooklyn, NY 11217, USA",
     "phone": "(347) 294-4992",
     "website": "http://www.hops-hill.com/",
@@ -47131,7 +47131,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Cozy, rustic-chic lounge offering signature cocktails & happy hour deals, plus a private room for events.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYwYUihtbwokR9X9qN09VFi0/photos/AcnlKN3DYc-paI2MbqPfQwthE4TjZo4543XkQwKiudyiDrWAk5ZJ87QHrkjqfCeC2Dgp_KgmAy6oDfQprY5jn2QUcRcIriz07jioFcnicJwIvr-UrbI2-BAcm2sNn2znYdS26_nVZTXCBkaP_ZyM2D39FtCvDL20fsvaO9CAh-gWPAVnRcpiHlvRApQGp7FmYTfylhU-07p5VagXKXX41JzWSt7p0bbteg1hbcCSS9mm5j7O1dGKQkSxAMain9vYFhpPqhjRqJm2l9mucnMpXOA8BgYDSoL39ScnhbGambzvLzUOBA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYwYUihtbwokR9X9qN09VFi0.jpg",
     "address": "149 4th Ave, Brooklyn, NY 11217, USA",
     "phone": "(929) 337-8476",
     "website": "http://www.thearmorybk.com/",
@@ -47165,7 +47165,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Persian-inspired eats & unique craft cocktails offered in a stylish, rustic-chic setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9dhbu01awokRdKfkixsK10w/photos/AcnlKN3wwt9rDNpLvMR9PrQyFxdUILqqCeRbZeDmoY00PXWhS-ZnBaRXYV3NRWsrBloydHFDIJ9wqJeCMdcmzyeCnOw7FoMhDlR86pAmBPSmjRC2cG_8e8miOHhT_7rifSbzskZqpMEkrL0WWRZp8FQcvNC9ElhIq29Iidc32TEQCgvK5qoXmuQLEf07UMsjAZ7lqDss00rnNCKNPjTt9kqxOmiz13G5M2CXVPc3HQZ16JMSDCvtkTwN8tmMTZGPft6LIZQKqcqWqJQWvpsyWByQf2hPPdL2gnBc5e9LXUmUbBAUeQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9dhbu01awokRdKfkixsK10w.jpg",
     "address": "81 Hoyt St, Brooklyn, NY 11201, USA",
     "phone": "(718) 855-5574",
     "website": "http://www.bijansbrooklyn.com/",
@@ -47199,7 +47199,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ__CJJwJbwokRj_bp4d16M5I/photos/AcnlKN2yYQoiObJwsQKCVu5wRlcUd1YEom1o9TI1qDG5YwbDAZ3Etd-bbEqe3XdSDUXgrB25zLMghCNfBJg2vxj7lyYf7tgvNeyeQpzzCauNDhqZ-0YSPtzZvKFz0ZhhjucWxowmaQQi5zmMvyiXitBIoRSR-jdnogOjzg5f7eBG1Qi7NXuce7JW1JxpQnsywIw4QpfJhc_dQGp9A76HHKNX_DsmrHA14qT2ypjZriyxq8CyqUYFsa2akHc_bhWKnj3hhdryd7eEZL_b0cPuE4aL4e41lwsJ-_P1Ht0lkg24x2rt5g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ__CJJwJbwokRj_bp4d16M5I.jpg",
     "address": "252 Schermerhorn St, Brooklyn, NY 11217, USA",
     "phone": "(718) 308-3608",
     "website": "https://www.lelesroman.com/",
@@ -47233,7 +47233,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCy6Gv01bwokR8yZSWy2D8BY/photos/AcnlKN20q7CYaICfh_v2sMkuhwpROcbDzP5IA_pkHQ3i0JEQycCw_cvM3HAq6pL7r24vSwuCN07dP-MHApQLFVle7G3EzNuD0_m399yon9nkz97zmSSvQHh7JgJPhPtSLU9WhZvlDCG8XpTg_4b6wq8hIkGZ2B_Hyjq4_w3a9UUvF2A8BN-YiRsTc1d56ncl6tNk3bJEWQVyLoq_oEpuxXFh7IPEY2dt_r2zFRn2cLglW8rQGprQu9jkqQmIWEXNQd8k8au5UtQLIzKd3CytdSV7spXykogiMf6S5sZsSUZFSMIjug/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCy6Gv01bwokR8yZSWy2D8BY.jpg",
     "address": "141 Nevins St, Brooklyn, NY 11217, USA",
     "phone": "(929) 295-0015",
     "website": "https://www.piccolacucinagroup.com/",
@@ -47267,7 +47267,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2wwPorFbwokRmB09NnxS-As/photos/AcnlKN3xtD5C2ciNqZ7toTTP13POcfj9rs1o4pEHXcNykw2QdW6Tc8RaZ4SFgTogEmbrNfiR2LI4jqXA6bjS_157Xchvx8FcP7wLjfiQew3vw65DTYjuF9KQCIR0GxcUx4l395BGNqFM4ZlA1P7I-9Q6Fpm47f-BoFgtpx7sd2pR2Xh6yKY7mm9f1kj4I4rFHkfEHQqS_Y38LhLLFdQzStg3xDJCWs8APxoLSxxUZL7SYBFn9rGZ5HwhR9toNMRFFx6ZTnutN1ikyIE57n0aOibmmTJmGYnov_udE3cB4R5abOYCVA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2wwPorFbwokRmB09NnxS-As.jpg",
     "address": "75 Hoyt St, Brooklyn, NY 11201, USA",
     "phone": "(718) 233-8509",
     "website": "https://www.cubanshacknyc.com/",
@@ -47301,7 +47301,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJB84FwlhbwokRo2vDprY6CIw/photos/AcnlKN20TUgrMik1hVauUDHrfJ6ecSd2ezq8xT6n7ppcmOjMuzetpUISd-CW13J48s5fj9VIAXYcVYXLKwPjFYDC_IgOHPg5icmYu1F4mflIo2C-y-0WUJ1rZ69wkMp6W_dCWFEsHieqAj-YSZ_IuC1WMp-XxTUaE9tFXdtXy7slwKERhoqTE76G_mwxlrLeMc9hplnGtN8hWaoohB_ZNLSVow0UgIFzRaLOJfSUH7F76q4tM7-s9NLQXoabkwBctkW_MZwb2pPGvq8ZlDi7XPcCXDEWkrSWFVYr8nUUhPG0f2Dkrg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJB84FwlhbwokRo2vDprY6CIw.jpg",
     "address": "85 Bergen St, Brooklyn, NY 11201, USA",
     "phone": "(347) 384-2239",
     "website": "https://www.cafevolkan.com/",
@@ -47335,7 +47335,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwQFFfwVbwokRu4XLV2B3ous/photos/AcnlKN2wnyL5Z5p1sV9_FCGu2gYJMHZO_zRgejyoE03qr-QWSbOPL0tybYGkDwXgctU9hSl80kE6UIzQqcX9o-6qXQ7JDrkgXLTK4kuTaoqqjvjpfzGIKUDBGa-Tre-kXGzOEk0nir4RuYOeNQKo9JZEsHKcrb4Ua96gcndlYhNcoX2j46Bv0aiKwK7eOXa_jqImcUE4AQhciGV5dKsqhav2Aa8ZPXr3ujaGFKy9F7rSlTkgH_H5Is0ydCeFRRjPnXdsN1X611HIfphj80uea1llzXZU2p5VLm6udU-m_-AliGEWUQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwQFFfwVbwokRu4XLV2B3ous.jpg",
     "address": "535 Atlantic Ave, Brooklyn, NY 11217, USA",
     "phone": "(347) 227-8098",
     "website": "https://ramenthukpa.com/?utm_source=google",
@@ -47369,7 +47369,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJR-QxWc1bwokRng-BnRaDhPE/photos/AcnlKN0RuzNDMhHuj5FTGIvW0u06oKTZxdfvXM7OI0gFPjqXrIh6tNUTsWaSLt5V1Qej42JiqbdNSPfpGFdbma88MU4hAokYb1KNvm4f1aZ7EDonaGLDMNA3OREMk9A134sOeNT3_9_6aO0kf0OvELtTJR3fItBPTT53HpCaG1vCVIaNbGexlwS1pazOgd2pO2w2yYOtyUeZPqmhTzh_yArxYUBSBlV4m46OWBSUMEMNIyuGT9lO8_kPs9w_2hVAOS6t6mT8Ob1bHMDI2BqbRLJfz8XpUSO2vBMG304jvwfULyYQIC5nlOXOxGnTmoaCsE5WIz8YvxEwAYswPA7ouh3R-utk4Bh56NJMewHr2_n9fHC80fR0WAqP4ZRBuwy44PVW9z6GCW6xGaClD-LW4bn6bb5CH9hChq58563QviQTjEKivYFY/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJR-QxWc1bwokRng-BnRaDhPE.jpg",
     "address": "70 5th Ave, Brooklyn, NY 11217, USA",
     "phone": "(917) 909-1935",
     "website": "https://www.ishinyc.com/",
@@ -47403,7 +47403,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ73I0hmNbwokRTIQYtQC-97k/photos/AcnlKN1QqUR_RFe_72qarX7zZ_ryHtvTXb4MuQE48QQVUx4p47JpF4d0jXWEXs6bHCUQ46dWhmR7jvqIZHsfs_eHeT4SW2u4WDEbK_sfWDemW3Etu4OJfCEc2FuGh1HpylJ1elZ7lrn33qkfvI1y7-Icp9zEE7UByUhh_HZisczoZJslHyyNY7KneQP80FKRkXd2G3Cy9K9g94QjKifUj2OzzfApqKR_n5QhWYPncsPNATcws0ThJpLz8P7J9_en-rjwqzoU7LKrm-WN8bOIrmMOXyiaG1p6Sl2ziPqSCBgKygI67vo_LU5u5DdeIWX3ehcDpvuD243_tAY4oUOEUvQiPmVTmCyMuO7Wfr5jGUbqdiJX4PnWYLK__ieFWyGgaNHdktMBOVrJhHq5kZ0GnIZILX4bJTJtscZ0Icw7CIlwKGkZKOOrSzkfC3XsQckv4NdN/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ73I0hmNbwokRTIQYtQC-97k.jpg",
     "address": "221 7th Ave, Brooklyn, NY 11215, USA",
     "phone": "(347) 223-4514",
     "website": "https://barlouisenyc.com/",
@@ -47437,7 +47437,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7wYurJJbwokRWyU3U8SsuHM/photos/AcnlKN0b_XcULgOvJEvp-PR5PaxC2rwGAnmdOL2Hq_qXQj2393nbx2B2-zKCTH6kndDQWlq2B3a2F6IbxxZlkB8-xYsyVIf4Eno0A2WKwaGL9qKApz7tDaA5VFze6pVFJWISMmQSmWajNaMdGoWxu3nFpmm-1qgUYOYYeT5bIl4TdWhQ9-5uFSoCqvix-X6J_Dy3kua2idB9pxqclWzNdgmszTxJG0G6WxFq0EBER5y8p1vLGiozXz9Klh6vfm9X7GZg1NlzO4X5kpF7w1-qVzuifUqO7Ew_EISXhppteaNJ7PaaCk8fUYR7hk4v1WkLF6Xoyl4kpbatVEzrGsSm2eIHRUGgiI1UFlYgLgnb4AuR_DnNqrLs1pYr4u6p4kCbgnvTxccBH04rA_5jreJcd_6Ip00TMJbSWVQP4SOOwfVjrx7xfg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7wYurJJbwokRWyU3U8SsuHM.jpg",
     "address": "213 7th Ave, Brooklyn, NY 11215, USA",
     "phone": "(347) 687-0087",
     "website": "https://mockingbird.nyc/",
@@ -47471,7 +47471,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCaHnKABbwokRvU6OjXLIdfA/photos/AcnlKN2Bvd1bwMSZyObbtWheR2vHJ687uTjHmw9DVYjFfl65T5BB_ZFiIH_wA12ekFByLyvz7U7yQXqmrCC4u-DY7lXto-1JyqhICSvprATzuUewlorAoxLi7rLAyMEmne-xZR9IVLBlLV5Je6FpW8Sgj6mIBPvPROTuTfjlCuZ8R7DR_XUliy2ZOUjHLGm8i5dp7qxWsq_yHqOaNLWt4tlBwUfRrAkDi7iSm-NKwtaVBDtGQ_G9Mx7N3nDiC1bI1YujYaOksH3ARaLW_MwvgAGWi9fethFhl2EWFizEhwg9IAklBg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCaHnKABbwokRvU6OjXLIdfA.jpg",
     "address": "341 2nd St, Brooklyn, NY 11215, USA",
     "phone": "(929) 884-3592",
     "website": "http://www.lofibrooklyn.com/",
@@ -47505,7 +47505,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A basic neighborhood bar with a twist: this no-frills spot has a big craft beer offering & a patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7-9nWKxbwokRiAzywpbz_gY/photos/AcnlKN3xvUzPzxM4xidQdEaNre_TF0XwYZc0cTplYD9D3bZBkMXWXmEtivsquWKlPjD42p2KXN50_OoROSeoYFCuc79Tch-2uh5zVJ-NiTDBMqoppLPpxu6scxS58Lm85bV1EsOCZRse-I9ZmTddRIi_b2QYPCELzhSa1hInFKU1hnE5Ua8oUm0mKfMbS4l0c-F_rjRNtzjniEwYUpFT8g7YqylgEcGQMUX-xMC5CeRm6bqPtO6ELctIG-GQMFSCM2yEKjmZbGlBZozNepbnqlZ-ztvkJkio_3p-PzMpRVhoptJBaQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7-9nWKxbwokRiAzywpbz_gY.jpg",
     "address": "76 4th Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 643-2273",
     "website": "http://fourthavenuepub.com/",
@@ -47539,7 +47539,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Snug cafe featuring sweet & savory crêpes, cakes, pastries & java drinks in warm surrounds.",
-    "image": "https://places.googleapis.com/v1/places/ChIJT8BMpU1awokRbkrdxXdBcX4/photos/AcnlKN07BpliAMygpryNl94n4XF7iSZD9eHo3BYgBeYY95GfK2Rl6ZiPcwBxMPv6k2u8O2Cuk6KL1sBfCvWksuJWrY0tzs9g-Xz0cGw-pYySr_OOVoq-6wP2FkHZVmrBnmtgLRd-o0HpjdDWeE8HOjLt6i9JS3VPos66gTnLJzHgALWbycRJloNeXrDwCiJNrXa1ZWFnsl3xXtIYqX9Y_9u5EVjnUEzG97XpcdBZdJ0YBPDbd3lVB6fc36ZBDC5nRsxztNy_NlsUIlj8w-7F1eTsjxQfu4i0XCaBMqQv8-rp0YvZdg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJT8BMpU1awokRbkrdxXdBcX4.jpg",
     "address": "77 Hoyt St, Brooklyn, NY 11201, USA",
     "phone": "(718) 858-8998",
     "website": "https://instagram.com/thelittlesweetcafe?igshid=YmMyMTA2M2Y=",
@@ -47573,7 +47573,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Unpretentious bistro near the Brooklyn Academy of Music with familiar French dishes & a back garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuYpnQk1awokRJZlTgJL7mqg/photos/AcnlKN09jRAdZHZjRGRkco64LhL-0tCyRwK5igTeX7HEo-qnGs7X8_nW1XKtWEJjbKwcLv8r04FdGoV7u3bBVwd3q2hbdXCBnjFNj0GS4r9UdhKTGIpLrnLHjamWo2Ul4_IB1-ghq6AEJOMJXxdBpXyeuKbu68ZDySHESM0PgW91bf_7XRtRhODnjgVw09_TIttdO_F8DNhH9Wq7Hk_6VDQcSDY_zAoRGw1vCaU1DkHsDazv-DdPbVjCuvZZCPbXL5Pu24rP2gpgySHkbVPp3ijtLzl3oKAHQD1zNAGlIk-BfpbgbA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuYpnQk1awokRJZlTgJL7mqg.jpg",
     "address": "409 Atlantic Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 852-1572",
     "website": "http://www.bacchusbistro.com/",
@@ -47607,7 +47607,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJnRyRtUBbwokR4veV9Er_PAU/photos/AcnlKN2pag_FmKPN7wzLNag3hHiEoxGAzh1fDImUSUYIwrMdwBNxxOmzvwCoP4ecxnSJNUFcdWy9CVFa8gT0-I-M_GdU43YMBtxsKeIOCgW3_GPLZV--JE9904ycMczYAswP-_hBp1sR-6LmeZfbIRK4ebo7tTCBn9ztCFbgZ-MhSJZCt2GnzYBENnJ0JOvNhCRYGg0o4leYd1PgQuGlgWSi_HTtgRAWJOPwBB7k8hCwK2k2UiGsORXMuMWhUbwkzxUXZsrk5gb7vueTHvMFb7PTLGzYwy-jN7fVBqYpeNryPcTYTA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJnRyRtUBbwokR4veV9Er_PAU.jpg",
     "address": "605 Carlton Ave, Brooklyn, NY 11238, USA",
     "phone": "(718) 269-0043",
     "website": "http://www.gertrudes.nyc/",
@@ -47641,7 +47641,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8y8FpdBbwokRJHVa9yL2HvE/photos/AcnlKN1bB5uMDkpPCPp1o4KKfnHb0_wSpzPvIkZC4OUQVzVFPOqhhIiZ9AmRmMvzlCrMQ5valMNnpFoAIRaFbOI2AXp_SQEEVVWClj-gGGKwy3fdDlLej2DgbSgIvOrEef4_TdwWiFnEq9GnYCRHtjcKbc11CvFXbHSEBjja5xM9LfXOelXcxSNjevSTLyKafeEqWsOiYoQmLLcKSImFFWJjv86kBD4ormCcJsZAZrYRfWlorr6q-ZyMMCee9Ht9lKA49jeZYFqgKnkIKfd3iTd4UkSUB-jzy4W2bZKBKMbdoN2QStVewvk4w4A4LkCdpQRp-2soTFZSTgFxt-v0-t-cidc0Q6SAK41O8yeslTp6ebAnwFXLlnax7IkVi77Q7uNI4XPyCatf2vd_8z6SZRNPt8LS53oq8V7eFUppMoTJXzZFY8w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8y8FpdBbwokRJHVa9yL2HvE.jpg",
     "address": "357 Atlantic Ave, Brooklyn, NY 11217, USA",
     "phone": "(917) 909-1711",
     "website": "http://www.jaosocialclub.com/",
@@ -47675,7 +47675,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJByzdBxRbwokRBULLT2jh1fQ/photos/AcnlKN0yiX0E0zjal_6VoZHKwgCWPX5CFPp_Gs-NQ3YTlHx1YklNSlPh-WXeckNJz7RXmqt38QeP5m88u0TPaHeg6GTBu-Zd-jxaskj_maruhYvY1vyyc06ftVEYloHeDRT3EE_ABSJKZ1b0FyePv1BhgHLFMqdPGvl-3awDC0zYoKleAEU4Zu_0Lgf5DdD6Wrxf59GDP96_42hBeLLH0JXi5YOwZgV2d7-AObJ7jtiwxPm52JrSDREso6vKYlyId-wj8HnPLipMleJNAwOStAem2eqTq5S6T5F86nzf58h_9oEVkA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJByzdBxRbwokRBULLT2jh1fQ.png",
     "address": "4210 2nd Ave, Brooklyn, NY 11232, USA",
     "phone": "(917) 939-2968",
     "website": "https://www.tulumnightclub.com/",
@@ -47709,7 +47709,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Relaxed corner watering hole offering a rotating variety of craft beers on tap & in bottles.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ1b4-S1dawokRI_JPrlSy9ro/photos/AcnlKN0XjryKNrd61OqsTDex8ID4yhYznf_JmsmaVTTu94ILa5pNuLx3-BUA7IiGVTUlHOteClKkSB1iOBOh3HWupP3WSjPNcoLeTvdzV_zpnP1UX5-_2I5LttRwT-umB5z9v_HbRKymBdFHyBRaa2hXv2ncu29z8jdLPzSleq8jd2uZzuYl9MaSCz7v73Pq16DFLJ0VI1YmACHzQbSI9NyOKcgztpiBuYslpYX7WMuYScFYt-kzTaoq2-cVmzMGDMySUbIyYtnAcSSpRmb6Ruleygrd-_VDAE6-ZQUbM5R7Zbi0OQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ1b4-S1dawokRI_JPrlSy9ro.jpg",
     "address": "280 Smith St, Brooklyn, NY 11231, USA",
     "phone": "(347) 457-5650",
     "website": "http://www.bargreatharry.com/",
@@ -47743,7 +47743,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Tequila-based craft cocktails meet Mexican tapas at this rustic-chic bar with a back patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJB7DcQldawokRn0ot1gyAk9c/photos/AcnlKN1f_gnVCBEQlMV7z9y7gtEW6pgGSdqlxJGFZTeihtexBdvx-9nXvY9M7I07Pi5lhPTcp3zmPRDQGSDq8fkqKdIS8W-f51-NtQz7Lpzul963bVH7YK6yGWn-aI6XzcHc0EGnzFrtnXLrAWvHqqWBM6Aw0n2SI58h6viUkKVFVPWUHF9u99GVsWoJdbT_dOWliUbGu2rSZYc8PGbYYu3T309WHk3SITcLOJ5olqi-J867Atlhcen_7lwEEyymTb9-hZX2hcEqbUkzaY_-Y0UwpZxMJgA7Vm67opfeHRYgCucNmA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJB7DcQldawokRn0ot1gyAk9c.jpg",
     "address": "307 Smith St, Brooklyn, NY 11231, USA",
     "phone": "(718) 576-3852",
     "website": "http://barsanmiguelbk.com/",
@@ -47777,7 +47777,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Dog-friendly bar & hipster hangout with a broad selection of craft beers in chill, funky environs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ0TSDUPxawokRzztVZ-IDHKA/photos/AcnlKN1JST-0t0fuXp0x7llUMufX0aIeT8IboAsLJTwnduLFIBSXKTKeAM9yNfkyoBVMEM_4gUvOzarhHRkdqj4Mqy0e3S2oby94HcWRK3lRRTv5bjaUb_xuLvyDHU2KDkTXSJjcxSpOQzqafOghYI5ootcrsCEBQOUD3uhW-olk6eIYp6Zw6ocir_LUzhjiH3-NGDidDIisFuu11QtdETLVn6wVt9QOLkhWd8PcIs9MoxSQhtZoOSFxwzKQuwP7sZEJ-UyTGim2yaTKzHbhPhxAteLGSxKGI5BYRBRlacpufK8Gkg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ0TSDUPxawokRzztVZ-IDHKA.png",
     "address": "297 9th St, Brooklyn, NY 11215, USA",
     "phone": "(718) 499-4988",
     "website": "http://www.theowlfarm.com/",
@@ -47811,7 +47811,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ23q-NABbwokRE84Awz0yWVA/photos/AcnlKN3Y1-wYrEsmlWN-u1MpbxtgQNsIbzY-_v0Mv0IH2TiZgSg_RYPxJB8agtRcn5JlTc4jqCA-VRnESW3SwhB12BOIdEwJsE43zmjsIgkWqNZw0YbUFXtb4WOMLmPf_snUgOO-3rrWtTsa26X7koTw2nlxVPq1BN8ldciTkCh2JRuSzmaBQ9PzVUiFb8dZJM8Y4a0f4dQzgqT8GYnuVSMhiO_Mlo0_0diL3ZpejDPeV33kwgVBTUcHqH7GZOzdl0GvEoil4QFd49aoxBiRF99youZQEQVD_tkYb8WFzVtH5XZJ7Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ23q-NABbwokRE84Awz0yWVA.jpg",
     "address": "241 Smith St, Brooklyn, NY 11231, USA",
     "phone": "(917) 909-1111",
     "website": "https://www.radisabrooklyn.com/",
@@ -47845,7 +47845,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTbZ5FABbwokR3eMqwXauLBM/photos/AcnlKN1TRGx6RIWV3IKbqbkdJq4aRj-ByZKmC3UU8FEtY2DC6HgOWWyabJILc1hKvVlQf6DnE9jKS42ZZsP0xNtVO2uDu3samkrH4DCpUsgXziqQZSpPFYZYotvF-XW9lQ2DG5a_AG5GkEilgK3zHHL8e2RykA2NtqK43hLRQXJcJW3zplYTE_xhotkbljdwm0RUx7YosbchQvwkY6RVDkOECP8saunrJ7x0h9ljl9nALgQg9v9DlZAM71O7r3AqQzfOabsC1xZDkYbktDFmKC0gPQ-WGqIdxP3VnEWxx1xou4a8AfUjJwRqk3cInWylyWWeqBHOs6SOdrgalpzcp7OouqYp-gPKdA2EJr3QmfNTGj6zb9XTDCzPy51tMnNbgEQvRY933mylfFJT-liVSvVGDPbTyfDO3rBEWfRUbuUH9_Q6t822/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTbZ5FABbwokR3eMqwXauLBM.jpg",
     "address": "286 3rd Ave, Brooklyn, NY 11215, USA",
     "phone": "(917) 909-0665",
     "website": "https://www.thebaringowanus.com/",
@@ -47879,7 +47879,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJgb8yz9FbwokRjI9swVRPmAo/photos/AcnlKN09tb4Jivpas49_s-oqptSYc1xt085QtPIoxc3FcYZhrzDJOgw-WpLcyeGnppiGc53a6DpV312nyRWIW4ov3chBRQxrvS6Uut6blk97vzDQyp3CjCeBWgl0BK8jVC6IEQ9yKDlT39RTf-8jJCic6TAb7wZnwLAQfkRuuDLlJTVrT6DPz4ay7pdk2PaZmk75W-b3YEss-N-QfVtKLV1NTOtYJv-3gof_3A1xmSJVL4gpwKLadeVb2SIHwoHtAmQJE-BwEGKxn_35sgqy2nfSw6Ci7ykiFCIGR4GxhOpwbQepJlnfNBRuQj_D2wAZTh50a24G6zggG2D9HsKaD4XazmFIkpq1i6NoWbPJ6BZldKjXXKdbbsGW_WBSPSdS3JLokyoGjNL-81AX4MM-ETcgPtpDrzbYMIUeME4nOmxn3JXNVVq9Htxmq6uXF5i5OrC9/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJgb8yz9FbwokRjI9swVRPmAo.png",
     "address": "151 Union St, Brooklyn, NY 11231, USA",
     "phone": "(917) 400-9498",
     "website": "https://www.barferdinando.com/",
@@ -47913,7 +47913,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Serves Northern Italian food with an emphasis on housemade pastas & seasonal ingredients.",
-    "image": "https://places.googleapis.com/v1/places/ChIJtYepGlpawokRWA-rkbFEHSg/photos/AcnlKN002rXBHg_ilFUNJxSSAnqAEB5v7dlAA_acgk9nDAptQbzeL4SKJZeVEtcS9qpBt1vtAPUIPTK3kU8tdu9iqZmIiwN2Yt-CPj-vmrSCZpTWA8jVLtQ7RRnD59uqJWUiFldNoZK2hA3VFNJYerpumDjsCM_54ZIlIsdc8KsgVnLJHw98Bsw06FtwkKCKcPezTOC6krcxC_0-J2NC8uBQIgz3_rUW5tUPwVBpmr1Va5faCQ8jywS3UG-0G82Dev6LRI2AejpdvZ_J87Yh_wAhTZI1rIbB5XUn_OsUGZP18U9rj1Cpqg8LWvbc84a717pnz-VJD20ZQv3SZCX1hUqz90vpP9tWQTNz1s9PcWtYAee75T30pMpgPOPWXakzSUodtWEnl6kLKt0a9GKbqjSJN7K1ktZe44blDgly2JJShIGNQkdr/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJtYepGlpawokRWA-rkbFEHSg.jpg",
     "address": "316 Court St, Brooklyn, NY 11231, USA",
     "phone": "(347) 889-5077",
     "website": "http://gersirestaurant.com/",
@@ -47947,7 +47947,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Relaxed eatery highlighting Le Marche cuisine with specialties like Ascolana olives & cremini.",
-    "image": "https://places.googleapis.com/v1/places/ChIJc752HKFbwokRACCC8-zc3lg/photos/AcnlKN3ICWKPs0dLgDCDon7_nGRRMwvIm27IZJl9kZRyp6fx8w6fCg2NUj_DKyN3mP4PfaC-kO2V5UBPVxDV5IyUZQAHWizg2zSfW0a68nGBb5ol5ryuCV9P3lZdQ36r9Rvy7vi5xYiLRMg8658uLSOxqS-hSeWJRgAaz1PCcJVwSvHrpEeHPJHYK0EX3gGNyDJg0duNUFIdSefKk9rVjVy1YOJLFRQHVcmLTFVqx6_QxWuqa309fPS_Ij4FT0Yb5nBURU0BXgerBtcw1QFmjxY9q4r-lBc2ygDxNQ41C4nTjrJlYQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJc752HKFbwokRACCC8-zc3lg.jpg",
     "address": "521 Court St, Brooklyn, NY 11231, USA",
     "phone": "(929) 305-2967",
     "website": "http://www.creminis.com/",
@@ -47981,7 +47981,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Neighborhood Italian restaurant serving red-sauce fare in a family-friendly setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwcrFSFdawokR0u_-xs509gs/photos/AcnlKN26NNsNwipcOcMRCI_fyQak1XfXYYpR0_spc0XlthQ7eP2EvRF3bT6cMt_pyVtV1W7U1_IvUUoM-zQ4lGcSGP_V-cCkymSXue4UTA5_WCzwgozWkSaxeQ5KLsCOpppar-2RvrwCkZep46tvlIK47dSOmI_zuOuD6X237MXXA-BnslCeLMPTUAVZ-v0GuKPtSBrVrG8HaUEzECWetWbrVfrBEJp1HnztoADjUQqBBX0VdJIqUhV0jsjO8tlk7iF4us2jgIQFscyVM_6E_M7QxHPGe8zl5tjEokWxRreEEU1Yrw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwcrFSFdawokR0u_-xs509gs.jpg",
     "address": "295 Smith St, Brooklyn, NY 11231, USA",
     "phone": "(718) 875-5600",
     "website": "http://vinnysofcarrollgardens.com/",
@@ -48015,7 +48015,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Upscale brick-oven pizzas, calzones & wine served up in a rustic, stylish eatery.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ395CMVlawokRt2oLH_8zmvI/photos/AcnlKN3qiW6TlStXYIuY25NRwjgpBZZHUIWiaEUEGOS3-06c4Vi0QZEOjT33P0ZxSZK-GP2w3yXl-fMDIQ5qpw3Z9Ed8RXRJKFT3hnwbfGkBs5Zz5oeg7EKOcqYrEutuVxHMIs_069hb1GHRUCuB58D0G4AkqsXDXkRfd3LrVeC5JH2X2m-Lko4f1VQ8rtysXNUN1xRU_tYWZjT4_RaR4yB1iO8cAEVU__5-RGZnYmfUTJlCu4tvRvlmFDi879tsbaZyxeuCyEKV-yhwo7uTkthkZjS6x18Pg1CnqF96UE85Oy10RQJ7Qv3iEwrO8PNe8JBdMZXxj_IJJmKNjNOzqJ0Ko71GhvrcZM4lnotMDNaCpLPVmoJCK0iQrt2mb18UqALsTue3f5hc6GqnkYXDPZINLyYPIhiaDqZjpTQJ7ZVyGhaLaknmYJqmtdPlWsmY2Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ395CMVlawokRt2oLH_8zmvI.jpg",
     "address": "575 Henry St, Brooklyn, NY 11231, USA",
     "phone": "(718) 858-4086",
     "website": "https://www.lucali.com/",
@@ -48049,7 +48049,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTb3cUH1bwokRqVj5vctMMXs/photos/AcnlKN3FkpySYL448Ka8TbHPOZH-_OTZ314iUJYgZ0ta8LqHL50aSkje7J-ZX-EBmIyWB5roQlD5xij53t_zdF2NUGbUqCUIAVBm43f1dU-WLGdBB0qWtvX3LaflVGgc1KMPUaDEz8hg9WRjHEP9hGusVfpBduvIz9b7gXg1K-1qnxkV7CYaAkaBbycl2_WUmIHt6rDfH0F7T_AiP0tHuIXIb-CPR_0iN-tDTZABjdeeg1CVPYZhaGPxtNjFcH7J0L484E-voP0awDMNGPZmNo1Bmmex6JH5sP1PFYpcF4IjA0cSjcIWPgMFgIMv62eeOXX_al_HrP2BbaGKtMEe92KJ3K7dJab3YqGNQ5o577-iFCl9HvhdEHE6q2NEbtmMlZH-A5tKYnyXC4-M0Dq4Vp2eM_aQoHYT22_PcMsDpaUIDeuNmxU/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTb3cUH1bwokRqVj5vctMMXs.jpg",
     "address": "215 Union St, Brooklyn, NY 11231, USA",
     "phone": "(929) 724-7621",
     "website": "http://www.gusbrooklyn.com/",
@@ -48083,7 +48083,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Popular neighborhood Italian with Tuscan cooking served in a tiled room or out in the ample garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJm7uvMfZawokRNR0XRCotzWY/photos/AcnlKN3akAfmDsZNwxTdxmqmt-sSbvu5J2_iqMk_sU88hmYS6ll8bkQdT7-r-SSrUs4i5K-cUYqdeFj1cPT30cIXm9h4Hhsn0bkeL_SbQ6YuqXxe1dnKhYaqwvsk0znjmmwloe_rT-WvYT3rP0C7Gsj8crXzFGdRvu4YRxDLZnv6Xt5DIQHAOIynsNVYnCP3Y3LW2yZJsl6SB09eStjBIEbZcz21njU1KS6mckT2i4aAEhCpjXfov8e5EQxiAcR3NPALa3JLx5VLJA6Im8LIZ_iERI3semVY9aWm2SpJdz1ByXhzVQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJm7uvMfZawokRNR0XRCotzWY.jpg",
     "address": "457 Court St, Brooklyn, NY 11231, USA",
     "phone": "(718) 403-0033",
     "website": "http://www.frankiesspuntino.com/",
@@ -48117,7 +48117,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Fresh Italian food dished in a brick-walled room anchored by an L-shaped wood bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJb1KxsVlawokRdYrhlC_2ryI/photos/AcnlKN38pkIR0Iba7zcdwUpK7LABwaunljhlzdtNDk6kMUqV2AQXUERTtOownnVgkD-IFqg4zcDImYMEFYhLUGl-O5MEUreNndw8wpqOCaDo0X9Zgt2dKf8qEf59BrJM0JEApiNZ6nCStiszr5tRSx878IJjeduJhgWd4Lh286eUSL4yl9te-VojFmh7EXFD9aL6KxF7jS4CnbkozhvdOiEMm0or4jdHMgBrQD7Lrb5FjkFvxqHA4Aoe-T4eP-sB3xk5ks1FDmxG9q4tfGwgVQo61Zg6lVfqTvaHPJsbZiWjd91TuQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJb1KxsVlawokRdYrhlC_2ryI.jpg",
     "address": "394 Court St, Brooklyn, NY 11231, USA",
     "phone": "(718) 522-7133",
     "website": "http://www.fragoleny.com/",
@@ -48151,7 +48151,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJSXQReQBbwokRbzIeatw7qyc/photos/AcnlKN1MRv-AuLcFcfn9fZNBsXCEK1pBichoBNDzW-nQdIy4MgN_Kn7zXLs1l-jYDvLY3kJIsDl9KFfvrevUwzsF7b4KUaalsGTObXT4xYHhl0mNZGyJbVUMr-04Mg0xEcYB5kaBNqy1eAcrmFDNdE7NPJT9F4RNc_4yJu19zPAHmWgr0IKbQFOyJzEzm9mEU8uLFtgVe_p75muSwlVqNHp0ErCv7hY8Ybiq2yVEfz-RWXBDwswGjyoB5ns4W7V2FR8emdBFcGfQbrTgclYIkla_cx5L0p1ohjQH4goTjj5-3XdIMiSW3je9052Smm1YYcc5-EOc-IO-YzsNhorJ3KFUGi4nwkmkk1Zf4dFd6WJxSzO-ek_XjPTACCRR71ePbIFoeZyQGDyfoOeSn7GU9M63OMngqtGd5zjcxSidXC6VPfHARxtO/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJSXQReQBbwokRbzIeatw7qyc.jpg",
     "address": "532 Court St, Brooklyn, NY 11231, USA",
     "phone": "(347) 844-4648",
     "website": "https://www.532court.com/",
@@ -48185,7 +48185,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJA75J4ohawokRghsV5GfmG2s/photos/AcnlKN1pczBF1i3PA1KYYmLUcfqGnf0fMmuSXTlju6ozyu8GURVAYwIuo0SqfrsxWlOxyYr9XSiL05IIVE4fs2TaMlJeJZ_z0O6C3ozswXALXXBLu4VujWIOpSteu8RmiIocPGseRipLjwt6Q3SBujm3ARZfbn6Tfwdnx7QPnRgWK1bXayqGWd3QquGvcBU_WJnPxZZJvJmiFZraYd-N5brMyjudEy_Dh3Ez81qCD3aseg_skoEZ7Oy2upgP0dBpohnd5DleIPEEBj7y7z6o-qPEUL6j9XfaMRuYVfWbuvgGuCztkQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJA75J4ohawokRghsV5GfmG2s.jpg",
     "address": "220 Conover St, Brooklyn, NY 11231, USA",
     "phone": "(718) 304-2227",
     "website": "https://widowjane.com/botanica",
@@ -48219,7 +48219,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJef-w09RbwokRtCedZ7ZUlVo/photos/AcnlKN1TL50de8v92SiIly9MauSqNqmC9ZCh1b7lGEiebS4cbZILSeNWJshMNL5ONwgKKTrmza_jV0pmnKiWP7H1a4gmvthChRL5myNcuZiEcwVdGMMm1TZujwjsLFBZZxfQGTcR_2Xg64X69dv1qAUxDLtMRlTxR_brRsZmu9hcX9YE8_O020EItrgYP6GAmSD-t_G0i0P96ibg-hl40qaniz-ljmLvfJIFlCEZGhlAw-HXXy8Z3SJIOE7rxLsXNDvC2FuCfV3EKdqGIUvL2FP36xWz0M5VL3qty2yXF_mxkAeRXg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJef-w09RbwokRtCedZ7ZUlVo.jpg",
     "address": "185 Van Dyke St, Brooklyn, NY 11231, USA",
     "phone": "(929) 294-9379",
     "website": "http://strongropebrewery.com/",
@@ -48253,7 +48253,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Sophisticated bar with a deep wine list & craft cocktails, plus globally inspired fare.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ0TIuR1xbwokRyxxUTQqXiPY/photos/AcnlKN0_Ir8Df62I9wE1sfu6ULy_WuhVE2Q3b34LXK87CvEOL4-E9crVKaWyRei_kRv00iYRPAyPnu9I9_Nf42toJW01l6ZyTJ6hZ3A-RBo3Us3-7no2Mog6U0nd3Hku2Hvc4MDmvuP-nL5YbKy2aVF8uMGDS5s-jrDLTZDDwft79qpBDEb8Ts__q0gs4H8_7sx2f6r2zBcw54pngI4jArAjh9HfFFCxgtHPUh2Mnh4bgnDAsIO1WtyRKtSWdutpKWmlsqQVcQ8jpqJ68hm3JK2NXaFyyYCowKUs_01_-i8lnyz8zA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ0TIuR1xbwokRyxxUTQqXiPY.jpg",
     "address": "465 Court St, Brooklyn, NY 11231, USA",
     "phone": "(718) 254-0327",
     "website": "https://www.fnfpizzeria.com/#/brooklyn",
@@ -48287,7 +48287,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Mexican dishes, bistro classics & cocktails served in a chill hangout with sidewalk tables.",
-    "image": "https://places.googleapis.com/v1/places/ChIJD_vG4ltawokRE4BzRSy5BBk/photos/AcnlKN28DhDmQE07C8pMD1G_pNxlBVgqxgYZUp7QAhSzQGGnLzY-GgvpRvg_y8ETGAKcTJhUH81ndHnuHW7JZTRuIFRY6iQAhldAjalF7YhKQLKtoHtcqlJPJlKHiaOb9r82aCpVRfgt4TQ3pyn8HUgxX4PrNqVd7kIQUPMI-LSiThtbk6qk4ZgRD2eNoLOi8Fi2tCmr1-w7ou_LbyTItuPmcYye0x6Hw8FqEd4_MobP9zyLiE1xU6ZSSng-AqEQqZRUNKH4qQfAJuM_m-MU03W86hGf_LTp9lyg5Ndqxg56G7v44k_-aGy8NsomkLyoSmxPHHyPVW_OWweSUm0YVmvZa4-W7CDzqX0ciauyJTyshGE8GY-b9cKNNnH82zmjqTFUb7XHoRKgjheLYd4ptWnL3m8v3N3lMZfjgQ6d-ddoX8JXL8g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJD_vG4ltawokRE4BzRSy5BBk.jpg",
     "address": "520 Henry St, Brooklyn, NY 11231, USA",
     "phone": "(347) 763-0850",
     "website": "http://www.barbrunonyc.com/",
@@ -48321,7 +48321,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Casual, neighborhood French eatery with garden seating serving brunch staples & coffee. Cash only.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCeSj_lBawokRiFzZ1p5abo8/photos/AcnlKN3sDU-UnL468MXrIvZ4yHIma4VeJFRq7thvOXwHKZ45z_kWA5ObcPFhzpxDa70wuyNwnWOC_sa9uwq-qtIE2Y4hk6WUOEQ1PB_DR4-G30hKrX2A9ZFl8NC52HGpkj72VTpJisf4TzrzzNgKobCq8C5lSL2vfaE-9zKhdQ2tF2geld0TeYVmMjYzgqXlo1pMdcqZ3ubQ7dsxqes0eUDsT1_WAeaSpoHcfEdBaHJdjMix2N-5GulddvWPXN6g604K1eT_EklxQJ9nnjjw-r3kb38HazChoaqWBnrS3DkxzpN0UVag0DkJdV4gndbapi2xf43D-OsLCfoPDyxum5t5L3Sxktu-ngTmVHpPftC0aOYhtGcp2g4ZMVWlHVKBZZZ2FYgpXS58R4BgEZ_eholhlKVN7B3HF-UiD1mW8LtNqBq3Lg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCeSj_lBawokRiFzZ1p5abo8.jpg",
     "address": "214 Smith St, Brooklyn, NY 11201, USA",
     "phone": "(718) 625-3815",
     "website": "https://cafeluluc.net/",
@@ -48355,7 +48355,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJMRzjDuVbwokRXPeo4rKGGjQ/photos/AcnlKN1FPF7k1gFRW1tDBqxKb9qTUoNY1nyO4lkSH9yFaUhRv-ogk7Wy_mjhKXLaFyCJflsy-NQRPqVjNwiOlTCqrWNoSJfUQ5fsaQ799-YBYtNb3yF9KawHDt9Xo3K0xxfLF_R9GwME69E3b37QXdiz-wMxy4ZCjXz4U2GyEeUb7WfMz7KO8zuI8KcTiKFrR9B2avETT_du1BWtRPurtwT5tnrI7kifIxR-utLbjBo80YX1aDiXRd5Xi2giGajJXbK746AyZsbnVHcPeGtEM45alLPm5hB4RaCad-0haJRqGfxOLw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJMRzjDuVbwokRXPeo4rKGGjQ.jpg",
     "address": "407 Smith St, Brooklyn, NY 11231, USA",
     "phone": "(347) 227-8004",
     "website": "https://www.hungrythirstynyc.com/",
@@ -48389,7 +48389,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJESApJLBbwokRJFXw4phizLg/photos/AcnlKN3Be95o1II55SvL9TXaeieod_o3r8me_OzlWiSWoGHueBFuao7Dwkj4ZfSeH179PpAnS1AJ6jbAF-2AGKdz5mjJNlFD0IsvbXmRfnTUUoUvBvTWzN44l22h4j3ZizDEhFEUu9CEF2mRIxA-1FUw-77jzth30Z_TeBqHbPnyf3uw7xwZmKhSTuoW9zdYVvc3fcTDZrnM6ulcHIvQsFWleDtEjRFgIQS9tA_0LuiAqZOnsVt3KK3ZpVgKOuuKPWL2GZQBqTamZxkdw9z3YWeEb341Hsw6Yge-srYXw0LP47HE_nBPbVwvrJonXXIacM-eeY_dmSDDKdB00XFtk-CF9NsCliaiVPcsw8UW5yz4kBZYF1g0IgV4jhfO3rcNuFEgTf7TpsDhKAAth0WIUsXKMPgquJ3j8au4HKyn4qu-aeJNTQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJESApJLBbwokRJFXw4phizLg.jpg",
     "address": "140 Graham Ave, Brooklyn, NY 11206, USA",
     "phone": "(929) 704-8817",
     "website": "http://thegardenbkbarandgrill.com/",
@@ -48423,7 +48423,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ-fI9pRRbwokRvaYUVvp3OY4/photos/AcnlKN0dmyWNuy0cVWdFK73bWyX5XEFmE2qIqdMSplzlMjQKkulCB5MUwsxsYIwyUnhtgoRM475tjvSLhqvNid6LQa5SJSrxrVTbU-0VfCAekxZcpY7tTh3LHYlE0t_pArHLMRC1_9LUb0uzCw26moN2wUprg_pNyQ5ZSN9R0Mu_s9s3gLy0pkPeHdkVGtB0g_HdBqAaP3zdWpdlkoNZb1nsC_5RFjbPzIKZFzmqtfYDPZOrdxhKRBU__lZQed1UdLk5lkV2BBj8YQwk1qZZjtdpRp2s4hIYybbQ5p50A3qkb2FQO7-K0GWJYcSnTHnT0dyLiYTbKqLJOz82YF5TyLwhsURrX4wydFBDt-_Vori-8fEaWAMQ-iNiep2A7VMAi66zHe1zyPh2ZGlyNbfnv2gnZQCKwN0pAyi8Thghp3ToaWs/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ-fI9pRRbwokRvaYUVvp3OY4.jpg",
     "address": "160 Van Brunt St, Brooklyn, NY 11231, USA",
     "phone": "(917) 525-5259",
     "website": "http://www.theviewbk.com/",
@@ -48457,7 +48457,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Mexican food, ground-floor bar & year-round roof deck with a Manhattan view, drawing a young crowd.",
-    "image": "https://places.googleapis.com/v1/places/ChIJY2jhXFxawokR3yjeUK_alQ0/photos/AcnlKN2A6yGcEn0689UHL3bSYW5p1TXMCEsjdlJBp1Q50P251wHNwW0InJF_ErT5C8NK6wq2tOl9bx5w5OWaTyhX9am9KgPYaWNOWnDaajFSdEF5iM34rKWfheIciMStu8_8WjuJFskwV5uSwl_HSYKiIqCqcIM-f3bkLDk_gcs4LlLoFsEzKJBQa7v8EffqV0ObPFl0urjGki7ODRR1t5c2lmGLCu6HN8COjKRG0EIGcCaNLyyV1tc4oClbQp6JjEW_QDoqAX2z7vtG6y45Wk1Z_crZ2GipgC1JukJM3JoUg55KIAttG6ZgtHnLkl9XMbQFMpKH59XDAZ7k2cxqPXjtUJ54DQ4ALRE71MPgxCdy1Q-UxPli_rnniMJ1rwBZW7m8KR0P_tXtXRj40ZYnLLMHa4WNDBb0ZIysTGxb5IHkRtqB_3YYsHKqLVQOIsZkHNS9/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJY2jhXFxawokR3yjeUK_alQ0.jpg",
     "address": "187 Columbia St, Brooklyn, NY 11231, USA",
     "phone": "(718) 422-7500",
     "website": "https://www.almabk.com/",
@@ -48491,7 +48491,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJjYAbVhFbwokR_EuxjrkTKKk/photos/AcnlKN3JNaBj9n2xum7yUXKlZvc0v1RKdt4Y0IcO0KL5w2DmNq044ZyNVtnKDV2WiVRZRLoMKegQpaCcApFWG4kPMRpTIhZCUqVFPpYYz2kRbXOBhnbXlkirPz1ZBgK5vZojl5sk8-eLbY-ojyeVnyiVcbT1D1s2-gGfuEN4igY_gDAiiZr3IOX_4fYRxpi8lWe5ZlkuFx4BiuJatUR237ZIFJOHD3XDp5Ku4jaDoAB4WXl9MrEIE2v5b9vTcqhp8ZX5JAvTRqYA-W87aoRns1xV98ci5qhT9CPA7lLkZyPa8Z9sSQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJjYAbVhFbwokR_EuxjrkTKKk.jpg",
     "address": "475 3rd Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 965-8400",
     "website": "http://table87.com/",
@@ -48525,7 +48525,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJgbmfbl5bwokRkPFzCePyjoo/photos/AcnlKN0Aqh8hspdKQ4Zxj6UHHE1EJY2MmqCrkLTXHJpuvUR5kfHhDpvopHycvwlPa2yrXxbQfW8Na3t_g2YDKwGIUctMCwjmOs-UFGRz3Ouissq2Wp9kdzkDVDaYBiTKup0g8hsT4fvaAnYUYIPLZhYj828snJEZxVhUG4Xe0AMfl1-U7sbdhmYDgOc5SKfXT2jruYCqQs3qY1m-pzKWxMIorbbwYuCa6OVehGwldeTmeU_r2EYzP-PHka6GJ5R0dB96uxNS0piPSVP9mrmttx-F9CLLhGCmX8vXodz9sR9ESZyskw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJgbmfbl5bwokRkPFzCePyjoo.jpg",
     "address": "259 4th Ave, Brooklyn, NY 11215, USA",
     "phone": "(347) 799-1639",
     "website": "http://www.whiskandwhiskeybklyn.com/",
@@ -48559,7 +48559,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrbb7KvZawokRT9NNhww0H_Q/photos/AcnlKN1BpRRj-Rq5AnVxRsZaWNHfimVySSrf6v4Qz38ZEue71w8Cf7ffn4C4hiFESOJv1nONMarnujgiB-771snAUL5zG4mDWi4vnCGgQ9yiH6y6jm98dm2YsyCk4UdASvb9Jm0jwUHNp61QbYZuDLpXQl4KoGjRefWZonJBNo_HFMupyBdbZO6HU1eMF1GPgICVIPoUF5LusbhP13M5YoZopEo2R3SVUoCCGvQ4Avc-JOYPAjA66cZm8ILmN6MgGBZ9aLhA3sOrUdA4rJTc5_1fR7_sgwUnuYG3jC5PeQg7gjDi1FFxBOoSNT0ly6bpOQpUajSJ1wTD6p4ouE12VP_S9_xMvJr6S5YxZU2ADhf5Zxjf-DhAn5stWAgPrtEoH9Jk57w4_RtM-kVPKdWtzJpZGiWnlXsCenZjKpP0dOppf-XjxfQN/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrbb7KvZawokRT9NNhww0H_Q.jpg",
     "address": "447 Court St, Brooklyn, NY 11231, USA",
     "phone": "(718) 624-9360",
     "website": "http://www.vwmolaclub.com/",
@@ -48593,7 +48593,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Vintage decor & '90s rock posters set an easygoing mood at this mod taproom with a summer patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJO-zmbABbwokRoqY4AA13eME/photos/AcnlKN21fX90AakDIBo9A9s2Y4vhyD8IDV_f4b_hXq4j5wMt9MAMgwT2ZSGO56bKV-P7EQ1qVYcujPxGq-HInFOKjmoRiM5OApB3LMb8KFymT5wXqgejtQpUR8V-RmTcCclaprIxJQkOPTZJ8qOiYZZ_hjHb_vyp_HbpaS6PQLMDkB_44Ru9lZSpMKSt2-2sY6DY__ZuM6fiI9vJfq9F1lbM5vBRP7s9nJTCyJsVWhPTgyp_0MqfiuJFSAFKP2ke2DKZnVP6l4Z2J6E4jY7J_dfP-Y85pw7SmhuaslQ9MAI-Syb2ymp1Tl7b9aKB6VMslIBaiV0FMAIqdbeQ0I4I-LdXDfq02fqTxKyuElpoXPxFVBGOFJgtGygxh9Zi2z9DKurniNiQ299Gel7ciD40B7Ko0zuATLMnqOwA5dU0iRf-MoHX4QE/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJO-zmbABbwokRoqY4AA13eME.jpg",
     "address": "243 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 788-0401",
     "website": "http://www.highdive-brooklyn.com/",
@@ -48627,7 +48627,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Local haunt serving cocktails & beer in an old-school setup with dart boards & a shuffleboard table.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ-4iBawBbwokRpV1sAEg9Oaw/photos/AcnlKN3MniYuMXTQZfsD7fUo5aIlRjh_4xT0B7py5qqlBssFjm7oILuXmdVaZ0WCKrjX9Uh3E0oU2HqsBL4dA0Ib1bIU8Sxxf8VcLK-TfwP8pt0PnIiHx_FhbZMkBwku1BQtxnNUmXGJIh1jwCikYVNCgp-72y37d2FqrY1uJecjK6OhZlhQlhmQV-4ukX_oyalfiBSMd7wa8cuSiZzybyXRqF1zzBF40x_aCOm2ej_pyTQzubG2RQwXLmDRNihyVr_b8a8Wk6FOq9mx0_9NbymW8irXonhUcesKeRpY1pDJkAxUZFrrJmKkZumqKSXfuCD81LGO6w9Jo4pZQ2jq5zTo4ExTzb1kBf3g40Thsf9pJzsp8IyiPyCE80aPrSWzq8mRloKqAZydFpK830MoeWN75TmjyRDJf7Lk9yId377ZbUxVJI9l/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ-4iBawBbwokRpV1sAEg9Oaw.jpg",
     "address": "247 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(347) 689-3968",
     "website": "http://thecommissionerbk.com/",
@@ -48661,7 +48661,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXQKS4P1awokRckLf-756m-c/photos/AcnlKN30G0ajRUNoxSWQSxK5kZ9GDJ-YMv_vwrKLNB9Wv_SDTj8AssaKT-sLLf0PJ51iq-k0a4vH4d3nPYT7aEvUlPqIPeu--wmgSjBomZO4eii3noN7z1V3Gw3wi29MAIbZcBiynxSwDqOmmokRqotyaRv3NZ73RBVJQ1ruYyf2f6f51LwdxFzI9RbB-L1o6QGKkxvvDTaInTridxXI9K_SxiOHIcheuVoBt32mYpxLn-qkC4wI7rWx3aIZ4SkwRlTKY7cNEuTIg_iSyazA2wkns2otU_SffYc928P5CZekkarSCw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXQKS4P1awokRckLf-756m-c.jpg",
     "address": "375a 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(917) 909-0453",
     "website": "http://www.facebook.com/logansrunnyc",
@@ -48695,7 +48695,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Quirky Brooklyn bar prized for divey vibes, eclectic decor & live performances in the back room.",
-    "image": "https://places.googleapis.com/v1/places/ChIJnU0pN-RawokRip1CSum_Dcg/photos/AcnlKN12XsNIG4LQ_If6OEvJkYXXBJ2lzZSVe_troPjYjxj2_LzAtBbbRd312Z8JF_SGM5Im_IOySwmOgChgcgr5MdyhozGUyw9dBOekW-GC5kU42Dq7cLzYIkSGJ8iYDnBdMmjXAmuuNxUzn13OYwh4B6onElX8lfO3ENawxi0uiFOFsjxP1HnrKPygf2JvREYlRasKYzfIKVwyhLcYANzi72O2S30XH6P6B-XBWKvRs7p0b_mfpxdgVlyntOwyrRhMi6KraslHE2e0awR1ThwOgjDAKoFCwZEc5_A6VG5HjvuO9Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJnU0pN-RawokRip1CSum_Dcg.jpg",
     "address": "627 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 768-0131",
     "website": "http://freddysbar.com/",
@@ -48729,7 +48729,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed taproom featuring vintage video games, pool & board games, plus a jukebox with classic rock.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLySHiORawokRV3y9FMIG9qU/photos/AcnlKN06RKIpUfoOSPO9Up2ZArfqBx2Ue45NiN83OQDg8xelLtLQ-SzX09n59irDGaubWS3taVzywhiWBga119xYDKR7BF5FkwejC8DNIJQv089P3jNVxTXbF4TDJMGY9lmlG4-TR-Gr3vHP5sw8BUOEOPBLNo3B_isoyK7lfJ_5LBgNEqjkwyN0hXQMe2xqBEAoJfeynKpXnDhBfeTeKw7cHR80IE6nGXsfUyUJCZepZFYwrpAwYqMUuuzNSmieLwi1jomlPy96hz8yAOXm_QdbrG1C67_vUxw_Gh7-KYNqbLKavOKzGIz1uU_4zlEqi7_MLE8SpYa__37vBtvkm6dBcJ9i2v80_Cb71cmd-3XmJFaasxcsOd_d85ReG1xpG7LsGOh6Hhx-O19BisxrC1kEPl_tpWJapIirFCeFLt3GAqJnp_wL/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLySHiORawokRV3y9FMIG9qU.jpg",
     "address": "577 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 788-6297",
     "website": "https://www.facebook.com/buttermilkbrooklyn/",
@@ -48763,7 +48763,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJp_YEll5bwokRQDr6RxQuyqo/photos/AcnlKN1R2UHDVuNb1wC1H6HAaa97S0B6yznnBl5t_GS9LpYVIInNNnwtPhU-5BU7x2W13Itn6h2m0psyX7nhZ9KIzItlB6k2NTv-fn-kp4KtYBaNBTeewuWuvL15j4Y8Frq-r5Uw3XTd_qemUX06FDIdWMGNCW8udTVttPwqA4FN2upGFLdpgCnPA3_zhy_cElZKan3u6_Ol0WNimO2lJDhavcCM5zvcLYPzWpOW57gO29ENsnHxkPNMObzb2oBcPF_B_pdpH2GRUhaxdpLa4i1Zd90ueYRRG6N71itz0Af8OIq8fg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJp_YEll5bwokRQDr6RxQuyqo.jpg",
     "address": "148 5th Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 576-3409",
     "website": "http://www.beergarageny.com/",
@@ -48797,7 +48797,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmV1QVqhbwokR_ApUAo05bEE/photos/AcnlKN3CYylfaemNAvwnbauXLWsht1lQ7--NRqIVcq2tSNvYSIHr4n6pc33IAqxapg6UzIWjigSsBbC9Nrt9nt6JnzTWMkWcIUCEHcAyJFB6K-tIrI39wCM-WVCk4w_WMgwdxydQCZmDBG18TSvP7bfcYDplcsiaFWpjfTtfsW1IMk1yU6lagOjOhmVRtLRdvj0ljg-RVN5tL6pWuWuASsZM9ykAblB7Fdvoid4lI--tGRV4gDV49-YYy-zqe5-P3AO944c5xoE9uMDHn3cDUVCV4XVSiIbBZpB4Ym32m-jGIdzPVBG-JsOcVK88ZxNhLUlTJenrzftIsV-keKvo25e0tObShv1MlEyAMLWUsEDUHnCbJtpxEBs5l8dQkqdqR2JCnBAZDVR1JWBgNIIQtLCql7-wYhHA0rPcd-oAizewHhcPUWlG/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmV1QVqhbwokR_ApUAo05bEE.jpg",
     "address": "475 12th St, Brooklyn, NY 11215, USA",
     "phone": "(718) 369-0493",
     "website": "https://saintevesbar.com/",
@@ -48831,7 +48831,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "All-day bar/eatery serving gastropub fare in a wood-&-brick-lined interior & sunlit back garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJD4OFH6xbwokRd0rP-xdx-iM/photos/AcnlKN0LJoSWeLJDHiL86LAzP6tpAYxU46wQH_1Zx6T-z5NjHLcUCwxDkDQeHHTwht5QUxIFPteUvDwsWpj5uO73xu3nEZT_egPDVa9GC661ncAFbHFnk4U2hKQex5-eF8Cb700y_3fYaKv5BfugbMgy2DLYMqk4lAAeFt6y9X5lyArn3xScYkTcB0IU_SGXDAHtsS0wt3Emh9S3CWHf32mV26o52OEv0PH4lHrbF3xhQeQHsaK-PdT6fGo4L998E8qlezpgMUIM7qpEh1XPOqj0UU4vcz8MP9N99pInuAzD8tb3mg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJD4OFH6xbwokRd0rP-xdx-iM.jpg",
     "address": "56 5th Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 636-4385",
     "website": "http://alchemybrooklyn.com/",
@@ -48865,7 +48865,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Neighborhood craft beer bar with rotating drafts & hearty fare in a corner, window-wrapped setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJsfAZeR5bwokRA7dyZcwGQ9U/photos/AcnlKN2TnrXxy5YwhcgoMaf36uCNnva4-Wx_gsEtA6LBVd-Z1eAgPB1j5bk2jUWjQI2kVvW1z8y8FbBCPs3Df3SpQ_EXb6lkaJXqmwdZwWBsJlp7yvodxH1K2-fyUkX3cyJ5v0omSmA9_vRtteS3pciZbyrnEnYmIaRreOYt5OqHPA7iDEXqbKwjehuI5_djtMdLYXPDSBT9XrZxO0dYlr1ISfE3_HrKHGuwxmQeVN7N9EL0RsMfxC79o8CWUnlUbOnrIfY8D7__sbbTHjWLf_IzmFjGRpKZ27hJGSCbv2wYeyV1RXJ-XIFotRq6nXexpD0zT_rPkbaHDn8iUhV6eG7X4ObZeBb5pgxbkYYsxhBXas03gUdqcZ4L83IZVIgoj5G10k9-LXpx0Tc3JCci56Y0P7vgkZw5jT7sqnrp9h6xGN7bI6-C/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJsfAZeR5bwokRA7dyZcwGQ9U.jpg",
     "address": "210 Prospect Park W, Brooklyn, NY 11215, USA",
     "phone": "(347) 725-3479",
     "website": "http://www.doublewindsorbklyn.com/",
@@ -48899,7 +48899,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Park Slope local neighborhood bar with indie-rock jukebox, pinwheel machine, & patio when it’s warm.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXayMtvxawokR_HJ-nSxIY_g/photos/AcnlKN3pKP2pr3363-ywV75XEY0W5pFhgL87wVm_3-fwLl86UmH1rg9qoB0rWBjKOU5XOOcvHTEr78_SynPJjBylN16hQJqtJQ2uuprxD_VcYTPOLJUdtgZ88AhkQk_Dxqoa-kf-kVMj5dqDVzJgdZ_PgV2G1g8cAjMqJZgORn7xP6Un6opuI-u1Ja_1XKDuHksCHFVwnW2VOPQnNx3K3Ec7JtdhA7GdJK-VgToIVmEuYoG3CZNLVNc9Cx4S-KJhBcl05YX1FIZoV9Dgsg8z4bvn3RtGT7dJ7L3mPZ3ITnaEIMdXRxQoYEzJLLqL9LGUSe6I1NJq3cqJmnQU6spAwlAT231C-EE13XbugbGFKlYTyatOmB-0xzCQalMpNRgMPWf9RuOdyxb7snrn9Dy88vYBX4jO7OiHnMCll82Me4LFlfLEMw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXayMtvxawokR_HJ-nSxIY_g.jpg",
     "address": "497 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 768-2040",
     "website": "http://commonwealthbar.com/",
@@ -48933,7 +48933,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This bar/lounge features librarylike decor, plus 2 bocce courts & a basement performance space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ43tYfapbwokRnkJq38aBk_M/photos/AcnlKN2pTCutLhBV6Jda4v-47jwcQNeTrx1rhk0pzLODSmj87aO0HeHySP5RkuGacef3gAu1aFYBBUiJVitrX4Y-IokjtUAK0QQIqbmoCbOgrU6VVAJVgIdUneHf0aOxF3XLcPnT4jVh3qiDILc5RKWl1N74Pu1l0VUbs75lIXNqEACQPremOV-fQDdtAIn2wixk37ZHECzN_yja2zbiW5T7GOV_u8WGZqlcWZnQFfgZzOziiQkW-dClsH2ztpa4hE2ciKUQor2moRhcZYsgEgDSbcxn8T63GBddJMbDusrXfp8k6g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ43tYfapbwokRnkJq38aBk_M.png",
     "address": "702 Union St, Brooklyn, NY 11215, USA",
     "phone": "(718) 638-4816",
     "website": "http://www.unionhallny.com/",
@@ -48967,7 +48967,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Mellow neighborhood hangout for beer & pub food with outdoor seating & a pool table.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwyH4GwJbwokRO0x0jD_unvw/photos/AcnlKN2BLP7LqtPW63mf8PKNqxTNJutPHcH8AzyNPGiEH3dYh0BN2JLlY37QpbAl6L_Fm5b2ICfdtgVm2CaL9PgDfqY3D6aeHLDZRdtg_yoCXQdxGCjDCeA4FnSerYYGalQcZ6wOfOIWHeGu7zbO_ZFRxUD6ENBpkprI22bIZ_fOkd5HuLcXiNrpj7oDuT4CBEsrZeWQksCOV-qCy1axc6RXymWHZ0eJOjsPgnd5Utmy6GIKuIMJWmRGPbFCBtetYBVF96o3TqXPkT49yraZfZmOsjc54uydMATkDtDqaEsYuiZLUw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwyH4GwJbwokRO0x0jD_unvw.jpg",
     "address": "356 6th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 788-1756",
     "website": "http://parkslopealehouse.com/",
@@ -49001,7 +49001,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "This buzzy local haunt serves cocktails & updated comfort-food favorites in a retro-bistro setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ0Vr8kORawokRKpSMz037dBY/photos/AcnlKN0TCGauVDxOgoM5DkqmcssjoK4W7WUqWmHijgKnb5fJ-djabhULobSSCSwp6hIIoPX-y1UfkVVZwOM-5Kan_RCV3UFZ0wtPGXCvszyf3JyFCa0MM-BZBfkbd-SzIkZFEwYB8cjcCrK8eCFQoDUnM96rtKMTy04Xz0kRncNSOb9cJfoAlfWtFZRqU6uTtWrctbiV_hmWGywpQvNd6_fEn_tcoTmBCqcXfQ9mrkwmANVfdIiutDe39dRqxMW1Wo-QqarYx05NaOj4rV1dH5g8n9f1NqQQdHYuWh_8QIZowy2GRQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ0Vr8kORawokRKpSMz037dBY.jpg",
     "address": "560 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 369-0077",
     "website": "http://rullosbrooklyn.com/",
@@ -49035,7 +49035,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A former gas station houses this 13,000-sq.-ft. indoor/outdoor pub with food, games & a fireplace.",
-    "image": "https://places.googleapis.com/v1/places/ChIJNTec2OBawokRUv0YTg7oX-E/photos/AcnlKN0xTzmgQUoWh5QEur2tXwFVGLEBeV349Jc5MA6NGF8rMmyyeIMHUAtnGdVKAaTvILsr9d3YVBm70UhKzG1Nzs5JzXBbRpjD2JMVxOsruOk3YQ2xPBegvwE--FzI8y1NfPeXck6X1JNmrIjrvRT7PE-s6gCdCLuTnSZcLtU_UJRS3Y0UDSWc3pgoRJTgEK2mbPKcqJXOGmyjnhrPev5BL0BrwBexf6RPnwVL096TYHaiya15kBbUMTxObfKbMLQsk0DpbI91F7ZuH6MBvHw1Fqi80UoJrKEaqBHQubrJA3jw4qBuJugWUX3H-jb1h2pgNg_OR9tds4d64az1vrDC6z6PrelV9jvD8lrfI6du-qKDnC1azYCb77XqDlIdaZ0JTJMXd_WMaTzQFzzWHckSHDIx1EcTxMaL2hO_RuqDYVJnBw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJNTec2OBawokRUv0YTg7oX-E.jpg",
     "address": "555 7th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 499-7999",
     "website": "https://www.greenwoodparkbk.com/",
@@ -49069,7 +49069,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Bustling bar offering music, readings & films, plus a large selection of beers & spirits.",
-    "image": "https://places.googleapis.com/v1/places/ChIJKWlob_1awokRdCtsFyyvH_Y/photos/AcnlKN0pQkwKFqCX5EvR-qJ9BQKiTbL63JCQxzjs8sM-PnW-9muWDHWJB990NOrK-0msrAtgVMxjhbs0ztdOv7ITRnwbQK5hko-uetWJu3QCL2Bq9gvH70TPCa8CMwAv35NgtPzE6_HOshx4JYq4wY93AHTrrp8xQtNP_rRnLEeCRT_BMO3YnwF8X3tSnC9jARPyBBws3t5XjB7cj_4Tbs92JxwrguUW4VxIWfrIo1p4lWIxZB9xiv_YC6r52QOeJK6WswlBcWcYI-zEYEUkB6_FVH91Rco0mtFfVABC8ZDttcWl-Fg4Pz3Jk00nIiYD29XiOK6uqIDSwo8bUnYbdD2XQOERHsRr7iAr5CMMB0n_CpqYzuhMxdEZ_8xKTC4AiwX_8vv99DZjNSHrW4hdIx1KlAZ8eosdS5RZL3wDfovYPlhLE54/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJKWlob_1awokRdCtsFyyvH_Y.jpg",
     "address": "376 9th St, Brooklyn, NY 11215, USA",
     "phone": "(347) 422-0248",
     "website": "https://www.barbesbrooklyn.com/events",
@@ -49103,7 +49103,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual, low-key restaurant with updated Vietnamese fare plus an ambitious drink menu & a back patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJu56XVKpbwokRKqHDrGT8PVg/photos/AcnlKN2W1is2JjJTMZiB1QjRRIQXzbNQov8ciJPrjo7mY5prV2BIxmQzKgEbGqENxO8lDjNaToYzuBHh-cGN8ztOFLqWREmdpn4QPsJIH_gtUFna1xdKXlgZgh75Bqy8JnKbgn-E7hADBgq7LkxEdU9kaYGBPElQE2hGY9jPXOv5BD7Wwh2-e_JSCJg_zWD9MKd9MEQxKIaUlNDrDFqSiCG-F4Zt4AsNy5uVlZkM0kaRL7i_7hzp4YfnEoWJxgVRV1tKpsDsnT28nIC30jeM2LKXVrIMfGrkqXQf1Jv86E1C7k5X8Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJu56XVKpbwokRKqHDrGT8PVg.jpg",
     "address": "162 5th Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 230-1835",
     "website": "https://www.bricolage.nyc/",
@@ -49137,7 +49137,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Tel Aviv's Mediterranean flavors come to Park Slope via this Israeli eatery with a popular brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_yaCB6xbwokRzsbqAJUYxpY/photos/AcnlKN1oUKQnkU-a3YEh98TbxpOQwaxioHce_U8-sN71od5mDssSSZI1vTp88juqpR6hB_ZMb6LejxA5QzYkDq5YgXMmIxYr0c274ppEzpkycFWYzAtclUAKKqJnh5VCDSGw2wPnk2SyDjx5DvrUUWPQ8TRPyEbePiI18d8LVPqJL493D6t9ZofCMnHP_US1KQ0pLdscRRbOWnm7SwLPzqQgH07KugictvobsQ8lR2f5TYEg45IaXOGU9qQUQ6nyqoaUtqUCq3a0XP_0jfGDOAZY9s0_9jwuuJMf2BuJaDAmZulKPA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_yaCB6xbwokRzsbqAJUYxpY.jpg",
     "address": "79 5th Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 622-2250",
     "website": "http://parkslope.miriamrestaurant.com/",
@@ -49171,7 +49171,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Northern Italy touches Brooklyn via this eatery with hearty fare & a rustic, farmhouse-like setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQXPSUAdbwokR0zX-AI0TuBw/photos/AcnlKN0ZY-bdwImIdEemW3zD356k2UOOEP9UPBMELqCjeKMEvzDopUywCqEf2koRpRL2xpq8O1Uz_lhUrlSrD3o6Vhf00TLSAGKf9x3GnKDzmVdWxOlSYMKUEKq5Fk9f0sB_WfZHtavoSZ7Smcgghpekx5ec-mFAWhJhzMKcSxOpL2VMpPNhBmAvhPoV7Fnb-IiwC3clPazGyplauG3QISpFPmK-g4GhejS3uuD0__SFkFlEhHF-GmW5yP3Q0yejXr20y-w9aAPl2S1pR0uu8kzXvvEH4AKyO3UJhWpB6GA19NY3_Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQXPSUAdbwokR0zX-AI0TuBw.jpg",
     "address": "788A Union St, Brooklyn, NY 11215, USA",
     "phone": "(718) 636-4800",
     "website": "http://www.scottadito.com/",
@@ -49205,7 +49205,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Warm Mexican eatery with colorful murals, offering tacos and enchiladas, plus tequila and mezcal.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3Vkgyv1awokRa95N29fo1DY/photos/AcnlKN1Vx0CUpT0VtcxZfFRlDHIfzN65lAjgS_zr18crxohTHgi_FMKflunajA_qz2tt3Ko4w7PTR1oCqXo4-s8x3OH0aSYM9aGpp6CoD9pXITrEIRBT1IAqGuXhaMK50NmlPYiQCkIjX60HIo1CHlr7yzXVHJVBw44Lm2LuTJSzkOunCVPi_UJTh34m4VohOlefNArZYAOxYqmG-gaUpZtUWdpe0ZjSODQLarl7SNergqa1NyMtxE07icuhmjpkVAQIPCLGoKUVkjnU3XHnqEJyZn_tgfy8tddW5udvpSBllUQExg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3Vkgyv1awokRa95N29fo1DY.jpg",
     "address": "408 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 701-1891",
     "website": "http://chelaparkslope.com/",
@@ -49239,7 +49239,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Northern Italian mainstay with an intimate, old-world-inspired dining room & an attached wine bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJpcjScgBbwokR8tFzxMCfFqM/photos/AcnlKN0-u4T3Wm5cZf5UjBogyvY7UvtroKIipBD5uLU63lAsEfsdXLpqRpyWX9m1Fjaa1Rqgvdzaa9BDpH4LDQT41yVfqzkAyHBFvylBSUFZqk-p9oOYx9JEZsSd9r3Jitx3N7l4tZXjmhWXiT-hGnwtpSm-NFNaBi1fhkxxgMAIuLCE0fj4KaTMxiYjpbawbfGEm40WXz44-S3UPXZe5X2lybJuz_yP5LX8ONI_LuC881C29Ie30mGNEoqZdxLHYIxOoewNL5RgoyTfnraBMbKgxOKUDCCneFV529biXOo0tmGReMdeYZlkf8zygHYtj_RIsJUKkfyVmBk6k2CipyRqEF9GqZWFGTD_mOwh0PNada0j333npyVnAFpmkYTbQ1mOS6rI5cGYSKH6he6a_V-JY-rQvY3D_OHMhwz-KwN8TYM/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJpcjScgBbwokR8tFzxMCfFqM.jpg",
     "address": "248 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 783-4565",
     "website": "http://www.aldilatrattoria.com/",
@@ -49273,7 +49273,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJjzh0ftJbwokRIFioM_VxHNQ/photos/AcnlKN1Cbw-E-8Wviand2kQGDiNKZpbTaTDbfIJeKYZzA090WHM8t-DXLdfrJhbXXztNdtSGMDQaTzIPTNSXGKcT3OV6bnkajvByDP-Evqu6ZyQ83JMVZ9HJWLNJPd5jJszZFJ-u_INjmWUx8wVuSrk_Xx2J0HLVBD3KnSgcD-wjKFcSp7UaKQ-hs0h8zcj8SZoRrINgMVj-i-9Wgdxp8vICqSAlxH6veuAV4o0DKbZS2KWpkRUGivpvjXrugat2pFEEw_ZAhVQIpAzR56toNF4Rkv6Fog-rxnxnb3EPVhkcj6aZ4A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJjzh0ftJbwokRIFioM_VxHNQ.jpg",
     "address": "494 4th Ave, Brooklyn, NY 11215, USA",
     "phone": "(917) 909-0339",
     "website": "https://www.almanegranyc.com/",
@@ -49307,7 +49307,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrxuNPgpbwokR96B6j7XvYh8/photos/AcnlKN3bwwf6sBiF9iVkFor1XnKw657QOd3u2s0XIUk8MCcSsugxUs8jtFRGD51MiNR5wCPNY9JlY9ts6sNV2XR_nhT96OH9u-TGdAK7sC7qjY6MKHPuUhKhlRI4W9lR-MLl60VGgXKJSbuDCTp_llMA8KxmCizRh4qdlaQfJ4SEYHo-x1rjwO1_o0gJGM_O3yWFEH5e0vfDqjT09VBKaFlRYV3CMNaBrp6mGMpy2dYslFEX41PHLg4vNFNbrkw44pJc7_DfUaIO7j2bjU7aAiJobfLGLU0LBS99_4ByAcSLzAeViC3WQXhnh72RF-FaCfLvzqs2TvEiTEL7MHryl3wZ2ESv3CL46Usj8vnL5gzA8SMvigGpW3iPEMuuAsvLYYBN4Piw8AiYqsTmTOVYD1_9kYOIB9_-dBcimJe7JgS_HV0Yo1H4VeMFC_ztn7Lt6haX/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrxuNPgpbwokR96B6j7XvYh8.jpg",
     "address": "200 5th Ave, Brooklyn, NY 11217, USA",
     "phone": "(347) 599-0491",
     "website": "https://blackoakonfifth.com/?utm_source=google",
@@ -49341,7 +49341,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Refined setting for rustic, seasonal Italian dishes plus bio-dynamic and reserve wines.",
-    "image": "https://places.googleapis.com/v1/places/ChIJh0UvcqhbwokRSLfJGK9kNDg/photos/AcnlKN0qfHiC6Za6OWhqoCUbYNQqKA-0BezALHRETBQA4sqXi_HgOZ1STwCABvZrJB41QA0Ro9TVLK4gpe8yJDwDq_-6JO4fvZASfDrbv_VPhqPmdSugysELQuItHpvQImzhdXQjGrCx19ojbiR6NpUX1Z5V7Yl4bwZR2Kyr1UpPuBXWvmYcii7raCA8esiBF-EF-Yuhc1_26bQ9kPtOy_KQkaOnIqPdhM9lupstttJYUHOrpqbN5R6hGghsAP3qGPYoOXqdahP77gwSVGznrA9sveJXQybi00Gi6UNAwlxB-w64UQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJh0UvcqhbwokRSLfJGK9kNDg.jpg",
     "address": "348 Flatbush Ave, Brooklyn, NY 11238, USA",
     "phone": "(917) 909-1427",
     "website": "http://www.faustobrooklyn.com/",
@@ -49375,7 +49375,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAxMbjIhbwokR6Y7wvR_-Uss/photos/AcnlKN0T4qgj3NXpUqA9xvUrAbO-jFP_AoaQdrSWV95ewOou9k2ZF6HzWMReXXQMucmGQy6DUnQ6bOUPOfvB2PY8dKGYrdko7IO_PgPCqJ7WXs73sJ4XxhGBUCDsXf533Q0oD4fC5c99XT_eaY0wIzIAE_PnOZFlAkP71dW_nEHp18qCfSNNFhd5Wli6QJfG2nihvCoK-Z3NpND5R_eb5DkAr-gwhk8pkM4rJBsBsbchfWSV-ZiIBlSIkAMw9tmgWeQGLzgzx5Mg3InOOoFYFcQX5AvVW2G_N7DsZfAvrNhEKEVihQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAxMbjIhbwokR6Y7wvR_-Uss.jpg",
     "address": "293 7th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 535-2931",
     "website": "https://newmikadonyc.com/",
@@ -49409,7 +49409,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJneCx4yNbwokRSTtiQXRiN1c/photos/AcnlKN0xZqgkerLVy9qDxDagfVCKkEAu4HdeeGoNTl1dB2WE4UVnaKjx2gPx5T9swivb_6h8iQf81utMP37HjjIJ_802HHNAje79wWM4BJms-zZJUyzfC9kOZCD5Azfogd6z_UUR3CVhJhMZlk3G7MzPaSmm6xMTHTH1KGOMTIoBay4sUlP8S8uzz8h8yC_BWchnossbj0K0p7CFl_bXRyjscz0Fi8Y7p3kVCMXmUUaOil4nj-myY2yFAwHH7JS3eSqt-cj8-elmESxBqHx8Rc6O4kVSLqwDVzyktkfVAOI5oXEzyQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJneCx4yNbwokRSTtiQXRiN1c.png",
     "address": "209 4th Ave, Brooklyn, NY 11217, USA",
     "phone": "(347) 599-1525",
     "website": "http://www.ranafifteen.com/",
@@ -49443,7 +49443,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed New American restaurant with a commitment to using seasonal, local ingredients.",
-    "image": "https://places.googleapis.com/v1/places/ChIJF6deL_5awokRh2ohKTMG2HE/photos/AcnlKN1S50TsV-4tLpYWUHcE4eXc6x-wqS16ACeS5zbIdEEPj7KSVQZ69jW5gaHSObjaADq2kq1fSrzmAndpNyhomp3wmLUkCVls8PTMjQRoqWU398kKw-GuOBHF4-6YNAZgsbhl-E9WhTqNEToi-pfU-nWcu0V2X5KJBHpi_wZMGoAjl2PuNeQE6KOQoNq1wlxebx3BgbHbwIjBu4j-DTPH3qNTveqW3h-q39zI4oQpbKgU5kQzYScnVnLPcfql-4SnK6UxsMhdkkqZE_lb7eZzo1mSzS_TWAecGKwNmZahHtDk-g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJF6deL_5awokRh2ohKTMG2HE.jpg",
     "address": "324 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 369-0082",
     "website": "https://www.stoneparkcafe.com/",
@@ -49477,7 +49477,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Seasonal Pan-Latin eatery on the ground floor of a townhouse with a skylight-brightened back room.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYZfAu6pbwokRiqt0jqEm3Ng/photos/AcnlKN1D23wHMjtz-Rx2XG993wAaXBaWca69ejc6OwZ9gbnTuUqjTR7E217uBvwZ_09as_oW0MICkrpvqKduT2OgdDizk3VZ54-YBmuJN-kNm_vP7tP_quMwYZqjfvibkQxoGtmYEOgYCj2709QwvGQq8tk97koMr3djqIiITMYpzI24zPcdm0OnO-VP3Wb8b2wwQa4B6hP-wQ7p3oJ151Gm8Zao8dmvgF3oPyuegzvEA8fUyJXYEe6GqVtWVlkLVT7KdRSamVLr4o5wPk7IPgjZvMNDYjUkCAbHvRQaIx1WbrNMcQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYZfAu6pbwokRiqt0jqEm3Ng.jpg",
     "address": "652 Union St, Brooklyn, NY 11215, USA",
     "phone": "(718) 636-6311",
     "website": "http://www.palosantorestaurant.com/",
@@ -49511,7 +49511,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJicP02PFbwokR4AqslSztaDs/photos/AcnlKN3dYoniE2CHzf4gWXLotHgLcfEXVhdw9ALCB856OQJPm71zJxYNqTjGHN5WIkJrfdbh0P5qCVSC_w84bgrQb7G07Morh7HYHwQAMrhV31n-e-itIhFg425Zt5PiW_HtwFn8o_gOu4731q6nuX5lNOk5HlG1cnVdBJYFFW5I_ZoiHd0EYDO0x580HZe4RTu-BrNGZGLMnhqSMPyLlHFR7HFgkedrT0Td-5266-vtQ5fOb4tsAuNQpLfjprxNOUGukb8g61uYi7O7CkQfxwu9eSaBIovAH1D-6M11dVBukpiTZQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJicP02PFbwokR4AqslSztaDs.jpg",
     "address": "392 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 534-0110",
     "website": "https://www.lefleurrouge.nyc/",
@@ -49545,7 +49545,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJR-zfafZbwokR3jOrzYj-8gU/photos/AcnlKN0qk_lDE3Wf9-5Nzj2F2gi81JcRlFGuHMK5BG4lDh5_TO-FvgTJYP1AFiKP-WlAfsc3UsCtPg2o8J69LQNmf2yVA3rBYWiRBeCHOPaSMqYJSz9DCqxBFJGGiHBp5cF3jyCYbpz-sZcsTQhUY3RGW88qpGzrONaYVoQn6MarGepIRwDuKTc_XMgD-vdWNwoyl0kKumIDJOeiJNJc8TIg_qbNP86N6lJREdNoyILJUipxwtd4BwXDuCfA3b6LnNmYEbeUjl_MFgotTa9HmwtQSRAPzXiPJnQ9SHdPvv44vFqJHrzVgy1LZLIxWkR4l-U-ugvJ_wdAWbbj-pRj9r0h1niZ58aXPXNMFSLgpiSmxhRc2UCnxibvs17rU068i6i9J6Qf2CXLQwW_gfzVYszKhN2S7T8O7Uahk5jzMsworqsqYg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJR-zfafZbwokR3jOrzYj-8gU.jpg",
     "address": "548 4th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 971-9580",
     "website": "https://www.thecommonbrooklyn.com/",
@@ -49579,7 +49579,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Modern takes on Thai classics presented in a quaint, stylish restaurant filled with indoor plants.",
-    "image": "https://places.googleapis.com/v1/places/ChIJU45gcXBbwokRDPP1d8d9Uog/photos/AcnlKN2PVsvno7jpVvgYXYxJKSsaakOwmRX3DQ7bRn1G4z6BNbLUMteSn1abizhYWlTVwb1s3HJwndxIvulP3yXzT0mJl13KvUBynSudTwJyCN-OX7gdpr-l87NfrbwC8zGqsok9OstSS3hEMMDOHvjljEPS6XrasCNHFXUf8a1JdoM8mTqAr5QVsAzOHPwy240Mdiek_nAdDZA6myk8APDmKtkFA5hiv_uwwM-eqG8gPDSWcvgl8elUrX2ivZ6tgN7zHzTaTpEDcCxPoiVkeWIjVjZFgnhxB1UiGtEcyy5Fb2_Kbw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJU45gcXBbwokRDPP1d8d9Uog.png",
     "address": "847A Union St, Brooklyn, NY 11215, USA",
     "phone": "(718) 576-3962",
     "website": "http://www.bangkokdegreenyc.com/",
@@ -49613,7 +49613,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Restaurant with a warm vibe serving breakfast sandwiches and classic Italian meals.",
-    "image": "https://places.googleapis.com/v1/places/ChIJL3A6GhNbwokRqLfp_VxiKUw/photos/AcnlKN201oLz8_kfYkkLHYJwL_Pmx2-hE7d3PEt94qQ8Gvl5fLA9-vmHwfGI6uxm7yiWtFwW4YPVPpHzELDzvJTNvNyblR1nHAgge3cFp283x8rWGcgCv68C2wRDWNix3GcFfr7KoNPrn54rbDaHp7jgGhbhWut0eKlnQbhzuy-AhDEHH-tJF2cEgOkxMWIjd1nKfl0gP0TaGPTUTTa8GuY_F_RnwQLsxV00wk1EFiie3Xpxv0FFlxQ91w7dM1qCVO2HvqZRq6vplmgHsbZyrO2auc--DSl91TXt4UNStdpHm6RfDQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJL3A6GhNbwokRqLfp_VxiKUw.png",
     "address": "1114 8th Ave, Brooklyn, NY 11215, USA",
     "phone": "(347) 725-3883",
     "website": "https://www.pastalouise.com/",
@@ -49647,7 +49647,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Homemade pastas and seasonal fare are prepared the old-fashioned way at this casual, local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJjQi6GeNawokRjUBOUzfGGCk/photos/AcnlKN0md0xzp1mhG2L7Jp5LiaO0rvlPf4XN_IdPeXhXmzRwWG_Gi-19vDy-QSPrzbA7c-ivTuOy7YBhzhRn64k17kGFVFLPnFvu4H8gcKvIVyc1HdJYtCe0yGHp-3LWYUHoIT_8CtY5aTjIDytDe87I7pwOxMlHDmDeJUZp15JmQWh2VGIlm1rjb3T47P7FC6lt42IWMQ8b_u87hPR_LnOKrf2lWBIKNLzgE6e3mrp9zPFraUNbu4g2QfsjaIgHl654QRIZDfjJdrYQjDoUkPf6ZMEAPgq5ToYF4SHbEIyTiLKDVw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJjQi6GeNawokRjUBOUzfGGCk.jpg",
     "address": "522 6th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 788-0066",
     "website": "http://www.piccoliny.com/",
@@ -49681,7 +49681,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Rustic Italian taverna featuring a farmhouse-like setting, a garden & a wine cellar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTy7DG6xbwokRyIA78PxUDsk/photos/AcnlKN0B83dzdqBAhaCnSB0Usft96KZTckqOC1QYW4qn4UJQ3dYzTbMHW3MaQTHPXRsZ_QC6A1LNOOeS1b48kTTfc59VnC4Adrlat0-MoApKNOSoMoxBCkkbYODpcPx07YCBRzvDUFuBwnWJZyl39daYUog-Xl-q36q8UJ0pABSMFq7ivisLcMlYgbv4d7HCzHIbG_gCHMb5PNZcQnpivVYvzdyhIwAkemj7Imas3aPv5dnUIuUX4bcSU1u89k7BzXU1vu3_-qFEQhfofeuBjSsqUoU4g6gUnVoiLGb12YrCn9veKfMWJkWxTVjMannlpBB6hiFvjI4IYU75QDTNWHNTgPWO87HX1X7scwb68u-4PGnCJ-8YKnJZbg3_ZiXCJanVJ7YERQQ6GTuq9CIs3SUjE-UlzRZlPsj6eujIxnL7taqafV-J/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTy7DG6xbwokRyIA78PxUDsk.jpg",
     "address": "68 5th Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 857-1833",
     "website": "https://conviviumosteria.com/",
@@ -49715,7 +49715,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Bright, relaxed restaurant serving contemporary Italian fare, plus wine, beer, cocktails & espresso.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmSW13xxbwokRBtzKoZS_4t8/photos/AcnlKN1vFO6wIatI8_zCXoOjVijFTTxycp96AiVCHv08u1SO4LXabwYK5o0zJwFL717X3S1BqLnL-vCNN4Q4oGdj_S2rzLPLhPsMLAVo6-Y1Rs21OtkCRIxda0AREZEkuvnsD8DQwXnyoTTEKX4j7i4SWmArvPQw75ZTp5EvIRNVNFK5fq6vn5fze44woIcgDAGb-h62iDQgymtvaXKiKMpzGFUOiOBzSgvBLKhDaTfWDqFBbrza1iekh3LomuEZ8r1QtsJ7PTtXtPKjz1qNhEvmU4xSC29r2P4gG6BxZiM_wn8kAw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmSW13xxbwokRBtzKoZS_4t8.jpg",
     "address": "1021 8th Ave, Brooklyn, NY 11215, USA",
     "phone": "(347) 844-9480",
     "website": "http://www.floranyc.com/",
@@ -49749,7 +49749,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Playful takes on Korean classics & seafood in cozy, white-walled space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVVXpcQBbwokRtKzSlyOoW1Y/photos/AcnlKN1t8O0eDN8LRpDZ7DMM9H8HUNPhlihVkdZtzB62idGt93XnA4M-TloGjA8NRwx0jeQ-mkOcgpJ5CcQJ1gcLbH6rXoWqts0ejv9-2c0iiTSXqomPkyycUdFZgGQjNfw3qVytGKq76AZ2S7JMOjGSe0SB_p6y20J7XW5228uTsMS03191B-q54cWlCGXX7KinaFBGcel-Eugqavmwzk46iMZ_gyIqcSWb-VAuH_01xi3FXDEYBuhhbEJk8V4sgfH6Z89l-l292KZpkBhlt7BiL3Vjb3Stw77Yha7aYH51FxKeiNzUkAyWdJD_64ZlEqLAtJnM6jhDUo7EVPSAKqD-DByk3Va-IKcVSJZ21pZZzUK9BPpWp5u-pv8j15uQIepqbA46QaMLonUknkGY47FoTMopmwW3vB0nlGnHgV_8DXTkMw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVVXpcQBbwokRtKzSlyOoW1Y.jpg",
     "address": "239 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 213-2290",
     "website": "https://haenyeobk.com/",
@@ -49783,7 +49783,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Cozy-chic bar for cocktails (plus wines & New York beers) with oysters, cheeses & small plates.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQx632a5bwokRXdj9mkGmwKU/photos/AcnlKN2ickcIIxFsfTFgTqrm9ghyGj319_Ohoo_zNPH0yDeQOJ1R8AU96EpZAQM__cfJFQtlxSwclLtt0-KW7Sd9MFxph5iE-tD-znN9HRQPrs8o2LdsFjPx5D5oh69St-CJUteis7xb0obdUv-TSzPSleB05Im9GoC05iI3PNxos_Zfk9agCBzw02kx18pxF2thePj2XjU9nG9w4ecDr9hU6Co-3WcaSVHzZNuRfMLHozEGnbphQLfz1dK-AqxqtARW8vaLaE7JmNSkWRsAQUBugH216cg9NdLME6YlMKzWdcGSpg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQx632a5bwokRXdj9mkGmwKU.jpg",
     "address": "71 6th Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 484-9600",
     "website": "http://www.sweetpollynyc.com/",
@@ -49817,7 +49817,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2Tr_LTBbwokROQsuFjs9IXQ/photos/AcnlKN1LkTat2ZPkjM1Am-DMLUg_BZU6ousTaqCGQ_YzsrYYYnQkM7cp0W91FxR9lkFhod5J5_yjxz7nErAR8tNFDSm7ua2PZDWv2QUBS97rHJIT1iH9xmg_N99wcfWDXV5cf0Bf5GaqZKPiW5YOF07j7QdrIWavIwbNuMM_GBQ5W16Vkfdh4SsFiS-OGBn186ICk-V30isoDXZwXvwin0ovCUB-MhV5HdnVHG9tpFpdkbeSoHU6gv2e2NxEcIqCxB3IhLdVuHSru0WY43FcxkqCcQl4Nyeq8BJqcWeSlMAAIpIb2E3bnzkfu9P2NAf0-zv-jUP2wdjKxvuAukBoIKoWIJ0ysz56HV98jhHJIvJGyfuhPSEAZ1TtIgoNPwqQ3wTILWnXF-FiJcrCDZbyhybV57heztVzbksMhXA3TFaVJK7NxX__2W_SJnsAJLn9Jz3b/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2Tr_LTBbwokROQsuFjs9IXQ.jpg",
     "address": "471 16th St, Brooklyn, NY 11215, USA",
     "phone": "(929) 387-8338",
     "website": "https://zagayawinebar.com/",
@@ -49851,7 +49851,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJOb7woFpbwokRV5uWUQdFANE/photos/AcnlKN2U7TJoblpBBXc4pe23P1jCfUtYR_XM1zlJ-x6GaSIOwhW4QVmHPzBf188SzdcGY1SBeZPIzeTzrgQ3q_wJo3x5T6ucysRcjFKA1GJww0NX-TiF3wwIUI8EO7ZivK9m-UTAwd3Aop4i3TXVH_1ZNWSvLd6Hdu6_2ncRTkgT4QRMb_fd_TmfB1KXwgBZWbriK_91vmhdKPBA67RY-txvQOOJ6LZQQf8N1HtfZXAZjbkIjACASRJ1ife_76_M41SFnAEoA_Uz2sIvCBqLdcAQJ1rj1QvSOQ_jPUmleiBemNhPMg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJOb7woFpbwokRV5uWUQdFANE.jpg",
     "address": "4114 5th Ave, Brooklyn, NY 11232, USA",
     "phone": "(929) 630-5502",
     "website": "https://sunsetstoop.com/",
@@ -49885,7 +49885,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Low-key British bar featuring small bites & imported draft beer, plus a backyard with picnic tables.",
-    "image": "https://places.googleapis.com/v1/places/ChIJv9akwPxawokRNBQbqx-29mQ/photos/AcnlKN0nj6TvJTNj8h0KkVvcqIhitX4xk_7PkHn0pCtxqe88hHm4TfxOF0x5HMqBDMF3fqCe1AKDmyEx7vxF317QJxGS3gzUzTj9aZHNDSPMZGvWbsi0NvqqEMXIKo8pjEj__azkK9qHs5j_6qecYy4LW6cEOFWAWi-QnsrnZ1sivZ1qmBPgWXeTUXboYZEyVCGyGcIF4_Av_Hv6KnrzT5GYv9gCVaTwww7oY1Oepdz_FgKR1guJz8R44lSyWr4UbGHYYVKFYm8DZ0emBmBqyg8shxuPGRwdA6NRhdV4qbof8qeBmA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJv9akwPxawokRNBQbqx-29mQ.jpg",
     "address": "481 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 499-2005",
     "website": "https://www.monropub.com/",
@@ -49919,7 +49919,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ1ZTytNFbwokR8Gs-d_gVW-M/photos/AcnlKN1KT-pw4r4LKyJ6Ejf9cDD4JTi_RhgAXWtw1s4ecseTsktF_m7lvRQtfki7q-6WWphD8zVCpn1uyQWllKVwXrDnG10VjJ04TbVO3HWn2ySTkPY5gTt-jSmVQhH21pqafw6c_98n_9gYfHpCiI_kk3BAFeApjiWS4uazQ-xyH4CPw8x4U9H45uUlRJA6tP8sZSDB3Fzn8Y_KeXvA7nT7Qg9xrwPmxmF3r8uLplAMKdBieokktYM3HJj-xi1oVceO0KTOqClik2UsL7lMsJlErEAlW7j328LluBfPMEQeBvOqWeLCF3-sXEopLzO5WjeBeXFIUmcBkpeaHYEu8deA9-XaZAiohmrNhs9JAgt1AL3QebkiNId1H8w7hW-9eOyiVulMWP8USvY23TOK2jDPKrTCQdYLQzqvVEja1pprJb-qNw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ1ZTytNFbwokR8Gs-d_gVW-M.jpg",
     "address": "256 Prospect Park W, Brooklyn, NY 11215, USA",
     "phone": "(718) 788-7800",
     "website": "https://hilltoptavernbrooklyn.com/",
@@ -49953,7 +49953,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Welcoming marine-themed haunt features hearty pub grub, craft cocktails & a garden with a koi pond.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ16lCOeZawokRwBzsO40q1yI/photos/AcnlKN1XH8l7lgYHJDsV0FMETgZHS7CVaW826Vs17zSKUmUMJTnIhm-7Vk_1EcNxwnagzKagw5PzPkkaB6PrgFEwpsPLjct25G2ErtKJAEJukGGCQM3p4dMlxUnksS_uGDcvyN11jhHzEL8d4FbEKicZ2tkg6glIEs4VHfk6my9noLajPNEWp0OUyHAdV9p4LA4-hZyaBbWW1gFSidyhvS04-itigx2bD28iKviphPf2x722HaHwtLaf2bT9-zxxd8EFCLewiqfcnhQ-cMWRrJ63GYuF1biewmFEftdTteIGpDm1zA8tvQQqYHZ_XHqUtO8iaPIWL5uqMgtxat1URJxFrGQGrrg-EUDeX8_nt3fOicPxXuJHpGWQels6-vqUPawSasDH5Y8n0jpeWIIQsgLNfr4HL-kxNceEPfFYhirh8Skz-Yva53MJ3wbsFGiS0A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ16lCOeZawokRwBzsO40q1yI.jpg",
     "address": "703 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(347) 227-7166",
     "website": "http://seawitchnyc.com/",
@@ -49987,7 +49987,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoz0b4FxbwokRRszUeb9DQyo/photos/AcnlKN2R4YGuzh4lTrzK9YwqMi5KanP45-rM48N1j38YjQWt96TFrpEvIooLixury9yk5J-gIgm-N8hyPUESoUdgM7maQo2WF_qa2oLtxND4d2FZGAYf428EBXFkUf2PHej2XY1g3B_MQ3YHS-VlUi7uc-9pPZcdvrHW_XNQoaWSTvWxCG1ige4DhRVS1El8xwdq_Ny3s9lmxb_sHr02n1Hmvf6ZPLctCO1j2NZXVvZKtxQiUPUKaMwt5wlbczspIt0F_iWMjlyCNp2gOBcbPg-JsfY15f5dbLmN15ea-7HaQm6mhw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoz0b4FxbwokRRszUeb9DQyo.jpg",
     "address": "72 7th Ave Left Store, Brooklyn, NY 11217, USA",
     "phone": "(727) 888-1377",
     "website": "http://www.sipathom.com/",
@@ -50021,7 +50021,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3aHhpxpbwokRaBtYiFfR6Nw/photos/AcnlKN2rT6iwDB0ZClsfk1ylJCIlo5xnn8AfHd7E8cDta5BrYKq57jQqAfUOKgn2dh4BuJFihrVEePsAnrzpGXOO21MCGswYVyNHuKBY8ezv0ozdKxu53Ddu_3ZZR3_XPIo0lYMB7V9yg9UCRwxg-NpYWGAeVHaMQHylD1LDQljRiWtJHNh1NuuOcBK7UKMJoz-HCZayYxXNvcx5KUIaISCI9tn0-LVmSMKTnjMODfz5ZFtuwOPvppIja1EYtzSQpHdDjkT2iapTrNMEHYjO4PA-A_W6wbGRlG7hWYenlwYhhZg7YA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3aHhpxpbwokRaBtYiFfR6Nw.jpg",
     "address": "437 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(929) 377-7773",
     "website": "https://www.xoburgers.nyc/",
@@ -50055,7 +50055,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Roman-style pastas & entrees fill out the menu at this spot with vintage decor & a marble bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4VBHoB1bwokRs_4cudpKjpY/photos/AcnlKN0C5HBIfH7KLYi2vMZbo1Q5Z8D9qxcz6Zx5QdomGOEfi15jXXo5KSCL_yB7vuYdETkBNp9fafKT8svkJjl3KeA9U2239QqFqRtNFA0nDWIQM0XEfBj7kpQhESKXqnz51wgAL4ZBA2a3gavmOQbQL_VXH-pl7vT4wQA84XzObodp74F9Q10qLeL3KyHIJru3o4EGLrkOyrkutWqFgBWS-QZAsvLf4Ju_dZNA6rkOzjnl3h2YlXaIiU4hPsZOpmboD89-spyKYQAdhc7iSkjlQ2tBFSSsQuVXn5v2l7qhpAhGA-2FgEv_Tb_5qjW_mQBNkV6J3PSKSPPjcZWEpJwSH-TbEUmW86inD7gxjXwu5-xjXXmpHet_iX2qt7f9yvORZ_yXAiVp-yYHNxaZ5ytwB8noy8Q2RFxsMbgcp7xIq293S46v/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4VBHoB1bwokRs_4cudpKjpY.jpg",
     "address": "1302 8th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 369-2154",
     "website": "http://provini.us/",
@@ -50089,7 +50089,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Cool diner with 1940s decor & sidewalk seats dishing up hearty takes on burgers, hot dogs & shakes.",
-    "image": "https://places.googleapis.com/v1/places/ChIJf0RtQvlbwokRqDJG6diHFVA/photos/AcnlKN1cj_g2iuWDV2RxTuXXh4iWh8NU6b3mEDUDPS75X_OTj5mdXjPye4-nF4p3w93EUwsOzts7rLhKwvmh76K-s1L8zmfz4m3HTIu0m7dB3kGbLQuHtWiRMA-GR26ED8cVgSWFEEmKwONAiJK-xnhWoFvz22hvBHlFp0qs72WVsUext99kIPfaNHRLiSFTser9f8YKszC0CNln9pM2ivb7ILGH-uoV64YXq51ZG4sw8BoQvDzD7rTxv5F2iIjzBHeJJ-ubYkfiSjOeTj1CX5P3KBzLj_ws7hNR8hSLzrTRaaH8ww/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJf0RtQvlbwokRqDJG6diHFVA.jpg",
     "address": "119 5th Ave, Sterling Pl At, Brooklyn, NY 11217, USA",
     "phone": "(877) 717-4253",
     "website": "https://harlemshake.com/harlem-shake-brooklyn/",
@@ -50125,7 +50125,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Sprawling city park featuring the Audubon Center in the historic Boathouse, plus Prospect Park Zoo.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQwRohxBbwokRmHrfAMb3ixc/photos/AcnlKN1mIxml2pKaf4lLK76G_bcb9N60698HMJgMFzRkycJsJWnUhG4yqTNvoXyR2ue-sUM3M1JLkFuDwcXZMJfVaF9BTZ5EwzcKGdKYkzt3Nl9DtCnmfBLV5nx6Aa9TU4ZPUkDU5CzV7uqF64UxBH7Pbcam2CrddGPr0gYxoXJgWiwhbJ9AxyQetHRR6CCZaVFX0ScAb3kNTN0IBI9CNdhbZZDmws_fP9PMXjyyrP_7G55YfsGdTHHOeOFNwMd8HoPTBeaIRm9YcG7apX_hX1jdo2r6c0xHF712g7DzbNUvbT-yg7_VsTPCEh71_jbHzd8Y55ChR1ETj_eBe7jpAk5F0Dz0YGyjsnL1hhrLa_uzA7R0y0tdCiV-YlKX2uYgdD5LFU_Sk8BmUoikhcBX41CLD5-6rEnm2EMeapeOBh05sQzXpLs/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQwRohxBbwokRmHrfAMb3ixc.jpg",
     "address": "Brooklyn, NY, USA",
     "phone": "(718) 965-8951",
     "website": "https://www.prospectpark.org/",
@@ -50159,7 +50159,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8_1XpthbwokRWDha6w59gdI/photos/AcnlKN2dyK-jwhvvhSSpuEePPN9t6V2B4obu1TnQNxVoNGBiceK5mJjR0US9P2XXjASoT-QWmhd_P1IxUISueHdkDXvtwxMJJSxZOAfg7wDa2xKd6PvlPHwunUnBIwE3sGKV5q-Q81KoNjEDgDqKDx-KuV6mlxqFwfVgolps5gB7CeObFsDlAvSqH1yBk5lAbQfHXQXHxU0bMM-JBoBMy_6z8YKZrm88gyS5GZWjPgtVlJdhR8aZmUrTzPiMmfi7Vy8vOIH4IKGAG0ugV9CWc7YmyH8lMiUUkClV8hDq9IDV-mv8gg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8_1XpthbwokRWDha6w59gdI.jpg",
     "address": "330 5th St, Brooklyn, NY 11215, USA",
     "phone": "(844) 841-9019",
     "website": "http://mistralny.com/",
@@ -50193,7 +50193,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "French cuisine & pizza from a brick oven in a casual, wood-accented space, plus weekend brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJyf5ENCJbwokRV4oiZ6my9w8/photos/AcnlKN2bTm7wOaSWV-QgtVrwCi7fwoQrepVPg1xxe-33hAjZ51nUqdFHmbizBK6w2nHvLx3g7Zyp9J6qJC71ZuClKCu5D_wEzWyPQwgiU9w23qN75eFNINMHoYapiGdai4EDbidSJphFKVZp-aYCCAfDGHkSJ_iOZITRpEHwxdMCkUryJ2bTg_WL34jryZu_EDEa7J9WDxwyCoHVq-RGPMY9H2296bMgS8W0HEqkLnuj5o13zYOx-gXxOLq1syv8v-kxxo5ANYhHYha5VxnKwSRMb7Jrqs5uLOgjn5P6MBswONoChg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJyf5ENCJbwokRV4oiZ6my9w8.jpg",
     "address": "1235 Prospect Ave, Brooklyn, NY 11218, USA",
     "phone": "(718) 435-0921",
     "website": "http://lepaddockbrooklyn.com/",
@@ -50227,7 +50227,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJaXguiY5bwokRP8ogac63xNs/photos/AcnlKN3ZO4spgY6r5tyrrILf7G_gTeFDlrA_2SKM9gxYkMi3JEoW3zPami7XO2ET6NgAHTQOENn3qI9UA-3-OkvjXecwKmSiJ8fd5IvLQBAFD6f-yYUzVKWULmnG6sMwhahPrFNp-L-vTJygOZMoTviqTXMDV089WJ1joEqYZwVywxe-icJX1snyBs4RbBvdIzKQkgKEB7SYUmvGf4AtGS50yadoeYPNYC84a4MH2Iy7X2PLIVpcZvaeTKETmoe5FwYwhYXrhv_bPKE9UADl3u3fazgzqz02fooeVC3V_7sXe01j5NxpV1fOiujdtFm6ZD6LdVC45zoo9DPuEU9FwQdYixmyETgmsmczSgkn9mC7yXktpqwNO_c7BeQgHp_M72LRFQntVZs2A9o1Yuq8BqT4l-aw2OM-T8GRa_YuxPx0ThXy1g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJaXguiY5bwokRP8ogac63xNs.jpg",
     "address": "493 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(855) 818-5755",
     "website": "https://www.wonder.com/order/Park-Slope",
@@ -50261,7 +50261,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Seasonal menus of classic Italian eats star at this warm, cozy restaurant with outside seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJhSDQ5-FawokRO-gFOJ3o1wI/photos/AcnlKN06Yt4ES3nOyPHvG-OSZ-4K62PoXZQu59Mwqvg8Mu268Dh_s7IW_Oa1fJE5II31WvfW0jtZJqcJQEL40ZvFVAiwEYj10bILONgnMRvje5HxdSlpypohRszNawFlFqRBU6jI63ux6oMssaNDCC_rSsof9MfCtmbXxLUAs8-BfGD88z8eiSX6R48zeNonSTtussYrgKyucAOayZRvfRbkg7qzrRvzfzNaXtM4Hfy9HsZm7HpSVRZN4g0phyhj3chcgn2gHKLO6aUGFJlmUejObQRV4-OhN4fXiSRpEgHqBRqZOhy5K0pAX5bANwgeVt4nUBKS70f-6iN5hQdnqsMhOVOEqYDE56d66LQHIrSTXq8mh5eHajwlH6IOvsYlDGQWQONgpLrMt83vGdIgjx1ZPDumPbffSc_tUwPgk5eT3K6XSNOe/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJhSDQ5-FawokRO-gFOJ3o1wI.jpg",
     "address": "1666 8th Ave, Brooklyn, NY 11215, USA",
     "phone": "(917) 909-0269",
     "website": "http://www.giovannisbrooklyneats.com/",
@@ -50295,7 +50295,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZ4ItFoVbwokRHlQHjgwVqsk/photos/AcnlKN2ZWT3vgIax4Zk0lthhgkV62dFdXqDg8WYYhDt0LXfBxqF2mO7p6311JxhL9GCpZb40nL1G1C7lWxfFDdcNLA9SoqsPz0NbekWQoJAb4EO2KnCtvSf0ePzngAJFWSftHhzjTtmu6FspY_xwlZjiacadL2978fejlqZtceT0iS54k0kQoEFjz9zAzdIzeExChdeZJQ2WkXhZY2zcLs6cegtCZqUVBxhg-UNm9ei3WCRrulfKtsuYAFT0J3QwQSuj4PXup6jszsA0aRHQM2sAZ_zoL-YZLeoB9lhphz1vMVslGw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZ4ItFoVbwokRHlQHjgwVqsk.jpg",
     "address": "788 Franklin Ave #790, Brooklyn, NY 11238, USA",
     "phone": "(718) 484-3266",
     "website": "http://ardenbk.com/",
@@ -50329,7 +50329,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Intimate neighborhood eatery providing local, seasonal Italian cuisine in a cozy, brick interior.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUwMg1OJawokRo8LuRuIah0Q/photos/AcnlKN2BGneyFerhsipFzc38JG9P98JJUmhCaJdsvmsNWqWiEUgjnlR2XmkkPjd3cMpweFkGw1kPdGb7Dn9cXu10tFoXcjLukrjk6XOZ74BT44KRS6IJ4W3kZl2yrakqjZYgJJO6ER1fjgmK3V2BZLXV-m0gOYKtd1uTlHJvJlD80fhGktzN-0mhF-GjzGKr3aTYAT3EhNIF9Nqu6uCtZk9ACBYn6rBLDs2TuARVtZxKCmeiUEVCpC5zpLobfhjew3BmAwiqLLqiIDyb6gleyemPHE0AzkqWMn2_13A1pVOfyko5EQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUwMg1OJawokRo8LuRuIah0Q.jpg",
     "address": "492 6th Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 499-2132",
     "website": "http://mariellaslope.com/",
@@ -50363,7 +50363,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJOQZiMAFbwokRmuMkGtWHahg/photos/AcnlKN0Fm0Qn9BEPcUvRkvT2tkGmOoC3BGOai_J6BO7lW1YH2_Y6JYzP5f_K3FDyLqMWCT9MqHZ0ZBudt0DDDGQX2fxIqOwxhcW93oJgZ8_KgL2ZyeD0yGXSIgXKUesRlCZMzhviwjXdt26Ld8cf8xnjcIWMRXTZWjgTzEQxznwpFZYJ6GvEdkz3s288-eEd5Gg5oA-2L99WL8fn03-aQNOmfNJA5Q5kV_nWSdHKfdWlTh7t67sLHLKP0YfaT3liGx-KeM6y3JyDbh3rk8eoR3rF2i9iB2bPImonhZssr-uEN8nq-Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJOQZiMAFbwokRmuMkGtWHahg.jpg",
     "address": "447 1st St, Brooklyn, NY 11215, USA",
     "phone": "(718) 301-0073",
     "website": "https://www.bepastany.com/",
@@ -50397,7 +50397,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Warm hangout with a patio dishing up casual global fare from tacos to pasta, plus weekend brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJxacKYONawokRjHUAXrnflcc/photos/AcnlKN0fVF7-gXFMHcdC90Miw6PEOPgL6LdHikuu2O8EU-YcVLu10y3EcuneONBVpj3JA1OleTIOdl11Pxysueee20WE8QfFiIRZ9EFkwZ0KrJ6Sg15NHcXn8NHwJcuMXT3xayd-gVgmwhKHzfgjcz712Bhw1t7aN7pfJu4-qnBuKDSyctaJ80ijj5NEZnkfH_nGqFx5rMt23GSNNAXYWypsu6Xb_-jFbyE45ZSaD5k3xaES08Ivpla6Zt2sfLV1V-vZkgdJ-6o3jKbxU3wpK_cFsGqhfzwGdqGiyAjSYSnmc50pSA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJxacKYONawokRjHUAXrnflcc.jpg",
     "address": "545 5th Ave, Brooklyn, NY 11215, USA",
     "phone": "(347) 599-1087",
     "website": "http://www.prospectbarandgrill.com/",
@@ -50431,7 +50431,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Pasta, panini & pizza paired with wines & cocktails is the formula at this mellow local hangout.",
-    "image": "https://places.googleapis.com/v1/places/ChIJv9KhN_1awokRkJuCVLjFSXs/photos/AcnlKN3zhJTaaP5TbYeOYAGDoa_gjIN8RmSsygxaLHJz4POD98buzByCaA7nNpzscJC5TzwFNTY5LsWcKFDXrDJn41d0OJxs93vh2AArjY-4qRk1r-E61wfSm3av2o5WnLolWij-HFNyMOuh1_a3G61xK---3Y8q0GK1wBDSNUtBW3OU9B90yiS-AVdD8oYAPS3nzJ0ylL6a6yGLD2CymLqLWM_FNlSxeiOSr9NWfMNVHRu61_IRIIDwpdKF0CuSN9JvVaxakXzqzbeN3TzLA9vPpx5OztV3fg-FfKNfHYXJUh9lQ_rRMEZrch62DSTlTiQ0ZdpYRVoHrvW8hJgOiFAxjrDKKN2tByZ4Et-uZoI2Dwgv_Nh9rRTKudjMzOancLoT8OGtS8bavUAoTRS6r_O_t-2GHeVh0tJyMpsL7bF0AVQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJv9KhN_1awokRkJuCVLjFSXs.jpg",
     "address": "411 11th St, Brooklyn, NY 11215, USA",
     "phone": "(718) 768-4698",
     "website": "http://www.bartoto.com/",
@@ -50465,7 +50465,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJEcjK5xxbwokRAyRzONlAnDg/photos/AcnlKN2tKv7ipUsiVTbbFJdSGOHzr-Y7x76BBcqtNXRVrL15bDVagu5TgxmzMdBU9_rH6jqZLTHtzAy5turce1xufZGMNYxH5fkrYsSxAoQVxRXwI82Je4FeUfOPwGmDF5GNEyqdtGshruIMrjt5qcC9BluY2Lsh8eMr_LW8zoBdFzDMhjUoCte8hoCgJAh2E8xcj04L6hDX7jhSB8eQKR67pFxQpH_r6SPUBcuDca66HMOfckf9RgbskJSNQu8LG7C1IVuQyYpzWqHc3vk_Z5FUktnXxU2tpSLl9P7uES3YzJGjJw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJEcjK5xxbwokRAyRzONlAnDg.jpg",
     "address": "522 3rd Ave, Brooklyn, NY 11215, USA",
     "phone": "(718) 550-3553",
     "website": "http://www.socialcues.com/",
@@ -50499,7 +50499,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJhfCnIC9bwokRHWScDWwdeCQ/photos/AcnlKN1rAQ_tvYGfBzdNEd8bhzY6YNf7t4SqPYqYIWn0eO9z1XN2HYSFn6ipkFuE_HXmSV-uSa0tAtdpZ7tw6C2w1nr8tYyIqkJUxRAim0aemhZGtha8XCh6f12PhhsvfRNeFXkuvSqJiSIHzC_uNWc1ZDJMjfOVR20ro2UWt_A6huSJKHvpQ9KS9ec0QPdMl5hLtEK27my1mm0_k5tdL2PJI-zrqa9ZORnl5VBy9ogxWZGBusMb1sbZ641MGASR7Lb1jdBJfgJ5K3GBA_M4NdmDk7e74PsUIsDxua8eXk9OaE9onC_ki4f3x2AKnb_eP7I9ZXzsO9Z-75DhNTJLDzSfpKEAjFBB3aTkkMwRRiA9RUr7NJCaLL5FJ8j6fqEPFh8_t1_LL-T6FlugRE-SlHnRI_Hc8dtpNT7KuPGhsecwxdQBOopZ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJhfCnIC9bwokRHWScDWwdeCQ.jpg",
     "address": "250 Ashland Pl, Brooklyn, NY 11217, USA",
     "phone": "(718) 673-6740",
     "website": "https://fultonhall.com/",
@@ -50533,7 +50533,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJfYC2RJdbwokR18yINmuU_Q4/photos/AcnlKN28mC9OEu6kr_ebOw43uuDKLRFdC9L0WPfgt9iDgFgRwIAoBU8UAj-clVfe2hearIoM-aXwyrR9K0OOq1cs888vQIz1YtE40onfNteIKtzmQHlSwCW0AVrneRHiXEgaqTUVIPaDSaoK1C9grDKoaNAJvHQnjgtFio6444Wwip7fi-9VKPWtgai5STIfe5yNxrpCFh2mzzdP-ct_D3W7q0YxqGAo2wX9QkRFDrSEvpLLZcvgfk94P3k1FqQbeSFJwt9zchuyfFgHVHHaUqD3izyoPoQmKpGhYhOJl9OJb_PzmQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJfYC2RJdbwokR18yINmuU_Q4.jpg",
     "address": "737 Fulton St, Brooklyn, NY 11217, USA",
     "phone": "(718) 360-9553",
     "website": "https://www.fritznyc.com/",
@@ -50567,7 +50567,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Relaxed pub serving burgers, fried bites, tacos & wings, plus margaritas, cocktails & draft beer.",
-    "image": "https://places.googleapis.com/v1/places/ChIJdfVkBtNbwokRuI-mVI3_ZcU/photos/AcnlKN167gyIz5s8yQDLa6tGPo1R9Arl6P4sqzhkk5zJ1j4hilD1_BdM3_84jGUSSPFZyRzkCDfJvdNC6z0V8PsOeObRk-qsZqHQyqFZPW5BaJ26Nhhsj8wZe8Ya6-xq5kcQ1o4L_q9Y98zh4sUeZv3xI0yxA1WO8qz0whBRv_nRyLpnDNHcNGs5cogzzJZQavRZkOPSjYCk7uXY0N93iE695BRzue-FdFbmxrtZKSd6psV8Z6pdo0J-BVeaIpBfAI4N9r1l_c28iGgIWpjxO8feRrseJzeYJR1tyRmeNQF5OD4DsA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJdfVkBtNbwokRuI-mVI3_ZcU.png",
     "address": "71 Lafayette Ave, Brooklyn, NY 11217, USA",
     "phone": "(347) 763-0024",
     "website": "https://fancyfreebk.com/",
@@ -50601,7 +50601,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Vintage-looking saloon with a large draft beer selection & an expansive menu of bar bites.",
-    "image": "https://places.googleapis.com/v1/places/ChIJT2yDkblbwokRF8WHI6PUQ3M/photos/AcnlKN1pV-VNPiX6bQBmisNgAGwbVCYHayG11tvfiuUQMU9hOVI-myUWEZGHWv2fI_yaql2JnjZmnAjr3vSnnp1yZH3G7NL4sCA397InRFEMVofpuZA7-ul9OVVHxz6M9fteG7CNXXCbGDMuHdiyzE-Ik9L4z-JLobTkrmT05Ikr51aNrDOcJFA8bzeIDhm967BYY_Uqyb383TNBE0AvLe5-i1rldTe8EGWXiFLh0iqDXKO5oRBy6-XPd6I5r20tcMnbbuBmq5LZJT1JcSpUeFfkrGJ6EdUHHLkVHPhRyhHL_0IFlA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJT2yDkblbwokRF8WHI6PUQ3M.jpg",
     "address": "247 DeKalb Ave, Brooklyn, NY 11205, USA",
     "phone": "(347) 227-8976",
     "website": "http://www.brooklynpublic.com/",
@@ -50635,7 +50635,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Bar serving cocktails, local beers & elevated bar bites in an industrial-chic setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJd6KDvbNbwokRMPqS-Bw2_h8/photos/AcnlKN1xyj-PQJiKWqHTZC77ze7bNTbMIb8lZ4iXw7f2CI-JLiY57GEnMBKcFY-Ib4l22qn0OmNs0fwTRxAwQxNDaV0jEI_mipOacdPgyrKqOosB85s0DeKYKct7Xf30mBqt_pWBxWVlobXajpH2ES1eK7LPY_fcjun0tjffBeM-FNIGtLfD-roMQlBGgMQtndUMVQiansYjxhCv26Ga0KaqnPUboWD1Goa2pMwyQW3n96Vz9-vafstFgR4A5Mwwqenle4sbtz6b5hhCfOHXEAF0DOGc6NH_G3jdQV3CVU9a2P1K4A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJd6KDvbNbwokRMPqS-Bw2_h8.jpg",
     "address": "31 Rockwell Pl, Brooklyn, NY 11217, USA",
     "phone": "(917) 909-1093",
     "website": "http://therockwellplace.com/",
@@ -50669,7 +50669,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Hip haunt with an all-vegan menu of Mexican plates & sweet treats plus cocktails & craft beer.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ5bk_nwVbwokR80FBMQFhoVI/photos/AcnlKN0bTiItQslHJpLuoE0moVS7l9mbn-7gA_Uj6Hn74Bt3vOcb7KYVfs_cYx1lYMtgMzhDWONFNlc4PvEmI73zd_4tU_lmDHtNFNvgRr06wVlitJ4kEX6QGnyywCmrHVbdt6FoDt5Gp1hvPa6yo4yR2_0bcSaPhPP1PZxR5r60OVqDtQUVYcfSyMJVYx4wCnBF2XRF6jqFyPyndIFd6_jbmVcTPZCoj2r_7qk8rY1KMc5g1EskCTHPfcaY74Edw2VSac5ZDq4Xcy9qneNywsv2y8bwGsW2ea9regxP2UzTlTDoLw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ5bk_nwVbwokR80FBMQFhoVI.jpg",
     "address": "214 Greene Ave, Brooklyn, NY 11238, USA",
     "phone": "(347) 370-9021",
     "website": "http://www.izzyrosebk.com/",
@@ -50703,7 +50703,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Indoor/outdoor Fort Greene beer garden offering German brews plus snacks like pretzels & wursts.",
-    "image": "https://places.googleapis.com/v1/places/ChIJI4AtSLBbwokRpSVQllKKCZo/photos/AcnlKN34toLCSxe7ohNToe4uJRD7oByggSskaGxG7PuKeUz6QSuwhSIDimDMUWcELGonFPRD29g45CNvIJOnBVFPK5dasiLnxMPZtAqpXn9Z2U9xWvrdhDR04apX5tNmtq-IlyWghq27pFoXh_i4HY4FvVBjaAlC121TPop5HE4MaCS7Po5yJ4zmSxFP-tngdrsrA-RiTN-Db-Li2BGNNFTadIPbCEb3Udk1fENoN1EkgW2iAWp7E2g1jc7CTCq3P2x7qw6WWrMehASeNuhAlBRWsoZYrgf73LI4X9oT7Vi_siS4WA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJI4AtSLBbwokRpSVQllKKCZo.png",
     "address": "710 Fulton St, Brooklyn, NY 11217, USA",
     "phone": "(347) 841-4495",
     "website": "http://dsk-brooklyn.com/",
@@ -50737,7 +50737,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Trendy indoor beer garden serving a menu of German food & beers at wooden tables.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8WoPpbFbwokRIzqmB9MYQm4/photos/AcnlKN3xL3gzK68L31U0-t1gzIm5GQYFvfi68iApa4bmUvVg0xB3nk3hPCPPAfXjUkoF0ju1_M9Gvi63Ha_doszkxylhFLJzYM2W_YmWtdpIbsJRmtw2vSyJ3SJNrxtftqaIv7ZPgTTYLBX52dsApc3smv0LF7fkUE_BZDwhiD2WLXLp_7CUTX28Yq6mElFayY49BDKbQ1RlcTyhj2bSk3e5iE8-LMe4f349oSlfPZyDUhS5M86Q1JTkpcSWljswFEgBKAqSsXEX3y0ykfaYdgX2QbeRADN8YClk-WgT6P9G6sU9bg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8WoPpbFbwokRIzqmB9MYQm4.jpg",
     "address": "733 Fulton St, Brooklyn, NY 11217, USA",
     "phone": "(718) 935-0300",
     "website": "http://www.blackforestbrooklyn.com/",
@@ -50771,7 +50771,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Hipster-friendly American eatery in Fort Greene, spun off from the Williamsburg original.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8ccnM7dbwokRy-pTMsdgvS4/photos/AcnlKN2RQ-eNpU88fj9pVhCbEyHoMfGEq851tPZ_VsdGjmF-Bs_37PD-lHrd_3hdFB4Jaif7qDEMYDAK-9gP2wFP_IYSc2Xxa0Gxclh7fKFKkG6EQ68aoozKS5TbwNgKFlycL8ewAcF-8yWDhH7QEcNiQh-taW3LdtHGTgUutvdxwNvQTthFAryiGSsAbBWJV_nlHvbAtlCl1RPTmrfa6gi3UbsepqFZEe9oSDVTCH0pME4uX6DIxW9KWWUpFgi1n_b4Xv-KAm0cPasMQdt1ZjlhAsHrtVGgESmT5dZ_B9O-TsQBEw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8ccnM7dbwokRy-pTMsdgvS4.png",
     "address": "166 DeKalb Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 488-7800",
     "website": "http://waltersbrooklyn.com/",
@@ -50805,7 +50805,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Inventive cocktails & French-inspired classics, plus small plates & brunch, served in a chic bistro.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuTSwVxtbwokRxX91cgjuTEg/photos/AcnlKN3l-JO4vEv-ZOusal0pI2wtaiPNpvsyx-lELm8eMsm5681K_EcYp5Q5yq46MEiYbTVs3MUCQDiMCGqNy9dEM83Z8UUFiaboFhsHqAoKW5I5MHaYfByP2O03zwHmgTM6yXtD-xbw0SgtvluGNBomIEVxM3zdfcZzlk6RFoPyhPwTQlgO6lrqqcu5kSXo1nP5cl4NJfPKMMn4j4d80f7QcE6s-3vV8z8xZpZhelO_y4bdziRA5CJFWiR40VsYFK46h4dvAfCXUX1pP6Z1Y9PIviW0lwJmdqlIPAjgbSytjzuJ7w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuTSwVxtbwokRxX91cgjuTEg.jpg",
     "address": "773 Fulton St, Brooklyn, NY 11217, USA",
     "phone": "(929) 276-3150",
     "website": "https://endswellbk.com/",
@@ -50839,7 +50839,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Urban hideaway offering seasonal cocktails, wine & beer in a relaxed, intimate atmosphere.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXzIEmbtbwokR6TOSZYne8UI/photos/AcnlKN1jfKuxNJJPyW1yYTVr92V4uSP5iYGmJMWu7v1ydEschh-libHuSxJeHzE5UXRb9kmuK2ORa0e9nK1VRezgkDfTDrNrMN0kEUI6fpIj7eFLUIOtt7YjzgGNpjFID3Wdo8zRAI4ULvRTbklCS2mloxeFNl1kY-DH5SjNbUi31ZK2RcC-UudAkxEhNbWD5SqN625USOEyJG6uomVIko6MSfxGIYBk0Bv_KVKwAtm5rNFI2TF2OBPlfwHVIaTXNAvPT2IJOsOA5R1uCpkXUYZCGu1MIQGsrTNiL0wsgErYFE0InFFk7B4YBBMNM2zcFupKA3fK75sqK15e74wjrLLr4taX4bcExZWi6RKMYUPoudcp7YBmsKEOh_4gU0uFbmE33zDPESpJfnv_AoYDEf3we3kNxzIvpMUvBWtZZeB-JK0/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXzIEmbtbwokR6TOSZYne8UI.jpg",
     "address": "132 Greene Ave, Brooklyn, NY 11238, USA",
     "phone": "(718) 576-3584",
     "website": "https://www.aitaclintonhill.com/mayflower",
@@ -50873,7 +50873,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Casual recipes with Jamaican flair whipped up in a relaxed spot with a colorful bar.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_W7cGPtbwokRXxTMC6MOvHA/photos/AcnlKN21Zol-BWSJd98Q6H0h7CmN0Ml6Xbpt7EhlPN-638n0j-hGpjKp43aPhEYvbzlORMpYk7lchUvz5DBB-77L3Q_rD1Ibb94act9A06oVGu3XJGGTTRPByFv8cae7TlKfGR9pRDsvEGz92XzIuiM59VJfxlvKrVlp7c9wuwsHEO3EkBx0Vn7DGwi4ARgyyQFz-tD1SjIeSS11GC0qU2RXJXXEkVLZj_GYBgL9wZs_V48gWp96rxMYvtqjg6EUODv0yuu_5VZecFHpkgwZBVSrwxhAXiRuo6a9Hs9Obf4We29yeg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_W7cGPtbwokRXxTMC6MOvHA.jpg",
     "address": "673 Atlantic Ave, Brooklyn, NY 11217, USA",
     "phone": "(347) 763-2711",
     "website": "https://www.thesimpsonrestaurantbk.com/",
@@ -50907,7 +50907,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Mediterranean and Italian locale serving pastas, small plates, and wood-fired dishes, plus cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzae3_LlbwokR6ts6PCZ3agM/photos/AcnlKN3igRUucPjsQ6ddjt-WbE04WttLEOp0JCyVGMvq37AEpq6Yp3RzEVkJTD_IYhSN-ls1rzBS_VF2yRZJQW0abFvSFNeN9joXUAHD_gDXr4Bq00NnKGW31xXis-xRjvfc4x9Z1g0lrcp48u4sVECEa0a0vYapwukKwbGW1-u12c0cN4M9F7yaNwUdRaWD8zZMJYsbWThGFdhYCF8GmvkUyK9RUsWEbDmMUbL5WFLfjeuyVUasy0nfaxW9nUjpo7tanM9dMZxpqldvDmrs2LvlKagSZ0-yaA47SsbZ5uPid7Objw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzae3_LlbwokR6ts6PCZ3agM.jpg",
     "address": "211 DeKalb Ave, Brooklyn, NY 11205, USA",
     "phone": "(929) 298-0209",
     "website": "http://www.evelinabk.com/",
@@ -50941,7 +50941,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJT0Pe_qJbwokR6Ql0YY5qF8I/photos/AcnlKN0Zq-fPK74Kv36MsfnW6fwalsvHzGZA5MIwcQwsVIzd2x_vo8tyAUNwJQozAtOBemtKQxJVRW-pWDB72Lug2kI_1er8zTcB3WabRXZMBNlQM0L035zdHwp14Otwg6T1vPvP-N9lFqZiGDylRw-tEkDa6CgGZmoEgDaHlYI6U-qmDslQloRWSMa7-Yi-MF33RdkM18pn1dmCARSciu6Q916HoArAlGk1lXQiGzWXsynLKejIZmt06aoAcegTNZmtkOOB4u_IHMGMeL4bnCDAAEINEO-pX3pjLHmCoH0wBSzkzA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJT0Pe_qJbwokR6Ql0YY5qF8I.jpg",
     "address": "360 Myrtle Ave, Brooklyn, NY 11205, USA",
     "phone": "(929) 545-1324",
     "website": "https://third-falcon.com/",
@@ -50975,7 +50975,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Mediterranean eatery serving creative tapas, brunch & sangria in a bohemian, plant-filled space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJC3VecrpbwokRLNJIz-9s4VQ/photos/AcnlKN38BdOqKSAh89UzV7NFw8atZBXgiRdkEEwTJ6rjOoQ8yFQj9vtrHtP08rH6Ynoow2Ie9IDDRdItWBTixL_SjjCViEMHExiZPnK-EvCSNgzDRjeRhhvkhkUxnotgSWvpuKdQwkBZGAguFBAg9LB7Xaosi-iEKlY0lG-CEzYoUyIdiu66rUQJa9X0p9VogkHzmBj3IN9em7FxEA9Wymft96YOU7oWx_ZzMyEpcVVeM0L6VGZJ_S3ksLURuVe_mWP4engq60mPE0F555KhOBYiaA2kMRgmqvnfNeGIH0PLp2HCrOAhg0DJeVAzxwRJY3uTNUTSc1rGFuYRgc6I9ffF5z-R1tUpa5KzAN8kkvQ-f65isNei8oGyeEil0PRlm32PZrFbFj7xXjbryD3sgJn6Lxu1b7_7LxtyznJ3fSwv2SUhv-QVNgNvs8yVvkA-DQkB/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJC3VecrpbwokRLNJIz-9s4VQ.jpg",
     "address": "171 Lafayette Ave, Brooklyn, NY 11238, USA",
     "phone": "(718) 643-7003",
     "website": "http://www.oleabrooklyn.com/",
@@ -51009,7 +51009,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Beaded curtains and exotic prints work well with the Middle Eastern menu served at this corner spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJFWiC8blbwokRDzOGQVtbEm4/photos/AcnlKN2PO1PLFF9hxacHMcJRwWCnmX5Tu37wjF7ob40witgAX8sclN8s1zlk0duGGVjsMJgGarLgZx5md6pmXQ8vkYTvDcoABqZWomlx6Ghb3BZVGYaJku8f8mTanK0ZPD1wHkAVDrrjCYtlkQTp5nMb0X0inOQq6nVDz75XCzmu3lZ26_vTXim489WgPk4f-3OKygeewocFNKZmPHCjlgwkoyhV2aiBAjhFc8Xs4VFlu8IwbfgJYHmmKrRPLp9Oc7l4oNqLX3LBjlAWY7ywmE-kbga4KMZsmURyoK610hx-nAr5Yw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJFWiC8blbwokRDzOGQVtbEm4.jpg",
     "address": "120 Lafayette Ave, Brooklyn, NY 11238, USA",
     "phone": "(718) 852-9800",
     "website": "http://blackirisny.com/",
@@ -51043,7 +51043,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJo8ltIwBbwokRnpjtIPOzZ2Q/photos/AcnlKN0bEFIeNCG4mDLNpP-d3lKwOREsQ-GNZWwcOeh_WyZBV2583w5nEzPGttT1GyqutRtBo9yrSxQg9-WuIbNzLuY7gFg3boAO5Bqor70coBG8KQJ8eT2X_cvm8Vi0Ti0dZXtEg3WZIKvKHLu6BrwG2924wD5lvo8PwbtmcUghFgk5a-Q_AxFw46nNTBX2AvO73hZB5ys91xAivzclPtyNDsKwEkqgg14qqIF0j3bOGZuhG1gah_yblRRKUf_7yxlyEH6eQIhLWoDRCWK2a3dSICxt9dNtZOJNqLF5YgWwA8H6cg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJo8ltIwBbwokRnpjtIPOzZ2Q.jpg",
     "address": "723 Fulton St, Brooklyn, NY 11217, USA",
     "phone": "(347) 494-1999",
     "website": "http://www.sukhnyc.com/",
@@ -51077,7 +51077,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Warm Italian joint making pizza, pasta & risotto, plus fritto misto, burrata salad & oysters.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHdU65Z5bwokRSOKahsjTfqw/photos/AcnlKN2rbMIh2ckoNx_yaiPjiKLOziVjyk1rTqAutvR-0amKyPZO2Uf_ceKeISmMuXEBHLGj7z-vD9zqx0JvJXj65gzzEZRsaGTpRGAhdI7WfeZonSQV_Zgw7LIL3CBzuFJD7HdWaHe8M_zOE0mx3oM2X2a18i8_gHlZfUwv1YFcPyVCjuchTsdYJP8DJFW0QfF5GgyOhAjNhkNO9ls-v5nET0-6NOtpUjHVM7YENHYfD4NzCFCsVCpEZSyCcZBHDjPGNaLWb-KVTGRnXiHtlKA-PKFDifcoa0k_3zHzgt7lLqh86g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHdU65Z5bwokRSOKahsjTfqw.jpg",
     "address": "458 Myrtle Ave, Brooklyn, NY 11205, USA",
     "phone": "(646) 750-9156",
     "website": "https://www.osteriabrooklyn.com/",
@@ -51111,7 +51111,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGfdZtJdbwokREUPcjASYSr4/photos/AcnlKN0H_718__uLbbWx5qWnIY1hiwVYkQqzTO5n-Q8zk0cT0XQQRHxDYXQqCb-M4xdfr3oBOm2CxAnC-izhn5IyuqhmoQedEhSSu1YBBS0YRUrpt4wTOBsElzWpPaDlvVAuVAlABpdoscULB-u5DRDCc90flUhjBpkBoc8PL8h9dVTVA8ro2nBjFod2Dn8D3gJv_PJq3ppDNqDMZkiwnT9O79GE9hOBP8YkuWaqOz8MWiZjstgkVYcV7PPMNWrExqjEplJA16g4CqBn_fU_h0JFjWWBo_nIRMiy-lesgURXmrxs-Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGfdZtJdbwokREUPcjASYSr4.jpg",
     "address": "330 Myrtle Ave, Brooklyn, NY 11205, USA",
     "phone": "(347) 987-4100",
     "website": "https://www.glinthaibistro.com/",
@@ -51145,7 +51145,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Latin American cooking by the Cómodo team in an airy, rustic space with a greenhouselike back room.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrXze-rlbwokRl3G4x1txJgk/photos/AcnlKN0fMbS7LjW4PamzjsSe5jYTwo1DixV8q7x8oSBLio6ov0H7Wt1ra4cTtxiFWF9f93bM_MbnqlQCvejMbv3ckbxk4qGT5x9zcu_x9jRBqNpjQm3E6XlXN1Fon4PB03TmWbgODS3MRUncZgyI56ojD_clq2-HWzAg9BncgysYYnBtskxaZTRl-DwLOzxljXKamgI5-bM8rqC9ptORTdD9EWnq208xk0fOU7t8zOq9uwjagT7wxFihEJ5O4MTFhhiAWfGr4pJjiqg7miKF2qfLDQ7JATNU7OVVPmiZGEiFWHkEqQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrXze-rlbwokRl3G4x1txJgk.jpg",
     "address": "219 DeKalb Ave, Brooklyn, NY 11205, USA",
     "phone": "(347) 689-4287",
     "website": "https://www.coloniaverdenyc.com/",
@@ -51179,7 +51179,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "This order-at-the-counter outdoor eatery serves Mexican-Cuban fare but closes in the winter.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAywos7FbwokRmApnRqaSa9Q/photos/AcnlKN0t1EKy1LMC_xyut2VFJrlHv3FgwqycyPCmqFdcbx3S_bmbWdOxpNhoVE_3NyFA59LLP3NYiPqS_5rjnOpHjYPHrktrlcqCKuTl4q-fCaFGiRqI2IARba9BHcBNC6mTne01UHQY-k13_WbKQyzPEkwnI2vXLLZFsiQGAPnORXJim3gny6KSh0-hIPY-IsHbi3mvsmzUMcGoRGdFB7S4hbOshMrt4xXb7WTQlGwLkxwzPgL2yWAzeNNFF_75mSGANNh1wNN_fywkDir26D7Y-UQVsMgRcHo-Vp1wwv9naK0/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAywos7FbwokRmApnRqaSa9Q.jpg",
     "address": "757 Fulton St, Brooklyn, NY 11217, USA",
     "phone": "(718) 858-9500",
     "website": "http://habanaoutpost.com/",
@@ -51213,7 +51213,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJye7jZBbwokRtioAck7uEIg/photos/AcnlKN24gDIaWdQQ6lrIM1S1qbRtd9f4vuebBGuVj0-5reRxDRzQ9V_x0DQm4bqSCMB4n6-Gyc1iIeCQAmajW09iGuJNce2N52a806_ehkyjbMyhh5tHwdfxVsA6kMcqvh_wTDF23vN-wcyXXZu0JZ_c_efSTv1-wPd6JmQcuCmBbX7vaUwKLk3lRVpv8VrxwFBWYW2OznVBDkMpoJHOBVQq1TtEqY1M8cunjsuVpx6WGTizzeGMK1G2yuqtcSDzZohY7GS4uhhq-SkIc9GKpvLRPkQAlS7dFTdKM_jOYlf7QyW6nFIHNvS0H00PU-JtTN1Zarr2d_2I-rl1c8haaIFsKQYp9yeSFL3gx95HkJmS6YCU4X_te2R5rWSlobjlXFwbmwCYNyXtIDUIcZ3OGvVJ3diLtHhiJ8iLSodSWRE1Q-vzQ5aT/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJye7jZBbwokRtioAck7uEIg.jpg",
     "address": "7 Greene Ave, Brooklyn, NY 11238, USA",
     "phone": "(929) 692-6360",
     "website": "https://www.theodoranyc.com/",
@@ -51247,7 +51247,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ43dNliVbwokR-PyxKlkJOXc/photos/AcnlKN18aDHNmzFFY1Ewu6ec1ykYtFIZfqR-54Jy5N0FKpC0R5HDtSLy40ivkqhpvjVAwb888smU2evnkB_6wHfHar8SgMmOMfSPGGeL9JrhZmUL6mdRIGK2TGniYULPICdrFHZq6i0zwr6ZnOqsyab1KfYKiWc7n7rhsNAc2UuIC99Aq7MtnHda0Qcr3pKEwzEa0qymdfZZIChuAbpLOqRK7vu3A3DLe48qnOU5rKC21Tz51-oCcs6od3EbS2lrW_nd-KjRg7hsViMbti4XD94kao3NREgea7deW8vStCL59YfB0w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ43dNliVbwokR-PyxKlkJOXc.jpg",
     "address": "271 Adelphi St, Brooklyn, NY 11205, USA",
     "phone": "(929) 788-5078",
     "website": "http://www.themangobay.com/",
@@ -51281,7 +51281,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Trendy wine bar with rustic-chic decor, serving carefully sourced wines & small plates.",
-    "image": "https://places.googleapis.com/v1/places/ChIJtx7ymGVbwokRzDZBJ8NVJz0/photos/AcnlKN2TMJp1vVukeWlZ8Q8mvklcHZDdRCfMd5mwjMi-KMX6fdiyfT1fkjQSZ4ag5g_it05EKHWm3ljB0bj3nsJYZkH0CEKsD5qE_ROfyxro28JmmMz8eK7trcEGs8oeXOauF4dHB_tUlyE1hAg91vxH4Z13XWzsZba7kU4A9Y-0vWb8NAhnYQOiBpF3qd69IYD3cohjliV4cm80eHM6GjWzzlm2lH5bPGZ4w0rtEs7f92d9Yn60R6ZZsL6lXeduFuKl86d7dm3U-exkT_oLmots5mnimPgaXDKz65PPKzs7GDo_gA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJtx7ymGVbwokRzDZBJ8NVJz0.jpg",
     "address": "212 Greene Ave, Brooklyn, NY 11238, USA",
     "phone": "(718) 857-0101",
     "website": "http://www.pdfnyc.com/",
@@ -51315,7 +51315,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Modern Italian tavern with a charming patio, serving traditional handmade pastas, cocktails, and wine.",
-    "image": "https://places.googleapis.com/v1/places/ChIJweAtELhbwokRO1AexCvuRo0/photos/AcnlKN34-ZX7WiEw9wAi2wKLyk0a0kTeJMl_Iq9MRegW6--P-kSYwcS7eEdfJuu9aDQNFCNgirBFy9D9DX7aZtSJRJSxO-t3pPIYEZAmKwdkIyMlULm0miC4chQZAqXnEP4URJsLkkOhbbPvu5e7MKWhfoZUtHOseqkYpoXDVvBXpdti_sn0RFWzAVxBPJU4ZkQJib-yFSKp9ifFhqg514hv9pwwnPoauoiKSiXyrsBuWfzuyhC15L2_oofA7ortFG4w2jIbdsD0aytCTQChRImyIVYmZppaG5pUjjDzmV91JW7BoA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJweAtELhbwokRO1AexCvuRo0.jpg",
     "address": "387 Myrtle Ave, Brooklyn, NY 11205, USA",
     "phone": "(718) 852-0001",
     "website": "http://larinabk.com/",
@@ -51349,7 +51349,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4RYFNeZbwokRtP9MHoqRFVs/photos/AcnlKN18QkcVsg4ZyUGljKcacXHSk-92Opi2QhGoMo7uF3oSEJA72aGUsAGGl7UzgnuMcUhDtLaoS__ft26hhWPL4ZXGKQaQT7NknR8K8vXjpL_BJ5Vcl7qzr0ol0Pssyrxd1R86tM09vgdBJNbYJz6yWLjlQkOgVmES1uyU4rGzMoSS7D1oZb4bTfMumewEwS8-Q3ZXTMIskPoaz2Obkq5LMbSI0VGpNyZWT88JAVrMJixh9zh5ygKB7IME2xRywgnjZrv5thWGcX3tMghGE9Mmaq5gNBwqksSfx_FfAf4JH6fCAqpkEhxO70obgZOJE_9E8QCYfrddz7NPwNmaxxH75wXkwbeYXYP9b-uSPRX9yXCkT-lJ4Eb5vf5dj9Dn1yFLtpZlzfLWQY71uA1rKeDGlfqdXZ4owOlYYX3q4P25zyZiGZyj/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4RYFNeZbwokRtP9MHoqRFVs.jpg",
     "address": "590 Fulton St, Brooklyn, NY 11217, USA",
     "phone": "(718) 673-6014",
     "website": "https://www.bcrestaurantgroup.com/",
@@ -51383,7 +51383,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ13hAGrRbwokREZTNPWZXg14/photos/AcnlKN2zGwk300UswbfRSz-q-ZS_PFgobVaypYnYKK3NAkFKIiY0hd_SdX4zKikFTBbbcIqxa-GM8V96WUy2ZZZiIiJTl8uJUBtS0aQBpjtQv6XcVGVaFItk42EH4BDm7Vn5htzdUnzkKNPSTqvnAhAD1z2RpWeSPJ0KSJpvaFxRzrX-8Hk7MoSwhjdWCpbk0_6tA4c2K-V0Sk6VPVWCIJo-EVcMfTeic7u80B6Up1DICqmf1H94m2fkhU_cOWgtVTP9r-qtLqT8bUJsTIBw_L0FU6im7rgG6gknmkD5sB44_v5r3A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ13hAGrRbwokREZTNPWZXg14.jpg",
     "address": "983 Fulton St, Brooklyn, NY 11238, USA",
     "phone": "(917) 300-8642",
     "website": "http://casanaranyc.com/",
@@ -51417,7 +51417,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Tasting room at Kings County Distillery for whiskeys & cocktails, plus morning coffee & light fare.",
-    "image": "https://places.googleapis.com/v1/places/ChIJP0IIestbwokRWukzb09d5WM/photos/AcnlKN286aS2eb_jY8h93Rnfela4Mr5ei_glJj1OuV2nbyHbcEsw8agqRM8RIX6efZ2WfCdyCf8J2-tM7o6UM1wHjvcUKXUSHd1L-IS0_UrlaViAP_KFEwnHBN70-wUD3TqAhE2pb6XesFV79mwMI_vcf9tZL1n8ezIjjJbrvnWC-LUZQp-cBNRkKx8_CzcEHH5oD3pn_LXfLnWVXpriLTlgnv1Bnw2iU6NAziXibUEC-SkNs3sf9irbUfaiu4SNG2sqcYweFBJJcLoS5s9fhlR7VoMkJqnWe6FqWwX6k_vqZzCRuw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJP0IIestbwokRWukzb09d5WM.jpg",
     "address": "Kings County Distillery, 299 Sands St, Brooklyn, NY 11205, USA",
     "phone": "(347) 689-4180",
     "website": "https://www.kingscountydistillery.com/the-gatehouses",
@@ -51451,7 +51451,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Relaxed gastropub with extensive selections of upscale pub grub, entrees & local craft brews.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeXCwerhbwokRtUOhu4zzZzs/photos/AcnlKN184VxsDpbQwTyNmoXoTaninZQtdi4swtCiIzGWWYLEuKaw4WJpJEE7ZHNMHYCyw7MjSMw_NnHWksEvrWdrt-oFnrKK0hwN026HNX3gTZ6nCQysLWQMY1zJRFrXPKdCq1pXncIXmnUYz_g3BnkQWwtvlK8aebiWXEZCp1cDgKVGqFealiHTAnsUzpuG1dnuZen7BkJ8RyphA4XizUbcD9bWne3uwIDfU7WLFIFMeiZ-tPL-_M5IadWxFoxdl3RYI9ozkh2i7lWcPB49rhJpRSjCmxebEo5a62sqjVcFiFSBig/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeXCwerhbwokRtUOhu4zzZzs.jpg",
     "address": "419 Myrtle Ave, Brooklyn, NY 11205, USA",
     "phone": "(347) 799-2382",
     "website": "http://www.putnamspub.com/",
@@ -51487,7 +51487,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Rolling, tree-filled park with playgrounds & tennis courts, plus a weekly market & other activities.",
-    "image": "https://places.googleapis.com/v1/places/ChIJvf6v7bZbwokRUO0-u24i73g/photos/AcnlKN3M25DfnI84ZLEemuARKWNJsfd5ViCHcl4oKy9nh3cQuAA5RISF2cl5gz6-PjMZY9629P-QMVI00brEPsK2ShI9peRRRTkcwxRMwkIjde-G7sdwaeeeJN0rINm3Lov7KJF4zlTzPQRJGCG_H4BMVkVmmIGGuhrVg4t2eAgdO6X7WZ5yKHXTOSu2SlwN5DUMTMbDfewr7igT941qixAsR5MbU2yVFLukbo0jvBivqVPv1FK13T0LWErDxfH0LiLVwjn_y4jzMNWlDyCk7MDeg91_f2vAATuEt_G_WmoZn4jFIpU36ppTU4tScOqoRVh53IVxhdF3yU8qn7_NhjamWmC19YubZzNU3MO46weFC1i9rhhip3mjFV9JstVJwL4Ff5VQZmX1QbzoT8jkTHMdgTlXxdLDog9tf3zC3CRDgLqusg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJvf6v7bZbwokRUO0-u24i73g.jpg",
     "address": "Dekalb Avenue &, S Portland Ave, Brooklyn, NY 11205, USA",
     "phone": "(212) 639-9675",
     "website": "http://www.fortgreenepark.org/",
@@ -51521,7 +51521,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "French cafe fare & organic wines offered in a charming, cozy interior with red leather banquettes.",
-    "image": "https://places.googleapis.com/v1/places/ChIJb66wS7FbwokRMP1hjOmk31o/photos/AcnlKN34pREB2c56Pwx0Nu-_WnvXqCsW31fjfcqaittg3IxuoXEdeCaTWQI0DvYY-F2o-yEcgZZ71tmmPeaNvxfvwTvhELaKJyUOAxBZ2QPC351ebUsDUQ3SLAAe97wb9UtYMJKxnArHLtBbA0jdIk7hfyf-YtCaHya9YweOcd2M2G7wrShT5AoKNky8cDy_9EeeXkq5P5s6oFgw51sA67qB5ElxjWS3uiVr1KdqqduOacY1JbyPWX8Ed62FBb0UZtKYG6jofzJ_BevMk1xHNM8TslXjfCddxdIB5Iu_o-IW5o80dg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJb66wS7FbwokRMP1hjOmk31o.jpg",
     "address": "1 S Elliott Pl, Brooklyn, NY 11217, USA",
     "phone": "(718) 852-8582",
     "website": "http://cafepaulette.com/",
@@ -51555,7 +51555,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Carefully sourced Southern fare & cocktails dished amid Americana touches & TVs airing old Westerns.",
-    "image": "https://places.googleapis.com/v1/places/ChIJm3pogb5bwokRd-Uxh4j7qQk/photos/AcnlKN3i0HnsVCJ-HykmVG4Tk7CMlld_Tm6aoByH_IIrQEe_nLARELXs3XKZ1_v3qK42AJzlI9zaUAFSa2pCPv30vFk9a6vY9TjKUmUmjuOBs_0FfJz946sbMXDctj6ZdIHMgU_kFswIitQL100Jq-PJsCIMo_1gkM4jSYXEsfkwSDvyfe10wcfI04w2cz_YETw7ZJyF8XkvMt3MMYYvJEmUC9c9vQE7IGRdmWqe_sj4afaN_FdwLkcOB01EJhKtUqOqBBppSZ7nVwPpcZrdKe8evjxCAMQ9ayi5_dudUWOJKYBArwgwHoAyAAXL6DKhsb1DJmNHOzJLZ0xY-UIXQ1UBLNuLBsH61EuBrfA_cj7Zd-ZC9JvTFn-1TKAJIPeUUC359r77Qom2WNoDrMZ4YB2al28ZAnl5_23_xizL8_cQK-jNLw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJm3pogb5bwokRd-Uxh4j7qQk.jpg",
     "address": "285 Grand Ave, Brooklyn, NY 11238, USA",
     "phone": "(718) 638-9500",
     "website": "https://www.bcrestaurantgroup.com/location/peaches-grand/",
@@ -51589,7 +51589,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Unadorned Japanese restaurant specializing in burgers, plus rice bowls & miso soup.",
-    "image": "https://places.googleapis.com/v1/places/ChIJt0CfzNRbwokR3KwxGGcWXCM/photos/AcnlKN001Oa6CILRJ5Fzw6LO8p7rr5WATGO1a_l6817Ek-nQY5y1fmLqOi49Uxiy9-O_zMw-lZ3oMyNW5ZwWZlAxLq4rb2iNyn2JSeCubCUf7RTjcgZvmNgHNE4ZD4r5hKfyBlb6YYE1i_ABZsgz3ENrlLZg7cFcCjAh8F6avWtkUH7MZb_MIk8F71fpTkZx0mYauQD-LwRD6YEXzJ3yEpdWBVaZQp12Lj8YjXUvfrASXZOgpjqLCe9M6GzTUUTTwsRId3Va8mkfZ47nooOs3eOuajSxtx_XjnBmvo2jomN0gDHJ3Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJt0CfzNRbwokR3KwxGGcWXCM.jpg",
     "address": "143 Greene Ave, Brooklyn, NY 11238, USA",
     "phone": "(716) 599-1441",
     "website": "https://chef-katsu-brooklyn.square.site/",
@@ -51623,7 +51623,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Behind a door at Walter's, this elegant Japanese izakaya serves sophisticated dishes & cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJy__PzLBbwokR0SiKUYfQR1M/photos/AcnlKN26lAhTcaDx7XEUfL26QIzCAZOkZ-NBNQjILsd2J9W8MOQashKeBfbE8fCJuDSdVb026fzuH7-kvo7_HeDiWGla-zbvrow9bPSunBxnisKvVIHz4kWXH76O0MRfcXJAMHWlqAIu1UXaAmxiW3fgZJf5ee0oHXxYK9Mc3rsWKdqej4F63z-98D0ecJ45GcmTStRk8kUR-JQkfoAZ15RKqSKVfqV3Tmwjrpq2moZKCqdjGGNgKzVxNKgXLnnIs7LC-_vczNckhh9CbAqFxB-1FF2iJW1VlF9JOAtzUh4KE11cz3dROkKAPgq3Mp6i9GRd7WeKzWN5yVTP1fWkXTdsn0jUoV1sf50H2u_j5RsRBN-bYzI9P2xb0c7czoKTJbUwy0bXDOxi7OeLL2931WVhowvV-PMGRYl50wcXG2yxaOkehw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJy__PzLBbwokR0SiKUYfQR1M.jpg",
     "address": "166 DeKalb Ave, Brooklyn, NY 11217, USA",
     "phone": "(718) 488-7800",
     "website": "http://karasubk.com/",
@@ -51657,7 +51657,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJB6l1MyFbwokRO9QkM2aUxXg/photos/AcnlKN0wckfRujDap8-Y1WdFWN7gwvOIVDjqAqtjUj3dmpmVmboNGMnRa2le0r2F3qgrwN2BC0-xm-q-qy3I9C-566FXNaAWYSGTPQ-6Xvip5z_hYFO8aAu0E9HHbp4iAwudB3_vOMUW9R1o2e32K37Zv0zObVWchDLXJaA99_4wf4wEsQ_rsoExXC1Ts4_tCy3iMckyOIKQUm-6QWIZ7FnK0aHuE9EdWLruk6tE4_H1xJqQ9uYcO7KyUd4X3O0iy70CFCXQliu7snKRVkoW7TKs-sU4YXUJUScMi97cD_LaHA80iO1MUo3hAjJB0XtQcffHT-CcwsP9Ng0qLY8qiV34x4O-W39WGvPwjeDBmh6CHT0ywrzfso1Yv9BEP6TEihz62PTTMa5QsIdKce_bB7OZDFdLFv-HGGQ2JU5xPEg2hnNEuw1dJc_kHuu2ym0Vhw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJB6l1MyFbwokRO9QkM2aUxXg.jpg",
     "address": "143 Waverly Ave, Brooklyn, NY 11205, USA",
     "phone": "(212) 812-2996",
     "website": "https://www.spaceclub.com/",
@@ -51691,7 +51691,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJr6gT16JbwokRdo1dLWoXHi0/photos/AcnlKN1d6PUfUFFdS6SJ_viSYF188wcmPfE7JsKyHkGx0EpejqdmH2Jcf11wJVd98xjHKJkjWbKf43aEPh0O-CpJfEaveyx15yL9TvNr2RZ0NrkiYGHunZK7vKS6D-JD3eQzw4Xxi8HS8aJcN0wt96otM0y075O69cfWeoMs7DGRvM1PElF6Sc0SNrbCbKuVf0P-5rKsjbOyfVns0jxWCK4XhyK8lzIugewjg-qG8AB-oFEs9M6dO1OjuTjOi2_qhYSkRRHvdtyVfnc74zu3BocOL38cnUpV8jZ3n1_ujrND5kwUOQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJr6gT16JbwokRdo1dLWoXHi0.jpg",
     "address": "966 Fulton St, Brooklyn, NY 11238, USA",
     "phone": "(718) 638-6910",
     "website": "http://www.fortgreenecouncil.org/",
@@ -51725,7 +51725,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJLah4p-ZbwokR8eKpfsAP1wU/photos/AcnlKN0DtQPcGQP7umG7Z4njRPM88kUjCAvWod5dN_-I5JRVqZes_kDL3Tg2mMFniOymLlVkRcAogFB4-fSef3kNhxsaPspWZubpoa3hktmRwUOwkfH8kvoGDmkzeK8Hv0w8TuEjmDm1bgNnF8YCfPTx0p1aUrd1ffIdl1AB-azWbi-DxCtI9zp6apPlvHifKjGiU7qe_82eoSWAeInl-zkXlu_uITjJmvPp_nemPfBaKnJ4oN4Ncj-i365hz4aNna6kVWYlwR0UMgZwmgCjD9oCCn-9p5cp1jUV5qcO-tS37FBGfhZ8sOlWcNOnM_RP-rrC22sjU2qN-Dnny2qxfz4zh5Q-Ohnd54TimXxoDaxmS45cyNnn-WvE2IQ0a4epcMkEo12HcSqdhJFpmIsyt7xdXR-wkcgyWX6O1FVanOKnmDMtsq1K/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJLah4p-ZbwokR8eKpfsAP1wU.jpg",
     "address": "154A Clinton Ave, Brooklyn, NY 11205, USA",
     "phone": "(347) 799-2382",
     "website": "https://www.putnamspub.com/bordello/",
@@ -51759,7 +51759,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Industrial-chic bar specializing in craft beers, also offering cocktails, bar snacks & sandwiches.",
-    "image": "https://places.googleapis.com/v1/places/ChIJidVuqaRbwokRG17J-8zzSJ8/photos/AcnlKN3S8_IAv92wfpVYFnIbeCZiuUiuvRtUA9-iOHH_VtK2yKMhq03k7-1GWEDkZW1ccPsmmAMUDUNKHVRWB-G17dcuQ5NmY6ySMqMxxRQvZg6uvdTggrfrfAJ0VaZ3xU6hC8WkTLsBCSLtuU7u4ip_Jo4JmyHp0J34N9m1AiNAhgSyfz14RSJ-X9c3WQnratxO4p2gZCaVVi9YgMing9sB1lF9S4jkOh0jugPCW1kiIfOV3ADiowK-OPlBlDQqi-z0b4rsapqEqkXY7Wt75rbJ88JpQMAyJOSr4fnJyeIFfQC-tA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJidVuqaRbwokRG17J-8zzSJ8.jpg",
     "address": "886 Fulton St, Brooklyn, NY 11238, USA",
     "phone": "(347) 987-4334",
     "website": "http://www.hops-hill.com/",
@@ -51793,7 +51793,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Mellow hangout with craft cocktails, draft beer, local art & a tranquil garden patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQV4YXcBbwokR5613tRGi1eU/photos/AcnlKN3gj0LAPryI8KAiZJiRsCzGEs-ay8NJcraiwYIwQ-KM1iANALPC94pk8YLimLXmWXP4HUxitEEopjgdqQRWwXlSOPu1cswaJDnoUPq_2Yrxveb4SnlLI7qgF1_Vjz6t17YKUAr08sf2idN_jYouXBlgZPIZ0_NoXZa6sXfQ_tvfG4bbLPJqYDnMMv-VjEfQ58nmNdN3Xrk8B5bFGkhD-TWuncTOYMQsfuJOJgzi-WNjrSB3VGL1L5gd06KoyfB0rSWbsn5-DRgEdrLCzwx9lLUzmjAdNGa_3zDDU8qnIZUZng/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQV4YXcBbwokR5613tRGi1eU.jpg",
     "address": "561 Myrtle Ave, Brooklyn, NY 11205, USA",
     "phone": "(347) 763-1310",
     "website": "http://www.theemersonbar.com/",
@@ -51827,7 +51827,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Watering hole with New Orleans–style frozen drinks & beers, plus pinball & a jukebox.",
-    "image": "https://places.googleapis.com/v1/places/ChIJL0_J15VbwokRCbLff8or3Yw/photos/AcnlKN2RFnzs6rdJba5gP4o8s44u14ca42MiwYOcCUbF_jirykqZ0OzjOWbuuSXAgnVM1WoBZ-WkLexcJh4yJI3Tx0q-i4j4tECo7c3opKlIOYtS-DD2afZHM0OFh8vwL0PvFoHkq8RkPsonL1gv0rLY0Wmtj8L-iSFkdqRGE7-Blzg9R-ETZ6t4RCsqegiQw8RZfGCAUam1cLixAbOl9PzD3CRn6DBiqNt903A66Om475vxdrRhi_Q4z-ZQSNNTBneG0962uM94jyo9Lk6VpLsNjPVD6jg1AuobNb5JRhG9pHSkng/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJL0_J15VbwokRCbLff8or3Yw.jpg",
     "address": "348 Franklin Ave, Brooklyn, NY 11238, USA",
     "phone": "(917) 966-5723",
     "website": "https://www.thehollernyc.com/",
@@ -51861,7 +51861,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYY61-rJbwokRMydDW_1Vs4A/photos/AcnlKN14tF1sF5_7ID6DcJV9ejxbFYGyFGzHwWV8_P9kSj1EGOl6C9oQ4I-bmI5D7jJjkUBQQ6s3ysMe9Ujd8demMvopqR7575E7tO6RdW9U8FizJR4u05_GY_JZVqJTX4vJKfUSTn6vYCmoq0VGTiKR3MEuv2YEmSMXlGQYnV-ZLKIARfZj5-6K7lIThHH8kZaGDwJ0itp2sB30sVZYTqDi_x4tcUkn8lxRiUBmYO838gM_O4dgYwfzCXZH_Bt352eyd0f1Yh2_qY86Pf_GeUj6-gtUJ0TwEqAouMQSgFu79V7nlg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYY61-rJbwokRMydDW_1Vs4A.png",
     "address": "39 Clifton Pl, Brooklyn, NY 11238, USA",
     "phone": "(347) 294-4186",
     "website": "https://www.entrenousbrooklyn.com/",
@@ -51895,7 +51895,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Warm, cozy gathering place serving Irish comfort food with an American twist & local craft beers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJI_90zKJbwokRL91_OBv5PWo/photos/AcnlKN3T8cR8foJ9tPhrDNwHMsVrmP_J5o89-yBoKvvfgJp30WNHE87O0xIHNSlWnndeoegZoI3xdbfoxGtwLn_SNq94jT-1TppWGAlTXbHnxZ1GYmJbDGa9mxFQ6M23k_8eVLnFwQj1xf0eF-ppuyvOV8UYF1sWjqNJZHwaJY2RtfuNLpijrR1meNZuXCog7vabFCw1RVjCFl8G66KgQ5XhtRAnSUvpWPXepWobzo9EHCdrXf2eOK58kFcRD1R90nae_Yvp5Vy2eyPUrQ3O54LAotuPIzgSJ26eMTl61PQjEsUi6g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJI_90zKJbwokRL91_OBv5PWo.jpg",
     "address": "14 Putnam Ave, Brooklyn, NY 11238, USA",
     "phone": "(347) 799-2877",
     "website": "http://www.hartleysnyc.com/",
@@ -51929,7 +51929,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJi9R8lVJbwokRtKjPyX4YvnU/photos/AcnlKN2w8MEopvMs34b2C88RXcIOb-UV5q1tjyhwifSjWbZhxb58-0sU6effPxooCBJC02FgbMqDLCuw0L3Mf8fQerDv0adTtZ0k8Hu_jMMVQSMGNlAkBlEk1gE6EwJRSxtxWErSk50P3mGSRGA-aEhf168ps78fpCcQoqti2FfeHFtUTTEFWC7UNj89P02WduLAvi-D1qr9PEFhqQjvBmR_xNgZ9gWgm6vL0HO7rQuwVmlHhAkynKOvyPddUCBFtk74XB9MjGD9jLXVpVE7KzLFUGKzyp32s4LpLCjML9swyAj47g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJi9R8lVJbwokRtKjPyX4YvnU.jpg",
     "address": "472 Myrtle Ave, Brooklyn, NY 11205, USA",
     "phone": "(347) 457-5058",
     "website": "http://www.lulamaenyc.com/",
@@ -51963,7 +51963,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Wood-fired pizzas & Italian fare from an open kitchen set in a former body shop in Clinton Hill.",
-    "image": "https://places.googleapis.com/v1/places/ChIJOTob_r1bwokRtUoNNbcmw_g/photos/AcnlKN1x0JHpt-osv-8QxNoZo1yQZg9XplYpoqdHaerxYdHLRGhlYMy29awJThXoqUhMO5wYmHdFTN0hkH_PgdPEYzCYyUe4jVJBxcJ7RlPCbMPeBhBOP3jXNQGGGxHpmwb-ocoj_da767q9-JLASfziIAuN3_Kb-gpZHj04sFNfvybG9bsbEuSjfTe46JwJPbSYxs8d8huwbe6o8C030Jl1eeadXdWS3hS_lXp8VuDikiG8c9LbjQZmBr_mRt9cL0kfbG9Z60H_DuPrg1hZUigWJ3CNmCdqAHeoNdLVjyscJEiDESR0GQJFOIYZM35HMbaM30K0v6jPJrli4gR_EWmMudu7Qbb-gsDsSTMip04DCHP-TlacsRNRq83nPBOqFZSCgCKESniwwgI3e4h1E_7tQyRF_v8WjYwuLsYemId8gMEBeQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJOTob_r1bwokRtUoNNbcmw_g.jpg",
     "address": "376 Classon Ave, Brooklyn, NY 11238, USA",
     "phone": "(646) 542-1848",
     "website": "http://www.speedyromeo.com/",
@@ -51997,7 +51997,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJid6BdwBbwokRe3HVRa9K1VE/photos/AcnlKN2wnP4w3UeDpvELjzQZ4l877WXFrPVT3qMN0LNV5eiofST7osmMX-4bKBYUbwzV-wFDM9SJwFBclamxKl0-OZZZN--3NbYUbOEffJQS-HPljDa9UrhfOK2zfkIkIeHG6p2FdPl_GftOTKoZYw7dIrG_2DbT8SEGXaOhyVd50E5afN51JsUWU2Q7f8skQSZfzUGlEYuJhkriZUHgGFUSgAzJsr_EDc4hkKhBGAyoWLJe_JTIAEAv1ctC7-RqwTs7P2HsvxXZqoNRR5F1N97WJV-EMcpbSxtd6L__eyaMTdMb7Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJid6BdwBbwokRe3HVRa9K1VE.jpg",
     "address": "26 Putnam Ave, Brooklyn, NY 11238, USA",
     "phone": "(917) 909-0430",
     "website": "http://smornyc.com/",
@@ -52031,7 +52031,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Quaint neighborhood Italian trattoria, serving locally sourced dishes in intimate, rustic environs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_xjfmLtbwokRRJzBUGDhJI8/photos/AcnlKN1rUgqLODhgmsN67AAB-TnQAEKW1Bi_hrQLXaz_Abc2VuY0TD-nzUynF0iWGz42_MnA7SWwzjGMafAwMo69t-wqzP_zkh-g34rmR4MHTznRCA6J7ApNCHPaQZ0QbVyByqDTBrZ66UV-0DuciQXvzeqhvzIFZFFVCuBSEU57WD-2UMSjLOyKFOvQFAoqaweoOCoICax1KW1pC9A6ps3of5x7b-i8-uqKOr-f84XIpAmdzeVDvuBG9vJtv-tSbGW4S5-iF7wGHJb17KOOyeozo5AQlYwnzy1shnBkvNWLQD_wCA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_xjfmLtbwokRRJzBUGDhJI8.jpg",
     "address": "132 Greene Ave, Brooklyn, NY 11238, USA",
     "phone": "(718) 576-3584",
     "website": "http://www.aitaclintonhill.com/",
@@ -52065,7 +52065,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ6dTbB5BbwokRQyM4pOUH76I/photos/AcnlKN33AKP37MYGVj7hGHhvCT_ci4Cp8q3OsXMQdzjI0cVlBIENTPv0_THkgvBVb9EXWNh8lgo4slKOsUDbiRBhDu_kaGj10DafGp3ZOIRZhX8UjpiLmAZUX5FfXmC6ntOwJRkUZrtYhOb5oENwqypQY5DtBNntKCukloSOqOQciYHzty61uDhZQCwe4LeSy86TjRCrswBN4qbxfnYWy_hebKsZShk5pbwel8N559nWOIJc-q_thFI9SLN8q0TFxL4S7GkPTeFuEFY8aTs-_J6APRTvzPTe8VHdCQov-KjhLexMRLcJdl6FsZ5_8Etc0SUgmD2TjJw5xIrFYr_zoB2GrEXjgQ67WMY8bGkYv26FLVYMUeZtBhP4o4SGsnms4g9Re2-MzpLsdyWelPqpiPww0e_quIltmTlJUhbTmXLXfgyer85jXd5-ctfz6ZiBWBo4/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ6dTbB5BbwokRQyM4pOUH76I.jpg",
     "address": "455 Myrtle Ave, Brooklyn, NY 11205, USA",
     "phone": "(718) 223-7915",
     "website": "https://www.rosticceriaevelina.com/",
@@ -52099,7 +52099,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Pizza from a wood-burning brick oven plus other Italian classics at s family-owned spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJBYFUublbwokROz7e4jYbvNI/photos/AcnlKN3EtVpCIspllElBQhV0EUBc1R9qXj8MDJVtJv9322fzUNE4ssYczLNjKekPNo2HtckJ_3T3i2pahYXOmZMiHJ5R9vAd1RQJXOcl9JBp8ECO32tu59ROO9kAOlJV0j62FSf9B6oCVNV_gpeG8xtiEiQxPAtmF5aKcn8EklZkdwNgEOE2jMBIv84J6UT6RQuYQdI5LwyvZdxy6HMZRa-W4F-2qgFcYOM3NaVP8QrtgatZ-GgC4Thk9U1A6zfMmt25lXWkTT2oVJV5Vw7qu0eL7F67iIO1Kz1FO2Zh0f5nWN0/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJBYFUublbwokROz7e4jYbvNI.jpg",
     "address": "232 Vanderbilt Ave, Brooklyn, NY 11205, USA",
     "phone": "(718) 789-5663",
     "website": "http://www.graziellasmenu.com/",
@@ -52133,7 +52133,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJxbeg3eBbwokRry4tRk2A9js/photos/AcnlKN0buzQXIP0x9tK5MJbMBEBHqfNmWUgaPAhOl8YW8QO2caxeRWVdNXEGAynql7A9qFG3kxcH6qfi4gvZ0nMJOxW9_nIB0JLPGBuBUjF4qzijm9U2uzme07hZYrLdK2Hi0GbztCzg-feIy60TJBG_EruRpI6_iyqD4zkdezRzQ1K0wTZsGljETTt_Zgbw_hnFjRtO71yv3mqq7X_324nUTKrM_4StPqDq-WZJMYUeUZg8xwyHDqrUqAKGhwSbO3Epwo8Mwogl5aJPiHetMkoMVWzdFhzYxqSWGKotmfS2Q04slA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJxbeg3eBbwokRry4tRk2A9js.jpg",
     "address": "667 Franklin Ave, Brooklyn, NY 11238, USA",
     "phone": "(347) 507-9090",
     "website": "https://kissakissa.us/",
@@ -52167,7 +52167,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJkdIC38xbwokRjpLQRcDIkqw/photos/AcnlKN2cS73IDnw_WPcz0vpF-Fbr0fJ_3iFJ9hTiKFklMm5NpVKIJhy8tQ5GquEe7z7iEGJPvAyZ6cu6MCPfDloRP702bag3tVC8v-ErfsAQom91dlc-JcbsQY2tcFDILrIy8G2VReTscmfM3i1-OjWtHY6TRXawY6Id1gXcoJeUwHQZB7DhrDUM5jA6EAUCeUdDOaFBN7etREntKHxYSDIqmFQG0bkTvXZxfAZNT2U_iXDW99xMAjPfM-p53dqFra3wJ6bBDrDC_XFoEAUw3T_dOYB18-fUGu_UVGYXf2lN3EFk1A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJkdIC38xbwokRjpLQRcDIkqw.jpg",
     "address": "415 Myrtle Ave, Brooklyn, NY 11205, USA",
     "phone": "(718) 576-3259",
     "website": "https://www.doppelgangernyc.com/",
@@ -52201,7 +52201,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_dZs1ahbwokRw-_gO9hPB5g/photos/AcnlKN1N-svxqQSkgkE_Fov5tWRKM_ni3YUryCv1976HVR8M526VPcis9NDRF-qgnwDVdtsD6Luz-d06Am1_zplcq1VjMST0udaEZdOUh63cVuVbXq-Nw8EiTJ2mPZBI4szJ_0M4--EKyB9SDZVhRgzhCKq9N4nm6AzwWV2aRMqlMSqsCN62lXVcAHCBvjGHVsk3DyQhpfgOmvmMJ7BgY_EjlFVOgrtpK0DBcosI_zLV_E77cW_nXW0vId_4evObwFQPVVR-00yEghvcvTq4tn2vChiBilZlVnZ-nB0AIpOWPC0sXQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_dZs1ahbwokRw-_gO9hPB5g.jpg",
     "address": "415 Classon Ave, Brooklyn, NY 11238, USA",
     "phone": "(718) 970-0335",
     "website": "http://commune-nyc.com/",
@@ -52235,7 +52235,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrYK5Zd9bwokRsOPttcjWkMo/photos/AcnlKN30rj2xANoDEaDYd6UUYHJD2ETBdEntARRvgzAdK_u8Iw6mJ3EtR8y_VihOlFK5aZ7FkU9pIWpW8FpHWV48ZfGGylDLnb1bEWHLfG1P-zSba5NS2pln7xbu4Szm7AOFAQrNu4Mpd7d-r4f6GDGm2Sobc41MT8NOjEhz1Be2Y-OzZbdV21nRAD2cOnqHBThdPLcJC7h_2FQqdIfi31CQTkCi_td5e8P2xcnu2ItWcL5kujpUcWIQfjwvVwX9WYgx0bCOtGrdYAYQPf3__Xx8eABWdwy5yJ-wFVDRDr4DI-YUZUvli57NrujGVAA9yfa2NGxIq9Yo5ccxFO_iDncJ-fedJIjo2yrOZO5_BIepb4stz2oUqwkcBWwHsVb_tP6QHWe4kM3t1ntOUBOlvdBhS-BrP0zyzELcdiubQo-1iDNCPoTGZg8AUXfPp_dd_w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrYK5Zd9bwokRsOPttcjWkMo.jpg",
     "address": "274 Hall St, Brooklyn, NY 11205, USA",
     "phone": "(347) 463-9173",
     "website": "http://dinnerpartybk.com/",
@@ -52269,7 +52269,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "In-house butchery and baking go into American bistro dishes in a bright, stylish space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJszWINqNbwokRMNSMRt0MOJk/photos/AcnlKN3jlDXsG-3WWsbxVSqjzgg4P_EO1KVbPdE6WQaAe4jqLK-uzXcpotMKbjaXTSwwi6WSbCbcP1bcwWSNwkTjdHk2h_K0iVbBIx2lC-uQRPrCMKJPeDXzAvoF_WDOddGK911Nn1np6UsAtmF8T0-_TSzg3mqOAnilhB2UFqlPEgMRzDuHBhHuCpP3q6F9hCMsdCRWomqwu9WrJ6oDX__TEkNOcoSQ1gF114Gl0cTpZ1z0IgN6n3azmT2yhN9EhooMeU6QCRcE0yoi42vQwBhVml63TO3NAaogqGD5cNpTIj8Miw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJszWINqNbwokRMNSMRt0MOJk.jpg",
     "address": "930 Fulton St, Brooklyn, NY 11238, USA",
     "phone": "(917) 909-1889",
     "website": "http://otwaynyc.com/",
@@ -52303,7 +52303,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJtysilntbwokRpBeSzmAQgVk/photos/AcnlKN3-XU6gLUQRbKH5Z_jXBXuVrV8EOZgCNUqd_18qXF6ftxjpLxhMnTPmJRKd0qRiA-jhJ6SXCa93Z54RcNTcBudxG9dr4EUEiEJ5eQJmmQrJHMNggeoFU2t9z0Rlqo7NNXC-9rXgO8Sq-Ypzn6zSuNVF9t9ZQbDH-XMiEfqiysrN66OOCwhjp8pqLgWCVrdrkI9Rmw-GsJNVaRhiGcPWCjhJhWstOx19tkofx2NyPTVHMBFXlPIBUnHJTlXTshQDt5pZtvOMsBkDtaHaw2FpvWyuRYkhtGeJZyJLl3RI8Ak7Mw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJtysilntbwokRpBeSzmAQgVk.jpg",
     "address": "154 Clinton Ave, Brooklyn, NY 11205, USA",
     "phone": "(347) 384-2725",
     "website": "https://allstarburgers.net/",
@@ -52337,7 +52337,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Hip, vintage-chic neighborhood spot preparing locally sourced New American small plates.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZXYSkrlbwokRpzfP73Xu0Bw/photos/AcnlKN1F-QH_lgLOxs3a52AzQnPYMSMb7Ygj9m3Z_aQw66EOIoxJFxY9njGbLfPjWKtczP20d5AZdhdmV3R8ft7COEOAlMaResnJ941WGJQ1XLwAabEejW_kYNvZ2kxvkPM4zP4FgRZsiwVVb8a3lf_IaAF5d7UpOhRXIiDd9R2SeI4HsX6bsXhJE2-VcQ0k87etq4lotK6poMSVBxjUAG4kyjgz5WiAOtjOgk8i-2n3H_NiUbYUeh_CZVM0Ioa28SRsvF-VG3-hrAf9LCGbX_0PdpELa81z5V1CqxXC15ou9_-M9g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZXYSkrlbwokRpzfP73Xu0Bw.jpg",
     "address": "243 DeKalb Ave, Brooklyn, NY 11205, USA",
     "phone": "(718) 622-5300",
     "website": "http://romansnyc.com/",
@@ -52371,7 +52371,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGfjeLdFbwokREeE6PHj_rlI/photos/AcnlKN29y983OjECKIlh5J4G_SNK0i3yY6B-X7sv5Edq3KSQAJ6MuzpKiAHXAU0h8F83RL6_oIi4Wm50z1NOME3ShcX6AjtKppFugOF9isQQtgleHrY82TybSOjvYab1FJi3awTrbDtnLKTZbHbheMW7SDo2tKAtWGUiQmrHiKjTX-z9PYhffvYqzv1G84hTeSWm2jYtajvbzqsuhUq4LMb5Rh77Fv_c0wnHV3VtRCePUk4GsMorrzL816OZBtwI5l4ecXFUUz7-ckLeSdFjsKd5-Qu2IzwDTF7M4zWGRdQLHbk/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGfjeLdFbwokREeE6PHj_rlI.jpg",
     "address": "177 Vanderbilt Ave, Brooklyn, NY 11205, USA",
     "phone": "(929) 295-8499",
     "website": "https://brooklynmusickitchen.com/",
@@ -52407,7 +52407,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Seasonal mixed drinks & microbrews served in a dark, narrow bar with patio seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJjdvCPIlbwokRHrYHYxwDzSY/photos/AcnlKN0LPS3aVLnAIDP5ZwjG4HYfkyWBX8TmEzI0-vWrUqSiGTlA4jy_SM1VWEzVHRjWIdmhVcObfboeIGRjxWmNRUM4fuolVt5EHv5Qe-lW24xf4jqerGAmdC807Ocv_VBiKdxU3cQnylL_3RThuSHOnHOxDMYVdcUcSF45ZOAvbRUyX7nd_XfyUvQqiINxdIHDUkAeIcKnR2hpt8Ud3E2V0dhTNno--swC3mdQzdkvRp1a_PIAcIjQ0-5koaIq7nIBEXpMeLI3JRJCfW4uif4QnvnGysTAba9PTLp4BaiWK9LJ1A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJjdvCPIlbwokRHrYHYxwDzSY.jpg",
     "address": "305 Halsey St #2411, Brooklyn, NY 11216, USA",
     "phone": "(347) 365-9619",
     "website": "http://cocktailbedstuy.com/",
@@ -52441,7 +52441,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Hip hangout with cocktails, Italian small plates & nightly live music from gypsy jazz to neo-folk.",
-    "image": "https://places.googleapis.com/v1/places/ChIJESF5DXZcwokRVyeGiPtTMfY/photos/AcnlKN2zmS6ht-9Vb93tLR0CJDC3M-iwvzX_Kt9uX-B66hq5_6zH3ItUAU4vgOIOATELtDzGNQpuvlupf9REVIbZpZ_ukY9HOXcpmxldu-7XS_KX8aRJXpReOViSrTsqZKk4IIZMX6-t2de-CpUeXQdHyLetjk5kaVcsLc5UHmBxVrCxyS23s4OCPSTFhQtTRenP06-jiQwbLhrqbFUg_NJovw0OMqV2YWKt_lZ2j_9wLuQfSAyOqQKlUrOJlA_xYx5MiSQHx0qK-K_ns4C2DNYWpwzrb9fSO1R-TjTBcCUzzXJ0fQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJESF5DXZcwokRVyeGiPtTMfY.jpg",
     "address": "486 Halsey St, Brooklyn, NY 11233, USA",
     "phone": "(718) 513-0339",
     "website": "http://www.barlunatico.com/",
@@ -52475,7 +52475,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJw36MSatdwokRZhLUP-Rdbok/photos/AcnlKN3_SbApj6P4zdqNwDMRn8n-xglESSwAXA460t_6KBRRPspchgrBjso5gyFDMwrN-ZWWiu1yMCb22esW_l2DsWYo9Lsr51yp45dOinBqNiMm7yUAXIyTj9xs6IrmZvhprnHRyD_5lCMCdTkeyVEzZEAnN6tWGg61eUjGZyc7Y4jszC692Ex093FFKBPhNaxjBCdNbXjCjuvQCQRpiSrHlBKt6tOyB-Xz37KVN5Iggt5oq0dW4ayYQLqF_idKdp8xPv1TBUvuAxj83P4v8lBq1VeOi4yrnHu-Af7LrX5nUF5CRg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJw36MSatdwokRZhLUP-Rdbok.jpg",
     "address": "300 Malcolm X Blvd, Brooklyn, NY 11233, USA",
     "phone": "(680) 222-9870",
     "website": "http://www.dickandjanesbk.com/",
@@ -52509,7 +52509,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJz89WhqRbwokRFdTyd50jkIg/photos/AcnlKN26_s6Re1BuE-WyopJCS8-Q6WaJsrmmZN72wZ_-dM_Ui035-OzEU6ak7sIshbzr61oHVH9ZJIOqrC5b7BmpSOwm-B8mJ_oMsAd300m1YTbIeM0rRQxTlTfsE4eyftALhe4GGZLV_qoGiGWnMIh6SapmqIHq07y8oseOSQfDi2WOJI-ZLh7Tb-7a9YAFDbX00CvXqfuQ872YYwF8VmR_CSdMcHKRKumZhIy3jHKAlyd1IM2A6-a_9w88D2msT1y0yF4l3Nfq9YPXYoKOOdJAyrJ3CJqi_51TRpsrT_Ge78X0iQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJz89WhqRbwokRFdTyd50jkIg.jpg",
     "address": "358 Marcus Garvey Blvd, Brooklyn, NY 11221, USA",
     "phone": "(585) 456-1050",
     "website": "https://instagram.com/frogwinebar?",
@@ -52543,7 +52543,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJvx5w9IxbwokR72ReuwGyOos/photos/AcnlKN1IMQsVJ4W1sALcEsyUNxrlaKBaSocFzc9BNmjYrVPROpIln_Py_M1a4UoY6jFu5m6w7fiXkP-L0UAibhxZMp5bieInrYg3Vajw9EALAjIAd318yQc2pF2HjXuxa3h7pbysgLZoBp_EHN6CN78czxc3AaAzgArLloCM8cuhAoxJWVjgoHTbVxju3ubo2r-ShOtkSzhxJYN6oK-QRlMF_vneh7xQhsf7NXPsbEvI8D6K2LSXtmsZbBXYayYdjLaSSXYmogq7QPmkwD2mdr0efDpgFa8ZjdOhCL4kLHGo80ZKPGsp1SI8Z4tcfyoFFnUO9EFtN6GDqkKzrpKXOROemEEXVhxkbwQHxOu3STCLllfDs6njtjn2KtorlURMOLg-5z3pjZ0_iHaj4s2e0PEDkrwvcxdBvimV9i0kjeTqaxQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJvx5w9IxbwokR72ReuwGyOos.jpg",
     "address": "283 Nostrand Ave, Brooklyn, NY 11216, USA",
     "phone": "(347) 435-3755",
     "website": "http://paulsbarbrooklyn.com/",
@@ -52577,7 +52577,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ5QnCzAVdwokR0KZltCastrs/photos/AcnlKN2-BnM8OdZ-fzc_k7Me6-bh2cLrMlJhcgI2q2ignkutcHImUuXhPRNUGYK-7bYhHmul3DI2SPMVseQsjDpKADAz3X_l1_EtDRVAGlRTYIfr-86zcyDUVD77AyJWlSQhX0Ffc5P3ttxrb2dQ0G3u_UdV4V94BJy2sz2NQSywlMY1C8M5rr-qLFdZwmw_LQCR3kTh6vQ0Pm9-c_HngzQiIdHE2pLneZwoPQc_5uK5oVLNNxZZZ0ZZ1r1MyZIdePOZHfxTzIOqJJrwnIvChht9IUslMmnE6kQ8nkUsnf-Py20EFAApnQfH4kC7qXt9SjOdYKKUM8EeNLREnzeFW9NB1kPfjNQpg61sBVJ9Kr_3La1Z_H0QTNPMUL9PpquFtOVAImQz0v18Wj2LRsgyAjC7IczvMEIJU4Fzc4SzgMEthPUNww/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ5QnCzAVdwokR0KZltCastrs.jpg",
     "address": "Cellar of Bakery by Textbook, 874 Hancock St, Brooklyn, NY 11233, USA",
     "phone": "(718) 865-0007",
     "website": "https://www.instagram.com/understudy.nyc",
@@ -52611,7 +52611,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCUfXfutbwokRzyykPcEaFLw/photos/AcnlKN0dFpRBtR8Ryn7eoO-3oEtlirQwOEUfIDarAyqXtoiMcIJ4L3NJTgE6zenpmR9mW9iFn6nTcjQK1cUY6ZiOJpeNuci2cdYYxaLCd480v2DUjNtpkhnI0A8WEbJAKDGY5akXwzmehw2ISF7oj3phk7OBYZ4oM7IOxwRx9bOWahCQSOQlXnsPi7BDnMECaO2KlnRX5f6H9oRe-uc3LECK7AKMqAKsC3WOuMKiAkFxMF7QEJrXeqpUirLssH74hKOLzvxk_7ULanR-A8e2BPA8hXYuP9QMJ3-hOFoVn9AkkstDg4jOU8qBXobBt_PW-ZQHOdN4asiW_nOvslNSwcCRWMk-1asOQZSWhe-9IkPnjQMc4lZoH7VVmTjiY_QONPiRjn52uxLQg6h_I6Og4Ip5A2RqPBfw4QOqqPxCiRrHYA0/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCUfXfutbwokRzyykPcEaFLw.jpg",
     "address": "334 Marcus Garvey Blvd, Brooklyn, NY 11221, USA",
     "phone": "(347) 529-3537",
     "website": "http://luckyscocktail.com/",
@@ -52645,7 +52645,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXb67A6ZbwokRQwOPD5WIoSE/photos/AcnlKN3JQ-loGNwwNg6bOqaY-yVwxlSagNFUFQVKqcCDxLd9mUsS0CMQNmJdUG6U1mGDBFFXuG-M6sVIvX8Qp1M88x6K-a2EQe4TcJ1cvTCBj4ZFJ_H09Y4PP2Wca1Xqv_pkAuoV8O3QI-ls3K9OXBUiIZR6ZfNBX5gjVi9A8b_gR6E7_K0jVYAIPQ1Wp2bipFTGjb-v82pABGI-M3UUIOa4Y5B2-oSEdbWwqrWiPnlxY6qN8ECwPfNU8G6GSJTX7lluFC1xFKRo7MczA0nYCcykL58pVnP6zi2VFdsoaKHkU5sC9w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXb67A6ZbwokRQwOPD5WIoSE.jpg",
     "address": "42 Albany Ave, Brooklyn, NY 11213, USA",
     "phone": "(917) 397-3479",
     "website": "http://www.denofsplendor.com/",
@@ -52679,7 +52679,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJaxtuQQBbwokRNRkPuDiPH6Q/photos/AcnlKN0lKhi94hlLzOCalITL7k9Ro6KFcmtrq7udMfhMcC8afpkEEBSzkTRlwUqNvn3F3sP7ro-OGW9sqjBQagj87USgnDbSRJ_1RXwoQHbp71CmFGyl9k2Vl6KkBzr7PNLsOuGdcyYWvJwVZVqssMSc1V0_Lv1qBRvbr5wPXQsL8fLHAqroXI3kHuJUV0NTaLMTD6EjA4NEhfu0sHyajjCK0YzpwHSq6qZaX7HQy_PcclhPnk0u7aS__OT3Cx5-43DV0ukX6SLW5QmWSOV9p1_2aCTWsjMp3frbbb7IyfIR3KEY2FMm6hbuUX5rhM2bhse7DFWyHejLH8q3Y5q33PeoQ6J3pRC1uPhAFfzD8vAWytnQP1wKsH21-QnEOiYpl0wMT1SUv_44Z03BdJUDq85sU9yk5SYC0WSLH8FglRIOzR_OiQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJaxtuQQBbwokRNRkPuDiPH6Q.jpg",
     "address": "417 Tompkins Ave, Brooklyn, NY 11216, USA",
     "phone": "(929) 447-5287",
     "website": "http://lerlersnyc.com/",
@@ -52713,7 +52713,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Casual eatery offering small and large plates of Southern comfort food with mason jar cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoxuT5Y5bwokR4BUNuEswrcI/photos/AcnlKN2ZnGFgpfr4-k6wCJHBrsJlmWs-PeDWQYn22jeGZFzOT5nt4mo1jhDgYEmWez-dyc3aP6MKwZiRp8Vz1GsvGnz6qWUeQFbV3jFNvnrqU1N2MPwdXfFJ6AvMYQ6xpugGjM9E0GjIMnYxeu4hr6gqb2O-jkEcOnvL0bn8ZW0qMgF4cpQq6HK4P2RPEFIm83yggRsql1nxMj7N5hHCzLUm9bTWNnS50vp-46Q0H_cEPI3ec9KHsolG4cZjeATKev69hgTHBNOFJkpMA9OkLFZkqjOe8Tgbmt8PZ_3Dh2ABG2eILdNFcd1Gc7Gb6XGSPPIq6yK8r2AwH8oghO5hnvW-cwCV_POeI1uK_j9_-J-GdqSTHI_YaYPARVo9cT2MYwXMUEvbfzgiT2Jp9N6Kt5L04BF5-WlBdfZPPnuWLGYkAkdfYGw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoxuT5Y5bwokR4BUNuEswrcI.jpg",
     "address": "415 Tompkins Ave, Brooklyn, NY 11216, USA",
     "phone": "(718) 483-9111",
     "website": "https://www.bcrestaurantgroup.com/location/peaches-hot-house-bed-stuy/",
@@ -52747,7 +52747,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Cozy restaurant & bar serving traditional Japanese cuisine in a brick-walled dining room.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ__978HNcwokRJMR_zap8RcQ/photos/AcnlKN19R4ykgBzUnzV2KuotZbFRar6IEG6fqxr0yXBeH65OnFprSbCXMtUKNeA4rvRBNicwH3AH1MoDhxkQewfxhnC8IZxAlXCHhf5UBdWlXtdFAEhM9OqHRjHdxHnLtMz02IYGa3SZi0zFxEj8CwISllxdmgEld4nHKJDAgvnnW_UxT5L2xbOsugxjpvZ4LKav1AQFSbAlthgwhwO3KMJQSjhkWvMUje65Y8b4d1dMiiWWRncSOH4xuyFgQ3uhpWnaNZJAKjKCzeUs6JbxCpFW1M8DPiuK_hkHFp9G3PB-Dyw-lg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ__978HNcwokRJMR_zap8RcQ.jpg",
     "address": "266 Malcolm X Blvd, Brooklyn, NY 11233, USA",
     "phone": "(347) 240-5760",
     "website": "https://www.tradroombrooklyn.com/",
@@ -52781,7 +52781,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Venerable option favored for French bistro fare & happy hours served in hip surroundings.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ86PF_LlbwokRNScSCVf3u84/photos/AcnlKN0OGkLFhbikHvKYt-O9oJoAjtK1zL4rgqymztFreLn7Qiff4wv5xAgK6EZbUthwriw_M9J3v9A5EVhoPUIL2UOlVM17VwXpJREHEiD73wPjZSaZAtBVGDDP7KtUmgS541EvYhT5XCopJBs8NPRnjF_BVwdowkSbYztNfPR9WDPJ6RZxDp6M_rvIQNS-pufGZfklkZWPqNLsBAlvJwa2RlXqn3yGs9mllI-qqy8as6LLYlRuzrFabisVfgpQ8coGJ1iSK2pK9IVgLOVdc9dNkHkLY-DMsDkBALlAijIvyVNUBg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ86PF_LlbwokRNScSCVf3u84.png",
     "address": "310 Malcolm X Blvd, Brooklyn, NY 11233, USA",
     "phone": "(718) 852-6250",
     "website": "http://www.chezoskar.com/",
@@ -52815,7 +52815,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Modern spin on Southern comfort food plus brunch & a full bar in a historic brownstone neighborhood.",
-    "image": "https://places.googleapis.com/v1/places/ChIJvSMmN3ZcwokR2Q8U305wnnQ/photos/AcnlKN3K86sbdZ5FnC8ms1IEGTSofmP5BzRoVTyfLlCFORFEbQZnMYAfgNUTlNqR_i2queir3s3jBjKTUdc5kq4eAeMe7n3fpfDxhCr46tx6P0M8cOplQlkxaIFBDA6OsyoaWmACp1wpADdDXJwbDdn_d6gEqxQhKuWkMDILSVc9JbL8jOKnFLFz8_FGqapfTGsKxok9Zd7cZWY25W10ZQMKgPs0EFX6eW_C4n85d7LdbUd3iVY5xirK86YIrt47372Ce70zB-YUE6cfh5yLzFUZt0qVYanehbYolIKdgoL-jApEP1tkX0oVjug6VcTuWvVGgEHVJsnXn8sj5uwC3Su8pcWCxkFqmJU4KQwbRuxNezQQF_gMrkWYtEI-UMWxpiMdJmv3ZlaDr_3ldK5or3zvzV-gud9_M7hE3PcXwT5jLa7wgzxI/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJvSMmN3ZcwokR2Q8U305wnnQ.jpg",
     "address": "393 Lewis Ave, Brooklyn, NY 11233, USA",
     "phone": "(718) 942-4162",
     "website": "https://www.bcrestaurantgroup.com/location/peaches-kitchen-bar/",
@@ -52849,7 +52849,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Snug Mexican restaurant whipping up tacos, quesadillas & antojitos, plus a large wine & mezcal list.",
-    "image": "https://places.googleapis.com/v1/places/ChIJpRiQFlFbwokRZjSvEE0BXc0/photos/AcnlKN0iDS1IuBweM-ce5Be0ccsp983tYFZJm3Ff-wr9aisYAaVPlOKsA7MbHRUJ20FfTLJFFdBKmv1IJk2rYlBe2FHGN9v6qocmy1Z4j7AoZR_gTShgSWP8DI60Cge0fO6KF4RjGYIi1GiI5F0AD76nuAj3g7_viCYy6ywh5-Kh8-xrcO1r5u7Amr_zHNH06X8hFDRpqcNpVELWudFpR1CpYFytKg1euCWaq8A94Z2v0m5zU0ZMZMNPXYh8Jq-Z4DszGuaSLhplunlKcXajhZpcdVWcvhnhchBtmyndeFErSn6X7xzActUBW4lGdTfdqol2TRhVtpZMi_cp3xqKmx1DBgvW1BgFvffqEYopW8ejOrnCTDAz2_XGVcDCVjA7IXHAQDozOxUExTNtQiRIt__OZ-HzDUBjWb1j9qjxNTq7qx3_Iu4a/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJpRiQFlFbwokRZjSvEE0BXc0.jpg",
     "address": "343 Franklin Ave, Brooklyn, NY 11238, USA",
     "phone": "(646) 238-2068",
     "website": "http://forallthingsgoodbk.com/",
@@ -52883,7 +52883,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This brick-walled French restaurant serves high-end, traditional dishes with new- & old-world wines.",
-    "image": "https://places.googleapis.com/v1/places/ChIJM8cEj3NcwokR5_Ja7rhmjoY/photos/AcnlKN2Rv_BFTsxUoFjRL7-26GiSc0_E8d3kgIFoh_20sCIg4WbCnRilobJB7J3EJFMIGXy4JVawYiQxHQC-QeFvMPcdyLiE4ZOTDmvat4KFPLQVBwF8N3C6lhyGbfBmxPJHsld6wwns2vCNxgN229iDyk6RZpcc7mr6M_aS7AMC-AtZCaY3V4HouETwyYJOnzmpOzl2MbRc9Ss4xmZkZu9gg_Z4DJ0iXz8VnJGNkvFlpdAaTk9sXxLamq2UN08WOXn4ro1COk5jS9PpSoXs8Q9A1SXwA_qIaEa4HfKmWdRlxLidW3MOzx8PyDFvxUUWmKOJnJboLBnUeTjEFBjOURinfcoQRr6SSX3gbnfgfSJvvBBuV2OOUnyyFG8DXEea6PDukq72JyYZG_qVMuckLrFsSw14nHfA4Nft5DWJdT_xauhMCQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJM8cEj3NcwokR5_Ja7rhmjoY.jpg",
     "address": "238 Malcolm X Blvd, Brooklyn, NY 11233, USA",
     "phone": "(917) 966-5300",
     "website": "http://lantagoniste.com/",
@@ -52917,7 +52917,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJhdx5XYZbwokRiPjDzj6xOQA/photos/AcnlKN1gRdak_WOYdxWQk695u5OzW5dwE-aaO2h5YM5VWKyTIft9CXxelbxZPTykZS5KrwFyq4DGt3ck3pSdVruGPXmUClqyzkTp98qO0hJapG-mGnGF9B2VMfKXOHtzBG9KSjZ9XRkwTs8BLePbDtSdRLNT3GEnDXb4MpLIzmRigH4O3UnNt-ptqfz6XoUjomJ53VjYiP0-9a8Ha9ZdyYIj64hKc0Fs0ZFuuQuZfpZ61xCyYN2ueSg6pVxNlD2tvNAyhmXUgBi60j8EIZ8it2B47H8GwEig3orLnoiIJ_5dVhE/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJhdx5XYZbwokRiPjDzj6xOQA.jpg",
     "address": "299 Halsey St, Brooklyn, NY 11216, USA",
     "phone": "(347) 365-8680",
     "website": "http://daphnesbrooklyn.com/",
@@ -52951,7 +52951,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Relaxed, standing-room only hangout serving ramen & other creative Japanese bites.",
-    "image": "https://places.googleapis.com/v1/places/ChIJiwo5H5NbwokRnLq07Uyie0E/photos/AcnlKN0Nib8SjwubmrtgMSNgU1qWup-23XcRgkHWQE05vqLRQFb2Z_punzkPVc3GDNXouskkRVDCbDR8aDm-oN8raTaamkFgOZpNutUNzkQr-SkD3tZrpY1kD0O-1stA39kDEEvGBXAq24zDbjyc2DZNW1SmewKoPXjjffylW-U5NMSyCKKOOAAdFZALwB7JvvhzZtLUbdo19za_oMXMjVkEm55RRQRDIxc2Vc6HzTrrBtdGXdjP_Vz3WaVC9ja0uvWF7AIowuTNcOHps8pQm7lHL1ImHYNf1oWw-dywe-L8w2uOMwle5inqBfH2z-vqe6lprjnZ7Z9CfWwvGPHD5DMhO1i6GsvrL8bFCKqim-EoUFGfCHgZEFMUznntP_M7TZKl2qkqVSLKHrOZ8z_VJr8_xSE8PypKYbWb9pYYwTLcJzJofGo4BX0YKZRmezfQOg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJiwo5H5NbwokRnLq07Uyie0E.jpg",
     "address": "594 Lafayette Ave, Brooklyn, NY 11216, USA",
     "phone": "(718) 398-8181",
     "website": "http://www.samuraipapabk.com/",
@@ -52985,7 +52985,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Plant-filled corner haunt serving up fusion plates & house cocktails in a relaxed setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJPynGWUFbwokRDyYQF6YjDiM/photos/AcnlKN3aDSqNihAmzGVsHkVe7U0MAUJdujjeX2p38y335Av8gRtjfHp7_Ao2QjhQj_WD0QxJcbU7R7mFqPCrdlBgAKll-kW8eqJUZI-2FWa1qoNJUuAWN_OmmnNcV5MZRNmZxv36pvhUKlVaVc5Pt2Ycx1vKfd7yyOElN2hmdRYsRPF-GzxuRJuKVjjAW-l-7DHi2pTTIc0ux-v4c-pNWIi5lBEP0bF36-c8UTmyjEHCINCDAEZfjF_AZxYfmfhixsgQMwIXFIiRUjWLJrF4i7XTp0AznCv7XRSu8YgYCpRDMYbyjA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJPynGWUFbwokRDyYQF6YjDiM.jpg",
     "address": "151 Tompkins Ave, Brooklyn, NY 11206, USA",
     "phone": "(718) 388-8788",
     "website": "https://www.sallysbk.com/",
@@ -53019,7 +53019,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJX6erawBdwokRDF1_2-ISne8/photos/AcnlKN2taoG1LsJm4dxebu1aG6Bd259gFP9xrY9HAMMSt1Mjb2GGMAIpzFn-bmLe-bmPKH6ie6r-fjBq6p4PdPgLKy02xAmfm-J1vo5VZoQK9b9oVtbLbVvfYPXtLCkNoe3tnIgjGP7F53rQ6lKjJkucRPv1xaoaVG7ndecieJBjKauyBU6ZRFQS4svEE5yuMqbbT95C0j8qz7CgUeP5l17llrmNbms2PlZCOAX9mqrKNA8TwuOspvnw8QrfUK1nikFoic1B7xDYclah_6Kv4KQ6-ojfOdflEiZ1jGdM64EiMO4Ubw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJX6erawBdwokRDF1_2-ISne8.jpg",
     "address": "327 Stuyvesant Ave, Brooklyn, NY 11233, USA",
     "phone": "(929) 234-3202",
     "website": "https://www.bkbnyc.com/",
@@ -53053,7 +53053,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJU-6tKQBbwokRof-JBf0peCs/photos/AcnlKN3_4XkB3B9XbNFidCUdk34WQpSLfE9d51YxmPFiouVRWpO4MjUUQ7w_1M1RQoGApxlb-5Y9vg8W-DmsVH7qUOiJau-LSFPcPCqQKS4rUqxR_j7W_8ue27QOkZxipTEwAFVv8tsb2F4ijvAoSEc07zTyEkd2lLkg-JVc4tA6rHUkd6efwekdiGFHqazj6cUK0KONzcodrgximlBkmk73sNUYFWsFVZREOHAWTNeMFHf2hT8lj5cyAfISWpJKU7yP7X7YroJzwYU2dL1q0TlYzQmhbQwf8rNhZrbLJunxfPec7w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJU-6tKQBbwokRof-JBf0peCs.jpg",
     "address": "165 Tompkins Ave, Brooklyn, NY 11206, USA",
     "phone": "(718) 759-6507",
     "website": "https://www.toasttab.com/korkscrew-165-tompkins-avenue",
@@ -53087,7 +53087,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4VWOsJ1bwokRJjOdmZAAYK0/photos/AcnlKN2vAmQY6pAQ2XVnVvl7PS25Qf0gfaCNmTR5P_ngpM6opmRcArHr1RctjKv9LK2t_CUX3OjNjb8nsH435VqpT5yeWrRcKQMekd4uw0Okk_2D_e5pqOTyLxAbfBQvUqnTv1WPGGUqJvbLbFtUtA5_e_20L4P6EUoYmzmYIXUB79zWpAvUOVcaBqDmFyvY_KiOam5hNsFzDGqbJUE2QHMN0eH2Le6XiiFyaptZVcIn2uciK7QnNmXAFtpIXYRpHO1f3UWJLCTPggMiJEw89l-jN1OlnkZ3-DcJPaeFlWbA04ADgA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4VWOsJ1bwokRJjOdmZAAYK0.png",
     "address": "1401 Bedford Ave, Brooklyn, NY 11216, USA",
     "phone": "(718) 316-9100",
     "website": "https://lamodebk.com/",
@@ -53121,7 +53121,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJf-Xn5DlbwokRpA-dO4DdvIg/photos/AcnlKN3U5QAhEFOTuLCpqOYx32t37mnamw7k_egfw0-DN2815y80sFgcP1kjLctLN5r7MCnYa6ChWuKIaa7GqL_B01w99pbHU_cobro84EAQ51aII-gwrVRAHtWyVAHGaSko8syalS6lZRQq6ham0MIlfKwQfliXMnULBOlDgU1RdK-9EdToTjf-eExHFX6-cd-WwBhHujoE1RTyPjJNIvKVUCB1EZd-JI26MmdApFi7mH67SR2HonJjhjW4Uwz2PTRZ13YJUSXf7nXXtFxQKsXhICh1J0E6gM6_1mzZenrn0oT1Cg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJf-Xn5DlbwokRpA-dO4DdvIg.jpg",
     "address": "448 Franklin Ave, Brooklyn, NY 11238, USA",
     "phone": "(929) 281-3087",
     "website": "https://thefranklinwinebar.com/",
@@ -53155,7 +53155,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVxWuDdNbwokReSVJqtPCfp8/photos/AcnlKN1J9slhCBeI-BDYnQXT5TzPL7mKd74DiIbejJ6J88fqugTXGa2l-i5t9jGYaDz_GOz3xbkIGi-mkISuN0logwGcPkmRKDWWHiUUpSC59fdHIgODX7dcnmVadccJk-ehtSbfLZYcPhyNlIakmJ5AnGgrApKvUjOpNlJ9LXmYCRRYFaXOMGZmzKmPsUwdi7ADDM1ZlGxlVI-YUn2JPe7jIhGZqcM_IovDabSxnnghZ7yxONvPxx8qZJMBusg3XaJyCTA8DiwLdPYK7ujFK2tmkeoCBgyBJtVxKJeVipzAm24rlQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVxWuDdNbwokReSVJqtPCfp8.jpg",
     "address": "333 Marcus Garvey Blvd, Brooklyn, NY 11221, USA",
     "phone": "(646) 996-2701",
     "website": "https://confessionsbrooklyn.com/",
@@ -53189,7 +53189,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJj9p6lqpbwokRmO68jseSpsY/photos/AcnlKN3XMZfnlZVbRpxaNCF3hOHJ4vbj-IgAjL2dT2H2p-vgXOZAZXRQ9mBXO4P3W7bZd16lPmTwIRodTN3_bky3tZY6C_PNAfsx2_sKd1a3HhX7Ylf7EP0qPpEUSbKcurNsWdou_m6DOG1ziWWJTwR6882xKroVuKHQzDgXKF-81FgUjhXLZiNTKqLLApQQL4l1nNEgwIxBRnFGyDTcP5MneF6POa712RRDkIYYS4AYBR33__IxqqM_x3J1O8iKPPLRrJsoDROva-_ooID43yl3KbvKTU9T15ov2_FJazDz1MUijA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJj9p6lqpbwokRmO68jseSpsY.jpg",
     "address": "1048 Bedford Ave, Brooklyn, NY 11205, USA",
     "phone": "(347) 221-0091",
     "website": "https://www.theswanbk.com/",
@@ -53223,7 +53223,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Cozy, intimate bar offering a range of tap beers & small bites, plus chess, darts & sports on TV.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVVX584VbwokR_zXW_oucnn0/photos/AcnlKN2bpnA_bd7WKY1uVqPJIbUJkvd9-g_720wF7niTA0yJsos3MVRIGXfYUJuh72yWdANDVhgx_A2Q3nreEOtXJrZ1CTkPAWaCNBh37gUYqBjlaifABJLC_fITN39sk0wGBcsRFNUDWoTmyqbp_SyBEtd2sq8AMZaIoIs7tuwyQ3bk4NmfQRsVL-Zs7QAcgdUN0NRwI-HDkD3D-Npq9_kDyKmF1ez0FM59akemBTq-U04K08dR7KnoQRwIaSzTFgB_lvou_CPlP1mW4KFw7P1Gc7-1JbOTFduQMOKnLlWW0SYtbg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVVX584VbwokR_zXW_oucnn0.jpg",
     "address": "1446 Fulton St, Brooklyn, NY 11216, USA",
     "phone": "(718) 450-3038",
     "website": "https://www.facebook.com/fultonalehousebklyn/",
@@ -53257,7 +53257,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJT3nmPctbwokRf74RMnP6KiY/photos/AcnlKN1gtXTi65a4Q0Ugk4r1Nzx8ePUr7jBx2Vu8pqNjJ_y65P2mznWIxgcGGTuRnykuFgJTMnAAFsEoqc-DmPmCVMeL5JkB4Z6tgF8X_t6hillBtwIAX-w_6vIlxgGeqMPs8VQ3YYHHwcAuiatJW3gawggybDRWonu_RPkdCV_cRS0R6L8mazXAPu-NU9Xsd4anGu_H4Qukagg6jGort3dM_FUzrUWd2ObPuqJT3kjoNzUyyumQcgxZhnP3XVGAU3W3308t0B5cz9bGhwCDixdb5Csl8M7atUH0nTN-rTbXL-Ib5Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJT3nmPctbwokRf74RMnP6KiY.jpg",
     "address": "535 Nostrand Ave, Brooklyn, NY 11216, USA",
     "phone": "(347) 221-1019",
     "website": "https://lavenderroomnyc.com/",
@@ -53291,7 +53291,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Pan-Latin food & drinks are featured at this brick-walled eatery & bar with a back patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2QqDF3ZcwokRX0EBn3HpcjI/photos/AcnlKN34Aty_YKd0_jnJzVgyVxLevO9fSKUupOwwy4u-xsk55TSuH-w7mPhppoUzwZEa8MUAGSPud5Xe12hmMGOm__wLcA4kcLeDaOFRI-9duuNs9csxGYZufMqDWrMJESD-xTtE5I9ioHwxRZ2ZnhN_xvcn-OVshKWgUUunB1mwGrLdOsk-cFE4gdhSepDv5p-O4SlfIXmBq21Ay7ZtHW_fzPR9xxD4Xg9lcGZ77DTmOe0MIYhsoqiECK5cGqOqc8-OocFqplSfpSTxcMy4wkc_T6ZIIB34OASNcDusnPfy_NKhvQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2QqDF3ZcwokRX0EBn3HpcjI.png",
     "address": "370 Lewis Ave, Brooklyn, NY 11233, USA",
     "phone": "(347) 915-2900",
     "website": "http://brooklynbeso.com/",
@@ -53325,7 +53325,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJI2kKw_dbwokR5GBtrXU8rMc/photos/AcnlKN25QF9iKjqt3G6c9k57JJrS0D9juo75peExPc5ljUad_Wj1MkIO7ZoMnFgAJU0NIHaiH5ki8qddAZXPdWbnJ5L3V_3dFjbrjQzyPLPN2s13TopBUgd8x449wlGh3Que070T0uVV9Y6MX4SJWfg3HdF7Y6sJ3osv3cddaWTVfKyoA2yqhuRDDUAEFjDbS_ICWm0krhVZl_uvpbldKZly3dkn2Rz1NVqAddnJ052otmAm930i3mU_t9hHAtkPsmuBvmAtqH1yCsQVRCFRNhE1E6QqdSJ5xgrRo0kwJVOb0kzHhw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJI2kKw_dbwokR5GBtrXU8rMc.jpg",
     "address": "906 Broadway, Brooklyn, NY 11206, USA",
     "phone": "(917) 966-8440",
     "website": "http://concrete-brooklyn.com/",
@@ -53359,7 +53359,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A changing menu of Mediterranean cuisine & drinks served in a cozy setting with an open kitchen.",
-    "image": "https://places.googleapis.com/v1/places/ChIJhYcE0JlbwokRVjovgUYR65M/photos/AcnlKN13XSJ9vykRJ3K5gQMpSMaMDKQsIOweRdnBpHhi34EYaIGMeKQTucmefiEpkxrKEjNCDY9vajcJlXbHfrFESpt7pqg1kyokG_jQCTue99FtY0Yi6_jqrQQAEurGW0-rfgWJhYvGdzNBYKWJxq4S9hwZkMdZcXSj9EpiIPcWEOETK6GGUd0y5CAP8aqfkhz9hwjBDIj99uv-bXXNrRyMocxvfe23LdU3uFd14b0woHGoc0bv6DNbmLA5wcs7cpTXGZ8gIci2tXrGIMihL9fV8TuWClc79DaGYeZ1hshZuMkIJg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJhYcE0JlbwokRVjovgUYR65M.jpg",
     "address": "506 Franklin Ave, Brooklyn, NY 11238, USA",
     "phone": "(718) 636-6228",
     "website": "http://www.hartsbrooklyn.com/",
@@ -53393,7 +53393,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Intimate eatery with a backyard serving pinsa, Roman-style pizza, plus Roman antipasti & Negronis.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYcU9WphbwokRTsiZXcFZl9k/photos/AcnlKN1RgytHWQIUXK0kznbyzu8xVomN28k2ceEhNurGQpzE0UFkn4ORMAFo1W4nGxEHJAwFNX-c7r21bIDBbFkU6k1Y2vEZv4afUUSNbEICdUqinPpORmx9RoNpGvYLppphLulDnugQlvDNzNXRS4wrRHkyiFimfLMLOb500wl1VW_cWQD1fTdEfhmT2pKdKI83d6g0_HnjHfewqbB2HzLdbMGrjkjA3HhlKomDgOPlXuyDPP7tXZuujpPMm6nId5AlmdEr-KJm7fDola23UUCtryN2kKV3Qe2w7-Ako9hg0WdrvQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYcU9WphbwokRTsiZXcFZl9k.jpg",
     "address": "333 Tompkins Ave, Brooklyn, NY 11216, USA",
     "phone": "(347) 533-6340",
     "website": "http://www.barcamillo.com/",
@@ -53427,7 +53427,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrelooXZbwokR_c1DFn_yS4M/photos/AcnlKN0rTMjtV8rvghBH1HQdqMwjkp1gDveTURaT5C6od_ZYzfXRtrHqhZpkVegx_MaYKAplHwyehuAR4VObV8R-tRxxTESadrttzHvMQ0hpYtlbSdHmymy-OP9tHSsJPYU4mY0AtY0Y0Xz7yDlaWMOKN4P_DZEu4nNN5b_ia9CIMAq9hUgQ6pyUEOZM55Q6C3Xj9j3zXIc_GGWrV3qqw3QtySZ_Uv4hcToC9IA3MDcs3UxZ__vdxth-nFBAY446uDeTdQqHHepbtZICnUUDvyva6AgdrNVWbMZSXtnHRKZHNbt22g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrelooXZbwokR_c1DFn_yS4M.jpg",
     "address": "1102 Bedford Ave, Brooklyn, NY 11216, USA",
     "phone": "(718) 744-0300",
     "website": "https://bedfordclub.com/?utm_source=google&utm_medium=gbp&utm_campaign=bedford_gbp",
@@ -53461,7 +53461,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Knickknack-adorned Red Hook saloon that's been around in one guise or another since the 1890s.",
-    "image": "https://places.googleapis.com/v1/places/ChIJlcb1So9awokRGb-r3HkH0wg/photos/AcnlKN0f4u5fS9-PJCK4RwLx7LAX5bEoMtsey4jjl8PQklp5QrzC5Nuhxwrucf-x0EaLES-KPSNhxVsfuXT2lVrXlRG_cihloCRrR9BXmsxSwFIFyyIgvZfTjDdK9Md7d9TCdbhKLK44Mw2Ouy23T5Bhrgj8dDuF6q4pKRtaPiHvQ6HMoKPVqQBCM8_Lt6A4QmW4lGmEEnnomP24byvH9ap5LOzMhSFG0g2-oA74Tf5I8AED7lS9Azs7w_Vy4pn7Egb5JYeVj2MkxM0ZAkHO7IREI4n5fPRqdQIX0dN8lWlajMOGkQmUnlwDEmoLfC8fpspS36onkHeNIVr3hvAoc_mJSXHmfbdc2mjHoG5NhHN_jeWgAk97htRMqRGO_cL4L8Ph8Vv3-D1tbfxXEmHY3qymPrOPStQpBg2DuS4ZZh45BU0/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJlcb1So9awokRGb-r3HkH0wg.jpg",
     "address": "253 Conover St, Brooklyn, NY 11231, USA",
     "phone": "(718) 625-8211",
     "website": "http://www.sunnysredhook.com/",
@@ -53495,7 +53495,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "This small Red Hook eatery features Korean-accented eats & a cozy back garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJqdPcMIlawokRnjb0RFy_o7s/photos/AcnlKN2xUXoMp0CqNg40CeyoWZqIFX4TFMGXwp1pxqx0pN4ttwGpOyEN5PuOQX2DL8eo32HB_8xdAMmpVOWlDYYIJwNajxY0Jt8VXDwgoiLuoBqDnkRbGu72NKkz70KNf8m3DVrS6n7NiTd31ETlQlBxd67BVLlqW3vKxIPc1lo356EmcSKkzxY_dgIz-Ey6JkatmkDQg3ecd_451ydfVM6O-wNbXav_BTzDTdaF5uyjFumPsKJh3dsLuKVmCUBsVJD_K9FfHKw4eAQCXZ603Nh4RfDPIC3_64wYF91O2za3cr2pA0LjSfZb9kB3Xa7OIPBfJFxOPTqPtDhe6AjQNRAvD7z-aUNpqz0GEgx5uNmHaYC5JLSAnYv-xbUMVp03wiPyxCUk-PFdPbRut3kHgGF-DtKolMgKMRdsVFuUHrzzDO2Ygg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJqdPcMIlawokRnjb0RFy_o7s.jpg",
     "address": "391 Van Brunt St, Brooklyn, NY 11231, USA",
     "phone": "(347) 786-9896",
     "website": "http://www.goodfork.com/",
@@ -53529,7 +53529,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Rustic counter-service choice featuring slow smoked meats, craft beer & live music on weekends",
-    "image": "https://places.googleapis.com/v1/places/ChIJ0VWwJI9awokRoiFWFqYZMQ8/photos/AcnlKN2shtL9qa6xPHWhIEAiqz14_fYRGXrKIIbfV79sE27md3R1w-BO2nEEg10F7nSzAUr2AqLADLoF8xOoc5i5jYBw9tJTECdqt1QSPFQu19EhTF0Pr56Jy2DAxTB8qUCXmx2UXO3gqk-knpvn89mqqji9Cqon82nISxg-nCsu9mVM0wqnGub7NagYJUZ9m8_BO9E15FqLkNU5LE274gIKx6wqBrEjwvEzagnE9-SgdYDdqglpOdHWWGRy1WKldsikIcjaz06f3QSNf4YgCpvFVqk2LR5nUi9F2JUQLojltdrOLzC0JHl2-M8f6b0GwCHqjXjWyCBFz6hxDDBsaikwvOweQ0n7eNLJjDmD8rgQEWK2go6u9qTGhpnvV0Nr6sFfFAGw-jDwA5zqiHz36qln7H4rBrNrKIRvbt_HSbMzkpC7JNIN_bDLtEXIb9XGosv3/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ0VWwJI9awokRoiFWFqYZMQ8.jpg",
     "address": "454 Van Brunt St, Brooklyn, NY 11231, USA",
     "phone": "(347) 294-4644",
     "website": "http://www.hometownbarbque.com/",
@@ -53563,7 +53563,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Cantina offering a pared-down menu of tacos, quesadillas, tostadas & tamales in a quirky space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9zIr931bwokRC8_QhL_LyDU/photos/AcnlKN1GLkEJA8l-GYbJ6sC6wywfSPOMByz0d8N6mmjPDGcsagdAPmA2Y2r9aBL8Mp8ZwJteelvJPhM1KVtfyHDWhvEMLy_lzt2O8BxNfdfFmJ6QdWr8KJbZTjMp6jV4bP0gPM32odmWIGfgpS2CUKFIjSNrtKqVpRPWyL_gRCPSlhXPKbNlfD4puIQDir2S0SqDrwU_27eyiabINw-_9pdlwB6H3uCEvJqf0giOS_t3TW68_8QAdMqLc3Vd7OMJTLbCxSioXBn1YjzoAyfp3T_PmmcR-TqprInVvaqT4QkoYNPyBQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9zIr931bwokRC8_QhL_LyDU.jpg",
     "address": "320 Van Brunt St, Brooklyn, NY 11231, USA",
     "phone": "(718) 576-3916",
     "website": "http://www.sanpedroinn.com/",
@@ -53597,7 +53597,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8yKOzyNbwokRCGMhyFYrIxw/photos/AcnlKN16dDwsrJuEG2b7AkeCOzLvyH4_Dky2A59bWdE9-EuXZm77uTDsFoRJWYGTa4vJetOq8obvdpTD--_niNTIDsmpB5rRa-N4U9-9hsAlkRhp6q0kiZOToaiv4z35aPZdTlnRhr49XWbRLrkeVC-DpJ0dL1ZsF3JxfZ755aXdtsjrshbAXHXdrDjwfdyGA38luCT5vXV_VYrgfQy9BHrlHGwdNmnFtiUNgfcjzuXkTH557eozcvNMjFpF9jg43fCmXbBPpGdwoXD72NJQdEDmgeNPLdNf7zrux9XgBwcJKM1chvF_EiFgWE6xt8Qa0jxwpGSJGLEllM9xYsz4J2vpBtqEPSs6sEOD2G3zCAbsPOUbMPuwgegSfiI04p5rv0VSrcashOtoa53me_a0fobh11u9G60Q6YOBXBQEOWjRuuNxkA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8yKOzyNbwokRCGMhyFYrIxw.jpg",
     "address": "158 Beard St, Brooklyn, NY 11231, USA",
     "phone": "(718) 852-3692",
     "website": "https://www.kegandlanternbrooklyn.com/location/the-keg-and-lantern-red-hook/",
@@ -53631,7 +53631,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJsS1UG0hbwokRp-5XT8PAKe4/photos/AcnlKN2MDhF26hIv7-IZHWMZqRGQSImetDjBHgVP--pEo3SxekuXSGsNG6Bk_jxDJpegkyq6J7boXSFC9dQ3EY-hFfmwrfca_jM64XXgfbZwTVm67UZ2yxdYB0AUjMAjZlFUAXR8izHnCmk8oIA3VtNb_c5d_NvOCWEz2WP55JgxSZ6cbl_UwjixPhxQtlRIOPkb064SuMPvzb2HZTlkDAVN75LqUG3zUTRHG9ZB0sUtFkMrpbBxQWOPv_qOOrlZCmK5rE0G5gE-uqO11n_gFTjZPslpmt4o6lYQGclF4ijslfaPRQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJsS1UG0hbwokRp-5XT8PAKe4.jpg",
     "address": "44 Beard St, Brooklyn, NY 11231, USA",
     "phone": "(718) 310-6110",
     "website": "https://www.lundysofbrooklyn.com/",
@@ -53665,7 +53665,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Relaxed seafood shack offering crab & raw oysters, plus outdoor seating with water views.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZ6MGOI9awokRL_wHVV0nxUg/photos/AcnlKN0Lwiv8q8h1yF55WGPR5_g-IJUwo4zgM69EXF8b1nJlQuqS9-DTxxuPIAe3LvENL19Gv-mWdkMuCNk3Oh9cIPPsQ2Ie3gLmrwES12EFZCirseBV4yW9EjFXvS7TDEv85gUWQprDfaGGljddea32isH3ujihPcFh9loTXC-hPCRz3rCvA7YzRZTwtguTAmsFy6Mx6l5ORHYbe8AwMm5K7liEsfrqU2HAGf4mXH4Y_0drbABTy3x5rZuNavIZ9kfoHo5KiSOuNyOeccAw-yz-3sLjO0KRyJsvq8LSPmZPgAcGmg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZ6MGOI9awokRL_wHVV0nxUg.jpg",
     "address": "24 Reed St, Brooklyn, NY 11231, USA",
     "phone": "(718) 643-2722",
     "website": "https://www.brooklyncrab.com/?utm_source=GBL&utm_medium=GBL&utm_campaign=CustomAudience&utm_term=GBL&utm_content=GBL",
@@ -53699,7 +53699,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGyOkTg8L3YkRWUnsgoZNx60/photos/AcnlKN0tJxoehyl5BnhHyDotLrgASwf7vADWfcn3CPQevDb8yADCB0iJXTaatdWJV1xljDF8hpm2ED5ujpqJOn1ypijlxFUNEfUi2nVeqSO30VCj5VHTGsno_fkr2JEKYW8rRMKN7LC52V9NHi80tJbpxbW8MfEvDtTaVbI3cNzczA2vkpMrF9H9MXB1mcWch8R34FBZ3XqiWmG2Ga_XcCvOjN3uN4uSNudW-fhxuMuf8BOxkKKm5LEUnTqVfD0RH1xWEAaw9itGhPNgFtR7cpepUC3U-l53xsqul02CjcPDe0bu4w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGyOkTg8L3YkRWUnsgoZNx60.jpg",
     "address": "7249 S Broadway, Red Hook, NY 12571, USA",
     "phone": "(845) 758-6400",
     "website": "https://savonas.com/",
@@ -53733,7 +53733,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Nautical-themed joint serving lobster rolls & other New England-style seafood plus cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXXhKdopawokRo9I9ZkB7GP0/photos/AcnlKN14EF7c-BGI93b-VFvcVfwcP7PJ3WBfSaLesAJgc_tXW5vYGmwb8UvUJ2gdjnp8CP2launIFr_gbIFdXO2rJVoIMNylarfnGS2tmwh4HKmEfunb_tx-b-ufxSc4W4NPdSXshSRHJAeLq9nJM78DBR8MIQ-r2Fn-XedKr-P1JWezrwIMwRgkQT-_sZ4s_VbisXEziWic-Q8J3Dr_0VgLuBm3mLLNMT-sOZj3YiAK5u79wFB-XN8QWx5wp-zv9U3F5qrf4MZHhY605rJvbbl4EXgWU77fGfIaXrGh2FB7HLVVWA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXXhKdopawokRo9I9ZkB7GP0.jpg",
     "address": "284 Van Brunt St, Brooklyn, NY 11231, USA",
     "phone": "(718) 858-7650",
     "website": "https://www.redhooklobster.com/",
@@ -53767,7 +53767,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJbxKLANIL3YkRZjL_RyhGxMI/photos/AcnlKN3D52f8ZKYI6xF-TLE4K4OoXxU_etweZ6Mo2VG49-Vns76f_E2sbYVkDdAtGxu4LfvDB3aNea_AxQ1tvNLgioePZMT5qaQileb7E65ObLLgWLJ0yh3VLuXoZc6F4opymxUi-j855sjaFGuH7N4g5IzoSzpPzLXLhBAvCTkvSpWCZqoxLVFdPSmo6kJ17zV8Fr-unbccuCGRBV7RO7eF2MEpAT99leaJTKqGa9FtR0F_jnAGF00s60H-1iKvwz5BX7S0nDBx0AU2SuB3XKtBOEMefm_1rNgR5eZ_Zemuv8GDQg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJbxKLANIL3YkRZjL_RyhGxMI.jpg",
     "address": "61 E Market St, Red Hook, NY 12571, USA",
     "phone": "(845) 835-6230",
     "website": "https://brigitte-bistro.com/",
@@ -53801,7 +53801,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXxafYkx13YkR-ETHId_4Mcs/photos/AcnlKN0XevL91_-LXuH7HoODeo2J6idP1kzPEG6ef8XLwT73uEQ6IbDJs8RBKudws-34M09oEDMY2kB6a1LHgWEnOT4cu_kyFaclwdSWG4UQ30asdK9i-VrWoZkkOwaVKO2pQtmJPwZlRr2FsZd0ZCslmxTYNw06LhGEdEXD3WU4iFO-nnRqzCG76Wq_mMJ-Y27_XohVkbNuDgMZBbYNxnaXG3x797llPEx7Axf0H7H4qrYKeme28DM06sFKsU1mFwaqocbzF-JfokPqSvICNKaXVGvZ6usBAT39lDtnNGF0Dsl1vg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXxafYkx13YkR-ETHId_4Mcs.jpg",
     "address": "1215 NY-199, Red Hook, NY 12571, USA",
     "phone": "(845) 758-2437",
     "website": "https://www.rustictablesrestaurantbar.com/",
@@ -53835,7 +53835,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUc6V-fdbwokRg224jhJ_7tI/photos/AcnlKN32xKqcdJJQ4VcQsARYhlB2zMKuXNSMOBKLbZcUJiQ12ccojQ89Ee6PGw_kLz7PWldCaXSoZkolYw9ieuvFqDfzQvGe_Zuhl6s_RVoNKZ3ohXSwIwga9BgPvvML4eaJCh-KVcvzfkg4CF3r4_IpCC7GzeGYh8TSqCrps0uO4gM7L32vg0wDxvwQkyWUDn6feBSFYvpCxhDlAW6oQzgMUEe9TdLoBoW8ZSkFp34Ow8uEP9HG-O0ZXbtUI3wjJaxOZGleBw6jxtbn9qogc7sYjtBjWFSZEn3C-aj8W1f-k2VcjLBbUe1V5gZmDfJ2yuugz8BCZAaOHfSWdN-7L85bErrvitUp_mClbvnLWt8cYXKn44Zv4xGQ4T2lPK5uB9ZvGr_DcufNbag3Ln_uL5gSgw4edwjv6LOEp-rB_HXD718WRQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUc6V-fdbwokRg224jhJ_7tI.jpg",
     "address": "358 Columbia St, Brooklyn, NY 11231, USA",
     "phone": "(347) 457-6333",
     "website": "https://wraptorny.com/",
@@ -53869,7 +53869,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Sandwich shop slinging huge heros stuffed with fried eggplant or chicken parmesan since the 1920s.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeU0kWfVawokR_ZNYdC9w-tQ/photos/AcnlKN0li0DNuQsXAEHYEyLlALTbcCyG2Dmv_PP4355u2oY2sLZ-OoXwXavMAh5qYKg1zunjz3BbiMh2ER7jLY5wT33BOH8qyp9lSHne5J0C3Ubw1eaZyKToH8hDw-Eh6Yo2-q-al7g9RKpVRj41tHtZeUmVwJCUvBwsklqTwm3Wd34r0IB3o1z0cJExfeyQCGSM8e91z7DVZZ1wn6qIsuEOCSZecSLBMUjrCi-FXme1-jc7g-woVJra5Hps0dPMyTPF7PFK8jKqcsAC6dhvndgWf6_I-b7HoPDpnptjpQz2noFknavrYp2qL8j4XeBjWX6vvuEoXkK5uMkOCPmJDMxnQjxqi5DHUJAS1GvqcvZyQfQh6jm9vO4nB2kW0eeP3qSw2D9b8NRz785rm2IL_DhYWVWf6yqFdjZuKd38VdWqGzULy6SQkFPCYf8h9ylSqw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeU0kWfVawokR_ZNYdC9w-tQ.jpg",
     "address": "379 Columbia St, Brooklyn, NY 11231, USA",
     "phone": "(718) 625-8052",
     "website": "https://defontes.shop/",
@@ -53903,7 +53903,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7wpySbZbwokRcP2ApHYSyNM/photos/AcnlKN0wGvyM4IPxkvO3l_igWOrMFfa3-aoGanVMKDQpq7T2xr26OvKeYR9FObxRayClWcl6sdzlhL-zjDce0PvTySwR85JlHfNO-TC9AWZaez1tEzGoFZM2SiPteyVztTHJUZ_3DaeUG2A7YIMEHkAYFCiY5qBoWpDqbc5KCqu9EUi2n15hfSF55gaxJPgHWIaDzlTOkNGVFTzVVxcVfsWEOzxPr9IHV0kCEoiEZx1ZKTNNPqWWLdoeeTohfe1CfcBqlqTadm8Zj6sxPfg6fagNygZ__zEZ5iqkTul77bE6Cxf4tw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7wpySbZbwokRcP2ApHYSyNM.jpg",
     "address": "77 Commerce St, Brooklyn, NY 11231, USA",
     "phone": "(917) 300-9041",
     "website": "https://pearlstreetcaviar.com/pages/pearls-dive",
@@ -53937,7 +53937,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Convivial haunt featuring wings, burgers & other familiar American bar fare, plus sports on TV.",
-    "image": "https://places.googleapis.com/v1/places/ChIJX_I_fuMK3YkRdF75edsNacY/photos/AcnlKN1yHWy1TdhD93YPy6cC7wyW213yV3Ut0wqUk0WXkUtQJfYkIP9jTqxRidaF3RSBxobzFoj4S5BGREogY6Ah_gwwPtrtPzTCnw7NaPi6x5hgxavrlnB3UDjNSDhlczStTJyGsnKwWyXkhs59YDYrmz5N9KTFrurScheRv8hZLQ69lmbPCh51Kbz7BIlFN0y0xa2wTiRGUVo0uU7eS1lUGErGBTQpqw3QsCp40TXMLJEYPESqy5HwuKorIyLoBpJ4_vi8VR9jOuaCVO-2defVy-IWf8psUvBzqzQy601Iqp1t29PQciWYE3XdDYzt47oSpT9_nv7yMk34jqQyKcpNkNg4x__hGqCq2C-Oi4QrMlrIIUZHfOlU2lnxOFJkJsIFE4fpT_sgXvaq8-cmnNZaw0k3dQz8HNW3gEbRrUn3gqbDpw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJX_I_fuMK3YkRdF75edsNacY.jpg",
     "address": "23 E Market St, Red Hook, NY 12571, USA",
     "phone": "(845) 758-2123",
     "website": "http://www.charlieosbarandgrill.com/",
@@ -53971,7 +53971,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Steaks, seafood & gourmet burgers lure locals to this chic, welcoming American spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJqa6FZ-MK3YkR3f7fOIySUs0/photos/AcnlKN3UjutD337YO3SAQ2bryzAPNUYOZyOb24LQxuMErPzuOXjSc_cE7vvtOMsQ-dT_YLTIJE_vWOWsB2Mh75tIoTnpexCaKCwdHhl9f5TJr6Q_05CCYMSF-Qk-Cuq1ftqCL7IMYEEqYrq97JwmlGYrMWr1Z9hFEUq1BV-ZIIF2qwyrihYFGB2ZkD6hHw-GPJEj3LZPZtDJlO0NEI69yNqAvYa2BKTaSDmJUrAKJmhAkeOFujVDskK_j5abxAsaczA1htixFwF2qfUCWt9OkmdFduIik_9JN2bfuLo7dDR8kT8YJw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJqa6FZ-MK3YkR3f7fOIySUs0.jpg",
     "address": "7488 S Broadway, Red Hook, NY 12571, USA",
     "phone": "(845) 758-8260",
     "website": "http://www.flatironsteakhouse.com/",
@@ -54005,7 +54005,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJD8xuBAQL3YkR-rQgF1NHkuw/photos/AcnlKN1yM1TkuLMMaquwDi27WhSXhHu--dDB43Z_TOp0FLNRbZ2fDWNiiCNmUKB5QkNq9l6xoCKaPJa39246IRXfHud3jDqyRHB51GuLDduJf74S435SR-QB_DgL2ipr5PC2l9fOlMVxTXz-mwJVyz5zgQBXFhu36bkkgsOl-1POprVfCBWhcJ0qN0M2_-amWzZJW2f9MjKr4KGBYFH4ZlSwQM4N6Um-ooRKxaXUBzuItUBl5iwiyjhxPA3VR_oSJ1Gqi8fkWI5ExaxcWrg_AfHnacegGBpx0BS0JJopm7B8XXfdlHHte1c4biEVZu9jpyM05voPoOBV82OxLmBftx0eBg5E_16EXZ3z_E-jvhpP1WP23p5GnJEvs7s6eHy2NG2rmQDhhN_KbndDYkqt97suuSxKnsoJUtZRefWeOJWPew7TiWT1/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJD8xuBAQL3YkR-rQgF1NHkuw.jpg",
     "address": "7329 S Broadway, Red Hook, NY 12571, USA",
     "phone": "(845) 758-5000",
     "website": "http://www.theredhookdiner.com/",
@@ -54039,7 +54039,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "High-end farm-to-table restaurant serving tasting menus in a refurbished barn on gorgeous grounds.",
-    "image": "https://places.googleapis.com/v1/places/ChIJExcPIfK_wokRtc6K_3jkhgM/photos/AcnlKN3C_jMZIjxLBIx9Ovt2ZZQdz_4i8l12rMbfyHeaHwKo5_AQoz0leOqmdvKij679vUqAyGS2pc1A0a0OZIEuIOvCMkr9VNIivRRfzbgJ_8ekh-psm7pkT5Bq0MD7Mzain1SSlpl0P_Z4_f1AlaOPq-dX8XDIP7uLGHaTlYzES6TYFzmSQfDXSq-6ufcr0V8DwV6dSenERi-iB2wiMltCIdnHlmd81dloYTBhLSWoEmAjhvEaaoIfagyFmlHjNPGgbZfVP8qQskYMJUiWPyej3Ql39Y4_nctYHVt8oUZFuvt8RQVnEhZOdymrSK5Zy-xGPJzu_BeD-IoOOnp3S9CQA8lpz6UKtHZ-qq7D2AIPPYZVpVJPc-QGSIbexFKWvXCnpG-ysZrN5712KDrbyIpkMfV3rjJWzgbeKOnH21vgjJA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJExcPIfK_wokRtc6K_3jkhgM.jpg",
     "address": "630 Bedford Rd, Tarrytown, NY 10591, USA",
     "phone": "(914) 366-9600",
     "website": "https://www.bluehillfarm.com/",
@@ -54073,7 +54073,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQ-uzUn1JwokR5bdMCmwPit8/photos/AcnlKN2RpuH2_3TAb36inmNJpNMe1166FoxajYDxYE56d1Z_Sz9wan3SmGzmFilbTKVmxvu1dFsyYBD__-UCaqAMkRm4uHnSnyY8rN9wdpIwp3VMxJH-2-ZTLMsfpzzDw6hO_2cjlBnnP5PRUEoGJPPPRUeZUuzeM2bEn_PdsGIvLgglopow2eS4kcBexZIlkwnv39tdjX6WLJPIf6g74QenjvOnVjEYgRZyAEDiMPHWFiuMvOMK-Q1b-I7irIW7tXQuNXfsZUSSDnx3Kc3zfTFXYPCZnX1FmLM-5ywuy2N0nbyl2A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQ-uzUn1JwokR5bdMCmwPit8.png",
     "address": "1363 N Railroad Ave, Staten Island, NY 10306, USA",
     "phone": "(929) 719-6842",
     "website": "https://alchemistloungenyc.com/",
@@ -54109,7 +54109,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Waterfront lawn that features a kayak boat launch & a pier affording views of the Statue of Liberty.",
-    "image": "https://places.googleapis.com/v1/places/ChIJq3mMh4hawokR1Rl_U7p-K5c/photos/AcnlKN1XIe5mGLOT707fj9Uz45YBobU2rhKHf6u9aPZGOh4eV0psTKgedMWykYoZnG34v0iEQn1xQUiDn3VXborSj95yCWjh-ML1GrHyhlbrxxiVDcK6twqxCUHHQjDpXdSn_yfHU_bRhTg8v00bce4ernLp4ufMXGnCWRNyU0bjWg27vIh4JFZzpS2f064NfAoRfywXFJAQ5c6To-TsnW4Wsy-4E-7nwnsXYZHiEPihwHni2ifgwGU8ZNnpdHemPss9SYGdrPIsS41NztoOeVw8UsTfcmxcUff3hbGzD8A55Zzh3IoO3SW5oVrdKSE9TpnzTVOHsL8ULA1om2Z6Stm_bNebu1VMxerURvWMfLPIa2_yVaz2HwVD8Gd_uRO72qwouyHt5aJRW-su6UqyMxt4LB9GMFuT9ZnNeCeNrGbRtoSbBzE/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJq3mMh4hawokR1Rl_U7p-K5c.jpg",
     "address": "Ferris St &, Coffey St, Brooklyn, NY 11231, USA",
     "phone": "(212) 639-9675",
     "website": "https://www.nycgovparks.org/parks/valentino-pier",
@@ -54143,7 +54143,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTyT4MKxbwokR5M6KsTW3HZE/photos/AcnlKN2lxB5UVD1b-SohqgNjJcRF1_bWvWuJWL--2T4YtOVnUX3rnZnWfeTLtYrATTtrvYgRqnwL3qhibyHWXxCfDrf0eteahyQFkPVEFrbrfPo0-9vuloSCYpKwiW4APW5sEFnsp8x7yEDCEIu2PxJALLPMZT0T-1vYglzrBqmw9AH0QxOmE2BHPsv0IpvcpTTvlWYT5v1KVcODDoL22N84cOgxMvpqevd0VlotJUI0tGowdXJabJw1KOkKz8zPZE-YWyL7WOBYrVxyJbhOYQo_XOomzeYk_oelGccj6Ec8kKoAtg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTyT4MKxbwokR5M6KsTW3HZE.jpg",
     "address": "236 Conover St, Brooklyn, NY 11231, USA",
     "phone": "(347) 689-2922",
     "website": "https://kitchenettebk.com/",
@@ -54177,7 +54177,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYciSN2R13YkRiFDU94iy0K8/photos/AcnlKN0j2_FJ05xKFdYFnan5VT7dMzY3C3gQKKnjXw6lrrvqIclXJU63RKO5DZLrNiBCRLnXCMeNT0xJm0NZAxcjn6h0AOrvxkNOqg09M6yh1kdwAgccqbL6kI4D3ZmIa8j-ohQCs8H7dUTw77ST7Kyj4O34ypu5IiospXLPvOBzGbkKPGqLfLYdN0ydVYYlrTmIyBS_SlOMeS-QG9HFslByboKzNqDkzhxbVjOuGGry1xadArzi0Mq-J3U7Bhu6TxFS0nDwYShrotiFCGDZHwF4xNxUewWMTt6i1PagTBP4OQxeAw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYciSN2R13YkRiFDU94iy0K8.jpg",
     "address": "650 NY-199, Red Hook, NY 12571, USA",
     "phone": "(845) 758-3006",
     "website": "https://www.thegroveatredhook.com/",
@@ -54211,7 +54211,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Hip, nautical set-up for local seafood paired with wine & spirits plus happy hour & Sunday brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJSy6OvMFlAIkRfhjJ5piM4yg/photos/AcnlKN1ZF59LmTg_i9rtGrxCPt6Ga6oax1FBD798-ux8IZwNB8H2cmOng3VGHdqt75H-VfQrYMq2qYl2QMSMl4aquFDBzpU5LAOGEgUw14cTMFZMZ8p3JQoF0DNimq5HuF6INe5MI5jG_1sqMC5ATdxZNpSGYtDz5ZdCYNFE-npCoY4eW_tCIT-EPTgxezLPnAVecG7r6CufWj1Lk_rw3dkrzG6zDim2RqcThHrCtLjmhLd8LtBE6xaMveJCYQYZzquDzdlAkVOCrOo2ngkFAZ3J0XI8473v_VRRx9ylYFhDz5UcMA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJSy6OvMFlAIkRfhjJ5piM4yg.jpg",
     "address": "8014 N Kings Hwy B, Myrtle Beach, SC 29572, USA",
     "phone": "(843) 839-5888",
     "website": "http://hookandbarrelrestaurant.com/",
@@ -54245,7 +54245,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJm30q7XiV3YkRQDqssuycFkE/photos/AcnlKN1hIFahqXLAs1WLZrnKqb14PB7Mn0lytyCGH_inrWiFmSwnopRxYW2gV2A0IcUD0Z1TEfZFQZgdYC1EYZpyyfU_ZDzDLWs4JQbegut8CgN1yd_NLupU5RI34Da_JpnbcidQ-AJcZSTrI78zdqj3WmzeKD67SjxzEZ4z-s125ug1cpHtUdJEE14Kpov4aFbVXRZMlfYK8_XiXtwbXsAAFv5yrp5QEG1mHU5TbivTIC2zwtPcpt3__gfKStufh3M1QNHEZTvj8Ppd28IsrUFMFZ_74Be562i9anEhX-g1Mor0VtHt9C70T7rYWbvIR4iRc-AkRMzTGXv4YiCPwrdNyMzeEcM7NiirNXnwCSBR-tMkWzJx4rbz4Yz0dJoXbtAm8FilhlPTcP0tJ3tuTL6vc81mwJmVu7GQv6zr2lWH8H0/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJm30q7XiV3YkRQDqssuycFkE.jpg",
     "address": "757 Columbia St, Hudson, NY 12534, USA",
     "phone": "(518) 671-6230",
     "website": "http://www.cafemutton.com/",
@@ -54279,7 +54279,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A lively Irish pub with a hip vibe, brick-&-beam interior, a garden and locally sourced food.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWx0TrzhfwokRjlhD_Yop39c/photos/AcnlKN0l_3VElLWKGO62Uw4RSYdgrNXW8_zDMn-z7bTfBmXbTC0_96usvYUbG-0bnepnJmHjv9KbhCClWE8om9PlOz-TnYZSsA5xfsxWCEdsd2vWvjymrNMNz66YNPP-5CHMLRMA77Rh5QX0CoWv7dzdid7FjH9ZC1o-rn3YX45vuCvD4gVwgBle0Yy31wiRfXM6CPGGmEvdwRDE3JwzVI6r0Qhnq8QROBHSilwlvx-9SHrQiEBrJ6OzWOeEfFc0ofHnwB62EZXVK06uUFoMi4tp3y-G36LfldY5u-Pv8qIQ3IAvOA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWx0TrzhfwokRjlhD_Yop39c.jpg",
     "address": "30-09 34th St, Astoria, NY 11103, USA",
     "phone": "(718) 777-2570",
     "website": "http://www.sweetaftonbar.com/",
@@ -54313,7 +54313,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Cozy brick-and-wood gastropub with cocktails & upscale pub fare.",
-    "image": "https://places.googleapis.com/v1/places/ChIJIXxptEJfwokRRzu3bQietPo/photos/AcnlKN3PWRIgw5LO9C9d-FvVdGdyVcmqqSfUFooB4vfKFkiS1IPGiYZopwS8V0AmhsJ01YSWltnch6A77AEj7Ac2p43WDaeVNhlbEaUs4Pqjz08Q-7VDgSCll4TH8eq8DDywpraCr1SYLMz5ovvYhOin21RAcL3_Xdqi7PfA3ygeetdEZ9Ti0fagZf3jj_t1xEDFgCzgOiQ5259037HhFmdA-NqM2gMxyphwS2xOfv2KOaKpvedaIMgNDRy6vbc7Jm7RxHgpxn6-kDvnkFpBrZdCidSYgbiYOf-Xqfe2CZELfmf2RA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJIXxptEJfwokRRzu3bQietPo.jpg",
     "address": "29-12 23rd Ave, Astoria, NY 11105, USA",
     "phone": "(718) 274-2105",
     "website": "http://www.thebonnie.com/",
@@ -54347,7 +54347,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_TMNcG1fwokRlh5tmuT06g0/photos/AcnlKN1RGKOS_DTmd6Qu6nHzsgHju5fhbvvTuQOZ-C8NcLFFl0YHzTWMrAH1PsgNrYsmOTuTJq7WckzpWVHyFKSm6lsh2chrTVGug286U4ZRUQN-v129eWgJfrPkx7wse4epWlLynETGxDBUHJrW6RmhqanBcmqzZkm27BbOH908MTIN4Euva17PrNq8l2Dqe52rmJYkdpmh8H-3H-vyS0VbnoaeJADqQvy3Pj6mptCx3o9fuocW57xD-1jHG4ephB6ivJp_RMiev-L1lWFu_5h3W7X9aH_Tgy-Bihs_FLrNfFWv8A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_TMNcG1fwokRlh5tmuT06g0.jpg",
     "address": "38-04 Broadway, Astoria, NY 11103, USA",
     "phone": "(718) 255-1271",
     "website": "http://www.therabbithole.nyc/",
@@ -54381,7 +54381,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "This formerly hidden speakeasy-style bar serves refined cocktails & snacks.",
-    "image": "https://places.googleapis.com/v1/places/ChIJl_wjyWdfwokRf_bKcACVHS4/photos/AcnlKN1dYGJspmLJ_xUroZ9bN8JqQsseNWwmfV4vvE4KVdD2-q-U1U5p82QKuHpTvGrZKPyzv0_5PL9rpBuyDA0R9y9hhcu7HxQ2nO93qAmbLqS_JvNYvDhgd2FHQ05p0hKX4TUo7NkF5JJ7lUaRQ3Qi87bcfhc-Q7vmoMke72mOn3wzQZz-shXJFw6LA-BEr7SoEe2YEKK3jUY6JJOWZGiRMHJsI_lbTB04X7LhX8dATM8v_tx9j6Jx4dBAWeg39T9qgdH1fGrjJureZIYkvaEjzWwISTHTG_-gNy4v2frpxlzdMw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJl_wjyWdfwokRf_bKcACVHS4.jpg",
     "address": "31-30 Ditmars Blvd, Astoria, NY 11105, USA",
     "phone": "(718) 440-3378",
     "website": "http://tlwcocktailbar.com/",
@@ -54415,7 +54415,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Stylish yet relaxed bar offering fine wines & 150+ craft brews, along with cheese & meat plates.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3wU8oURfwokRpl15U337tc8/photos/AcnlKN3dZH-NAn5Hsc3AMi0RMLRmZh4M3L4sMKe2uX1P9a7cY9bTAR5caMA690XmRYX2597DrENeVRNS6u_QzIWxNTTAC7B0Wac_auMKVp30Nhlm_JXFpqgYaDlvBnWSfhsfGPy2R1XZ4xlfVqhyiJ5pK0-jeaIpoybdhkaPWBf61HEV5LmAjmwo1xU4jbsSQdstQxDiq9WGXH_LAWRGUHNstAB9Yd_A5kQlt7BC--VYw_A8V2vDDSr84LKNmpcHkSfirY1oHzDIAXZWSpLd8irAHArJTopQqJ2S9EMgyVfa1VZ4VA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3wU8oURfwokRpl15U337tc8.jpg",
     "address": "25-19 24th Ave, Astoria, NY 11102, USA",
     "phone": "(718) 728-0708",
     "website": "https://www.mosaicastoria.com/",
@@ -54449,7 +54449,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Beer, wine & cocktails served in an old-school pub with sports on TV, live music & trivia nights.",
-    "image": "https://places.googleapis.com/v1/places/ChIJC83PPWhfwokRGqRjY-HJiKQ/photos/AcnlKN3K5_XdrUQogSeavhvH-PhlqdN20sPgmZjNRXXytBt1tA_8xWGpOnri8-zPb_j5ObJfwRNYL4dN3cI3DT-ee6jyC8_xWhKXxC4_lkUPLV7L7UQgeCFwzGFMbs5ssiojhbG_d2hIKmt-rhowTlciL-JAuhvT2YaK9F_ZTR0FmgVFeSfUVjZMrOvLlQtjFYRP8r2OGPnyHzVU7g4YuZX5RVHnGTM1USI8sn4LxBGbRMCjTfgwm6RwP6STIZQPn7DZXt1yWK3xAGvrWxgipO_UQpPQQtQK2snUCS1Kxw81GkVQzg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJC83PPWhfwokRGqRjY-HJiKQ.png",
     "address": "33-16 23rd Ave, Astoria, NY 11105, USA",
     "phone": "(347) 813-4954",
     "website": "https://www.instagram.com/astoriatavern/",
@@ -54483,7 +54483,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJdw23siRfwokR80oXumBYnVI/photos/AcnlKN2ez-BgkaKB8qefTfMutj7FddH7F6-SG4I1N-hbkVmYQkBqRQeEYzzs2ONc6oz4ulCmUkc_NWD6m8V3cvXvHQtYZ5cVsMNHdu2VhdnZU36inWV8nzmf1JWAbXY8O4Fi4VExUCF08f0-rudRjmBto-FgVqODcf5jTS5OLM4xpQdA7T2kDnFTJK8ot-eN2cS8mvN2bkSAU8mb8wSQ3ZFA6t02Fox_VeA9rDj_Nac1ylmvgz14NN8sid7GfpDmbq_OLzOo3pfqNc4CE7W2nRl6KgVR87TuFIMCOca8AdSfNit6ng/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJdw23siRfwokR80oXumBYnVI.jpg",
     "address": "20-30 Steinway St, Astoria, NY 11105, USA",
     "phone": "(718) 726-1600",
     "website": "https://www.codeastorianyc.com/",
@@ -54517,7 +54517,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZ30p1aFfwokRNqTe7W7ymfg/photos/AcnlKN3w14ANALye58N4Oa5IkqA1TePHp-bIgt7-BgPBu819w-S6Pgtpprsuz46RVkBO6YxtEulUQZrXyt8Zrry_FRymAEABsPlddw1_ZtmJU3bGEWaKcYgid8bSaKL0dWkTRJ_agN3MhKevJGjlMNzxXZXYG8KiMlOOujkbedCgRCI7X8UfOC1ukZi63Zr6xcPaqys7uEsHVr57DyO4BIaV3WZY25uDzJIkgtzIUlGjpPywwk2VI1Oy-mN-EQSruLXWMFcdYrP_KSK0wyPxYUzgBWIKdsPxvEOHizFZNpD9vw32Vae0cKmJsuhr0Fotj2Fl99pf16yeoBcD1BjKSeS5cjiqBgr64qUhG_fCJ4bWTqSrJRIAAY4AkM4lghLcze7EeFiGepjHrmUOmeYWPrHE7RK2QTxC4KQNFFfsyUkrWbPJfQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZ30p1aFfwokRNqTe7W7ymfg.jpg",
     "address": "35-07 31st Ave, Astoria, NY 11106, USA",
     "phone": "(347) 832-0661",
     "website": "https://hutchastoria.com/",
@@ -54551,7 +54551,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Inventive cocktails & draft beer served in a contemporary Irish pub with frequent entertainment.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4auICj9fwokROuSvcJQMppw/photos/AcnlKN0cLExzgQM-50WfH9G8MF4q0xZG84NVfqjRCcke0cTYvW2M36g4ciZl5O9Qv7oJq_npeeQdRvVKyBjXU3-wghbOzrlqN0gw6a21W9OP8MxI2lJURFZkvFnH5I7LD4SVo-ftV_oGG9AO8PVQFoJ4RhwmO89DhyYEW49mdJIHN8F6pfgYtcRthkRh6Lr-JkvN-EsuCYUjOtPZPpfNShOCKawrsmvo3m0lNaKq53ljbqfzcwZ9D_hkUMQAqOXSRdydbMGQUNhkFkzzsExJBhTZSILN8noT_nv2kMJHCb7-etrgjQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4auICj9fwokROuSvcJQMppw.jpg",
     "address": "38-14 30th Ave., Astoria, NY 11103, USA",
     "phone": "(718) 204-2111",
     "website": "http://wolfhoundnyc.com/",
@@ -54585,7 +54585,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Relaxed taproom hosting weekend DJs & serving numerous whiskeys, jumbo cocktails & pub grub.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXwfMPy5fwokRuz6hCTUpZ9o/photos/AcnlKN29rpkP4-tfQUT4MmrJHYUQAeXiQraTsbH_wNSnmp-F4oK0YPXkCfXm_QDvEUCQRAV3w7d7bgjL6q7C2RR3JfrX-AB5OLQuRtQXQ5CHo6abqqJGYsVZmDopaoE669lIZcdhe_Noj9y2yE4M1Pf0DJk02-4-mBVvUqgwaeFmsRf6g4lW0yK_52cAHLSQ2qd_eQBk4lQpm4DJ4REVp5KQ94X90QRJaRSTvkBtrQ5W39q3bZIiBFemkh1MJdtddj2wHSCBn4jC1Hyli8sunBFp2PDAS-7VVaP9WgbCpiKjrRWGwJSC5PDtkOVfmhIdO9WeW-Jxg_gfaPqR5-fHsVWbgT4mcGhVQV8aT7sJbHWOnMVkHMrPnpxCt6E2fCI-S_ax6B-1tEO42LcUWiKQMbbHfKilVsMXRc1jmY-fXeykEJrHqMuB/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXwfMPy5fwokRuz6hCTUpZ9o.jpg",
     "address": "32-07 36th Ave, Astoria, NY 11106, USA",
     "phone": "(718) 204-2070",
     "website": "http://www.maddonkeybar.com/",
@@ -54619,7 +54619,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Laid-back bar offering 20+ rotating beers on tap in a nothing-fancy setting with a back garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3a1Wmz5fwokRi4FybKR36t4/photos/AcnlKN3V1b4qRl7rMF2RO7WIJq5rECaaA2maVuPLgAiMaBv1k4SlFgQvGp0fNO8w0ULYF-vYf8RIl2NHrHZ2LDJjVhFZNY9QYX1QFKtT-llBAWyIHWMI9cEl2at7AijehkeUDIO46Vnw3uSrvO3o47eQ78BrUyhGEUZ0jpVMm0dEpUrdCDhdh1EFitzUao4BDizVcbDJY8JmPS13Yc7XNaY2sXDbSTYYaKHBRPg4Tnfs0glHe1jTfZiYX1vUNfJQOoAFJaCWbfJXb5OPjDV40Vf8EIwegxKQ_Kx9rvjsBz732d8fSvPmOHj9Se03qyRsj16zK-bWs3Ukma7mBcinhhuZRaeuijZ6NYQ3Vk-5eNX9om-oLybzwwbJIn9b3JqcaULoMe6pAD7ahGQGCN8SNhcuPFkM3KWunklDj9k1KZpWnFuS9ok/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3a1Wmz5fwokRi4FybKR36t4.jpg",
     "address": "41-04 31st Ave, Astoria, NY 11103, USA",
     "phone": "(917) 832-6797",
     "website": "https://thelocalbar4104.wixsite.com/website",
@@ -54653,7 +54653,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Snug pub pairing craft beer & cocktails with innovative bar bites, plus DJ nights & Sunday brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ72J3O2ZfwokRKcyw_siw980/photos/AcnlKN0onKzcq_yn8d0_SC5N8QVJ-d7fDk6uwH7dcSqMNt-hWnDZ-pi-m_q42Xcsl2ZAdnZB3oHjJR1YvXP6RM74P4SswqU1UlGwwion3uuSdxaa2elKnrwr1BpPWXaIHSKDJlUBDqafXhDFh_TpNKqO9EJ0RalSbU4ECdzea3FtltE8xkXdBcrR703tTwjbUJBpiZYWL38nfFdv7rYiCVAY8nfXjC-2vXm5mfxZ5O6xx7KSRO-WMi2NArX9q9Fu8YZhdLViK7uQj_Q_1BBBZMUkZEGYEL8AF75Fsx-DDAUAg1Vlgg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ72J3O2ZfwokRKcyw_siw980.jpg",
     "address": "35-03 Ditmars Blvd, Astoria, NY 11105, USA",
     "phone": "(347) 617-1747",
     "website": "http://www.thedittybar.com/",
@@ -54687,7 +54687,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJX_jsOiNfwokRMyC3CL5oSOk/photos/AcnlKN3wWTCPsdvjILHVAK55puSZtN76lI7JEseMzKoRQgdDZ-tkEe_xyvBqyHgujkFOHCQj8lQSGZxCZ8Qws0Cwt9p3t6fmQ9qsBmt_5Z7IpeVLdOtBef0H0YRwN9oHtrqj4bkRwfofLC_Yb9W_ctQfZVGKniDkCMSBNBXqvbbn4YEUYErdX08sWEptG4PUKVt1CtMzShTl3_ZDtSAJiQyYjuN_eHI3xs_dBYsRpMP26XL2rUTQlpAH7D_81yxp_KuDAGzxHBUOYmmtX9ZIrzcYH16P2Ti_q_kU5xuPRDSqDzlLPnkAw4sk1e1suOgqz4b8FcS4a-xIE2GAlDfQQxfborOHZfzoDjC0Or6RNYWg2ZOICD6QbeSQKJ6DsHI9Bq7JJDh-ZhmN0EqiZgeebmDq0vqZPcLdlATHni3zjdRc08hNULFJ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJX_jsOiNfwokRMyC3CL5oSOk.jpg",
     "address": "33-17 31st Ave, Astoria, NY 11106, USA",
     "phone": "(347) 507-1218",
     "website": "https://www.bardalia.nyc/?fbclid=PAAaZLUfCGbyFNSsmzP19aQ54SyZCkfhMOZIb4P8b-aAWwrbb_Grx_fWi3_xM",
@@ -54721,7 +54721,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUSvTeP9fwokR2KFysbirIn4/photos/AcnlKN0KshFYi7soi0AaMKVEnY9av25RzkfzuR3l725vTykOurbCa1sJ_GeURgHxW4PZTsNVgXkcSsYRsIxscakri9YabccPfj8Ion1qSk_GaMv2IAWyfha9HwHtIiVfSvbt9YD49SwFHtIra4QUkByX4BalHjp19hNoVu-i3t4TJsroSlpBfCTx_TuVBVolEGrm2EvSsx0mmBkuF9p3nxgBrWgWVY8c3ZU4nH9_MT_1KLK3i8_855X6eQn_pYegHSDsoe2y-YQO7JRKsdGx5u-ALhOYYYfcza9E0XOXuvYjujF-pQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUSvTeP9fwokR2KFysbirIn4.jpg",
     "address": "43-04 34th Ave, Long Island City, NY 11101, USA",
     "phone": "(917) 396-4144",
     "website": "https://www.drinkologynyc.com/",
@@ -54755,7 +54755,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Easygoing pub with many craft brews on tap, seasonal sidewalk seating & updated comfort eats.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ29akrDlfwokRcKncf-SQ7bU/photos/AcnlKN3xXBZlkk5EFZZl55JnjTCxsDkExa2tZX5clGZ68cEjfJqdcZOvN8HVnkDPyqTU_Nyw6Mvfq3bjFeVWzxzopPsbgkx7LZx5Mto0Yoyhj7Bf0npO8GdCuJZSBXMTe1RxlrbK9SP75O-OGOztj37ErVfBKZSKs0JYNA7UBsHLpDMcmwGYjBWkeRRp81f26nl9fz9hvSxt1bknNrxra4gEk7XJS-wvH7sP1XOhOvwYyJFPRf6t1jeShxd-OYrAMZl_bdmvCSUFTPsQhqjLpOUz_PcSynfZN8HiaTtEJJKDHLm0MA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ29akrDlfwokRcKncf-SQ7bU.png",
     "address": "30-95 33rd St, Astoria, NY 11102, USA",
     "phone": "(718) 267-2735",
     "website": "http://lilysastoria.com/",
@@ -54789,7 +54789,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzcBCoP5fwokRMJFj-1jL4Gg/photos/AcnlKN1pwkJOgwJPjna2ZpGuO-FY3QfCbKRJEXCEyJ0R-YFh0dfO6uDq4y2QkFZMHSKaI4MQmRUH5t1o1aGLoKBEq4pCuaVC7LDPLrUshYUVCdGGXo10I3s-1YBU_7WbUal1vuga8PRZ1h-CDuKzTnmAG23UVfos1y8gkG4-RDNd5gHEXd2RSoxTGylZin0snlXUfB1cjyJcPYLXIORFGKzq8tpflAi1BZR1OHvKn7HE51gFB5-SihEQfbd7KE_5iCBEsqgOB62n0ANjBbeOzoPXOGPe1ZdwjaxTqkxBLA0A59XN0g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzcBCoP5fwokRMJFj-1jL4Gg.jpg",
     "address": "32-11 Broadway, Astoria, NY 11106, USA",
     "phone": "(347) 448-6678",
     "website": "https://www.offcityastoria.com/",
@@ -54823,7 +54823,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "This low-key gastropub with old-timey touches offers rotating taps & a menu of elevated bar food.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ92yHlTtfwokRbNk2Xo2iVQE/photos/AcnlKN1opDLnm9Yt_KKTIYxOv394XEGc5VJYF_zZ7LbEzy-r5GoYKbeH1i39sV-PhRcHOKC5AQ7UFjzolJAMh2oK5HqVQ_dnZ-djUpaldDWlcGjKx-KDv4RJ1lRbCs933PTlztC0FVkQ13BVRW36iwXV3UiNg0EHKR85yguosMHVYHR34wV3r2ciJL56cFU9D6yU7vx_7MWgX-zKMcKpxQx6AIg2mn_AIoj5Bln7zidNUzc71Xhsrq9aupwlhyxYhp70T8hACb9ey6jmhVqVJEcRX7ofFj0MJQPhg4xnFGg4wUdLGg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ92yHlTtfwokRbNk2Xo2iVQE.jpg",
     "address": "37-19 Broadway at 38th Street, Astoria, NY 11103, USA",
     "phone": "(718) 806-1476",
     "website": "http://oliversastoria.com/contact/",
@@ -54857,7 +54857,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Czech beer & grilled bratwurst at a huge, family-friendly beer garden full of picnic tables & trees.",
-    "image": "https://places.googleapis.com/v1/places/ChIJtSsFAUNfwokRO3f-fhaB10E/photos/AcnlKN3vscKKWfPtI--LUL6u5J8dTHYomoTAqAYnrpgQLxydj7Fpq4alu7tC6RTGcnI1NN1eGcOHSBWKhjDS_HfcHuBro8lT-x4xn0sVeXMG0FdnA2tA0nHifAGN2QY13Rq30oAtCUAvvhBtj2dzOlMzzphxuBjBrppnsUiyqsYUK9keT06HqCa-lKk9gdoW0XG5aqIEWCuxyAkUPtYwuMsIaBDdCifFCe4UjLuP3btyOT6YiXzrUAlQWYrfzgbFuVD0606yrr2h1imtPZ7oZSJhU3aLhnpOqJsO0kR_-JU-1cmvwITh5WSXLsD567qPZntciaXz4n3HB7Hc79Hf4QwEk8xCcEfht77SoWMEI1UswHQgYQ2iSXyeohkiB105qBRj2iLETwwaPNch-oPT9HS3fVq0dpLZL3kCak3dFyFab0ly0HA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJtSsFAUNfwokRO3f-fhaB10E.jpg",
     "address": "29-19 24th Ave, Astoria, NY 11105, USA",
     "phone": "(718) 274-4925",
     "website": "https://bohemianhall.com/",
@@ -54891,7 +54891,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "This eatery offers twists on New American comfort fare in a contemporary updated-diner setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJK6yDNjdfwokR_I3wR_rkS8s/photos/AcnlKN1W-TUpni3VSOMzVwW63YnqUpeYcM1T5a_5tV6pjdqj8GQ_RskLbhBdUjZ0wswyrPjwSzzHoPQg-lWIBy3AYwB_tAfEuvgRh8G8ggSnZenjXecrBCxTkIOOOkY9zzjUcAvImXPk9vxfsmeKVXRV_VEqtXqBrCgxd4dyDnkQfR_XlspuipFEhYaSgCwXVQC2FCZnMlKTkVuW4i-ifxNo0J2Mp74zbGlFWln-MW9WFqCvk82CoW0GDaIcfJ0JxgLXF52LbmrY332UX4mhJUKBmVsvWQQjXKGW0YCYjaxl6fqd9w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJK6yDNjdfwokR_I3wR_rkS8s.jpg",
     "address": "30-13 Broadway, Astoria, NY 11106, USA",
     "phone": "(718) 932-9569",
     "website": "http://www.sanfordsnyc.com/",
@@ -54925,7 +54925,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJBTuSXqhfwokRpjEVqzy1U6U/photos/AcnlKN2nmIzJYpoTvWSVmkR8CTllhIN62QlH-5Ht4WXssomjGeEG8IKasaPAP5WEzqiOdBjXh_b0qhLRa-0UokJyF4uCuK18DUDjobhGaqZ1ZTYtYqbkqhGIAIRSRv-vZGneR-hO06tAf6HowyAiVpcspPnPFqsIhbTbbmCdc2iQ6_abbNl18NTX53Jh7OGdHaBmlH6-RDL4kP4bETUeAJ_sI1Ywx4rgXlsANuNAjPAv1AfKxAtX2-9pa2sKtOMoiywUlgJVYDsOrJflW5QoCfhRpIERfECR_X29hWmJj8-u0c0MPp0EjWNJHn0eGGV4IqNqkMOhpDgcccTWMKNlD1_4PVMycKr8S92A_bwDwSfuUr-cQvp-afUhE9-MLhgcO4WeZVYY07PS0HxKGn8Do9R0JGf114v_Cbu7M_jiyHpLLRuRVw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJBTuSXqhfwokRpjEVqzy1U6U.jpg",
     "address": "34-39 31st St, Astoria, NY 11106, USA",
     "phone": "(631) 380-3569",
     "website": "https://www.sottolalunanyc.com/",
@@ -54959,7 +54959,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Lively eatery specializing in fresh Greek seafood & sides that doesn't take reservations.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ90pvtWdfwokRw86tuNLCG7g/photos/AcnlKN1Gh3-daR36e8MH4ZzfRM-L970MWvnKsYSA2DjLx63f6hQOj-1oWNbPrJnd6iB3IEawN_5TzJvVMwUSikot8z7eckLRjzI2efb_NsxLkn0vSpQOUV4-tYsnENaqzK0x7OPd34k9SbYA09-lfFJTQmf64zjpx1Vdx1jdWJ1hqW8S1I8oC2iGJ2npEM1MhfWANJsrfPS4dhcMIyDkcP_jFqzxmYUQRjA-Xnz9cmy7gjclV5fgt8lOvc9IjWPJJZxVCBP3ffO1KYka7ZvkFd1IhvH8BLUvI3arrs8RLq6TQKWhCH-cPnvGs-hK2GHV0QIuSQ5yogUrTTAR3gfU5El9HmStnRkAtcPGnHbYT1VcG33yw9SCN8Ke6MbhJH2a-Y1s7nJnX001_lNfHuCDPnDqn3c7jyOaMAxSXukwBkZCSdJc8ymWSxi3kyTgvNMPZhjP/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ90pvtWdfwokRw86tuNLCG7g.jpg",
     "address": "36-01 Ditmars Blvd, Astoria, NY 11105, USA",
     "phone": "(718) 545-8666",
     "website": "http://www.tavernakyclades.com/",
@@ -54993,7 +54993,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuYT7ZXpfwokRjoiN0LfRVc8/photos/AcnlKN39jz_0Jwf3PyWJ6UyQ5dTFzJJ1PphS-7PKxtj38KzrWuyFc-m_9jeVM43cH9OtZNoRw5SlZyhFdIm6MHeQkya1DmngsXccBw_MucsC7PxJzH1kKlKyytoJUc_0ymi1f3p0yEFVj23gBxbe5PdpaOIEbzuMkcNIIgeMDZC_lFbZu9Xa9Md5aRsvZliEF6EteyV60r3gNEj51K9kQbQztisDf7oQknekaFzBvhvoBnEKAg1geLjRM8gDilWEzRCpbzjJHiLJZatB_y_Eiu8w-2QMIKxbbQQmENYjc2qsZMStzA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuYT7ZXpfwokRjoiN0LfRVc8.jpg",
     "address": "21-19 Broadway, Astoria, NY 11106, USA",
     "phone": "(347) 448-6400",
     "website": "https://incapaisa.com/",
@@ -55027,7 +55027,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Vibrant, bustling Greek restaurant cooking an authentic menu of Hellenic standards.",
-    "image": "https://places.googleapis.com/v1/places/ChIJcy1LrTBfwokR5zUyDZqHSKM/photos/AcnlKN0ARoWoHdZCCbTaa_fHdt6Phqq71plsyB5gMovMsb-HKf5imTNiybl5RSvV5q8QW9SedCMWo5NpBBOvLwEs8MTuxlfYBjB707vg0MmafdXtl9BNHzgqhKskVR4JwVUKvHHPP7UqlqntFzbnYjPeRbnst503H6M_CDUeBE9ampdcjJQ8Shg3rRZwuloxZhbxtCRRWd4uRGKoFWpTlWxK3iKWqWDISabOMn9Yun2vJRjshqJWuLDpJxTn_cvK1By88aBZKoDmoeSrDLv4C7Rru1M0-LS6QRkeCR8iDrYetf5fyEyZnRZMBnLeOfSQlJW5GxGFSveQFEhhNyXXcCvP3CJTRst_j71lD8hWgWQtIrEIofztUj6DI8YWKowMMZyDC-hbHn8KTgr9lk-cHzxItLmgq9JIcHlIrYm3rEp6nhaJ2YSl/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJcy1LrTBfwokR5zUyDZqHSKM.jpg",
     "address": "31-14 Broadway, Astoria, NY 11106, USA",
     "phone": "(718) 204-8968",
     "website": "http://www.bahariestiatorio.com/",
@@ -55061,7 +55061,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Seasonal New American comfort fare, craft beer & cocktails are served in a hip, wood-paneled space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ0-b5H2ZfwokRtFGurZEYQpw/photos/AcnlKN1Nlx8pLLM1ju91mjhMWuwbThu6wc2Ey-kMMSaQ-jjHl4Bu3qR9wA_TDpRoWYHKJqyaXezBu8sHYX3m_5wTqAGTNZyEkVq4m3KYWFDGdbj2hk-N9mL47KIdz36c95nRpXu4nEPJQfglVPO6eGKcdje9iQst1-THhfKOBD8LS86ZipJrOSK6SrtrBcNQEd20DFVTi2axnCXDc0_faP9tQvYIv2tHEO59rBOJxOi1UsnjOyhMlfELVbTJpz0yXrzoF-KwEnmvb97JXxjelNwM-GQKboEzHVWgNYaTh7hoUCvUSQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ0-b5H2ZfwokRtFGurZEYQpw.jpg",
     "address": "36-12 Ditmars Blvd, Astoria, NY 11105, USA",
     "phone": "(718) 721-1579",
     "website": "http://www.thepomeroynyc.com/",
@@ -55095,7 +55095,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Family-owned, counter-serve seafood market with create-your-own eats in busy, old-school digs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ-ecLnC5fwokRTsOuoOsTC6U/photos/AcnlKN0DYrTSJlS0TvaQ5SgwkkU5yeWxuC5UwIBueoyVOc3YCA9LXnN67Cj2tffCIjrrwDoQq4Z8FtWz4KnXicVJYvlSswA3yKUcgPHkkOJROSEHUIWINB91f7jKaFvi8Pqcv-yersFWTLIPzTiweCp0KHI312h0usCcSaMXq6VvroKTx-9egFTW3T8xZSMutCGxM-NGPMZScprGgUPSUXvxfaXBStwzKsQFz4ELdCiJvQhCLRYkKUmFfYHRbav-bW6iu4-IyBN7fXGx7VmpdgQElMEjwoY9zJGqmDvmPv-vdwZ_6Z9ZAjKt4HiUXL4tHRtk2zmeNj3cN2DJXmct7qZobetAD3BitOfXKSmAdKv4ZOvkYUInPODLVtqQ3ALHLlz2VSJmUnfjLrXoSSLMt76GJRaowABsUDTSOGTaiMj7zs1s0w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ-ecLnC5fwokRTsOuoOsTC6U.jpg",
     "address": "37-10 33rd St, Long Island City, NY 11101, USA",
     "phone": "(718) 392-2680",
     "website": "http://www.astoriaseafoodny.com/",
@@ -55129,7 +55129,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJx9TFWhBfwokRjqfzfLhojJo/photos/AcnlKN0XePzJoOVFWT94a-3uJpZ0AOWz4D_oYgo5cw238fxfdx1NPTSltHGfZ79NTgErMcHFSPSCBskYXc6rM1JoRoNnsifVJq7qF-_CRYUqAIH0_uJ89kR5q3vOurMVK978gyklygrSOItBbWWIYbCass6u7G2AycfHoWCgPRYkx31ae-ZO1mCK7tGxrgyqc-wNUZuEORaHowvn5XSoTT7ha_Fg11riYLZjTGYaRmG69xMRYq_ouiQ4l2Gjr5vt7CjeSqG5J_XEzht3LiGc89yjhY1A7i6QIlSJHCucK8CKySbwO8kn641bg7dFtcF61bZXeedPRMksa3Eh4_RwrRueKeo1RPx6pZsLl57LZFO5IJd6ZuiSzD28AbdIkIgNGSrHzaQyiu6g4YJRW1XAFOsAq4dqIC776A_Ry8O3sUz2BXSdyw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJx9TFWhBfwokRjqfzfLhojJo.jpg",
     "address": "27-35 21st St, Astoria, NY 11102, USA",
     "phone": "(347) 527-2199",
     "website": "https://www.truthastoria.com/",
@@ -55163,7 +55163,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJT_u98g5fwokRuvVezU-XDMg/photos/AcnlKN1nqH7EexLcYoS63tM5feq228HzA5uLAUUFMl6fiu_vCwqo1euXAOI0H8zu264vIagM0iNMqf8zl5mrHU-5xTlraGY3wpgeyvBO9oEdfe5i0Av6ULXtNJnOrFvlaOCoU-JVonH17tfEHGJni_bwUMahAgOEHMzkcBYcLMGdWWwbbGtZp6iCp1noQzAsFhBa0eYPyxMg-xyW_JmEoy2lUEvil-BHVmsLWFzytxrtqFUZVrcxFNyuFBjCQTAeCRTscxCPe_3p9QaHauPeAzX8jUYrmlYDgHXD6WzBAQbt4PWerQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJT_u98g5fwokRuvVezU-XDMg.jpg",
     "address": "28-50 31st St, Queens, NY 11102, USA",
     "phone": "(347) 997-3070",
     "website": "http://www.welovefrescos.com/",
@@ -55197,7 +55197,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Greek restaurant serving up marinated rotisserie meats & whole fish in an elevated setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJNcVXxklfwokRVyqI-jhfMFY/photos/AcnlKN3_FHFPO1_mqa0-MG7iOgYqZIyh3zDNbz9s5ZvmjUx2Jnonnsj3csY1_bvE-v-wzyetuzZGkN60kH9hpOeiqHFgaHePfYcxTH2dqBYGFDdjRZyyBpCCmasFI3cApq7x_mH0J5EIUpL5wFUc2z_4jprYFBu0u4K6X8lehhfIfcyNo-m2TFYqAxrS-FdEzvSgH8jMyJU-GIGZUiYd13NV8S0-a4zymKL9ObxK45U7BQZmRoPqJQ0KOAojYA2FB3LmYI3oguyM2g7WVMw37b7RFejLHCTMvgIMoKoOB_QOYCOQrQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJNcVXxklfwokRVyqI-jhfMFY.jpg",
     "address": "33-19 Broadway, Astoria, NY 11106, USA",
     "phone": "(718) 215-0228",
     "website": "http://www.amylos.com/",
@@ -55231,7 +55231,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "White-tablecloth steakhouse where the beef is complemented by creative Greek appetizers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJz2taOGlfwokRk4xoDPMRWbQ/photos/AcnlKN1CNka-mRvAHrv_hkb0CtbzwSykmSdKH0a38P1mVenvcHFNX2qlKlZNqbb-oO3cXQF57rYgtB9phrEyuxTaXdICx1DPElfmgn4K0j_yH04gJTX8DYFtMufc4MDNlkU1anVj66VB0iYyyp4hzwHj4UKBStQ8retm-yOwlkvkb80c-kuZ1n7semVWxZvYaqqJQQ93AMo7sHpDuXHk66uQ-dK9bW_F9UOFS1NFSrgcLvTKnqGG2wUCcEj8avR_Rsqjdh357xgA-v3AQaSpVQwGdcsMEu86hgt1IcHkIDmgivB4l_jv9g5iffCxemBlVruc0DkkrQk5YEOS8eHH3G2SSc7tmFF996No3hqWmsf0yyn-I-AH287RlcJv9Dc_t4nzEscHUGBSKE0QbUtSiLzNLxwRKbJ4v-EkAF0poSMGJtlVU5eN/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJz2taOGlfwokRk4xoDPMRWbQ.jpg",
     "address": "41-08 23rd Ave, Astoria, NY 11105, USA",
     "phone": "(718) 777-8400",
     "website": "http://www.christossteakhouse.com/",
@@ -55265,7 +55265,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJtSFIicJfwokR_45-KqmFMQA/photos/AcnlKN2LReOVl9g6ADeufBQuj87i_RzpXjyUmApBAUQSQufm7sWEvb1w8st8XCcweBcvulYqq3Upg8LCOI-xnWZJ_bT1QIZ6nqNIaqSmlL7vPGUvGpLCueXgPuWHkDsdlCaDfuBpUIeZApmvX_CeJqDfu5-NUY8QcuFBHqu0FgUqx0EcNphOo8toKgTdX58l9w_IytqCXxl-MEilI_mpJ3WooGBKefIbRLvq60oTVvmwOc1W0HLCxXQPYQAvgRCHBEyejHAll4DWmrYxl9hd9MxqEtcplIzZP0vs3_u50RyqKdHyggmccMD-fBi4tKqoi0LX8qi68rckdrGFS5cH9HA_ks697UhnsTbukskktgVeqCjcHrpSdM-_SelaxN3JRY6siQHPddWTngAUbLb0VEpsZK-cV9qxzG02SLHA0OqoekQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJtSFIicJfwokR_45-KqmFMQA.jpg",
     "address": "32-07 30th Ave., Astoria, NY 11102, USA",
     "phone": "(718) 440-9295",
     "website": "https://nisiastoria.com/?utm_source=google",
@@ -55299,7 +55299,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Rustic-chic neighborhood joint with homestyle Italian fare, a variety of wines & a weekend brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJu_ZPCDlfwokRNS7856uUxDk/photos/AcnlKN1EtZnbOcrUSy6JRpMZ_HYaKE_Ty1AXYiX5tZdaDwRqH7ZGFGUR2AkrVtNbxN3NgEYsiveVaXVbsaX-AsEzsIf9cVFu_h0ZfJTpQfrLtOVwcn6nXNoNXMEjWGYwWn7XijejU8FMEe8adEjphH2sQafwSfZIlGX1pu12a3Dw4jRbJRve2sE7epqrgaa7BMBGEoVFYZVbcQWbZGw6zebhHFHpG1KxZWcns0MkdKQ1mg2qvhErWs0UQtzWlKzP9bflv9l-P3DE7YL0sCh56gOgpeVYgC6A0qMqv1jWRSG2Tveogg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJu_ZPCDlfwokRNS7856uUxDk.jpg",
     "address": "31-05 34th St, Astoria, NY 11106, USA",
     "phone": "(718) 278-8483",
     "website": "http://www.vitevinosteria.com/",
@@ -55333,7 +55333,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJufkQ_9pfwokRe8KcMNHEBLI/photos/AcnlKN056BB8Qnkz4fxZmZMERCMfktRQsVw8xE0hbAEuMR8303z7mBykkkqQkzt3NMI4FvpeQLZ1wZW0MoLIBGa_W2WoyR-eaWBiZJsx3Tzs2nPEvpysxHZ4dfnonCcWJtPIED2oMm64hBiKJxjPtbSWi8ufBAN8SzWJ2tCBscMKeonKlXquFhHe5ss-y0JOM5ZQtS8LnX55aAouZkaFdkypNMxri845x35RY-kTW7I7iwJ56S6Af6PR0a-RxLtzICD5ivLSNqOfbk0LfhITdKGRx-KEKTXyZLl_snjBegwsc3vzsA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJufkQ_9pfwokRe8KcMNHEBLI.jpg",
     "address": "29-17 23rd Ave, Queens, NY 11105, USA",
     "phone": "(718) 777-9477",
     "website": "https://porta23.com/",
@@ -55367,7 +55367,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7Ws_HhlfwokRuyW4Ktxir_8/photos/AcnlKN3i3BdrWIq1X01bh3bIBAekHXMNEX2L2f7isQjJrnwoNIaORB6_fTlKSokLapIrgIZs1wZJSDO5GQnHzpTMJCp2jYNL_SgWr9hvVKD-yuLWgxkuRBTl-9jgQOo4WuuUzg99nnQ6bURxU7wL-tEYB9ty2Wuyk5n9z1g_ZAKGYC_snGehcnjXYCX8uvO-Nuh4_q9kHNCqokKOgEzbpgTubow_ShS32s4ZB1FY5sFjNC8OxEij1VSI3Mtcktj0HTA8w7zVQhw1y7-VEHCph441tqWWxJmJED8CVmYdp38OQohrQg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7Ws_HhlfwokRuyW4Ktxir_8.jpg",
     "address": "43-11 28th Ave, Astoria, NY 11103, USA",
     "phone": "(929) 522-0999",
     "website": "http://kamraithai.net/",
@@ -55401,7 +55401,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Comfy neighborhood bistro offering burgers, all-day brunch, and other American bites, plus milkshakes.",
-    "image": "https://places.googleapis.com/v1/places/ChIJg3PSVDhfwokR24ybwNy-9Ho/photos/AcnlKN33cxSEB9t2fZTwniKG3f2lTWw28cZtJtGWd6gd_s7jXJ8HTmFpUVjJ5I-wuDUuQU9AL5ZVCRGfxcD8vZ7hqeKcIBPFlao4eg_UMweeykbYXjlx5Cx2LOeGmSdIx03iLlckqE3no7kLSiXNCil56fX-fAJDPAFKX9RYKa5oO6C__FhcD8oz_f_h9ZTUxGvfvjGmgFXtnVv6m1mvmxfJLOz7TR91FOLZlhPjD1HaX0PcndWMvO3BTh8JkEJiH_VC0GsqwmgMpZ7f_IihYuiUqJAGlD2lxhP7KMkYiHvEmYuA4w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJg3PSVDhfwokR24ybwNy-9Ho.jpg",
     "address": "33-01 31st Ave, Astoria, NY 11106, USA",
     "phone": "(718) 267-0142",
     "website": "https://www.eatatmomsnyc.com/",
@@ -55435,7 +55435,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJe5kMylJfwokRy-n5te7zDd8/photos/AcnlKN3KAhv9L_bZ1SA7z7tjBFTaNA2JHc1Y4OQ2IPeVOvJ_ElzbdI67dEceSkWrDCaZV9IiEYhc8yks0NLM3XcsIwb2tqEhALSOUWJSLpIK1jKgGGzSCyGzkvfa_pu8k97FTigo36x1kIBeAqiiWJ9LvnF3vCJGf7dnJkt7BZa4AsjtJPHSeQ1VZ0pRrSP0bWUDCQYrqHf7JmZul2fYv4fUeWT7BDyQrp9NAx-dwRoxgCuqVJNFGR2VmR8dqAh6Dc-bIVgCVwkJ6MaalCX5Xrg1XpHPBWzrP9Xqvpz4JYJmZmYWbA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJe5kMylJfwokRy-n5te7zDd8.jpg",
     "address": "36-05 30th Ave., Astoria, NY 11103, USA",
     "phone": "(718) 673-6360",
     "website": "http://www.mimozany.com/",
@@ -55469,7 +55469,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Hip, rustic choice for gourmet wood-fired pizzas, Italian small plates, salads & craft beers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJnyeHDzlfwokRKnfZjO04r_w/photos/AcnlKN33oQTw5WFhydlh7cQU2gFTQ-lqJHgPyD2Bs2g00n0BkuoNiaJj3SuTdTgBSWq0WxqMbrU54qsKE5Z-kPcuZjE3i0KQhhd8kxf1TrQai4HQLKKJzLvjw-ZYDVQKmVfL8zmDrsXZYT4EBVnyu1cmmvVNoU5BMFmi50wFm7hHxdA2QocUYYATQoWCdhbq10DcM8O6P7DamzvT4JinoeRZHqwiCWofMIp092MoQw_gpl7wYWt2xCP78KwtBB7AnuLlzTKrUlnaj_GHoecUG0PRF1RlBgIh4DKvfWFwjr2fJj7LFqWnuUFE6Ziy-4zHDr0aG6tDjxgZc-PaVo1ZVAwJVH4Cu-0gurzwD1JvulDYo05NEFOJcWdAlR60pQfRrqIvOl8UdZ365oUUX7TAIQWN0kvgmvWDMGA8edxB1-P3mINYgJSY/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJnyeHDzlfwokRKnfZjO04r_w.jpg",
     "address": "34-12 31st Ave, Astoria, NY 11106, USA",
     "phone": "(718) 204-1300",
     "website": "http://milkflowernyc.com/",
@@ -55503,7 +55503,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Casual cantina serving up refined Mexican classics & cocktails amid concrete floors & mod seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJv4bbdSNZwokRCgKfDGF8az8/photos/AcnlKN3OAObjT6xpPMMgahbNrleCRcGNDh7cxQH2eCfT9hK-4dDL_MR_EbiHiGVHIPcElT0hcpo-fVhx_5x9u-fRjv576p3amKJgvBubJWQ5hIAxblghiQxEYAyq0AY_Rp9_7rLQiH_cNtgTZiOCjag1Gk2ZT74OXYYxDzseTlFpv_hbT8l5UrfSYLhz-g64wKK3JQ0RKy-tdwmJ94N6RvAVMhyZh8aFfwWuWgzQiIR_ryk60uED4XXBXf-Rg3-ZxWDf2edYr5f0EnHVlpM4ca7wU1zy43FQ-H3vsbvuy1m3qDA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJv4bbdSNZwokRCgKfDGF8az8.jpg",
     "address": "5-48 49th Ave, Long Island City, NY 11101, USA",
     "phone": "(347) 448-6040",
     "website": "https://casaenriquelic.com/",
@@ -55537,7 +55537,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJDxoRVI5fwokRe7CFVS6EWCI/photos/AcnlKN0ugww6MUO87aN1tTYiaOvgzP9kKSHF8C6_ceJlijPWBlErZTRfAMxuotcY00NYdWDa3wzCnYDVKBghlJ74D5IV2WMJhzNzDF8o4jW-aczZVWXkiRZU_cD2GRZNqlAhciYhtsrxrpUGfO2gDftGDj1d59LpU4Iypror04gR88wVZO4pB98kO6opBQupT1JA1uhGoS4DNMzSSQYP-6cnBVTyHsTVotUYB-zzwhZC9nYxRXkQTv80OF81BHcbmrlHTWPkaP_d23_2u-vwZjkD7igSwhQyLk93QMxLSifos8pLxYumV4AaeOFVsTGXIMiSuWKLubGCWNSzbsUgyucOJS0e_P_kd7imYOXRNIY4e6hCiM2xzbzoXE6ePpbCVVrdILc3TCqQcGNegR_QKNxxQGf8nSm9DuQOYjralWsvUkuVXVVL/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJDxoRVI5fwokRe7CFVS6EWCI.png",
     "address": "36-15 Ditmars Blvd, Astoria, NY 11105, USA",
     "phone": "(347) 642-3012",
     "website": "https://mymenuweb.com/us/restaurants/1528427/?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin",
@@ -55571,7 +55571,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Warm eatery & bar featuring craft cocktails & raw oysters in comfy digs with a vintage vibe.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwX48nTpfwokR63DTWAN8KyA/photos/AcnlKN1wJJzrfNLtS9UDmoKIztaNCu-pakk2ZJXmLZjFKCptdgsqwWXjJP8RP_ZzFn6VWFo0S47Phh84te-Ak7PuEfOwyCMt-OYr0k43O8F26UBS5WqLE_08Dw7xlrverEn9xM52XUbE8nfYeAPdqRRwL_Vb5vJtvagngyLPq05Em4rGlEGpCr5bTd_o2BJN26ISURwZ021ZYaUOGJnXHz6lSvaKG0zNOrLBp6AdnCK0Kve8U4-oRq-TX7P7CaLt8Vb8o5jAuQvOdrfgKEvAGXLn3mOt6X0s9dZyhBa5oqLmUI11zg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwX48nTpfwokR63DTWAN8KyA.jpg",
     "address": "34-21 34th Ave, Astoria, NY 11106, USA",
     "phone": "(718) 685-2480",
     "website": "http://lifeatmars.com/",
@@ -55605,7 +55605,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed choice with a marble bar for modern Italian dishes, gourmet brick-oven pies & imported wine.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWfwJA2hfwokRnc4dKjEYT5A/photos/AcnlKN1oGL7V3B9IyvQLQFMc6rGuOzRW4qG7Xap3UDdDXEYcPArKAr5nZyslmdYDFyydHWZ5wU6cyCWz2Qo7yCtjC8ZXrNbTbhsckPmRy1Mq_H3opYIqvKBhU9KS1WMJkBmEOBlbRW9HKcIaZe9ALjm4ecKIk83hK8Iq39xnMcH4qpEehNYUeb-meFsqofBHP4onidUPj5uLwLh7qpurMh3mUfkyakkwIF_qjlUUArQtnjTV4_-Z03KztiROZV_gxHup0CFBpPPU-CxjqNf-ZDqjSRzETcrSncLlspanwt3OwMIQU0Jtb4fHqPASohotVc70CtYXo8TSdDGIsJtfNWiaj6k9erV-Couc5GmAW06pvKbdr2mLiFCK6zCChVqqGdtR_66dwg4fN55rRB8b-EBDFJW2CVKHQxdYg2WMjQ44R7om57Ws/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWfwJA2hfwokRnc4dKjEYT5A.jpg",
     "address": "31-09 23rd Ave, Astoria, NY 11105, USA",
     "phone": "(347) 612-4334",
     "website": "http://www.viavai-ny.com/",
@@ -55639,7 +55639,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJb_qJR9NfwokRbMbyA_hc4uA/photos/AcnlKN3TBCpPvYk3zfnFcnOiXQjys9NOJSXTxN3bKOsK-vVZhd1ZgPivK8tpbOJAZmNk885W5834-4KtKCrCxxttynTZqrRqg_QdBmNhfzec3xY-xMlER7xVnB8OykFRlkh0JjfojaWxinfmU59mOsRHVyseI_Gb39a4nLCv-zqNGxPlpv-KDQijy2KnUviEWQFtOdJyNTSmqGvnjh67Efa8HsJvjAufnPSxgSkjRjfS3j3iO4u_wdWRUEZM5xtud1VPLL6s9cEe12PHxZn6omWo2MsUdmUA_0RYw4cHIGQmx_jiiQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJb_qJR9NfwokRbMbyA_hc4uA.png",
     "address": "27-40 21st St, Long Island City, NY 11102, USA",
     "phone": "(718) 274-4590",
     "website": "https://edgeofastoria.com/",
@@ -55673,7 +55673,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHxFXl91fwokRIS0l8mtuBNk/photos/AcnlKN01MQaJt9lZiqet8oFzMWNw4Zxg3cFC057BivrvVGQRGGiwt3w2FCYlV8dKfo5Lf2tR_SRDGuilXX2vsvXjqRK6WilKxTLh4DHt3N5AsN8kY5Szz0Dj0NVxOGwGAsdHnnwDfHhcZVeNbAE_MYgQrdFSB6ymodbBKO3LaE3j54rTY3M511eqW38iZMaffWJrglPMlXtfT_fnYjHl7Xt-e1eec3t8grnr0ZXj0F99wi3c60Nq8OTmd646etv9QmxVkOEeHDWDO8_fBIhTd7YmlFoDE4uYc2k0hMuJRIwLmiGz6w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHxFXl91fwokRIS0l8mtuBNk.jpg",
     "address": "28-04 Steinway St, Long Island City, NY 11103, USA",
     "phone": "(718) 489-9064",
     "website": "https://smloungeastoria.com/",
@@ -55707,7 +55707,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJb9jVTdfwokRG6hrqM9YHGQ/photos/AcnlKN1uwBIy0WA8oRZvNKIaXvhGImwkEegYtAN6Y6JPhiyIEq1Mph5smwA9y-7g_kkFgtEnurZnBhZ7tba7jy1O093Qv5K3WNCNgCck53RoSazrqgavJPsa2JG6gNIQiEQlZDKqV2elXU1MdLJST5FVz0JHVEpb_Rd8xr3AwKF-vVZvlu-e8yhZGaK5DbCf3diMZn64KjeUPddRDgSHIxotJMCF0aramLqMyPJHQGYwSSQq15iB5xSpXHO2rzqtiXCWsKPn08sT1dnCik36MKiP1snEzO-2xOF1vbUORXi5okc3MQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJb9jVTdfwokRG6hrqM9YHGQ.jpg",
     "address": "32-03 Broadway, Astoria, NY 11106, USA",
     "phone": "(347) 738-5989",
     "website": "https://www.badhabitsastoria.com/",
@@ -55741,7 +55741,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTziFGUBfwokRQfgokclDIQg/photos/AcnlKN1PUazWmSxiEo_B_EY8lXZSp05ulD6velvvKebMSLXBwqjNmtRJB6ZFhEKD7hSK0TZDSlBc4QLpkOiYnSkCzXNZT3ouceayFhT53MuRpY_Wpkuv-t7QmB1Va5QciaU9N9DFyL9yacoRpHOvME5NLfOkRClpk1A-9gX_Z51I6BeeLGj7KfO3bnZ6DritoSDLfgi6MpnnpreYN353lOaaycuzGZ3nbESYPVP4dfHYzOc2lbTLuYE_h9Qsl0ThySPSOrD3SuHGbHt7qgOWlU4sY8D06MoDfLRHVXjs5c1bOuK70-x5ArokV7ffYmaDpwVDT2GOPXCdM7Bg28RHl8Iws1O30RsmAFY1zfrZ-l3xOiduidP-S4bct0saEVg911SI8JNcZrEFFBk9qqwKTcMbObyxQgMOE2zjMB4mrIpYWceW8P786o9cfc65tatwwfLH/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTziFGUBfwokRQfgokclDIQg.jpg",
     "address": "25-79 Steinway St, Astoria, NY 11103, USA",
     "phone": "(929) 388-0230",
     "website": "http://oddmenu.com/p/tabooasstoria",
@@ -55775,7 +55775,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJe8D8VKJfwokRaqLU_tFY2hA/photos/AcnlKN0Vd9BvQlfPwNvfsEiBdmnK7jrE-eukNSoKFNwkzGSm4IpL6QkI9yOCjqmqz5ZVnluXQZPTZN0PQwPJgxHHXE6MC5QNkLf0j-LEApovV7A8fPGYtEU8Puu7AlIpmXL4WcCeb8WuzWeX8DGS5Lj0L4r9iMC6-va7OMIiZWlhB1MO3pveNYg8kWQD1LQJyUdKT4VmNsQs4FAGT7vLVfODh-QkuufCMLMjZlkrAiKI2H3y1hb47HTFwPCYbBm2FaBkyjasXn2qVAcqjenJjNluacG60boiJdlJ6ERgxSbzVDTFNw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJe8D8VKJfwokRaqLU_tFY2hA.jpg",
     "address": "37-14 31st Ave, Queens, NY 11103, USA",
     "phone": "(718) 255-1844",
     "website": "http://heartofgoldnyc.com/",
@@ -55809,7 +55809,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This unpretentious watering hole open since 1829 has been featured in several films.",
-    "image": "https://places.googleapis.com/v1/places/ChIJj6Zpx-ddwokRm5R41uLVdJI/photos/AcnlKN3_4Str_uL2x3V3EivS2zxo0eQWaBrRvvydQdy4CaCldim3TsbGkv12-ysf4p41JaNeY3it5pCI04MP7LRbJXLIeyV_HIkbqVhIa9DeW-zUk7np4-YizwIc3486eiMkckfEFjyKkEUjLsg7ITwSn0BSVGseg98-mHGIY2nXz_izECJpd4kpE0EfFAAdUFV5ZTXgKicbGs7vSSGL7es5boN76ZjINc4fPBcv-9ehLvELSldMCu294B5vAfs1cdOe0Rk9sbpDnf5KPR3TL7CNwNZIt8n7W89XfpOIzXlWp-FATg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJj6Zpx-ddwokRm5R41uLVdJI.jpg",
     "address": "87-48 78th St, Woodhaven, NY 11421, USA",
     "phone": "(718) 296-0600",
     "website": "http://neirstavern.com/",
@@ -55843,7 +55843,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGzNiTS5fwokRU3cXQEHE4Ug/photos/AcnlKN0sZnxCLO-Z84TMoq6nRMlnnS1iT3gZfJRubcFrmUwD86O_e25UvgCHml-Kz8ijML0S1fqMeQueq7P0vGj1kk6VxZiSnMtrn-ZdaNHVjwI4KOmv-hs_IHQIOYgZfK8_CsK3P45M5ICqmJF7oYw8mzfds-U4ebudyw286Rz4CDASWAA28GXdjbUITWOLKf20vSigpIR3CJlTdR3fJAiRYqG84w_egy4CS6KSvwC0QcUlRtnQjXGOL2fIYULsPpDOUYe3_Vc1tKzymr-PwOwxqL5IPaHIZYsUfQvqyhUV7gAUI99UpsUY1LoangNQzlkEZeOtB8gzebALpf84X1Qi6gZlj-wCuino2jEW86_TE7g82eoEn_SlFMI0MrZGWbBrB0fno68iwPHXeCpBDCaKSJ19ju1AB7hbP2HYz4zosIsWvg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGzNiTS5fwokRU3cXQEHE4Ug.jpg",
     "address": "34-04 36th Ave, Astoria, NY 11106, USA",
     "phone": "(718) 255-1886",
     "website": "http://facebook.com/pages/Veronicas-Bar/432859033573047",
@@ -55877,7 +55877,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Comfy hangout offering classic Irish fare, burgers & beers, with TV sports & karaoke nights.",
-    "image": "https://places.googleapis.com/v1/places/ChIJH1WakDtfwokRiTM-AL-fOQ8/photos/AcnlKN1RW04q5IiD7_I3-b1vrNOypgzo4v0UVaR6_SO0wRW9D7BhJCC1M4M7gQBe7lqPWrTzkEff0zTytupEMVFnYpwWhyK4cvjYXxOStRWwkWVPstZMlC9dfpqTyHnui0_5hEUpByjzx0hH4nEYY2cbu52j2jLCFs9no2I2FreLC35JoG-UwY5JCoAvXUJKdLQTovPpXe1GfbCJmsjMbF23IrQyljMtGr8WIu39hF2-nxQTHv09Cbqr8Ttk2x3X-H2SwtQELGXA1JGpKMWsGsGebqrK29Edip2rXriP5ct5dJxtrXk4WbDdGifBn9saEZoOPszs0bf5TR84i_D1AaQNRvAggaMPH2hsEgTdiwoNWGrSdpT-bCzgaSXzytB6S6CugCHimU1fjNP_UlqcU6itdd-ixwBGaEi37Qkhll6OVN1vtI8/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJH1WakDtfwokRiTM-AL-fOQ8.jpg",
     "address": "38-14 Broadway, Astoria, NY 11103, USA",
     "phone": "(718) 545-8999",
     "website": "http://www.croninandphelans.com/",
@@ -55911,7 +55911,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Corner Irish bar with a traditional feel featuring draft beers, sports on TV, darts & trivia nights.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXX2Jb0BfwokRk-f1XQyjuN8/photos/AcnlKN2Qr3HgAof4yEduSD53ke4WM7m6QBK1FOTHGu_O3UnV020x3Jum0jd_n7T_1NHohcccHVZY737KOifWehpEJoJ5HvDYu75VtiY8MIoouy4qDw4ulJz648BqagWmuea7pwCrRaRFqKp21cvOWDu7J3s6z8BMequYie2dEwjp6HmgpQ12lehJM7uNDpOxTSAE7eaai035Rbj_2PTgKfAMJQffpPJDO3tPDuqLWPOlgAhhwtHg9qrxfKY1inKwOWbrZckLmMaAJosTRGJ4L112h_OKDy7GhU0WF0OfuUkGIJ1DqA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXX2Jb0BfwokRk-f1XQyjuN8.jpg",
     "address": "37-18 28th Ave, Long Island City, NY 11103, USA",
     "phone": "(718) 278-9372",
     "website": "https://www.instagram.com/irishrovernyc/",
@@ -55945,7 +55945,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Spacious cafe featuring New American fare, coffee drinks & Wi-Fi in rustic-chic surrounds.",
-    "image": "https://places.googleapis.com/v1/places/ChIJS0-CIGZfwokRgs6ADyiQEKE/photos/AcnlKN0l799mSYnPaUFN7an6hsRhYEk99y-adn_fTP5y7-_2MgbGbfH5gc_jWffuz6-_VMDzn3ektucuxlctIErqe7o97oBIG5ZyK5pzKkFGFqfHoXyHg4dULvq8cUAOxSQYwKL0Hg_hjOA4bjjnFJbYoXHKKV-6S6p2ferJoXvU4ZYZ8OjVSZq-w1qNLIA08lvDuCGpgaXNN0GGTLhkgUMC2pTtUhHUy06jkSYLA_V_G0ypNXOU3D8FowMG36PPOLga3ydU1N_ZP3gLXsY3iqJ3u3jWfKgd_kyxGC6CGcW1vvmFJZILuNzuMGu-j3ujJBDzGb4P21clVDztPzuCXcl9rStB5oL4Npw9XcDPVBRS4eilvydSIVLupgUTANGljVJrxpEVwCmTN7STD4rtvwWjHdTlRVnPcAheF_f8CzaTyXhgzdY/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJS0-CIGZfwokRgs6ADyiQEKE.jpg",
     "address": "36-02 Ditmars Blvd, Astoria, NY 11105, USA",
     "phone": "(347) 987-3994",
     "website": "http://queensroomnyc.com/",
@@ -55979,7 +55979,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Huge menu covers breakfast, lunch & dinner plus coffee & cocktails in a casual space with a patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGTRAZT9fwokR5nDN7FxwiKI/photos/AcnlKN2-AXK7am-lPs0VkCENzYkRCa4Gcxamhl1OJxQW2vQ2t9tpj4cYqVSogqTQV9rnIj4tDTscCaj6sJbs1EdDjN7pLzMB7osZZYW0oH_6yiyDhImzOEuUToNd-JDm_VaDNHXHu228MzFsSnb8jrRXONjrjgHC2cXIPXkUmOLTXdnnsmvNe6ID1fuAR4f_3wJWhkvQKbwDgakawLeYXytZYtYf12a8XP_G1ymEDWj-wo1S0Nd0soXd3hU7G2L3qlCwHjYEHdSkmesU4FR4-_6rVM02j2zfBgeJj5k6A4SpTGC5Ow/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGTRAZT9fwokR5nDN7FxwiKI.jpg",
     "address": "37-01 30th Ave., Astoria, NY 11103, USA",
     "phone": "(718) 806-1504",
     "website": "https://www.thegrandastoria.com/menus",
@@ -56013,7 +56013,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Wine bar with gourmet sharing plates, pizzas, charcuterie & cheese trays & infused cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJB8q5hz5fwokRycD7DHYjj7Y/photos/AcnlKN32dYqYpfH_MUChxcmgIUg3R-UVh18NOf-c5Iy0_kON1S0nGYKbwcmlHC7DgInR5yxoKxR9ocs9pOuO9ScSfvL5bIXg5fUurbvyEyGlCYXTm1Pd16hHHF3Qxjtpd6SsgHCRttnnmPM_HNhMwSuUfPXx4yxFJ-0kZmwWd5mssm0_EUQVZIl31Nize2zMI1gSm7wXFMRg417ANh5cl-ZMVqJ5X_C96PWK4zK1YMvu2FVOpyx6CgTpofUXiCaQXDLXn9xfaKpLbEoNf8Yis-a2X2k8fOaD3NWdoGnw2TTIGtnp0g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJB8q5hz5fwokRycD7DHYjj7Y.jpg",
     "address": "41-15 31st Ave, Astoria, NY 11103, USA",
     "phone": "(718) 777-1355",
     "website": "http://www.diwineonline.com/",
@@ -56047,7 +56047,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAbsLZZVfwokRaPB3n0fqHuI/photos/AcnlKN3r4GDYodbbwhuwgRt_oqeNxXh87NbfB5tVd0KrWS30Hj4Eim_CtPoTkA-nJCJRV1XKYn3YGeupFWpdaBu3guwouIqHX54n4_zpxrLvsxiM-Lxtr6r2k772uxPiwNPEbyEWupjRxnV0TgXdC2_xxjSdp5m9ehW1ucaGg7Lms7ZXD2mUdnfmLJnX3Qm78MiQBxh4zB9l-4Z4Ee1rTe9oLxqfRApo0-M9B8kOnq59Iqkm4eJMi5QSbu1fMQILZoXGjlbniSuvMms6Bo7p40aYqB2bSxhmxY1IA_mDHmUEVrynjw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAbsLZZVfwokRaPB3n0fqHuI.jpg",
     "address": "34-39 31st St, Astoria, NY 11106, USA",
     "phone": "(929) 556-3038",
     "website": "https://www.salarestaurants.com/",
@@ -56081,7 +56081,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Bustling hot spot with a loungey vibe offers Greek bites plus cocktails & popular sidewalk seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ815OVz9fwokRUan6lN66yz4/photos/AcnlKN3syk_N6lN77fJLGkDjCtMFjql8KX_nQPOuG6MuubRLXxu_uAfq_aq-qC5neuctNHDXPo5yYIW4ZE6U0BY3Pmho23SO40vAsLpXd4wxcukslT3mr9VT8-K0PWCyj9W2aeSbLv_TO6XEMeeCppmuUEW4vJkSaxPERmi0mzbZKFRxLrjvR2qkitdfvzNvU1ayevpudSAyT2yPtGeiX-rQuvEgnkZ5E0YY7_cInInfiKGf4DjX0cwt7PHtOvrbbW1rMS8HHl_a1ee7mCHemS8TfeGu0_eAE_M_xLXs867gXghYxHqddFJOhkkiYMe_y-KPkv1icOpkjgClOnV2Il-Hjg2zN4gYWpvx4ae9W4_U5Jr6UqHgdh7LoPYIiPnryVcpZLqcNfnc0s2fIrtVasmrqLs9a22v1tiVlmAqnHjWKY8uAXEn/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ815OVz9fwokRUan6lN66yz4.jpg",
     "address": "35-27 30th Ave., Astoria, NY 11103, USA",
     "phone": "(718) 433-9298",
     "website": "https://www.avenuerestobar.com/",
@@ -56115,7 +56115,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJfbH0C8RfwokR0W_EAgUNDZU/photos/AcnlKN3BnxgedDdPHY_i4Og0DfzPoRMYknDCZVM_oTsfgkw434mU68_WYVrm7SjXt27U2UXf_hhAYMC2vgZuWEt4CAEckqchQvZqw1crRvt7IAR6zwVjsNByfh0ckLDuzFTqQcdSMwWQJNiU22ZAyyF5u9sbT8wiBMKQ0A_yXZ_f4C0ZErbvfWrki6B-MqY5_fJe9s0ru06Tz9Yfgq5bntmYO7GSQ53pKiDMfZLFrAGHT7vk6bz15rvHizE6bMp6wXynp4DnwWUBXyPskf9jncYd00XiW6a8S2l_ZTpxQOIgVa4/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJfbH0C8RfwokR0W_EAgUNDZU.jpg",
     "address": "11-12 30th Dr, Queens, NY 11102, USA",
     "phone": "(929) 412-0112",
     "website": "http://dagnyastoria.com/",
@@ -56149,7 +56149,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJaY1Xsk5fwokRZltGYzlG-oU/photos/AcnlKN2fo4a0iO3JnZQSCmVCgCBBYxeMuTboEdFua9H8rHBgRreituCKHuXWueg9SsGjBpHCVUy-dIMbFg3K0OZGGqYcfHHFda5fqNYOcVOj5KS7J0KgktIxL9Q_PirGH6lmoAs7CVjvTtefrX4rsFZKWsyMMDh7K8qCTL_Jos53S9a_gnNZXXIlKZJRxIxiseN0Z9SZ86ZgX1RRP9mZi_ReQoJ8_rwTldSB8D2loOf0_sWyCwn-W24uRSJ-TqHEF5O-ZoI7v0LPIFTchYdCBveX5i0A_zffOitIrwNytSyttIg3Tw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJaY1Xsk5fwokRZltGYzlG-oU.jpg",
     "address": "12-21 Astoria Blvd, Astoria, NY 11102, USA",
     "phone": "(347) 730-6181",
     "website": "http://www.arcadiabarlic.com/",
@@ -56183,7 +56183,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Relaxed neighborhood saloon featuring craft beers, bar bites & theme-night specials.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8TWdxD9fwokRvzsjA7Bt5x4/photos/AcnlKN2Exs-F3KdPW3IPzoCmjztmxoxaJmp78tvxXowmbNrdhuCaqa0Bjf3Xg_CziGF66VlybB9MVNGdXLSzG0dx4LwIUWZu6hO7alINqYP_4f-cDEq7dhpaIwF8pymopIKWUz8PdI7nFnDih9RsrphrTRA8b8D-Ta6rjDVxznsm-0ZcOW14rA6PZOh8prabrmczfkIMwR_JoifB4yvt_ARg8S8xiIkAtV8f8NzOtlaQRfCnQ7opLE1gXNYactv3oyIqFcpja7ROsmYB_1wRrrXoxEnR1AviTJpj2IJWOQKdwZt2ZbnYsBzFn-I3i7K02XipWze8lIGWGDGSKBmyX9Wyrh-BJFC4gjm61XtqJ0YyuTkYQuFxm2a2Ony6vLEAOoWHAbQrO4S9zcIbx3b5qtoCijnyitF45-BEb3qr7jtC8i_8tg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8TWdxD9fwokRvzsjA7Bt5x4.jpg",
     "address": "41-19 30th Ave., Astoria, NY 11103, USA",
     "phone": "(718) 943-6899",
     "website": "http://blackbirdsbar.com/",
@@ -56217,7 +56217,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Welcoming rooftop destination at the Vista LIC Hotel offering city views, a cocktail bar & dining.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAemDtCxfwokRrfHv58ZtcxA/photos/AcnlKN0bIk3KQLCjTubYjgmiho5v90-TyWJ4X3YS2kHgz6et1Q02gRb7ygTmDoLhf_8uuCTfYkMD4cfME_QlpRAb3PECfc1rgCfiY4516ubLxzp40z9xpO0g_VV6eNusLq059MLAjQ5ftuLwMzO2bKJHBrQHnnG2sAOk1lYPe3zzih7MGPQdGOy_QUsblpL_QQwcHoYgET8wY5KLEMOXZYWe2nq0oq9JM3P80Ne3oMBsxjuXRoclFWQt38w1S_GoDbx36dDkJNrcDLlHtrfcvWpU06UySUAaajkqspqAbs0GpKAQAw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAemDtCxfwokRrfHv58ZtcxA.jpg",
     "address": "27-05 39th Ave, Long Island City, NY 11101, USA",
     "phone": "(347) 536-3640",
     "website": "http://www.vistalic.com/",
@@ -56251,7 +56251,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTeqJWwtfwokReOv4mRdOv68/photos/AcnlKN12Qd-SwrKkvkT8wkukWn9MeWmFZnJnDv-NdA4le2vTfMr60KUJ0nV5FVktDuMFEHF-IsQV7PaQn4Sf_k3bJ8omXgdCQjh8f3pns9-urYi9roGEZCdfKYN-tzwIHFzmK0WtCAaqKoZ_UEzzwQB5sufLOgJZGngj0mkXIJuEBnFhYhwSbeZRgEXVnbTzoJqDNEb_Hn-PKXkRGmtokch-pw29XyVc6a9dCq6_wJw31eWMrTWnolX57O-TFee7QIaHsuM0e_IWRuYtykHv7YpAMJ451_IHp09Ar1HleOZDinN32Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTeqJWwtfwokReOv4mRdOv68.jpg",
     "address": "71-22 Roosevelt Ave 2nd floor, Jackson Heights, NY 11372, USA",
     "phone": "(917) 409-6988",
     "website": "https://upstairscocktailbar.com/",
@@ -56285,7 +56285,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ6Qu2UgRfwokRx-VjSL7TN5k/photos/AcnlKN3oUvHq_U5dE6E2pP2GVy1tvPEHVE50AxPGcRy1YBe6mWvh5dbCPV0SQc1firKTi0GqsJhohyRSbXh6Rlsh_8GkBi9h4AOHXp_k1dzvM1jhHtmuK1WjB5HwCFnTsgn9r9EI9F5IiEuA4C3Y4YVlr27waEyIvw1B40XV5OfF7827FXNQexU6UDi6eL84J_rGhrcdz4Sce0bEspb4tefiKZnZZ_Erp13Dup32uSJwO0Fw5kWzOveB2DWINDXQ8fNZQDdR9m3aDYPKCxD6UqFf5SdAqYcLPhEqitN_GMe3Sjy9tYUVTMTnF6h2qqyLavAX49YEVSJL-z_DS1_aiMJULVtvUJKkT4kEd7RC4ujwKzKDImavaOs0hRlJ8tS3GpZLDHqhFADL_ieabyBcOSnSpVe2eS4p3rN2CcOYFAjtpfgFVjt6/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ6Qu2UgRfwokRx-VjSL7TN5k.jpg",
     "address": "30-79 31st St, Queens, NY 11102, USA",
     "phone": "(347) 531-0741",
     "website": "https://skyclubnyc.com/",
@@ -56319,7 +56319,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUaxfm7BfwokRu0U7Lgf2tMs/photos/AcnlKN08PvHf497-r64ySVUz2TcAIBnRHtBuO3yECWrN43tVXYzCJHnQcu-sBbtotHOj6vGlkOhtRYkKPrOAulT4MnD2Bfu11bX-caPdepxeMw3-f0A5yLlO3ZJIYVpgn9M2uh_rCWuwp1OqJp7kYIRR9Piny5bJ8LFnfXbRWnxuR3IpxTlX1EjjFDi8c0wEKhYKFgEIq7FPOWB0__0O8xNyyGKh6dp3OebUK5ePYSsj_FWygSvRmjkNUmncr27_zjInxFYrkArSU9RbYxQ3RY-EPSxVJ2iyw9FptU4YFTOPvYtd2w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUaxfm7BfwokRu0U7Lgf2tMs.jpg",
     "address": "40-06 Astoria Blvd S, Astoria, NY 11103, USA",
     "phone": "(929) 284-0650",
     "website": "https://primeastoria.com/",
@@ -56353,7 +56353,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJjyx6ZDNfwokRO3m0SpvI4Dk/photos/AcnlKN1qE8lmX_U2LEX-WAyugMKF5zb0KSX1qbx0ngimLjotR_TCL9D-OyJOo1xWr4NHqyBTVvISjLs_qOXURkOc4gnfg4xU_G2CtzDyG3P4O5ZHEDkOIgWFi05VV78gblq3qBwGLIlR-E7Qo_kZEDMfTleMyVh1EYFhd9hxJdrwL2h12kjb5m-L6lZYPeHqBzA71lEeyNKpV3BNdl4B6wprTaxAdLU3QGEmIOqRR2_kCkwDgLJPIqWQXgtKihvU69ARK37vmkM-ZS3fkf70RTR2eSjEy5aix44lqOUO652jVJDJJw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJjyx6ZDNfwokRO3m0SpvI4Dk.jpg",
     "address": "36-57 36th St, Astoria, NY 11106, USA",
     "phone": "(718) 908-8284",
     "website": "http://suite36ny.com/",
@@ -56387,7 +56387,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Striking, neon-lit night club with sumptuous lounge areas, a DJ, bar eats & hookahs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJPR2EE0pfwokRxs-_tm-d35U/photos/AcnlKN2dtSPSnZfV_28XRb-yYTg-zeV9emihYPxFX1_DHiYDFim9WVw4rACgpkRYWOA4TEsgbe-61PUWKFkm4T-Qv3UKkO_svbQIIko3lWdznoUq5yk2RYY_-TYk_AE3bb3sZOUoXTPlNYGKjw5iIbBmpzks2ZdDL-ahMvvcMTjmp3mLh4OcAy78JD2eSOBZsBRCj2kOIusc6BuxCUyhEEkORDcgAZvo6EttwR9K1gfV730AqFPVCLQexjNSrc0JdgbO-brSFt_6EEgIce8LJa63nLLitYDJeoCi-godrgywlzyATg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJPR2EE0pfwokRxs-_tm-d35U.jpg",
     "address": "20-38 Steinway St, Astoria, NY 11106, USA",
     "phone": "(347) 468-0030",
     "website": "https://fusionloungeny.com/",
@@ -56421,7 +56421,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJR2-P8RVfwokRuIFG0XHrBSM/photos/AcnlKN19oAyMQ-Iv9z1j16awiJqGfDLviLzHpwy3fbT-gus13ZWZkkXiCoSFYr-ai8zcLjuF1-VxK8pxAbmWaPJVAED5W7IXvIskUSEXjjcDqISdIj9FbHHq5OEB_IHYE0n30OXeIo0BgKMG2oI_mtEQdhG5_KeLGhWFzgWyza9oyuUjN4OxlvGv4iWXukwoVaHzvO9EJU1Nx4_vSwbwCm_KMjj5Cxr2DuczUGEttUTfrNL1jxFPr_BkLzoLAiAqGnVlCNe4VCfDPS0zo72L2wLEc9yZR9Op1ZwYD84uoUW7W8uTww/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJR2-P8RVfwokRuIFG0XHrBSM.png",
     "address": "40-06 Astoria Blvd S 2nd Floor, Astoria, NY 11103, USA",
     "phone": "(929) 789-8595",
     "website": "https://www.soireenyc.com/",
@@ -56455,7 +56455,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJo98g0mRfwokR1gEVsFCZet4/photos/AcnlKN38gEdwCRsyFe1Q6eN2Z6H69zSJs9y4bcsSJxsv4QVXP4F_LX-nEAZczAhBcUIe-w8oBtdSHH_uG-eSUUB3zgm6zKgwwORBaY55mTPXjEi5fMkafRDO2MzHNp6Rxjc3n1EIbt6mwc8IVflRrxdbOanjPUIui9s8j4chdTe_Z3bPC8OCVTkmndmoHwVhljACL1Mf1o-WKYAMeiRENzNaWoGZ2-FKJJ8RuHd1IU-NGybZKU5S5_ZFy_RJzXTKRUDSR0mLqbOKED_6e9L8jBQiAs5YxMtMQHQvpeBvItwxzZyfwOc2r5cfQmZnip4_z33lBX5N6C-0p4tWpzQ1WhIuCU6ulQdf5gtIPd09rmCd11HLQKiwp-ITIBTjUVIDbybZqa_51Wjsc3f7xoyOqvYIg7VN_H4B7LI6e4cEbVNGSHq3VA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJo98g0mRfwokR1gEVsFCZet4.jpg",
     "address": "40-19 20th Ave, Astoria, NY 11105, USA",
     "phone": "(516) 301-7800",
     "website": "http://www.caligulany.com/",
@@ -56489,7 +56489,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZ0p8ac1ZwokR9csKZwx3_jQ/photos/AcnlKN3c0PswB9eZRogxn9Vdio7uYvMrGZwFFKQlQ0p1bDU-BqOUwu4LAiK5NqRWVj_JhDP-m3hC505-ML18xIAyHs_32nZsOk2ETVJ1DO88rF0ebjW2UmzaXIpPxrzs6Psy2xPasYrfFxQM-Hhl_-OPvb5Loru3b2VSjQl2MMdmLo9IQqMotI-ajl1ujnhyQ8sh8rc2TTGkPp6GH4AtQSYQSyd9Grrw_MeKY6HxKbYBz-rb3BzvPhBU-lUbYCcOi87gzLLJ4lnpwX9USfccXbWeT3MlKKVNwv1wM4woGVD_qE5aZA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZ0p8ac1ZwokR9csKZwx3_jQ.jpg",
     "address": "8-08 Queens Plaza S, Long Island City, NY 11101, USA",
     "phone": "(646) 942-6807",
     "website": "http://www.summerclubnyc.com/",
@@ -56523,7 +56523,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJL0xJb_ZZwokRfmKufMDAycE/photos/AcnlKN2S-sAxqVjQ6WoyTJB-VqJXnyus2Hrnujop3P_Sh8lrx2juOK6LJlL1ybctad9Fgbv43P7DxKPTfbd_Gjylw67-XUjI_wzRInLVE9FtID6hxiBoBRD2AJ11TMedAqV8756eecy0WLQc-nSkbbJmBfwIZT_o_3jbzJAu8wGSdA2BKqx5W6ArYkjx2Jx9zE1HunXr5JSdaJjZVfTY5gGOjKVsv6V7Q3b396Qag5mpY2bFvoxRO22TmGJ2cSqOjZaxidyBfYpc5ix3-xhvxRXDOB65FqK8HJ6RLVq864eLY4UqdA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJL0xJb_ZZwokRfmKufMDAycE.jpg",
     "address": "10-15 43rd Ave, Long Island City, NY 11101, USA",
     "phone": "(718) 489-9874",
     "website": "http://www.greatsofcraft.com/",
@@ -56557,7 +56557,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Classic & newly invented craft cocktails served with hand-cut ice in a dark, throwback-style space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJwVwmQCpZwokRJdgjmkHMexA/photos/AcnlKN0cbgA4qgTnihjsM0-sejYMFuQCkz5UnVkPZgubrpPDeTtwuhtYijVVHk1C7JMED6oAJtGGhC6DrQTNYaqkvy32N1p1awjyxQoVs1K--zcT2UnxkLuDTt_ZWhkvnqfFsG7Lg2yQfPWGV1yvyw_ENCdaRURetxUCUbZoUGYqCn6NvGsanF-UN0qMLnKODtdaWKMw4AgR6ghULQaXBSlAh9a8Zoigg_X2yH1kQC_XaR7VWxWNcksTTTopSLv5uNBY4HClOeAzg3V1yFUvFDb2DQizoYsWICoDGKeoFJjQMd1GJg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJwVwmQCpZwokRJdgjmkHMexA.jpg",
     "address": "27-24 Jackson Ave, Long Island City, NY 11101, USA",
     "phone": "(718) 383-2724",
     "website": "https://www.dutchkillsbar.com/",
@@ -56591,7 +56591,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Brick- & wood-lined space offering cafe bites, charcuterie & cocktails along with live bands & DJs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3SXiCypZwokRAn1LaJsT3QY/photos/AcnlKN3DR-Xys-heV7DgLLprEXOtPB40qTv0IyTMPik14jLNMfjfrMwfOqmvWy1mrzzfT24t8UVexA3n1uMpJgx9Wn8YSLAQ0DYXMpK4IX_00Mwni6vvYOMo0t9MRfuHuYm-Tc8Wz6o6AoPPjYGvmBlq1PMx3_KAvC00zvd1A5stlS5OklQVX1-BqNWWf1Rg402Zk7zVIiN93bk76reL260jRZin36XKwB5Iph-PPmU8moDoXqAzZsKUyxfz4kY-7ME88AfuFCoYEqYOCgkt-Q_Lpf0LN9TrHz2xuQapXBDsgQEcng/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3SXiCypZwokRAn1LaJsT3QY.jpg",
     "address": "42-51 27th St, Long Island City, NY 11101, USA",
     "phone": "(718) 255-1612",
     "website": "http://thebeastnextdoor.com/",
@@ -56625,7 +56625,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJxfjfELFZwokRG9ph1Hy6gpI/photos/AcnlKN30ZXSp4Ir18EWAxccod4H4j2ieOuvo2W-6FWp7cPG4BadyfApebrE3jwSdFAwWPseZvsmy3lUBd7T1XWQkNFl4xLLOGrD9ujOIh445i00BCMFS9WJg4szRfyBVMij0njqcuJnrfgHamyXlt0sWODx1pthjZ5bIduEMH0o6FMU6PZen4qXvP-4RJcw0kK7HoNq1c24OuBh9N6dTfavjbLxbWFk76xyF9We7blCi2mQKRbtfIv6GLwkhfL5yuUyfkGbWGZcFiJWcCHGByh0Ttv5DZgqvWYVKEJWh030qL-ofhQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJxfjfELFZwokRG9ph1Hy6gpI.jpg",
     "address": "22-01 Jackson Ave, Long Island City, NY 11101, USA",
     "phone": "(347) 266-7473",
     "website": "https://infamousbar.com/",
@@ -56659,7 +56659,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Brick-walled corner watering hole that offers plenty of beers on tap, long tables & backyard garden.",
-    "image": "https://places.googleapis.com/v1/places/ChIJA2CUtyZZwokREjLUQtbDZ_4/photos/AcnlKN0auClOe7HkW5DJOwFk_ocYXk45f5F7NTe2asg6s5XcFFhKmtZz1sDi23HTgNox3DcPFoYknE1l4SwBOpUuUeAduoGO8-uep69E6xW0g5xUzyjp1QbqCFP6rzByx2H-pru-n9slNwbioxQazDTmR3YX4lHpXVzo5gE2RYMpzfV3pscxUq5K1tGZgY_P2kGbWw-OiEJ6-hBll0delRWcDQdTYBx71C_d-Iu1lkyuWnlhv8gwX3Aw8XJQUn1QpbLr6--Isay1G4rtCqGEAfemfEhCpX3KkoZw7RPvOcixQXHHIdKRwRlOwdvsayrh6R28Y2FjYsSvjg8lRQctoJvWjQGvsbrjd-czTbsIgm-xkT-PjqnOpJ-mL4BS2sA2Jfyq4qfA9urmwgT_KOfasNRO3Tnhot8oeDereNGePIBUiT4Mnkg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJA2CUtyZZwokREjLUQtbDZ_4.jpg",
     "address": "45-58 Vernon Blvd, Long Island City, NY 11101, USA",
     "phone": "(718) 786-5400",
     "website": "http://www.licbar.com/",
@@ -56693,7 +56693,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Wines, cocktails & burgers at a laid-back bar offering a comfy, retro vibe.",
-    "image": "https://places.googleapis.com/v1/places/ChIJo-tLTNRYwokR_dBaFxKpJ2Y/photos/AcnlKN1c425e1vX4v2-Rmdhc10gj4Yp4D9WhfGFJm2U3-LL4_0MLNp8bQnhdp4WovAmkl2heQIQeuABDLodEe-00IJu4NK-eqtova3GazD1Oi4J7Kk_vsEpWTtPnSNT3Afr8T6HKTypbemymTOeZ4C7SRyNSM0mjK0L5iHpmyFB4zj7nnIYceal4bc_RnthkoRByO9ekhXXL9Y71iFlw_rJi0kjF1X5DutVBUzXz5CIHtAOwkL-PDps2YnTDjlmC1dfHgLHUcfcOcyKyRvA2M-EBJkwwgQSJUavXOU6b0AebHM4cqg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJo-tLTNRYwokR_dBaFxKpJ2Y.jpg",
     "address": "47-18 Vernon Blvd, Long Island City, NY 11101, USA",
     "phone": "(718) 255-1336",
     "website": "http://www.thebaronessbar.com/",
@@ -56727,7 +56727,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Laid-back hangout whipping up finger foods, burgers & pizza, plus cocktails & happy-hour specials.",
-    "image": "https://places.googleapis.com/v1/places/ChIJgW6HQC5fwokR42jmVsRBi_g/photos/AcnlKN0k24r3vHYMs50JHzIpifF56WKZiTdsK9_YwPd14X04_gTiTY2eRoTSvQJM93UqN0GCBXmXkNys9QXF_OfBlJ60ZiLyBs6WJ-WTtIWQ9Jx8JfM_q_7Mm9rfPMg518vOAROiGVaQPIFLwrDMn4CrudKQY69zWCvDyRYgxJydCBSZXmrm5Csbf0tvOnUIu8jajUN_2rSt0BHNHbKR83685iZIu7crr1zkqRvpGlLqgM3R_-1C6ixDAy_eXB0628fNEWTcamLkotWHPVQXkUr7o3s7Unz4V9TmLz7JWiLEGA5Rkw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJgW6HQC5fwokR42jmVsRBi_g.jpg",
     "address": "33-10 36th Ave, Long Island City, NY 11106, USA",
     "phone": "(718) 304-8154",
     "website": "http://www.divebarlic.com/",
@@ -56761,7 +56761,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHWk0wOxZwokRd-NFtAXgS1Q/photos/AcnlKN2-2nghC9uFJV67BnFe6RZ4JCNLndIiRaQXFMgG1Jm0awlglKZQ4dlm7WBBQ0434iQYyxcQ-168aE6yEodUw-tPljwvHki5cMYRV69xv_7_Z3fyMr8ElOJ8sKDsP6ZXNeNsJAvgdyWN-kZndNEjh0IWcDZlZrL1t17vwlvUhebsUhUErF8TcqfF41L6J8HzS922zf3ZXP2VqQgRHUc35_MtwrsmjBdVY5yO-EBPpmIuLvklDbDmFdc8yrUVFebZNxyre4XtSKq4g_nKP6IhlKmNG6iss94gEIPP5fj3ooUMYA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHWk0wOxZwokRd-NFtAXgS1Q.png",
     "address": "13-02 44th Ave, Long Island City, NY 11101, USA",
     "phone": "(347) 738-5251",
     "website": "http://www.thelocalny.com/",
@@ -56795,7 +56795,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Modern restaurant & lounge featuring cocktails, gourmet Latin-inspired eats & expansive water views.",
-    "image": "https://places.googleapis.com/v1/places/ChIJaQR-pCFZwokRNMloynEQPgA/photos/AcnlKN20JboZoWG1g51RI4yhG1TxGT6c79dpSMnMDSAOeaCQZ52Tj5azZH_W1TJFZla9oo1XO640Y0uEVcW5kdGf1IW-__ns_PP2DvjzpvsBbSyPZwhCVkmXIdFYO_bTPB1xHtEX4OOMpxUL-XJRzlXcdcDCwgAIugwpEV78ItGZtSlBI8mDDA6jAduWA3O0mPALKBiUCl9g9coF0to-TscVVX_PlcjybKxNY1eeC69EMgJH_WSIEELhUIt7iGu3nfwHFtJn47tFi3Qcm8CKe7dtsZtpWQ3HARGGjVXj-grNWstGRQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJaQR-pCFZwokRNMloynEQPgA.jpg",
     "address": "45-40 Center Blvd, Long Island City, NY 11109, USA",
     "phone": "(718) 606-9851",
     "website": "http://www.blendonthewater.com/",
@@ -56829,7 +56829,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHVUQrqhZwokRiXgdrEbrqQ4/photos/AcnlKN2Qwh73zzPZFAwll8Ecq102p4bOfz5Rzz1ssDDBzFBXTiqSV9xP1l1hr_l0zyxuV5Q5ZueCb9XtSNPHHgcNYaNe9ywjaGqd6OVwRfz_C8EZa7Q3RHeEZQMBHaDD-beRTOfNlD-qPhpbrZ9xxx1aUf5ASZ4HnBsS9vPsjXrlA0UBt3L9qh0QMLrLkhfdRj64GD4_Dj4lCAUcMvhUw-7j49qc-nOJ7bqKQ4RQG6UVNYxz_yR0pEWUvvlt4g5Y-qeFQ5vqjq-fm1Eyc-_3_AQ1ilpOJN5tzoZnn0PVqI5mNMIQRA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHVUQrqhZwokRiXgdrEbrqQ4.jpg",
     "address": "12-23 Jackson Ave, Long Island City, NY 11101, USA",
     "phone": "(718) 440-9456",
     "website": "https://junglynyc.com/",
@@ -56863,7 +56863,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJpS3XyMVZwokR-SdzYO1dDlk/photos/AcnlKN1rb-5RMxr9GEr-ykX80RyS2UhlWnNgjDDWlVB5Je5kkRDRJlhtxoQZvdNNxIdDn8NTLuvqoybU-d_CgwZe5SqeA1JM1f-iZHwe4rXVZGHgadqq9-G-WM_vP_7HN8eIoge8EWcg5a1FVfVrgLjz6yDgvDfiYFDW10sCJ5_UCzeThGLb7kvp8THh88wF9h0AczA9m59a4nuzPjI-QlY6h0xkQTWSOHXuEPk7LHG_r_pZUHPVcjTjBa_tx48BYdUpI9OV2ErNdZ7PiAU9vmvBb6SP9d8YpMFKbzJiYMdIGW60cAozTlJMw0kIZkMRKnd3ur39KaRGyfBdbLdAgf0_IyVh2CvWZ8o8RF-UrYNgZ5zevOErjb6ciZzd8G9v1VHMPseR2uREeKM_X717ZspfOA6t9dxd7n5BzWkK6yg_AhZ54G9A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJpS3XyMVZwokR-SdzYO1dDlk.jpg",
     "address": "47-25 Vernon Blvd, Long Island City, NY 11101, USA",
     "phone": "(718) 734-2415",
     "website": "http://4747lic.com/",
@@ -56897,7 +56897,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Sophisticated waterfront bar & restaurant crafting contemporary Italian dishes & cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJd00MRyJZwokRU-lmTi8kC2I/photos/AcnlKN0PoBDcvdxVmXhydv4i3EN4K6XdBoC1Dcj3Ln_YnH8TYwW43YMa_U0GvFrNocrWXRQaAGZTrRFtrrGX98kA9pTEZ0Ao1h5mBa1NLLfFtW6XHImGfCoCd5nc4eA061W8AWgTfHH-SJDc1JKzXGUkwMpSzon-8GeAqiac1vsiHt2SkEMez3Y2kfZQgxDri0meMX_KllWCzqfGEz2ZuYCgPXdF8q8x93yEi6IFbzlg130z0DFQvfBgUq_r6x1dLVhUaZmzvhx9cdZ-hIyVWZ4R8XIttsKOPhKLXlXvs5sDqEj2ww/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJd00MRyJZwokRU-lmTi8kC2I.jpg",
     "address": "46-10 Center Blvd, Long Island City, NY 11109, USA",
     "phone": "(718) 606-1770",
     "website": "https://www.maiellalic.com/",
@@ -56931,7 +56931,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Bright spot for burgers, salads & wings, plus Tex-Mex classics, vegan options & creative cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4UMDmvtZwokR0twKqXNmzl4/photos/AcnlKN0JLO9RMfaR5hBKQGj3ZnbIWgTFh73i9IBq-y6l5dDt8km4c7tFeEfZamCf1XmPUm8i254L6T3TLHZD8Kjmyv1G-thxJIXi9sXEXEGtzPDzOxdp338dPSuUZNHwbuPagU9A3mbQD4bQ-Gy9Fr5nIU3muJwaMtMun84smoS8mnJtcUR4GV70DGQtPjs80hD4uD2ceW-uGNr7B50d2bbgehf_FjNbyK6ig6mkhupSh2qxTsQJqY7_Q3UrL5osys0FPBsBpIExKoIG4aoLcVtZkGMf0PFK6parZktknvCl1dcMZw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4UMDmvtZwokR0twKqXNmzl4.jpg",
     "address": "25-03 40th Ave, Long Island City, NY 11101, USA",
     "phone": "(929) 204-6264",
     "website": "http://www.carlalic.com/",
@@ -56965,7 +56965,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A fireplace adds a homey touch to this longtime Italian joint with a basic menu & brick-oven pizzas.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJVkc8iRZwokRA-3qv5OZmsg/photos/AcnlKN2PSzpRp9DDWc_lA8bH3cHCldwNYQ3LilxzJFVaAjz42kovRGoAv8ywox2iCCKqNjWcfuv-nCg7IpIhoNUwSLPHkX6dc92q2M_clbB0PdpJpD5MEEAQEsHevH94TvfPPBp35_gEL7Jfqs0gC9qFLJJveQYgS6VoC6YF70E8J0N3Ad2Hi9PQ7RaZKYBsxsJf_ld0Tl0QqWT0F8kHsXRvkqSq1_rB4xyJCxb8ZGQS4JXVOIEPCSUr_T4VF4CNReCIlswQFM92TWtBAtsY-H3hjYmtI0W5_MU7dpLFyulTpGeVKA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJVkc8iRZwokRA-3qv5OZmsg.jpg",
     "address": "10-76 Jackson Ave, Long Island City, NY 11101, USA",
     "phone": "(718) 786-6171",
     "website": "http://www.manettaslic.com/",
@@ -56999,7 +56999,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzdIV2eNZwokRxSJvbX8IIZ0/photos/AcnlKN2YqtNLoAjuoo_y2CsMHBfMkayipLU3SDtZ-sZ1gokaXhlKjLYgoCeodKeBC41qln9etPfTNRLJ0AgRRN7iydbOJ4aae8h8RWqljxupoV8Vv1LaJ9WqJwhmR-mzViT47XZ7YLpTl8S-F19GxICqjuMVQH-tcZy7UFUiZR2arjCmxgL_-1HXd7_FNgQL3VNXA9aV87bJUB8mw2i9g5o6CIV_K88qCFJRNqClr46Ioic9ysBqW_2fJdJBDbj5zoJuazMgI87bVB6ptZ0AAVZL5rdCwNn0jj8q65m-HZ9xLvhnsOc2QD8Wp0IEEjYLoOMKYVOuJdPxr6WWNFLax3d-DfRgwmnhw95eaBYjQh6zhtoBaZP5O3A_6bAhN2GmUtAx8gOVw6N8EWsCymUGvMdeizcUg70h0b6qV1D6Z3w4-uZxbT_JQq-BcK963KMwXNTh/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzdIV2eNZwokRxSJvbX8IIZ0.jpg",
     "address": "42-45 27th St, Long Island City, NY 11101, USA",
     "phone": "(929) 789-8644",
     "website": "https://www.gulpjiabun.com/",
@@ -57033,7 +57033,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3ymk_i1ZwokRCmOt8q7NUqw/photos/AcnlKN0r60MwBjM34ilki07OJspajt3JIOuY3yynmjS2ViSonnn27UhQnCscSn3aEQSgW6zfkiLMCi9FcAXgMtIy6wHzDfsawq3DxC6W7-vI1Qexp7USayqwqQziKmMP0TVOjh51cmCTqCYe7RTvEBagbAn7LGuII_1bRrLeY0413vLlOXVZT_oZ9EceY8UQyaJEhkNdFQPtXKeQJZA7DhmG16FQsoa-7M4yDkwRWhwLLpHdzlPviSaB-FUktw8iSL03fGF5U1ksfc6ttrEqEbnrL3WC5kmIw6HFw386_T4kio4HQ0IM45HdNO6BHRH-_kNvLnnIBAivdHKpk5Y5oqCug4nQcxdDfLq0ffMFkq3TLu0wkhjH7fyk1RcKHtglpnLeODM5yojKhvQH0J1XxvcuJFW0xvBr6tU0P0sQMe9wU0kNng/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3ymk_i1ZwokRCmOt8q7NUqw.jpg",
     "address": "10-43 44th Dr, Long Island City, NY 11101, USA",
     "phone": "(870) 525-3769",
     "website": "http://www.kakes.nyc/",
@@ -57067,7 +57067,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ94mJveFfwokRDjxQ-8fT0yw/photos/AcnlKN1j57Ugkvo9v5rBB742XrKn4Jdf70jEStHzFUiYPPjpWd9ONROIw7foNcQ_IgKUAU3MA4YFrcEkSyGTUZamOhYlbIgu2-Y90d6Hgd6BeDFwFgDTyjm6qpgPsTeZRZxZcra3OCOEmXsRkvl85LJvnWRAt9rQ-3sewwaGfs2wQpPCblU1gTqNjGvTGGcjwBN62oZKmy-RP-LfE4XaAX2BbUj8QcKxtEvo48PGZzYz6wKFURRO3Aim_WiCezZnHVg9eOudgJx_Riboc0HGykkEukFHmb6ztEynH_fYvsEACA_tYw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ94mJveFfwokRDjxQ-8fT0yw.png",
     "address": "38-40 29th St, Long Island City, NY 11101, USA",
     "phone": "(718) 433-9316",
     "website": "http://dkpublic.com/",
@@ -57101,7 +57101,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Neapolitan pizzas & pastas are served at this Italian spot with exposed-brick walls & chic tilework.",
-    "image": "https://places.googleapis.com/v1/places/ChIJzzk5JypZwokRQ0tuDC9Cwr8/photos/AcnlKN1lgobQQF0vHfRzTj4TLvA4F-Ua0NRZHay4iOEcYKZ_OfGW8UFEDIvAXAGwOU7o3oNnQ7PbkdQRlPIwnM7Mcl6LxosijFkKl3HlCMFzUofUpey-1ZkpE6BNHX3PZpwMGHKWF_uv2phavtwBL7LY2qjXxeEv3B-reVur1AmnqYVt_HfHQTS384L3CNcA3MkgoSt99lYIa-nS_w1vdn_r95_fENpRK_9keDg693lJNu1BqXKpQHrcXpQzB-n-FT4JakY52fnB4r8G_mnMEKdAb-T-qplwbSagCz5rAgSgQsRP7Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJzzk5JypZwokRQ0tuDC9Cwr8.jpg",
     "address": "26-21 Jackson Ave, Long Island City, NY 11101, USA",
     "phone": "(718) 392-3885",
     "website": "http://levantelic.com/",
@@ -57135,7 +57135,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Eatery and cocktail spot with elegant decor specializing in Peruvian dishes and pisco cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJMRDMWiRZwokRclRF5GXOLKM/photos/AcnlKN1KCqFDSt2vEdPRoQjc5tG6DPQUEXLvnoJEFVp0s7GHPkVF-y86D0XTlu8n74uey_yRr29KuYD_voN5tvjMeqwlHdZ_dcVI2tCel0NrCUUJsZYOKN8bNFq_mGpzdhJyLUJFyTkgFi_b0Fng513R5uBZCI_KPJ_C3Sw3PHr050dvJKaHBunuXdDBsnJHJVcDpou3WH373TAB_7cC0Ld1WmL403p1qDM6ztqGNp4JE1OJnE5ZLKBXsi3zsHQTPpQ-fgkMRhTOrD0Poq9dPA9X_OA7Ow4ob6abEC65hjICgc2zLQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJMRDMWiRZwokRclRF5GXOLKM.jpg",
     "address": "47-46 11th St, Long Island City, NY 11101, USA",
     "phone": "(718) 392-2033",
     "website": "http://www.jorany.com/",
@@ -57169,7 +57169,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJW94olvxZwokR1QjZKqZwjxY/photos/AcnlKN2ANwLs5PAmVrQr2F55pRM5rKv8oJ0KAIPxuLKB3DJ0hDM8O7Px00gRUNTf6ezH8gxG4UbWKI13CiIwTZttUOxZxSxeSJO8zPK1Ffr225wOY5rWR_A-mId50QoECEg2KQ2H2SfWa6BREIvPtNZOXoLvu4kaCpTNCEUPB3z2BpRjDA85fxCKXQd-dtVvNApMSMwyvOhBipIHN1HW_7MQ98s-e5MBWQncFHZtx38tH-ACBcia5CaD6GDgNco8ngYUsWxIG-3aMDlZ_hjDNKy6QJQE8PERGLQJS1RRMgUFSsDPQg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJW94olvxZwokR1QjZKqZwjxY.jpg",
     "address": "11-01 43rd Ave, Queens, NY 11101, USA",
     "phone": "(929) 303-3172",
     "website": "https://newsroomny.com/",
@@ -57203,7 +57203,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "An eclectic menu highlighting local purveyors is served in a sprawling, upscale setting.",
-    "image": "https://places.googleapis.com/v1/places/ChIJX-RW0-BZwokRCLPgx8QLHKQ/photos/AcnlKN3xAc1HYsY_p3Rx5dlHCh6VH0kXiKiAywDyAkZzuJ5IsIvXsQgQ4m5YpWIDLoZxbK70JBjNfg0cwOibqG6Y8hFAtll3rJPxaVnA0W0yGQ-c42nCxRVZjCFa3jObDhYYo5PQslnkmS5OZWTpicmPXBEBPenALMwwx9nk-OTOdU1Rn-QvcbG8vcwyCoh2R2LIQkFHSal-1g3cJ4vTcIQAecsMLDrH3HH-XQvTD8jiKZwyHVJ3CBqEdeOyEsdiNZGHWFNVAxdct5J4IP_4PECwCWVtnXyAqAzVB38ErwdE0sk7-g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJX-RW0-BZwokRCLPgx8QLHKQ.jpg",
     "address": "2-01 50th Ave, Long Island City, NY 11101, USA",
     "phone": "(718) 806-1106",
     "website": "https://www.americanbrasslic.com/?y_source=1_MjYwOTc0MTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
@@ -57237,7 +57237,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Brazilian eatery with an upbeat vibe, frequent live music & happy hour, plus delivery.",
-    "image": "https://places.googleapis.com/v1/places/ChIJA9zY7SxfwokR2Sh2eXYcRd8/photos/AcnlKN3w5msu7NpE-PPhOJKmWCvkcz5mGEAnGJuM4Vx5_g50lm81tVooO0EtzXd-4zKq08Fy58647C0uQnpS_yGlCf0L7gsmSoUYLee3RKLv20myvHnIeOSCExwiPtDcqEZloRFWdlunWETt7Ca7hccM9c8FfuVkWnVFnSfThlY2VRhGZDppBmGW3avCxTRPfVnXNW5H4p2KJE9-B9DUe1MjnWQ88uSOomt3OSLrxX1h6p6jP_EshXSkOG1OSY2qPx9NsTmpoiRkDhzjD0sAaaesJK7nvXqNy9meTkLVaWXHuF0n3A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJA9zY7SxfwokR2Sh2eXYcRd8.jpg",
     "address": "38-02 29th St, Long Island City, NY 11101, USA",
     "phone": "(718) 606-2468",
     "website": "https://www.beijaflor.nyc/",
@@ -57271,7 +57271,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJe0qdh8JZwokRfU4m-WE4YpE/photos/AcnlKN2lNDf1zo-4UbVhpul7yo25iD_MqvT-XWiEPnBwrei1yYGv6UI2LJlHlmAYyNSvydh7EazCg-m56JrqBR8F6Yc9SfetB9k05bvykypvlBI9g-ii3j1XfCXRLQrdaDQSHUDVoyFW0zE3gS9P27ouA8iiOmtWvs1y8OJDT1oMNasW606fR0gkoFz45zIo-XEbESSQKy5Ccj6cErFiA6qKv5xVPRnoJyY8EGGfi6EzCPkTvFmzFYVHamaM2xpWRZzCGB3c2Wy1M-iIuPiiK1irFF0Ydz0cNEoPfVIjsGGdSmXOlA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJe0qdh8JZwokRfU4m-WE4YpE.jpg",
     "address": "28-03 Jackson Ave, Queens, NY 11101, USA",
     "phone": "(929) 545-2023",
     "website": "https://redsorghumlic.com/",
@@ -57305,7 +57305,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4RKaDwBZwokRKQRpjlpmObQ/photos/AcnlKN2RRlx4DqWyAX1fyJZQPFR0k4m_Iu8igJsCygSGKHQgD1WOAuJckAZxWcKtTNZuQnBQ6cXlQKtaujjuIbMo1T10VQiq1juyQBkXlQmjZ7LmgA2XPAx4o--TUvVnR_RJ-V44XdUuKpF9UnRhJx5DxYwDr123KIo06HeA_GopbpeiY3NICavCE-_YTxtPcpkPviKK03r_7-zaqQcL5Li_xGZG6uSh0JFyuHCwCi1cAljht76Odk9lMOJMCUExc7EnXcapR8sS6J3u6W8nc8jqKKBdbCDJSkRw_cwk6KShooKDPw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4RKaDwBZwokRKQRpjlpmObQ.jpg",
     "address": "25-20 43rd Ave, Long Island City, NY 11101, USA",
     "phone": "(929) 554-9955",
     "website": "http://soothrlic.com/",
@@ -57339,7 +57339,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Counter-service BBQ spot serving Kansas City-style meats along with sides, salads, beer & wine.",
-    "image": "https://places.googleapis.com/v1/places/ChIJfSp0FS1fwokR8PYGmnV6vYs/photos/AcnlKN0A-l6uoCG60uVZ-xs8T1ryBXlJ4GQq24iQtPy3BEu7wIueunLTiIvcK2cKpznBqxK0RM-Ak5eJSeDF1xPUksFtle2buvaJpHttLnhKC4uDzT0thJsxfSMSoW5t69xVF5Uh7u0kjxnYrAhMyMb5EQiHiTNZYoEV21KtVgWm_w5AM71xOPNIlspIpfCBxDzwyc3lK4m4Oqy6-OOh1V8EjTLVyldlhnl0PjyA9M25SPnbpaJv8Q4TDTlZJLCz-15FG6qdAOxevfMOLHAXKVqqxq9vaayk0sUOcGRGyQs1MrFajs_mDYxiEX-bfnFs2LGxkQCn3p7C2A-M_QvSTFBA4R_mLvXPR9UWY4l7_8ULMMyP27yBua1FIKNT9fF927bFZqi3fwAKF8D1tMY5fAuwyWnJwdo7yBcXtheOZdvn0SI/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJfSp0FS1fwokR8PYGmnV6vYs.jpg",
     "address": "27-20 40th Ave, Astoria, NY 11101, USA",
     "phone": "(347) 617-1120",
     "website": "https://www.johnbrownbbq.net/",
@@ -57373,7 +57373,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "French eatery serving traditional bistro fare & regional wine in an intimate space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2zaeXSNZwokRKugqI9AMNjc/photos/AcnlKN0n-x4vXLgSKr-lwVtsVpyekTadN-luWAp-pSJMn8SPOp7hb5U1w52XXF5YxLz5DdQ2KIDdMnEfL8gC6s6bAUI8-fSCFhQzfDipKfXKZNmq9y_cDagZnm7BZwgliil-t8c-TK7SnLlEekcohQYBBgAaN6m_mmzrsTK4N9CF_tL-2UzZdFGfVjbMe_N0TuuXpD-bcO8sl7Edc9dgDglcnd1uU804g7XDsxefEPZtHZZmOoAq1Ci654RcErM73rLNeef-iA788OwpcjI3rDtPYL15l3dsm6rGBQmEzJXn7T3sFw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2zaeXSNZwokRKugqI9AMNjc.jpg",
     "address": "50-12 Vernon Blvd, Long Island City, NY 11101, USA",
     "phone": "(718) 472-4355",
     "website": "https://www.tournesolnyc.com/",
@@ -57407,7 +57407,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJD0wDQFpZwokRD1yp-BrV0IA/photos/AcnlKN240maiGQoe3-d3bjC9ath2YimwVqaKzDypZcdNbfSm-Vx9ytvGA7zXdvySO5Vg8-gs4qpjjwZ0PsWxTGG16Wg2GIh_f5SbEcy-DtDj20EO0M_Nq_CTSsWgo9bBnZQt-l-Lf4ieA26QzcJiDAg3A6I35JgWCpE_ki1DVWxYvQe2WVoOkNCZQtTPc5V0WBwX5i9jaDVsNqlz7nfS0G-5lWSQJ3Tr2abxb-U2F19dNUeKxDsTXoP6tkLYRqya4A9YagKoR3jC52e9xRwK-6eWLCmPGhzgKtjjwXLNT4vjktmq70XdvoI3r59t-vX58BPJwXDDq80LMuWFq3s0zzSXOBX7H7OL0ATr1Zrxq5d-_UTqd7LIu6VXPzZSOBUkR51HPQi9ueqHbA9Ka67PKZsa1jNNG0OQjHyVYQtHH-TViwOp8wY/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJD0wDQFpZwokRD1yp-BrV0IA.jpg",
     "address": "27-19 Thomson Ave, Long Island City, NY 11101, USA",
     "phone": "(518) 752-3091",
     "website": "http://jiangnanny.com/",
@@ -57441,7 +57441,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Cold noodles, pepper beef & other Sichuan favorites in a chic venue serving fruity house cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJkzwxb_VZwokRCQbOg1hggOw/photos/AcnlKN2l0x3eMjp_o7wFdyyGBmvp-Qkrz6UThHzo0yQJpg8HKlRntaNmeo11TQcT4NE849mbQNHEjGvCTJ98dILU4kEWBVeRwyVBWasczUheQ7HZV3yWMQ2bbgFBy5vQFDVb3FxDRTFzb7q9kyVSwR4heB2Q6JDE7cgVgrfFHrbkF22DF19WE1s2JrrhXkzHQUmBG79Sohe3ocBAst-4RFX3nu56EhdG0MO-13MhdWHlpu4bzjtuydJ3gMPMDEWBAhISa_Y4FBU8wwBSHx_nstWn9S8YzPGRNmVHrco_EGRsLOvfug/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJkzwxb_VZwokRCQbOg1hggOw.png",
     "address": "10-07 50th Ave, Long Island City, NY 11101, USA",
     "phone": "(718) 255-6722",
     "website": "https://hupo.nyc/?utm_source=google",
@@ -57475,7 +57475,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTUw_oeU36IkRazNIVr7JMZw/photos/AcnlKN2BX1HHPw5HJohSeR8u9VGsQ9TPDH1E8wmnRiR2IVUr89roQBKskmwrUA0lNnjmpnO39B05l6GvBJ2QCSKmsN-zAJyVRn8T_K9Z4pGepcTDDCVfFNB0vEOm08kDdyjsk3AYwt6w_Swk-DjQBEjbjeo2oYty6OoMdfEPELcL7o8v0zyqmsvHKEYsd3oW0NI1YJoggFaAweuDz_wi0GGAQombW2H-6iD829N4GqMYcGYTeHh9rwdSmo10Z9mbc1lxSkvy4xcauOBbIAJ8aKXZcVsAiKhHztMVv9EXSnHCmMuxOQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTUw_oeU36IkRazNIVr7JMZw.jpg",
     "address": "3 Hawkins Ave Unit 1110, Ronkonkoma, NY 11779, USA",
     "phone": "(631) 266-8534",
     "website": "https://www.artemisspeakeasy.com/",
@@ -57509,7 +57509,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJxdWgTbxZwokR4eJD7opf13E/photos/AcnlKN1Zg9UCgIVj3XIiyM62ZGbnd0nIWut2buac7AFm-YDTxjJfRaM481bnqr2jPtwTsJECm58CYEftgbnBcbnuajXizN8DlA4eQQx4voiKGECqAK0aYZxyCF27VsARVrExJd6LUFr-SBC0bio21ZyRT4HCKP8GrTYleoMR34mPVTT3mKiC6QTUSPJMdlfpWef7hhQUAJN2LUOQg2BynSMb6OnTA-cP2q-F2WNzpKpwxU0fJ-5udm5kPY3UAbnqQd9z33_DxvXOMHmtpvG1orsu7AKtMoMlvnXdHJpEDgUT4eAqYA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJxdWgTbxZwokR4eJD7opf13E.jpg",
     "address": "21-38 44th Rd, Long Island City, NY 11101, USA",
     "phone": "(914) 507-3166",
     "website": "http://www.0000space.com/",
@@ -57543,7 +57543,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWY2IqU7V6YkRNQWabIthrZE/photos/AcnlKN2tk47EoLRhtU-oh6T43CyK6slIKoIyCMSK-BA3wui9A62Y25Kd3nXuxvBHy3JzAGV0X2R6RH9JCPqR87r_l_Q6H500_LMHSEfeqUps3qVjh2VmYe66JR0uInTvqveNknSY7fcXyoLBXj56gpwgBHyLsNt-yeJ7H6p-S2ziX0yNzZ5bdhP6VGoIGibTL0hAg6rj-ZySrBZTCsk7P4ogHjh3BVEmAPzgRVBbJLgzTlriipdrh2bu8oL71Sq_UndN6q8ZMJewKnakQLg5f5fXMHtjuTBdX0io2GexLbfDf6zszSaONNUSdqk0r4AanCrFS4WY5hHuC46UDhkJ7ybyBhGZj0iafpQ1-ZMnFJiztyePmFJjHWwbzhXYwZ0HNdmkKHKwb21ZymDl5sNv5uZNjQb6QkBJUaEMab6ELjuCMdtqHetd/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWY2IqU7V6YkRNQWabIthrZE.jpg",
     "address": "21 W Hoffman Ave, Lindenhurst, NY 11757, USA",
     "phone": "(631) 450-4054",
     "website": "http://hunterandthief.com/",
@@ -57577,7 +57577,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "This bar decorated with reclaimed wood offers American & Irish food plus a selection of craft beers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJN3YyCCRZwokROfGxyYtuz80/photos/AcnlKN2CZXinVPEuFO7gjBFfsTz_Qqr6OvWXufjxi_YB-_07jk1FpUVHT_Dr1q68y7SdekTlJ8iNQ35GKmgpmyQWYhAZq3gcgUd7PtPc_gBT_-tvGAIdDG4iPzSXAJFfgUTT4qtEG6-RaHmOio1ES_hcDQaQZzeqHH70W08wEw8w1_tAUKrglO-__EqjvzH2Fz20Vi5xrFdc4x3xRnk58Nxj4Wx9NDpxWlRxfH5-kxzgb3kPerY8yshkU4CFCX_VzoGfsoPVJShfC3qUQpLxkPYqo5-MgO4Zk6hTZX4RFuJ6ulM/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJN3YyCCRZwokROfGxyYtuz80.jpg",
     "address": "47-10 Vernon Blvd, Long Island City, NY 11101, USA",
     "phone": "(718) 361-8488",
     "website": "http://www.woodbineslic.com/",
@@ -57611,7 +57611,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Casual cafe & lounge serving dishes from various Latin cuisines along with cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJEdfcByRZwokRQe04uT7LBNY/photos/AcnlKN0Ny8LXiCEBdJBAusnLXvLa0JvVQXhwVmCV8rSs6oPyq85rz9SJr2sGXYMTjJw2sMK8_gkrZJ1z_DMj8CqNDWMFL9Qi-SEw5_6WGyFKvzmAtdqilWFK94TNStFVk6SSLLYTk6PBtwg_OIfY_bayVenc0VVp53pJtD6FZLQwpWeR0VDDN2Yt2egnGq1YJyqAGXI_t31JIJLltg67cvm3Xlhxk2SA4t6fjJNeS1DhHlpuemsj1XboexFwPOlTZR-Q5Hdg_eSU6oaRD0PsRL-qpwMh7-dySB3RaYm1tXtFRrzM5A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJEdfcByRZwokRQe04uT7LBNY.jpg",
     "address": "47-04 Vernon Blvd, Long Island City, NY 11101, USA",
     "phone": "(718) 729-2800",
     "website": "https://www.blendlic.com/",
@@ -57645,7 +57645,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoxZ8ZVVZwokR4_8oorVaWK8/photos/AcnlKN188YL286HlXBsyHdQaQEd3UkS9b5idUjfZjPInAi9JsIMKom-1sjKv8m1Eme0Y8VteUAegMTwUyLoLZrdtl8W9mKhtC0wybSE-6Flm-kixcBNA8E6sn3anAzTlMb83vuKVSG9QpP26ifvS920A7GzPDKb5rRLYopOE8F_LWHXO8o5x2DW5pshSyEjsniakZ-LMU7_my2tmguslKi_UZIfjjNtJHCnWOAw15SCj7msUcE9HMIIEbBB_1D08qEmPkqyXK05Q1_pTbQQXcuD4G-DphbhhS5BXroeTXcSNb4t9Fg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoxZ8ZVVZwokR4_8oorVaWK8.jpg",
     "address": "10-29 44th Rd, Long Island City, NY 11101, USA",
     "phone": "(718) 413-8003",
     "website": "https://www.partake.nyc/",
@@ -57679,7 +57679,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ3Vs27-RZwokRz6VnxRcxMro/photos/AcnlKN1y35Q3hsNYhjbWt279z4eM8C3dRppDFlkkdgvfwDrO52Ko2QHltYnADc9tLRGtjdgAdmuhjF_GFl0hXCza4KvEhMA2RYPNLdagUQe6jbHBwlxHiM-qjq0GXrcPPeqcgzK3FUkh-7MVYfMo44X1PID29utX7frfTRZGo2RMoOUorh1FcYkjWXJjE2SnlbF-5TF8YRERfoKW7qOw87bmcDewA9ePjjdeTBgdiWB4TikFBIIUxkuqu2bhEBJIBl-Us5esN61HnyB7UpEfjobAP-hKoT7GG-luvED1DXD9WGUSxrdKtC7GwGvNkOSzNaOKEG218qCeNBcuwW_Tp4R14uFK7IKbOMXpMOUS3YNcaWa0Oj5AEj-RP842g0Vv4aDtVt7jPkRVNUukC2sCD4LW7KQcUqGsYuWXWVdj5RSI4fa2sw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ3Vs27-RZwokRz6VnxRcxMro.jpg",
     "address": "52-10 Center Blvd, Long Island City, NY 11101, USA",
     "phone": "(347) 649-1907",
     "website": "https://www.frankottomanellislic.com/",
@@ -57713,7 +57713,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Classy, cozy New American cafe offering an inventive daily 5-course tasting menu & wine pairings.",
-    "image": "https://places.googleapis.com/v1/places/ChIJj06Oe3c56IkRQLBU4z19fe0/photos/AcnlKN0xgVg5Wnh-7EiMKENqpZRoLPzgPkH9F9Oz0k3KZExvNii-MgjoyDASuKne-2syHwuWL_4mNSeAghDdp19P_0Bu1wrVtVqD5Vt5TyzYZzmwmucBsoYi3T_9goURe_66gVCXyAT8c-STYDxbK-LwOEX1Ys66_ezBzciBDiosjUImmrHn71qFZSDdBd7nlj5DqK2Fp7j6pyxpP5UnztZnv9SLwie2KRBFXLEpMUQNHGuU4DWLTk2V5dJl3H4AkAfsEeMcDoPU809_gJlrYNIX_0nHa-0BT5oIXwhL-YBunuE00AOI9LcWN9r62LiJqZpSlrI44E89N0StSriVTXhRxnMSHg_Fqb_wsbRXB7FSYgKHzb8kkby0QPO7AHYsCTSQ7Nm0qjw7i_Fc0_vMOv259-hmHn79YXTtRs9eUlKnFv5zRQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJj06Oe3c56IkRQLBU4z19fe0.jpg",
     "address": "418 N Country Rd, St James, NY 11780, USA",
     "phone": "(631) 584-2058",
     "website": "http://www.eatmosaic.com/",
@@ -57747,7 +57747,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJh4nqHodZwokRXQ_QxGDq6Cw/photos/AcnlKN1PAbzo8N2mU44-vPLMWftw9M3exTc8AC1hHKoAv31R6nxNEIXRoaiF9POK8eub-VQMv3rkT8dEHux0hm0qltCHOxWCSfeyXpLdDxVDIqb9CM9poW5tDBNCAOGt4WnewU_cuNAik3CIzU52vJhhhVvTtXSiUUxE4qb455wd6MeL7U5Wki5hQJ2R68FD-IKmK2t1FRcDqcOQQcu0lPFxCb3EbGCB_9Xa22cdwfpV2IWzQoZleZlz73UdwD-JXebxmZ5gwAnwvHQzOMDfFo8QRVcEggclPSMh12_WM5ev5ClQV0tVoE4j8wepSC_-OdVTROffvZEBgAZr32xXNvdbqWMUULI19YxOCuHP_IJ7dvxJbO-I_jADQoJUmlHb-vo8PROz02CGrjgVjBX2PpATh8N9m4ld3pwBNeJN8rd_kPeAfw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJh4nqHodZwokRXQ_QxGDq6Cw.jpg",
     "address": "5-43 48th Ave, Long Island City, NY 11101, USA",
     "phone": "(845) 310-4255",
     "website": "https://www.littlecheflittlecafe.com/",
@@ -57781,7 +57781,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJfUhLwslfwokRqaOntngqnRE/photos/AcnlKN3V2L_OPU2D5Vw95M0JDP4tPDAeygerUT-jU6gh6BOKZ2jmboER5i5VCysSwAQFpb-AO7n-d-5YNbfxrtHUHxz6792PGEmp6TCBb8xA4pDZpmge9z705RjE2ZF43SMphfcssjRYyDdNSqNoC1-J6qpbRt-WkDYCi06AkJnklr_XwtzcPx80dfGMzfnXbk-LOiBxmtmmDyIQOO26pomILK8IgEHltoKM4brbjI5kTcwhI6oFF6Nedg407JVAi2HYdzMeq4YhTE7qyHxDfilTkFslTB8JGIIBdOKIswnHLGtm0NJqe4cPnXmW3esVHrtM5_ysRTM9P8pgAClgwPIpe4mStTh4iWARU_JNceMkoowGKIbC8-fWHgmBLeWEu_qbtDH79OMA21daqR5HCYAQXtbS-66hMO5LXyyxWypTLDXB-sV-CiXpDWWzS9c3Nw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJfUhLwslfwokRqaOntngqnRE.jpg",
     "address": "32-72 Steinway St 6th Floor, Astoria, NY 11103, USA",
     "phone": "(347) 242-2108",
     "website": "https://www.boathouserooftop.com/",
@@ -57815,7 +57815,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Hidden-away speakeasy with password entry in a sweet-shop basement featuring cocktails & live music.",
-    "image": "https://places.googleapis.com/v1/places/ChIJR-vex74q6IkRNojI3z_v1wQ/photos/AcnlKN1oufWeJTnnZWIsEHQ7mR9vYZ6a8Ci1nSmen6FK5M3TRisAErqHBqaebPrSFT44_j1UWHmYgen0enT1z_vISnE6JhRT9MJN1Rl-QccC2W8O-df5v_VVggD2kT2XzdPuWkKA4iWHCnxjWeuFVWHBPuIejWSClkqs6NxLuTuqsx9Xa2a0BQbK5ooUV3cvr2xg3HNqceuNjLOiJumcGFZC5DSxM0UEAcCG7pZkojT8O9p-qeCbwXAJe1ufKCHeYtQfGCdgw9lOSCCuB2Rml24MfquxiqKPJRcssEX40b3bOacZUoOwMVwPv-ZH8JXEEK1Oj62UgRuZ3aYpWTy13nwpirXGg-GaF-Oi4N-i4dysmFAoifj1Y7kiU6_sGQWMjmU_iXDRA5aZJkX1V2hKrDUgWwKzzOeUJJzx9hIHAbIZzXKRyQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJR-vex74q6IkRNojI3z_v1wQ.jpg",
     "address": "294 Main St, Farmingdale, NY 11735, USA",
     "phone": "(516) 586-8530",
     "website": "http://charlottesspeakeasy.com/",
@@ -57849,7 +57849,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJi_XEgedfwokRYCequglps2g/photos/AcnlKN1JX6fOJovK5sxIu7RIMoXrO6y2s8v2I0ytgiwtK2IH-kvofFOK55Ese9OOCR6XSjpO0flXTBIhDlw1V1SeE6rF91lgTBlvFJq3D6uoQoP_SBefw5-stEDwqs1v5xKUQElUOWao2Jk-t8qOKXjbWn_TbWcrvP0M4wcRE8gGV3SkcR2bC5atS9DQZEy5Wn-dTwa0otGzsc8B2syiRaijE3J3cmUTndw6pBZUaR2So7QxNaZWXe6-34Mz4jfvLfFHlBoSRtkbN2FRndZb3-tsbDfbpbAFGk7EGyAMJdmCY_8Skw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJi_XEgedfwokRYCequglps2g.jpg",
     "address": "43-17 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(347) 808-8759",
     "website": "http://thegoatbarnyc.com/",
@@ -57883,7 +57883,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Intimate neighborhood spot with a warm, rustic feel offering inventive cocktails & craft tap beers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJl9ReytlewokRDjB3Kk9I5DM/photos/AcnlKN2_6F0uDXrEUL7IWit6wBSbYzpNO1tAdfWgwWrADa-Jg6noKbQ9t8BHbpetqi8QJfNRAL-tKz9IrWRmHVSLrjPcPhr8N_aByUDdNSBG6BiVGGhhINd4QKSdj_Z7FOpVxe_NNhTFVrr4FbblT-ZMLzgpH7lq9N8zVbmW9Kg_uzFRlDa3_olVLumF9xWbG8K1MixKDOu908zaiV55XdmV8hWE9FjW1wyEGBR-7vz7CROMMvenVjT5yra_lTOpWrwTnDSSTiDzfBIueJhrOFpZsvQq2cf1pM5nUnjrXvS8VgguDQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJl9ReytlewokRDjB3Kk9I5DM.jpg",
     "address": "41-15 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(718) 433-3067",
     "website": "http://www.maggiemaesbar.com/",
@@ -57917,7 +57917,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Warm, wood-hued eatery offering craft beers & cocktails, plus elevated pub grub & brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJJU6r8thewokRiYQuwLuF8kM/photos/AcnlKN0Yj4OS4oJ0dTVEDr2ESe9HCGhwKW3h2EozDuGFfcwsILpujvAypbdYmHruchmv4gbVcdu0gURMeLVy9lVazstkFvaAA8LUC7AEpqQx8IY5IXMd9B4ZXW-gSXml2jUYH8gABr8rDlPMwoMx_d6-at7KGZDYqlx4ivdl4U0hUYODN5ErHapTlWZV10UGUK5l38TEbh42dqO_xIfMCdgV8RTK9hS6lh0yTgYx4fqJmf9CVV4rBstUOh77-g4_BpAfLTmk1e96iM1-REdTCfYFjF2y-52aTzVExufIQlf2kaZKvQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJJU6r8thewokRiYQuwLuF8kM.jpg",
     "address": "43-02 43rd Ave, Sunnyside, NY 11104, USA",
     "phone": "(929) 208-0054",
     "website": "http://www.theloweryqueens.com/",
@@ -57951,7 +57951,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Cozy eatery offering creative small plates, tacos & burgers, plus a bar & open-air dining.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ0b9gfCBfwokRTfIxngqx190/photos/AcnlKN2ygkycbGok0lFb_4KLk12Q0UUUGVT5bkiRZg2dF6U073BSPZ0px4fwj4nWgbwjd0XhzfDfYv0j-F0z4MTQmU1wFAWC3oVLh2AUtB1GIDpO907zZvI-3YWbG-FTh_2tdadlDtnI8ezo6hUoijeJaJpjEij4qz_-Cxmkn5XNmyXHsuUCZS00sk5cFMKagKMo4tAdrAPmcN8B3fHYfOWSWj5gMk7lRfGq30hm8WfKeTTFiwKToQI5LYJaIalX8Tsm5_kOgCR4WmBsUPDNaelRrC6Ts4ajXWkvIkAhrfkUnJEL5tJUB9MG2__IAZgUc7OdYGzRcKWi2COqK0Y5gfQ2qReol4pvSIHfgKyu-B5cfo0Kd1Ac2HOheoDSmtRH4PycudRKdj9FNMsywS4oIvYMNA-I5JK-QsYRQ3KNfvzdzAAXWg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ0b9gfCBfwokRTfIxngqx190.jpg",
     "address": "41-11 49th St, Sunnyside, NY 11104, USA",
     "phone": "(347) 813-4159",
     "website": "https://www.facebook.com/thealcoveny/",
@@ -57985,7 +57985,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Neighborhood hangout with a leafy patio serving upscale bar food, craft beers, wine & cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuXwiAtlewokRcdTwW8_pqWQ/photos/AcnlKN39u3EHn_m293PsvMx2oD_wrlOllqRz_zModdaPJdJtuivXryJCSJuuwHDCCxxWeR4aNvcT0swI-KntvlpE1FzyqT_J9LCUvDxZt67MoScxUuKO8QhJckQQ6J8LxPUkBDeTAHUVm0LQldzyzGF1ubLBQArmi5SHCwXYobYawVX4U2ScEJxjbz4nHqf7U0SXQHHUA-qaOkJJzHQgTqhbO7pfOdtOXuLIfejhMNI18DxmQIvjeBn2miamdBPUlkXmaPxEJBq0Dw4pJIkwY31fGvQNvXSby8D-X73OUxmh2VkXqXOU-Grv9_oHtyqrO1N8Fngx1Zv6zp__EqF9fzNNkAaTDjjzCQPRTafQ770OQfsLMOyYs9EpD71Of0yfFA5rEUSvTw3laI8AR5PcLNRd5VizBJ91a1-4fOgfsrJ1hak/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuXwiAtlewokRcdTwW8_pqWQ.jpg",
     "address": "43-13 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(718) 433-1916",
     "website": "https://idasnearabout.com/sunnyside-idas-nearabout-idas-nearabout-food-menu",
@@ -58019,7 +58019,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "This unpretentious watering hole with sports on TV & many craft beers also has a covered patio.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ_1qc29lewokRsWOut6ND5Qc/photos/AcnlKN3etooxpP1_F6POCmhsEOP16AW_eNUNJgNDP3V4lAKfQa75MMJMMGikz62FLnDaEbCnu_wn6rID_9R8BD82bju5Pl6BfpEbQHI4_Nokjw0loPUPNnMHSiGaUipSzlxNIrUPaJcEUbAQqbfX0f5igAF_84E_sKfLiJZsVECQMCCk5S3EclTHc9LgJtflJb6kfinOwEm0g2-sT6wCLbHrn4FTy--tnQY97-gHJpYNP9ARJfub88DecRroMZ_3RmJHE6XeCFcMw9TCydWjwgQCTRSssNfViBc9O3J6l7A3pTP-mg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ_1qc29lewokRsWOut6ND5Qc.jpg",
     "address": "40-18 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(718) 729-4601",
     "website": "http://www.courtyardalehouse.com/",
@@ -58053,7 +58053,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Neighborhood corner bar with Irish leanings, including shepherd's pie & a hearty comfort-food menu.",
-    "image": "https://places.googleapis.com/v1/places/ChIJAUqAbXBfwokRTscd_GesP4E/photos/AcnlKN1SiIaDSCPW1eCjW2LBqJ3CRNpmTUJ9Ru0Ek456pU1Ki0UnblqMhyD1h8DsOileUGrTnHsGXvMdM_OzrrES1qDHdT7yn-DetprxTmcKQpVxEKmI1Sev4fqm6FxaqWfwBDGiAyw76_553tCh5dQflzPIVo2NzpnchH6AHNTBo7ikbBsiKmk6wi2obJY3ZthS4CLfqmEm5gOWbOi1S1Am3VYcKX94qD3xveUT-Gk28pZ6jlGV5SOsiz54_xv4hTI6y8viTpj-xoZNWntkFKHgw29xBFSH9_mkIT7jnNk9mC1ku9ByznRZfTfZWFyDEWRpUZOLLCc2Idj2i2wkuOwqu0u8Tksv4ZqOh2KtvbxFQ0KZ8doFWSQkBo9HqYKShjWDNL3yMN4gJ9JPknBw7LwVNdESTPftHKQscMv0WjebjWU/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJAUqAbXBfwokRTscd_GesP4E.jpg",
     "address": "50-24 Skillman Ave, Woodside, NY 11377, USA",
     "phone": "(718) 335-7596",
     "website": "https://copper-kettle-bar-restaurant.ueniweb.com/",
@@ -58087,7 +58087,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Long-running, unpretentious watering hole with a patio offering billiards, darts & games.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGTPFHttewokR0ZdjQPLGJjU/photos/AcnlKN2wnfMUZv3DGCnmLfWmlfDRZ2MtU2bsprJFIWK4tGE-mD3CUMXMXUJ10IW5MrkAM2Z8HO4Onc6atYhTI8jFniQnsrP7UzPgkQa2rttISoQfZpk5W-SFUK6E6kZtSIKVoP__I26AHpLIcdlnHBplyI0tYc3WfrWh-zqfOE28N5fB3MKvG1oXG5kRhFd6HY69k1x8MkVSFrorZsgOMDnHIb43ypcYHAPfKPQfITiCfWEzhH6LNkbrDjrjg-oO5OJeoJ69CzoqJ2pMg2piUlrppC77rRC1TY4mkPF5yQEX77WY5g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGTPFHttewokR0ZdjQPLGJjU.jpg",
     "address": "45-06 48th Ave, Woodside, NY 11377, USA",
     "phone": "(718) 784-9616",
     "website": "http://facebook.com/jarbarnyc",
@@ -58121,7 +58121,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Sports bar with brick walls, red banquettes & sidewalk seating, serving burgers, wings & brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJA-BI9dhewokREjqZ57Z9f2g/photos/AcnlKN3jotkJRUdYN-xFLgsqv3Z9wzoXqKIoBLTJSUTRGBUsbMV5N6OaivM2lyU0dboj3S5a7Tw3a_gPJWXnuvWwxiUhaCb_RpL43aSvHXPylYLTsoOnkgo6QVhgveuZtlKzxOBY0_OwoSvvHeQZ6RUxkOXAHXWbFdSnLzk0IFLEE4Nx7F7Q1gPGNiwRD8aE4GmffMqmqa5CtsG3DHnVlVE1jtnAD1hU1DbFkG9aJSMCA7rolRtCKc7iIGx75B-JMVlrv2UKO4STSZUerK1m09NsJE3sVTcuVW-IBXYNoxTUCUYdSg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJA-BI9dhewokREjqZ57Z9f2g.png",
     "address": "43-06 43rd St, Sunnyside, NY 11104, USA",
     "phone": "(718) 361-3090",
     "website": "https://www.bar43.com/",
@@ -58155,7 +58155,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJf1muZCBfwokRWCCr6pTwI0c/photos/AcnlKN061qzv8AOwXOySPhNIixmjt_WbcbaGdp_wHml6hTTHIWewjbDu1kzrdt1VZSOXdWL9CKdq-v4cOqGxLDEQ0cO6avhkEpFuSVHWEJfWDXHl3Q5dzvR63RI-XZIrTjbSlRcOU0ShWrLAToAYjvANG_ixb7id9BYN_REyFaTMGuPnAImiHZ0UgYNML3BSW7DhT_HJFFBrpJHEGdbpcXhiUkepaFk4ra3hfTKGso3HfaqieSTYa7M_YsfrSeT6rnzG_rQQh3sf_uyQWiRGJHXdflYmkX_d_2BUMbFoCuFq6uzZYj2IRA99M8bB7e62ma0VBi4S28m0dNQk-8DMSbEglwNFaHVxNCEUgk2tNOxPUqTlGvkGuzyWx7FvN81_ZHx0PyvkSbYLsIhp7PEJWdv5dJNd8fN1YNw-u9z8A-ILW8hA7g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJf1muZCBfwokRWCCr6pTwI0c.jpg",
     "address": "48-20 Skillman Ave, Sunnyside, NY 11104, USA",
     "phone": "(718) 457-8130",
     "website": "http://sangerhall.com/",
@@ -58189,7 +58189,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Homey firehouse-themed bar with an enclosed back patio, a hearty pub food menu & sports on TV.",
-    "image": "https://places.googleapis.com/v1/places/ChIJA2mw-ydfwokRA6AHCs4B6Ns/photos/AcnlKN2T-lHmWM9tm2oKQpuSbpwhxtjk1bkw4dkMI29OQ_9pKztfwMlogrYHUwnhAwHgu4tinIQJ6OhDFvf6p_2thKxryCLxHS2zhkhlSMqo5Rd96unMbYs2br9T7-Eexh3wkkVm3mPTkSi7EYnUhMVZOTntKFl3OW1EGfgXbLx120_cYsB68S7trq2_yC_jnMBvp7pyBAOuA-5R0sx2i2BZ5FbALhTNVXJV4xWxax_VAqPEXUnXP7HsN_eMFI0IAqc04HR3vPQOP2lqViyPPHpJPScm7jzsOLJBZrD_YfHEBQnWE5IMf_9PPil-jztkLEdAqV9_YycFtpKMSl5xuk1yn77dWRkQSNyOtUwwupvmtR-JBtPPNIQseyTUtIGY9t_avR4yQKrdKidc7UPc_UD5gvYgSeyP_3Pa_b173yRoGW0iNeI/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJA2mw-ydfwokRA6AHCs4B6Ns.jpg",
     "address": "39-46 Skillman Ave, Sunnyside, NY 11104, USA",
     "phone": "(718) 784-9090",
     "website": "http://www.jacksfiredepartment.com/",
@@ -58223,7 +58223,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmbusst5fwokRG7J7eIN55AU/photos/AcnlKN2ErvkAzsbJd5tHOQWne45E6Edwl4m9_PmMtthNE0nmt-wBeQ0eKR4O3QjKd_E325-nmHWzt-hOVlutYziU04mEU1aKsbbge5VmYUCYvPzszd3G6-Xwv9pACGthznl0s8p11_HKGXxjLeh3g4--0bQ_Z9UK56H7ckY-HhbZNqR9lcEG4bk_U2I_Osp6irZZzJB66IL_WGDhzYq2FOOE2bBu3iXvw7JovyikTcr19IQeEF2InmyTimm1IofFWj41ff7WNNoSMDYi3EXOs1kA_z8vJbRDocqJzEE_PFmLUiwd7kOcLe3b7o6qKQUlJAr2NILcedrOZmJYt6ZJETudkhHAMIc3iN3f9SWROp5nkWdvJvxzr-58x_Q40n64tq2iPFIx-j0JawM8D7AIkfJbS8Co6SAtpu90Gcxb6sgP1EgEWQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmbusst5fwokRG7J7eIN55AU.jpg",
     "address": "40-05 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(347) 617-1478",
     "website": "http://sweetavenuenyc.com/",
@@ -58257,7 +58257,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ03Rb-nBfwokRTWq6UIgVgs8/photos/AcnlKN1mp6D_Lm4tKundRnY1g9elcceQ3WK92fX3tEEUSfu70jf1uFfdcgIFGnBPYTWdcg0HgM1cXX5u6ufn4SjnaJN1bl7RB2X7f4QUIyEtJR8cCKwYPbtDjK8pKCJnLungdWwHEHrU5MurzMtD3b5WzaS1X6i06FqpY47QEzx0t_4DwtlIW4YxhP8hd98qW_LLod2hV2KXatvtSXqS1J-kZ4y8dCJ0Zz3W9w2dObiblkp1icbJYQHezH9LTDZgyfOH-HaqMnoB3Mj30ir6Fc2TPOf7glkr5jmU5WBEsshxCFJNNA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ03Rb-nBfwokRTWq6UIgVgs8.png",
     "address": "49-02 Skillman Ave, Queens, NY 11377, USA",
     "phone": "(845) 470-2555",
     "website": "http://www.cousinlarrys.com/",
@@ -58291,7 +58291,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Intimate locale offering wine, cocktails & draft beer, plus small plates, pizza & live music.",
-    "image": "https://places.googleapis.com/v1/places/ChIJz0z1riBfwokR20OAdZrTifI/photos/AcnlKN2JYyKPEKg2MlsEMZkHO-pbw5ulsW2NiAEwe7znljw8WKlJbQhMlBZaLaJFRdq8ADF3S25cDnpqBAFi4wgEpn2Y4iUcHqMpdiltJX3QhXKckV6tYt_k5AEJLLvxXlO2Wu335Xc2iT0PS6zDiftXuk_wM4XvC2rVbvrekNXLvejSwfpLwsx7gGbHANT_jyhOq6M1cV5wUrf4yGBVoVYyy7Su-IST54Zo6folqyiM5VqC0CMhQHkayC7RUach_aKYITYwA7TRQgAfuQ86PS0ax3s0aCZ6T4pBvzJjGejlnWH0Iw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJz0z1riBfwokR20OAdZrTifI.jpg",
     "address": "46-02 Skillman Ave, Sunnyside, NY 11104, USA",
     "phone": "(718) 433-9207",
     "website": "http://www.claretwinebar.com/",
@@ -58325,7 +58325,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJu0cjZSBfwokR_AY7C5ySnk4/photos/AcnlKN2lHaIYjMJ1iWKD7UYT2qrJtCBCBcrk0dsAK9thpebdiNMBTDtNJHhLyNZtSHE6YftS9j_x3OwkaOeMaPy3s5CPXExDQ4KjS9C19lGcE2w97fgZch7LIeloEdGNbPClYEQ3Jf2pqGCXn2GMxlzv8IdKRixfWZ7BjS1WIReeTK3UrrAoPtlnNjhdW_W6OdXr_4Q0YHg1CuBcIyxj2v14VTFvRWw6SmlKasqyuyBJsDEkTdDb2dr_OSPnNQSkUwKKcaMkPKEGwQiBoYCcvmb7ww83icoWM6wVA_jK9uPCvk-_6qM4jDgxHYWGY-qYZ95B926Rxih9XAJ2EXFr2_QvraWYzMTGr8l22pI0hU_Q3PHk1sHMWzF-Ex2kWk8ITC_xROz3uUz98NYvQt3WJZac0NyO1nxcquXqpFiOHgcavkyKuxPLmJcAduhIy2YiMLqt/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJu0cjZSBfwokR_AY7C5ySnk4.jpg",
     "address": "49-10 Skillman Ave, Woodside, NY 11377, USA",
     "phone": "(718) 651-2558",
     "website": "https://www.facebook.com/The-Globe-Tavern-113474548686125/",
@@ -58359,7 +58359,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrd9lxn5fwokRMc-BPh3sCV8/photos/AcnlKN3mrEduZ7jRE-yd-E1teyEdtODg_X6oggqvU6P4ADHMBseDdhXZiFVmPGRU9uQNjUiiOzLwzgJP6TnH1SN1JhvQLZIW-uC492wKPlQzRzABHRiUGOa-ptTizLkqCw4BBciNM_KvPKTYu10LLZs3lKwSgFBQ7EtTccdqdBKIIRKAMZD3MLEKanSvPlX123T0Sb4iTnTm9ypFi1qsE1ZsIu-yisgV_HJQOnwW3IK1X7c0uGN1UKP8tTG8RywOCD33Ifo8jPDsIaUqiorqw83m64YqZxnoMNIqPHHGafKC-g8TgBZqitWjP6KZ2uW9KD1joR9PrgDSikfOswipovn2WwdTUJ_cHrbtOqmCnXhqVNdyH97_XCWSn0_ld9qsh9KoC7QyeADTqLf5fm9pV14BBRgjq9uB1gFX7vR7uEeQ7l5_rQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrd9lxn5fwokRMc-BPh3sCV8.jpg",
     "address": "45-20 Skillman Ave, Sunnyside, NY 11104, USA",
     "phone": "(718) 406-9048",
     "website": "http://theskillman.nyc/",
@@ -58393,7 +58393,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Italian classics, including housemade pasta, served in a bright space with exposed-brick walls.",
-    "image": "https://places.googleapis.com/v1/places/ChIJBxfk1NlewokR5ubvrpG9fCY/photos/AcnlKN2lp11jmJtJ0m2zpa2Nboh2ULNN3bam1oqjrxUmtPLlGnx6Otp8mkwCyHM8NLVlw5IPnwD09uv3_EwxBms0gV0pNDTZfPQVz9mFJzHGT9oXdJ4c8v96tG1pOhHxydBzfhkLXbo0WMlT9xUwUOTwWNBO2AIDXVrxQWDKQagT4wj_ckofcLlJT9dwZ3X7ORqFioV0jOqCTlP4ybo3xMKDEyuFYBpzzxAg0Ecy1qE1PSvIO4rad6NcPrsESDEvJC1uuNwCjynhngMaFuOzsdqgh6jaY0L5SdmJxSxs6yqvVLlVNQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJBxfk1NlewokR5ubvrpG9fCY.jpg",
     "address": "40-01 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(929) 296-3942",
     "website": "http://www.solelunanyc.com/",
@@ -58427,7 +58427,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZbXi7g1fwokRI7aPpYIe834/photos/AcnlKN1-2ACRLdRzc4h-US-e5MjIb9kRDcFXkI3TSq6-D9jmASi8r4ZR5zORv8zl9YSwLHL56meiwuc7aLFkeT37ljJFVakbc5ynK8oieQjJHHhz9M8dRo2TzxxLW8134hhBfy-2Mh2TkON56VrwbVfPV1Yq6ppEGnIKU-pSjhz5XL4FOcOp7f8m0LhXQsle5mv9zNyp6_Jkh5g7_h6OaiDzolok5pxMjGoRIcsR9-k5kzwwJTtDd7-9-jYuBe16MmfbblsaqW-9ViLIMltC2LtDtvia3qW8FMjpMVDZzwJD3vq-pg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZbXi7g1fwokRI7aPpYIe834.jpg",
     "address": "39-19 Greenpoint Ave, Sunnyside, NY 11104, USA",
     "phone": "(347) 617-1116",
     "website": "https://thekasbahcafe.com/",
@@ -58461,7 +58461,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ-VFLyqJfwokRv0FGo4lV9h0/photos/AcnlKN0jinQd7lYxQp5wXPDC_EOImMRqSo_46X917womj8GQsEaqxT0D2shQsxcvENgHJ1zenJGSbKFKJL5SkFa8BLxZvBvz0MZhtqHKeInm1Lg23QnkBGIZTC3n6lv4fSvqDzsJUtzdyc3wnnpvHr6tXI-3QKGLhsU4Ju72E7CN3DQIC5jHFArQQa4g2U31kWC-xKp4b5taBoqA4o4ZXacUkRn4Pp4qBGBarHHPxZje6xUIY8IL2AKSpTNvNypEoD-R78QBJkonHcKue-5_pnwuHxBLE5qTkFG9TjGl17WUNMDS0NrxFrcLtEF4wXRN0009aOwm_nySjDYdpQhtnSFHbj12Qqf3O1qn5yfhde9V3mJdca5HjF0f-ZUth2UtKECXsMv_n91cxULPMDctLxc4HlOmbMyVzeNzEzWdODwT_Vs/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ-VFLyqJfwokRv0FGo4lV9h0.jpg",
     "address": "45-12 43rd Ave, Sunnyside, NY 11104, USA",
     "phone": "(347) 808-0070",
     "website": "http://floribellanyc.com/",
@@ -58495,7 +58495,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ98q9AJNfwokRotfttDqtRnI/photos/AcnlKN0IX6z-pshRuTGvC_Qr4UsRoY_7RreXLtQdt1kPWB7FUNDdfX1bviZtYhZlNyfxdFkOf0nj4uIKJPRqcMpf_Uica-0_BkC26_imLROmq9WA37YQcr33lYxnzGpUfRNO4rKhTOXs6eVMJdisFkw63aEROBUh8joeAqGBj2rwba3ZdTkC6sOr1jPRZICxe6gRgvRslQrNhHRSqRouW_1RY0MDZ2mcNDEMOeevnIUgQ2Xh1VdEBHZ518gfoPyVkdsqiJ0vUxGD5W6OoWad7-aIIk3F1zGM8qU2pP3_HPzE-lndLOyaZu99m72OxVGGP21khGB8vi3o-fLMOJLASDl87pV5VxqRzCG_qnbv1NxWwGXJ6BlWsjqhq95JtdZiWWRo5vF94jDXw0ReMEiRupHbErKPqqDgTDF12DSyWONLkZEDaDjj/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ98q9AJNfwokRotfttDqtRnI.jpg",
     "address": "43-22 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(347) 808-0178",
     "website": "http://order.madforchicken.com/",
@@ -58529,7 +58529,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Neighborhood Italian spot for wood-fired pies by a pizzaiolo from Naples, plus panini & antipasti.",
-    "image": "https://places.googleapis.com/v1/places/ChIJPWbd4dhewokRPpXxkpzYhEc/photos/AcnlKN3dIGtuw6D7LrfP_IgrQg4YAF2nQDpD-4mukbdvAmqETpJYFTY04jv6m69CA0GKDZoH1UjCtC07OBMTviyovLb17oljPcJEK4Ojal1Jqpddy5pu9TeNhDnGzS64jMA9KQaHwZj7Le9l8MBJkUzJjJJYpR4b94s7gUFeLIX6pq19SWMXzUpOVOaIaVsvFKprqwuIuXQmYoUKG7sZ2SjCdE66nEyzvc8npvsnCGZf-tS6Gv9OiW4-2nvFaQXzaf2uem2w37VHzkT_QDBzPPys93QlMCkT8oqDJDhS3WWgMXqYQQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJPWbd4dhewokRPpXxkpzYhEc.jpg",
     "address": "44-07 Queens Blvd, Long Island City, NY 11104, USA",
     "phone": "(718) 685-2086",
     "website": "https://www.sottolestelleny.com/",
@@ -58563,7 +58563,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJOyxoDfxfwokR-lOe_a6c3C4/photos/AcnlKN02241RzlnhQ3ro2i9SCqNvOR_479IgXekgNqdJv5Vq4UnK5SopuKe8R_baBYZSN0z1vltQQ61QLI4JV2R4dqXzNqBsmzGz0Sw7ii9ll7TjEjhRmqh-8qOOXHS5NvMMY7vOXsEmCOQVyytO8J-3hD4vMFGb0OMXHy5HKnHXYNRP288lZ5XcTYp8YVF0yMSKOlRoJxyDAcTStUjcylKMpFEWl_iuzTRFzRLQ7MfRA0oQYRS5mj4q8HkrwmH3ToCnbZlfhDJNdaYhJQsffoqGUk9pnyZa97llChpAmISX6-x0iA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJOyxoDfxfwokR-lOe_a6c3C4.jpg",
     "address": "39-09 47th Ave, Queens, NY 11104, USA",
     "phone": "(718) 255-1995",
     "website": "https://www.goodfellaspizzeriasunnyside.com/",
@@ -58597,7 +58597,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJCRjfZQBfwokRYMsBMYdR2Ow/photos/AcnlKN2XqCFE99mQIAsuhuqfGNc4nL8bbaqJb1eXbUmo53hf204jrnRAWwuAKrdbGhT7bSWN2LMUyjqCGk5ceRa7EnjKrQ9BSerco6T2-_-xdPQsa4z0iGGuB9ar_cdwGcm5yhs-XYp8tU3lzThjX3a8PNl2uRJ11G1PVAoXumOlo0JaKCiKqEHTQC_FH66ZHYfC2ZrJjDx58tf03VJMlgCyZhaMFl2dnWh-sqyAexyVISHN2ZYyfbU0lFNiVRaFsx2Ha204u4NV_nUNpPdAnxxRd6y3vCFUTOoOVzgYCYje-EsiEg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJCRjfZQBfwokRYMsBMYdR2Ow.png",
     "address": "43-10 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(718) 255-1014",
     "website": "https://www.ubereats.com/store/capt-loui-sunnyside/sB_H6kwVWxajvp_U2bFIZQ?diningMode=PICKUP&surfaceName=",
@@ -58631,7 +58631,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJYxSC_41fwokRsPkWcp12W1I/photos/AcnlKN1H5wfOhjTozo4nyFEgpvge40pKnnlW9KmKhkVmtRltWgD1yDMpheCvjqKnh1BXuWcnU02p8RnvyaZYtuPmlAY9VIzkbTHHuuzS0uL8LXAxxNv9tLYQ2377C48ny_OhTyv1VhnJ8ZDWo8q7_kVsBwPeVTiJcA2hJTVKjiXXCLl_7ECqUsbOmFHHbK_ssDfO632jRHXU8nAwBd0IJjIH2bJA9lpqKoAem47iA2vyq_Du6wjr4L7fOLylRUZFN7okuKJAzuq4AJAUB6pOp-7oOm4Cvww_svAwVT4ht4LutJGcvYexnsheVh9Y9h3yt9Axr_xHagrlJuy-b7-dhVUZKud3gerUxn7TI-1cMSeJxrUacsdX81zumQTT9BQCuGB4lrpN6PohcjXL-uzqoLNuZOl6GE24OILcCmViHR22jy6WTNz_NRXJ5Ju8V0334Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJYxSC_41fwokRsPkWcp12W1I.jpg",
     "address": "42-18 43rd Ave, Sunnyside, NY 11104, USA",
     "phone": "(347) 242-2986",
     "website": "https://order.online/store/taco-&-dumpling-sunnyside-33988921/",
@@ -58665,7 +58665,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ-QOAbABfwokRoSAe26q9z_c/photos/AcnlKN2MFVe1EJe1qpxTkJVA3hkRU-oY0Eh3BxwWoFEXRn-QKROwxjNtEGk5PVjMUdqkH5-lwkGoIgdQ0C-8jEefotS43DhODIS_5wYaNz5NkYD2GhXtRTQefQaZj9LyMxzRfigFwMyJCzToFqza8NuuwTlGTawPyxl-P-Hv6gEG0ZBVkwjfynwQwLLlzgNNlsu3y4sQW1iT_54cMnpMjO2ZYyXskWgy93BowOZeqU1uHrDgZx0KdVrCV5aX-BxBXb4Ry6fRZ2traiNkuQi3JZ_WuhPNNA3iy1lhGa2zt0dFVWmifQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ-QOAbABfwokRoSAe26q9z_c.jpg",
     "address": "45-10 46th St, Sunnyside, NY 11104, USA",
     "phone": "(718) 440-9167",
     "website": "https://latinobites.com/",
@@ -58699,7 +58699,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJp9VPLxtfwokRyiyHFhvZm78/photos/AcnlKN2Bc4w5zK5QoVRmqJHpITPRmNHWOYiSLbnuViBSiCgFe_1QCOA9llBmti88n-QjYgmNXBxfFzllgE0hZ8oHvaMqW4v8e84nIqMpMGG7qOaRX76K3zqQJeLhgqBkOfmgPnx23IruSbziYYZfK39A8G0Yc13VSPHZvH7D_0D5dRY3LpqjwEe9PRUbRXdYk0cTlE4U19Fs9UGoEpkIhBUPSNgC8xAGrrNJ5yk1sBwNw2sQTJbV2e_rVBVf-vhhCLa_8ENbrnwXY4ydFa5aHVl2wLY6ywzTmI2xhnw6qXUb05RiuIUt9bWf5umy6NX_yMi1MNmqUlvt1GduVEl81PDzt4o_ZEAhbhGn5CBArROBGoPIYdypK7NIQxlxjWCN7q_nvxVygavFWHVxpJ2KGaxk8LOQOePfrUQUQBfCMipaBRXtZCQYCRyC3K0pk3rA0qkS/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJp9VPLxtfwokRyiyHFhvZm78.jpg",
     "address": "45-06 Greenpoint Ave, Sunnyside, NY 11104, USA",
     "phone": "(347) 448-6663",
     "website": "https://www.simpleperuvian.com/",
@@ -58733,7 +58733,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJlXG2Nm9fwokR9JZHG_JYFmA/photos/AcnlKN32z6ANwk548BADa3p8NVhmQF153zj48WuQ0OQr7Nt6xY6efq-lDKddDYrMkNNB-GUcoghzjUaaV2eH7nh_ZPCQELNi9DEfPTfB6XVqyqWpESscLdaW6EvBH9-DLIxCGB7Pz1k9FVXuD6mSsKWVJLoTHF38kUJpkk4sXiT4YvYRkJkyfymcthe9MhBHxd2ytGyeBTHPtLvD8VxN-DmWPU7F7LG8d8RzEn0EkV41mJ8VRBl4FR6Z11swafuZuVUNzhPdXFnJR8GJ-TrnPagF4zKIDmNJjixbxuRIocfSExtI4A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJlXG2Nm9fwokR9JZHG_JYFmA.jpg",
     "address": "40-17 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(347) 448-6634",
     "website": "https://teppanyakione.com/",
@@ -58767,7 +58767,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJfyYinx1fwokRvPBNz8PIQmY/photos/AcnlKN3kUZdOxIBG0ly_pUhdLTVE2VRb2Gvarm3MjiKnfanrK3j8rDRHnrCGLB-L6qiwfKL_-ZJtegiJtwJIHWq2XWA4fL2f2Oo3hA0q-RM5L2EA3NXHtIHA3XWv79_a_3GPPQxrYRPiVRV4Xi0WkbJYhmaXkT05Oo3c3wg0a59Nr6s-cHU9XfL73cbYuTe6IsxvKNfcOSCk6qF1A7Ije_VVplcEodthQEnS8D_OiYU1aiELX62qtoPrUWn9oPSHSQtLNNmFQYNzjktApZ1qx3bUxfmLsth1vLObiZIpNhI8ys1sCe-J9iLgyjbTvtx0dL0qUwuqpS5p4knJI9wdJESGsFWAR3tpIAVF2H99PvG6p2CeMugOC2AD8yRmqm9L6opGRpRvSiCPmrDLUM4SqzSo-lT1raUpRCVX0772wgVKstcqLdNr/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJfyYinx1fwokRvPBNz8PIQmY.jpg",
     "address": "79-11 Northern Blvd, Queens, NY 11372, USA",
     "phone": "(929) 799-7729",
     "website": "https://www.salvajesocialclub.com/",
@@ -58801,7 +58801,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJoXKpo-OLwokRGSIKTeZ6KPs/photos/AcnlKN25GSnLAzyZVY92fhcoJ5eIbRN08tDof-zObP99H7c_CWTXovji6dbZXOzIg_Q45dt4NH211WYd2gRJhK4DaLndy-p25V5R2YXMNFT4Q1vgq6h7BOc0GELz11qWifywz6VFPniX7zAyi7mZTVzJ8qAqOpCEFDOztMf56FWnn0n81VodAcwklknjmhUXE0KqwcoiBG8G5UVgl5gZQ81jdiMbK_eXqHEO10hhb5bn8VziM9rEtxxQNEBxjdSGP1fTO_6xFFdi7Ty9wbP9_AjPrQ46off7z9cUkRS27ybn-WBmow/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJoXKpo-OLwokRGSIKTeZ6KPs.jpg",
     "address": "2007 127th Street Rooftop, Queens, NY 11356, USA",
     "phone": "(718) 441-4111",
     "website": "https://www.cityview.nyc/",
@@ -58835,7 +58835,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Longtime neighborhood hangout dishing up burgers & Irish-leaning pub fare like shepherd's pie.",
-    "image": "https://places.googleapis.com/v1/places/ChIJa5DECx5fwokRnuzeOoYBvbQ/photos/AcnlKN0IthVg7qF2jd1MSqyoqWD3OPnO3wnr4csIaAqgHxbnm77ZnjkBlCOU7AmTBfEVRK1-mc5k9EaQHdTtmZh4sqiFFstX0T74d0l8gBAXzpSJIiDjSMXf2POFJcHfK4Kp-BbkQ-Bwihho05wtIw0uGgCBCw1I2YMje_TEgQhRRr-IGM7RO3TeX4MXC_Dh7Nj_8vZEC6W5Ujibi3DrYMU9jx-5FnqkpKeN_THiG4OhgZt2Iakahh_h0zPChwdKuTJmOHidRMb3wB5HtnUWn83eE_2SQ62I2spMsoia7T3cJKvEiA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJa5DECx5fwokRnuzeOoYBvbQ.jpg",
     "address": "57-24 Roosevelt Ave, Woodside, NY 11377, USA",
     "phone": "(718) 429-9339",
     "website": "https://donovansny.com/?y_source=1_NjIzNzI2NTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
@@ -58869,7 +58869,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJDbAPmQhfwokRRE2oxg5foEo/photos/AcnlKN0uuTGjblULRqOYegMXXgokPpBujUgTLFFe-o6_-QCU01S-tLhyb2A6ytW01aEMz_d1W10yFViBhlsvHIIIaNyF2IAWZiAsqEBXIE7nJIaXTQ4cOtbbvMUlk8WUqpFC4sF-WAx2xfpih0hl8v2b1ztCxRG5vcAXpH7AaQE7m2GWnS-BaFNTFY3MKGiXLE_D6o1ADGUgK0geDsbel7c_vGCnZqV0oMZAEAaZnTYiDdsRbmP1HBjV_9FZnfSaL5HVfopA45UUGqvNVMmxpexVmM1FLvO3tOSDhGL2sooTQne9rQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJDbAPmQhfwokRRE2oxg5foEo.png",
     "address": "54-20 Roosevelt Ave, Woodside, NY 11377, USA",
     "phone": "(917) 745-0490",
     "website": "http://wildgoosenyc.com/",
@@ -58903,7 +58903,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJv8KE_dhewokR_zqSldbWIZM/photos/AcnlKN244tB7He00PiAb0okmcpqb_17-bw-GUz25FnpNY6ofovbVDC4iTUamYVfEigXjC6aGiXQy69ZwupEYAdswXuOLn52fr82AX8D9yw1z_xPQmADdCl1Frr8W1EgkNlQ6QC5TPxShzvJ0sTiuQa8r3n0oadx2s9jG4WGpJ6gaUs_RHlQsnWxBP7cWIrsf2ZSIsSrO4JEyvO0bGzu-AuMafFhIGmGRiBy6WXP_SHOkuoRTN-tkrm_1og8zFiv2Zz9jc_NuiziYqMgtvbSXlaSrU7UJYnVtMAHdd5gPEb01J25Obvj9RBaTM7ntgQrKPTsnbRtrBwe1N2kdPJIX_blTc_aupAjxmTnlY4QGeJKgNHtMThOyaG18GvU64sAPfWer-68d3UoHPtwYTJZKj_poVgcQ8YxDO9DGATe5Sj0cpIQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJv8KE_dhewokR_zqSldbWIZM.jpg",
     "address": "43-15 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(718) 806-1902",
     "website": "https://brooksidemarketnyc.com/",
@@ -58937,7 +58937,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGW2JZZ9fwokRmscycNBJBtA/photos/AcnlKN2dHwY7JpYYSTlVYQprV3L4NWfle7_ofto2PzMpDrtO8a2juQJUn9xWhewL0-8Gn9of7BMX2WzYXLAITYJVWlgYYcHMurRpz-xNkAniHIwybOdOmS8rFPfj3dnMPo_3406QcEzjmAEZxe6WzRqrz0JTJUNYAFwXmbjZ2FHdKL8Qz4A6AIwmwagVNM9fh_o5zigc3tU8SsAgG1hkGu7qajz7X9vjE4tmcFSbM3MkiyqaKb8i4cU3aWBMBPs2O_qCZtvlV9uekFO06mo7iy13G8-ARE-83OmGlWe2923CUiblIA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGW2JZZ9fwokRmscycNBJBtA.jpg",
     "address": "47-55 46th St, Woodside, NY 11377, USA",
     "phone": "(347) 527-2145",
     "website": "https://masasunnyside.com/",
@@ -58971,7 +58971,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ8ctuqdJfwokR3TYF0opL-pE/photos/AcnlKN3zTplpfNOaZNwa5-EjTcuKQLMYnapglxwd989jUHJfj_S2WTJbFsa5KQ7czldDvLyP1G4vmHt26NsFbqE-wj2K9br5r8RaVYJQDvGirjp-xWDRJCxnhB1zWzQKkFAellqW2ZSpR5gkbXOdLEPw8jVfaRKVkUaLRAD1mz6brIgpnIBkiwImoiEGIOuciVQnd43sQNcBrMMk7XeCr0FSDgZm31SN-juV3POwNNJg8K-91qy3zBeR5WiSJNGAwIfybFQXNpnjKW4Q04pnq_8B9NB5ZjHXjtrWTXAn2bEMszbsVg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ8ctuqdJfwokR3TYF0opL-pE.jpg",
     "address": "41-10 49th St, Sunnyside, NY 11104, USA",
     "phone": "(718) 793-2031",
     "website": "http://leonardospizzasunnyside.com/",
@@ -59005,7 +59005,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Long-time destination for old-world red-sauce Italian fare served by waiters in tuxedos.",
-    "image": "https://places.googleapis.com/v1/places/ChIJi92ZUM5fwokRekBGVkRa6jw/photos/AcnlKN0EcXk2ySyQqtZjA6gVMSIraAQMyZ2D0CkcxxPYsF4kj86oCPsYLn2K94Jfq_CfzNmQ0dnJmqID5hR4i591GRa-2TvlgdAa4F40vi9khQtyazPAUEZcwroe74PHYoMHTLaEzvr5kriPBdNonWG7aoTon-p6b8HMFGOWUUi4gPR5xS3DcdGhrar08prEm1jMW5YTm6v-nBgKrLLkfmmi17uLN0aKTdo82FAEza7fwFldCLQdCN051ywqHhhN6TemiwOuBV2cCaZ6dZno8gE1f8MgDN-tzzypVSOy0a635OjB67qiMdvcBVSkgzGTLJy4C_lgMfowyr-OiSBy8Z-9Pj-3j_jv7F1HwcuOakt82DmZmAe7C9-kxDymkbr3oRNV37vP5Tmx2X5HGqfqRniv-B6nhA1pyvBLAHvRdW3mBYgrYs5u/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJi92ZUM5fwokRekBGVkRa6jw.jpg",
     "address": "107-01 Corona Ave., Corona, NY 11368, USA",
     "phone": "(718) 271-9871",
     "website": "https://www.parksiderestaurantny.com/",
@@ -59039,7 +59039,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Unfussy window-serve restaurant doling out Bolivian staples including salteñas, bowls & sandwiches.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ4T48ovNfwokRzcUcEojz55M/photos/AcnlKN0mj4vkp7qFI_jVVv0D2fO9XGHr-Nmh1DenYYzupd_pGzh5hq7-FPjcTLasLTkODt4xFDDxAj2PCMy-YZS8c7wzLi6BPqmzL9EK3INX9UcBT-sp908dQZeuXXIkZsX0TOKO4UqlVKZ5ofm-iufIaJqsRiO2HwCsxxSdoHIQ7JCKzJoO-Qekn7M-vrMQv6OxCTQsLin9XpKLHGy8ju05Nv0ZahHfodoD2GwRFEirVpodzN9qIndSV8Bx_AiJLp6F1lor-GV2kzh0V5L4oh-u42O7psWXN9V5egOrwL8OlVz_JkK_RvL7cKGavdK7ITF1GgMab3OQJPXtdau4I0nCsx5heenLY_KhRonQ-5i6XSS5fh0mDF8jlAlPoBDQXxNCF4HbGSFFCUQvgD2WqYC1Lp1N0l3e38WiEoMti30O0xWfdcXm/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ4T48ovNfwokRzcUcEojz55M.jpg",
     "address": "44-14 48th Ave, Woodside, NY 11377, USA",
     "phone": "(347) 370-9102",
     "website": "http://www.blp.nyc/",
@@ -59073,7 +59073,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Diner with a parking lot known for its dependable American food, served 24 hours a day.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ2UL8bNdewokRjmAXRFDCNKY/photos/AcnlKN11e19yUyY_ePJYgjYRTxgxpnT1YN9wWKgzhjuCRMxksgPBqIVVevSofwWFCWN7WdgXg6gZwiuiNOP411_b9VWharS0uEq61x1DfSe8irzi6HBd93o74Y_4duQpQWVAtu_gTtlYXAAMH9uvfLdJ1W8MU-XQDgeqvmbj_qBuRl3KyyLyFi97a4nl5fFO3YhoqVVQagzFUYWwtvxxEO7WqJ4_1t9MCbE4JTotg3qVsp3Jum0o2QSRHxy7ehivrDLJxDkAy-XeN0YTwzeikD0C6ujzG3VpPI2amNbbJ3pYN9wm4xt1kstzZnqhArYqJ1OAnbF6LmFAhav69CXdKNb3-HRbs1bQa-sTxhbk_sA8O558GTs_NWB5GsyLQaE8V2jIVAhXzP9gtv7j108Tbmsax5wOto4pKsVOl22qth9FbkPuqHhxWrEOOJRcJcAEZVe9/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ2UL8bNdewokRjmAXRFDCNKY.jpg",
     "address": "39-14 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(718) 937-2220",
     "website": "http://www.petesgrill.com/",
@@ -59107,7 +59107,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Red walls create a warm feel in this understated bistro whipping up plates of classic French fare.",
-    "image": "https://places.googleapis.com/v1/places/ChIJw9vZ1dhewokRosCyBMil3T4/photos/AcnlKN2JqizGudCTNYL2vn3oY4Z_aZ4ky90DAHH-pN0gOmEo4qXv0jmKoSE0HhN8l-eONMyWTDzPWv-9J7oafkcepadW7yC3RnfxJvFo50A3fbWpDIvL2VSTIPyr54edi0JSLs-S_9sMp4enf3S1Kwln_Qx6fCrwFqve0vxVb68fn_U1oXtG8joPE-51qwuVlpA__uOZz2cTBZ67iqzRQo1SIMdEn95gDQ9jPgoJK12EjfoazCMbktNgP4CUaDJn_aHpDQy1PmzfgMYyQQYUryCBDOdLierAOcl4XAm_F2TGhHYLeA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJw9vZ1dhewokRosCyBMil3T4.jpg",
     "address": "43-46 46th St, Sunnyside, NY 11104, USA",
     "phone": "(718) 361-0690",
     "website": "https://bliss46bistronyc.com/",
@@ -59141,7 +59141,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJtfVVRuhfwokRAucII-WwKnI/photos/AcnlKN23xgr-FJDd0VM2Ul3Io9i_GkYKSLlyyMNxPiki1BKGlkUfvyPkW_e8uzNi4zrX3fTK7-Ex0yysewU6Ln0xye3C3aAnzw-ZqVH_7T3a74gx0GkwKMwn7VNslYxnVl-Yz8ITn8vgJpnDrZAxPLsd9ClUpMOd9gG9qoDWUCLQHEhiVEfNa2WWXQ6vVp5Pr2a_3sWRe2DiOKzjGTcbaZUJuHiUa5RK5vLwF_veb0fjajS3NmP7lxjA82LlocdrisG9niEl7l2WsxJTpf769pu8PY8Im3wiXMVItyrJP-dIOBB_er1SNbNsNtUy8O07Jxl-SxYkkjkisFvEBHip2zZqK9e_Z_i-XtEHptUQsSXuB-TaUGRJX3wnH9GxWO87sQgV1HtjzltmXvtv4WzH436LvePj2kOHLm-jLRk6BY_HLBljBbdaahviZYqbREIkW_oT/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJtfVVRuhfwokRAucII-WwKnI.jpg",
     "address": "43-04 47th Ave, Sunnyside, NY 11104, USA",
     "phone": "(718) 333-5950",
     "website": "https://www.curleysbagels.com/",
@@ -59175,7 +59175,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Compact, unfussy pizza joint offering slices & whole pizzas with a variety of toppings.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHXLP1dlewokRkNWs_HDFNOc/photos/AcnlKN1XBt2kB01o6V-R0pw44u0dd-iwD0EE9R2HwUUfJw4bRcdwCrm5Lc9V2UG6wJrx817i5AZi15-KsiLA9-mEmwm6xQEjLX8N0LJJH_DGE4FWVhv0kXH2DXcwjQY5n73YjiqJMzkEY-DxImy-woFuChzALVwlFbLEYyuCEyMjXHoxQKgKkRzTHQ4ZkQkjRSf7DV0Y97QmPeBkyot9M_sZs0RZWSwQpt2xjyZbmq8SKjiK00FaH4PHfiQa8MDztb60Mxg8me_u3J6WeWRaiwu0n7y3MXVms4UtiFnOY4Yv7sfEaYew7Uychtfy-BfcD8ISeJue6pLwxZcsyZtEbIEV7mf7NH75mFVR_PxQEa8N5S6k91i_DgTZswDyxz0oeKI2tf9cUrza0j-qAWsQ3ikccJPJq7qK1uX5GAiJ8QWEq_r40g5vEP9Zj74p3W_NLgZ6/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHXLP1dlewokRkNWs_HDFNOc.jpg",
     "address": "40-01 Queens Blvd, Sunnyside, NY 11104, USA",
     "phone": "(718) 433-4040",
     "website": "http://www.sunnyside-pizza.com/",
@@ -59209,7 +59209,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJex5A3G1ZwokRNaWBWtxmD3U/photos/AcnlKN1f2OP7SDxcNw2ktN-LcpGz_BmbC4L6eEvC5YhCS7JVMPy1B_hJKe98TuC0R2XQL8gk89NZB1sBL-1Uz7VWCcczRgy_ni-6H4wHJmpEobcT_DWwjhTfpePvSB8MZp6e0QQyHF6NxCguXS8talnmQLbgqoRv_m9JvTGOIjv1pvszJlsqbuk9DhCMJ8x4bvnIyRSPI-UJk2Ubezy4337GkGof9Wha_xYjchKSNTAiVCFX8knIR3XkjYyOMuTKeAZlPNs7Xeqa6K3mB2nPKsfyV3cFnCAdF_Svb94Rm64OvDk4nw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJex5A3G1ZwokRNaWBWtxmD3U.jpg",
     "address": "8 E 48th St, New York, NY 10017, USA",
     "phone": "(212) 500-1857",
     "website": "http://www.bennyjohnsnyc.com/",
@@ -59243,7 +59243,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Flashy, 3-story dance club & event venue with synchronized lights, themed bar areas & VIP service.",
-    "image": "https://places.googleapis.com/v1/places/ChIJl6Sg8lRewokR-6quCjnUCVA/photos/AcnlKN0DKX3XOYP2_PvkTvLeMjwWrIllqvb_P_Z3espqdX1shmWQxI66r4PshUPxaHNvqWKn4ve0NgdxKc1WnYrMRvIqczByb334YHQ28if7Z4zTldzr3fNkh6AZXs6_kPDL6jOv1r0X9vTrdVu5MBmnQLLUHqvGzXAXWh9e1y0CjnQOCcuMnTLw7_4RBZEoY5bQs9ADoGJCdz6PIp4SR2nycj1DWtSZtrcr8O-sGP1fghkLJ0ChYhicptbJQ5OsK69TwdqLLHKKeX7-fl0a9KbrVQgeA0cGDjVx28crVqBQ3iOKbUmKWrxzQbqptcov87fhldqv_GnJ4uNCvBWaUfbnWoncnvqMjim0B8w9sSzg5s6_3yBkXWTKHzmLZnRJ5rRvoNqk18ECfFj5mKZ9FqQQZmPIwNjKmwYsS8XUywoI-qhO_g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJl6Sg8lRewokR-6quCjnUCVA.jpg",
     "address": "79-51 Albion Ave, Elmhurst, NY 11373, USA",
     "phone": "(718) 505-1170",
     "website": "https://clubamadeus.com/",
@@ -59277,7 +59277,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJFx8CfmdfwokRqkASz4HkLk8/photos/AcnlKN2H6HcYSPE5KXBlInfh6Vou-ROdRsVai2ubjPxY2MZ0OAtLnjx3Jqnv4m0IKIspavvuNXhcQXDS5_SaZNSNeLltpNZIWye5GrL5of2yD6r7fFVM-JOdHOd_AHhCUU9HaTRaktauekqfjoTRGnsjMKv_8KhJZ56QECHaeJwJzTe20dA6n8F0equcOaHFsRaICDujtbTMM6q42LhWc2UEBy7MoiaDbRriznILS_CKUzyz4sLTZHjWIFr-UzuMHpVwiDI1I11g0StA1CWPSIWPbY-26cTgRj25Gc_I8KjwxEfsZA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJFx8CfmdfwokRqkASz4HkLk8.png",
     "address": "6-78 Woodward Ave, Ridgewood, NY 11385, USA",
     "phone": "(718) 673-6384",
     "website": "http://flyingfoxtavern.com/",
@@ -59311,7 +59311,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJq1odxwFfwokRW-ef_1SlYsU/photos/AcnlKN29pfFT0L20-zy26kpqbQ4d6F24wX9xOO6KP_AwGBzIwNvvbSDEqEqFL8MpgFKXcm_nXSJaqZGWNAXIBaWanroiUZOzt42xk9uF4oxSE6Sy8QAMfhwYUpadFJWE1N96twxSkamCDuutLdycwqDdhsWLFOUGBA0ybJ6NtN35T85hUFLLlG3F3GTO0oIRvv1PyK4Ouj9xCGKGpGMRyMGP1t0kSdjIq4MNtAKhnphFkgcqEh4qvh_nbbL_1evzU3hFBSPjJpyWHz_BDxGLmFvKP1qXmmM6BGf4lVlN903nQT8GZh-phSbovz60ErUzL4RFmwNs9iUiml9bgRQLAcG5tAaOF-aG2KulgczGFZUSdVVLU7vganunoUE7FjrYKzM3H2kums2txN4ErFyri_aDj-zBdd9rppaTqnF0expZH09jOMY/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJq1odxwFfwokRW-ef_1SlYsU.jpg",
     "address": "64-02 68th Ave, Ridgewood, NY 11385, USA",
     "phone": "(718) 381-2031",
     "website": "https://jonesbarnyc.com/",
@@ -59345,7 +59345,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Chill cocktail bar featuring global bites & weekend brunch amid retro-toy decor & colorful murals.",
-    "image": "https://places.googleapis.com/v1/places/ChIJmeeZNSVcwokRBD1K3aJ8wIw/photos/AcnlKN0_OXks6QYJ7-MNSptoq4O3LUfHr8WXa3n4NvggRf6YPIJlVJL-Qh-Ui9igbEvMddTMEJMU1wdcxE3nP2kdo9UMzwXcc7pCT-vXPdaFAtjabjWJwTCj7YAR8swRLq1O2qKxnB6iuIJiwGJYL1-ISgl6sLTHR5VSvj0ZIOSX7SRyqABjh0TiIdfQh_qkfrvIeuAsmMVKrjKw_8-Rs5b5HPFiFiZHtqdHayjplNRkP2yfYSClXhgALQG5gKWFGJg9EgCtYVHNvvVloZ_Gp9WLCJq_G1rqMey4RkXzD7GTLNIopw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJmeeZNSVcwokRBD1K3aJ8wIw.jpg",
     "address": "10-80 Wyckoff Ave, Ridgewood, NY 11385, USA",
     "phone": "(347) 689-4996",
     "website": "http://www.thedeepend.nyc/",
@@ -59379,7 +59379,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Cocktails, beer & informal plates offered in a warm neighborhood bar with covered outdoor seating.",
-    "image": "https://places.googleapis.com/v1/places/ChIJY2G7iYpYwokRRQiY4xFcdwQ/photos/AcnlKN0Oj2V41PGKf3jFNttp_OhQK2xTFO-txYaqICqGzTO0hV-UFIStEuFCDeqZnn7tJ88jLRFDXnm7OyI-XntVAhAeQTZdM5C-JtIbRaXQARh0nrFFuW3YMUqmG2fDDY5JeGi3ldIBFc76uDVZMJ9c9afnAz8NMwCMhk1sawiVJriU9GbV-g9VZQ_OYKPbzbOAuEjg82bBn_OCdsJzXMRgRytV5JPLpSstP6iFage_w57gNe-F0CI789XWLWj_IIf0SYv4fBHnmClFbQfrVCmXkqq62usrTTVxt_o___C5KH6p5Q/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJY2G7iYpYwokRRQiY4xFcdwQ.jpg",
     "address": "60-01 70th Ave, Queens, NY 11385, USA",
     "phone": "(718) 381-8397",
     "website": "http://cozycornerbar.com/",
@@ -59413,7 +59413,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Old-school watering hole with pool & pinball, velvet paintings, beer signs & similar kitschy decor.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ76jI7iRcwokRQ_AAAhWgvQ8/photos/AcnlKN1r5Egld1CS07kXFFiXdfaM6XgDCVWzK--yB8X9ZoThANetJi8CdvnY6_OcNJr693R_kpVhUvJuIW6xXP50FD96BuIfyANMfAs2xhuaqWbLtTMqYHfnV2eNhyJkAEZZmWFOsPHxXNo-i_fgixqwD47GvnNoFvNrK3ocQZSDNrkxGqsTAwSu8QG5hGK2m9KlOHqTMeRaWnkURuw-GP15Dp_qa9KODplhhMtfWDMoHZioAkMqNEpIGXWil-wWm1L-KpMeme8envlwwkldScyP9e-f_vbkDcimmY5xG6LtDmwY41hQ2UJFARvhTQa3ObnI6ZIdDucMRDM-KMw2xniWBVv6ffhrAlYB9NPr47Bu0lL8Eo4wtjgHbtDmRdGPQEMea-DV24wLBOCfvUVZAXNanh2II35TIhxx2Xasv0Xrx94uvw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ76jI7iRcwokRQ_AAAhWgvQ8.jpg",
     "address": "9-91 Wyckoff Ave, Ridgewood, NY 11385, USA",
     "phone": "(929) 337-8151",
     "website": "https://www.facebook.com/bonusroombar/",
@@ -59447,7 +59447,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Dark.& cozy, antiques-filled haunt offering live music alongside light bites & craft cocktails.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ006nPadewokRDgxlPRaSfsQ/photos/AcnlKN3anpBWvbWOg8GVVpu7og4iLd-bQfTe7LUWZL58kOGvvRFamh_OSE-VbyAzKMdqOLm0JBuUiu3NkKxvMFCpJkbbYGA6DVaI68o4v48i2QrElDcy7vdNHcRhq-358xwHJfnViFmW1lr5k9TpRNeRo68Oku5_heO_vqgpgJikynJf9_qNUoaFHJAMiTarg5MS2ZhggZ428z5sTQAbSuBxNubaMaJdBzAp8Vt4iEQWRaagnit7y3M58AIhoxf3J07CyRGigOTndAGAskw5MfwYy_9FWK_LKQfx5G0il3Swl0v08w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ006nPadewokRDgxlPRaSfsQ.jpg",
     "address": "2-05 Cypress Ave, Ridgewood, NY 11385, USA",
     "phone": "(718) 381-0400",
     "website": "http://thekeepny.com/",
@@ -59481,7 +59481,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9dedl31dwokR-nIaydq6uwI/photos/AcnlKN38sze5kAC8j4FdU2l25i_BzyKVMQW0pVIuqYfo3lsTUMmFWaOoLHbsXGitsyZMgYn0XNoWjA-PW4thHCFqTBc8WqRNm4JE51ltVwjtHS4q6ewgWw7zuyG-QooIqosd5DMdKdPh3nV2vRVkrzuhhwQtnNZTdbbBuqmkQdDegD6FuqZWP4SKYGudQJl8XZ-H6oTfOLI1YKSYP018ofaizo5A8C15ndZtRezuBljoG65Ql7mQU57oP19Et1RTNKNesrGY8o_w86l6LEuida9qUjSM14fKTKGc2R1oUBs_bg3FCA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9dedl31dwokR-nIaydq6uwI.jpg",
     "address": "59-02 Norman St, Flushing, NY 11385, USA",
     "phone": "(347) 763-0019",
     "website": "http://instagram.com/pegscavalier",
@@ -59515,7 +59515,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Polished neighborhood bar with craft beer & international snacks, plus vintage pinball machines.",
-    "image": "https://places.googleapis.com/v1/places/ChIJx7o-bSBcwokRmJFbN-tddW8/photos/AcnlKN2J5eU1eJ5d_UOoMGlIL7Jdjys4aqjB5gCJ1JWZrokn14qmHTNoU-qKFOY_JjmBDcic-Bq5IheptMeGGZnOXj22hxC_D2-cgFn-uPLXvqYWKCHRGhIRp3210A-kILxR7gg-l3UW8NrOcyd6_P3e9qyj44GP6oo-ddtPBYBeFIcT0UEqwJkgVsqDkn1eoK6KYb0FoGISMQZMfwMlV-JH-GeY07hLNNmOxF4w1ANYk-CefRFHaCsQXWUpir1SVQ41Vtr53JmwxtxBjSy507NcfpeCLD-g0Ocv_mNM1LzOTbEsWA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJx7o-bSBcwokRmJFbN-tddW8.jpg",
     "address": "5-64 Seneca Ave, Ridgewood, NY 11385, USA",
     "phone": "(347) 987-4535",
     "website": "http://milosyard.com/",
@@ -59549,7 +59549,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJESqltthdwokRpRsWDfkJMGU/photos/AcnlKN0DOPl3T1euP3bO9U6aL_MBzijcHU6oDa0oW5lnqYSTZg_dnsMNT6eyYSo3a36CjJx_PmX2YWIh9ibrM42QN8-2oD0h9LVNSNJ40IGBwiuYAlXPBZmeS8uHTI0R2dZKZNICn8YseO-CMFP4cxnd5DAuHnuwzdfe2VRpSslMr9qeIlduGjMESEakrkSBpUpKkNokxz34YJYKK1M4pFbGjhSaHmK2vPXP4gHKRzdIWHb3u8LWERkpenHMVlcneQRuD9D4uhH7-hwDGfm03PjSEeHFkPWtfNjaWAMCP56I3mfAvw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJESqltthdwokRpRsWDfkJMGU.jpg",
     "address": "5-82 Seneca Ave, Ridgewood, NY 11385, USA",
     "phone": "(347) 599-0010",
     "website": "http://www.thesenecanyc.com/",
@@ -59583,7 +59583,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJOYtEKABdwokRcMpvdu155pA/photos/AcnlKN0GWLLCmGqVFGMgZBo8TMTGkZhI5exWwfZkdjfW1Wf9E9DkrstCp3L7mfmW98-lN8RexufIDk_LkrLHQhUHqtxYoHF88YJR7gN1uURMSLkLLflUYr-NQwMrzAWGMo53_wcIadyhROCghLTr6PCA5vfO73on8KASEJi6Cq1S_1EBfE06Sza5bRDPkc0oqYkRoWbPbTFqjjtjSWKXJej1rKeqvROjW8jvYBtXPDXMczT-XQ2MM3YEadxU2Mrgld59pBul6jO10t7FVpmGJ2JxYn3zLS7VrE8S4MgIk4ixTJ_TCw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJOYtEKABdwokRcMpvdu155pA.jpg",
     "address": "8-17 Onderdonk Ave, Ridgewood, NY 11385, USA",
     "phone": "(718) 973-9803",
     "website": "http://askalita.com/",
@@ -59617,7 +59617,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJZ1Gl8MVdwokRp57IOudKGXY/photos/AcnlKN3m0Jcp3qki2QSifuA1-_Lcx1OT1S4Fb8kTfyIZ7rNAByVDI26z0OCtfqo8byhZpqMX-Uz_P5uUusMG6bTLQ2M6bIasnBvWdThKWx-gbKKGSYp2oUE7TvQ3Dnqs7rimpmMzE6zNJyi5N8nQDDnBEfMi4N1lOF4hRuX88u8NVmaPznf-PREECbvKLFDPN98QRtLcINyEa2NHBu4hU5W0RnrBehMVPXs_DK0ybY_j5bpr9nVTvKy40iRfyodvNSQv1jpfnYqX6h68sW_ZBE-F5FFW3ECDPRllZVD2xZa17MqCFw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJZ1Gl8MVdwokRp57IOudKGXY.jpg",
     "address": "60-47 Myrtle Ave, Queens, NY 11385, USA",
     "phone": "(347) 422-0411",
     "website": "https://www.dadabar.nyc/",
@@ -59651,7 +59651,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Modern American fare, craft cocktails & many wines in convivial surrounds with a patio & live music.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ-42fl6jkwokRKjr9djTte9I/photos/AcnlKN3f4aaBlpDJeymVlK12mLpb5KhwEJPkJYOPgE1VZqGQenj3cNnDsEE-fEm4sjpTKypp8axj-LT4mXrSafKrnXtwOf2ErUeo8e4d02MRLa6HCumPNKpEiZ2iEvI6Z1RDu3xGcufGujd5w9tMOkjnQiVdOUsflfnyTkUXmMdbQEPD3IWGDEgOw_T3wXN6MmfKNUoU4iRWZrbWXMM4WPK6dcKNG1wEmQMxFIOOxGgfSgzafFZbEPSm-1uTRdQbmGdDeaJQO_bfQ06BN9UAYx2s1Im-OBoBv6RtW1c6g2FB-ifQ-eUy_JobpDgju_P0QIkfnXETOvXXBlmUsTSMkUl09Hvc6VpHqCjtlDUfh5_Eavky6WbKUf3Y_npROsImZVuYK6kukiURogaBqtsfWpLc1cuvphQpXC86K4F3PED8xOy2Wg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ-42fl6jkwokRKjr9djTte9I.png",
     "address": "51 N Broad St, Ridgewood, NJ 07450, USA",
     "phone": "(201) 882-1800",
     "website": "https://www.steelwheeltavern.com/",
@@ -59685,7 +59685,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Mellow cafe offering local beer, organic wine, cheese plates, charcuterie & Sunday brunch.",
-    "image": "https://places.googleapis.com/v1/places/ChIJdeS2mydcwokRRhTrtCgbGYs/photos/AcnlKN2GctH0ar8025hXJWZ-eM7OnBKa2JL2W2hfg5HoEmNwyyWksCjhNZXAxMKENWWnwhlugL42NLlmqZV3XZFOwrM5V20wibaFgtcbhUdgZkSMMIPXWLJnsWk07Y8cnJE0DDt-ZTv4ryHPns4v3UFRfmt5P2dRURRXA0WAzKFEoUwz8lJf2vnKPIYNCaybjFXB3ntzeVN8qgMj4uzQIuRpU26F6slRD8SVuKI7Sek6TdaScT8RgJdqmo0KW9BfH0UHe1Abmtx4_daK56D6rIImEqbRy8_1ej2p7PUAkJt28nqVmQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJdeS2mydcwokRRhTrtCgbGYs.jpg",
     "address": "8-18 Woodward Ave, Ridgewood, NY 11385, USA",
     "phone": "(917) 909-1314",
     "website": "http://www.juliasridgewood.com/",
@@ -59719,7 +59719,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Upscale restaurant featuring classic American meals, cocktails & brunch in calm, understated digs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJnbOuLipcwokRqsAX-__4u2U/photos/AcnlKN3kKM9C_MOb6rv0vaxAXtT888JsZ4HUBBHgkV2c6odzFcSZ153nAIHG2ytBkD0AuK6-jyBm80tFGK3Ocwrut9ScbD0PwCJdBEQG5bq3Q9RtGNREKVuDR89nBEaYqr253f7KI6NJ5N6LjGBrMugJhsNiNzJsAPINAer4b3JpjW64FERzTRokeOKGjveuaDvVylerysjAEXIbSc9_MUkea5dHvcoHeLJB76moXJGBsT22L-HzqWJ7s41ekLNCBHzNOxaYJwNoTBqb2kRg31jjqiVVvngHAwh2W34RP5nqOJsoQQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJnbOuLipcwokRqsAX-__4u2U.jpg",
     "address": "55-50 Myrtle Ave, Ridgewood, NY 11385, USA",
     "phone": "(347) 689-3462",
     "website": "http://www.ltauharestaurant.com/",
@@ -59753,7 +59753,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Casual, brick-lined eatery offering a Nepalese menu of masala wings, dumplings & skewers.",
-    "image": "https://places.googleapis.com/v1/places/ChIJeSf6KiFcwokRh2AC4D8qBts/photos/AcnlKN07nQMBqNKesIsEGBi_fzgxtRyIR7ViCzEsQSxWzE-6WV_uSFP1hyN5LERigLmr_xFBHmJRIiLCiyrI5i-wh5MdWFln8yKWi9lbFgyYDgHWs3K85jTCYU33HQuxcAiQwW9S5utGGOC5kmj6L0TpdyxxS3ALfEnw5slLRlSYr8TRh4Kop23rN3bbuQ6ow6NG8onrSCtsi5KVr6ka_eQvpfy445kWC8INTml6iHOI2bnmku0lf6nfOtBXmqTaeR5-9SRvej0FQW23VnShfi58Xm8eXSw3Ve0gROXBjfCYyOdQ8CYPs8pjP8WhM6sOXVUiI0n44DO0rrAAt8SMUhDgQucy3VcESV21ARzN0HlRkBkcabWZqmjfuU3NoI-zADgplr1vZeMrKS65icWF0Oq1RiEZL_4VMqQQEnYAZ-vBwgipo2xN/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJeSf6KiFcwokRh2AC4D8qBts.jpg",
     "address": "7-58 Seneca Ave, Ridgewood, NY 11385, USA",
     "phone": "(718) 386-3416",
     "website": "http://www.whileinkathmanduny.com/?utm_source=gmb&utm_medium=website",
@@ -59787,7 +59787,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJuVtLO6JfwokR7PsurFf4-UA/photos/AcnlKN26tf30bFHFDxaDaHN3_bJZqRbZG04C9uefNYK5JeCJvVfmcO4sX5i-XwNKf6hNhidQxFCKFGjpom0h6MHQvFr8_nsjjCZIxdaYjL9-thbg6HAjrCiPHCQBXc5ecok7oSwynEVGxNw9W3xs2qXeRXGCgWMHP7LyLG3uVLqKtb8SEAHBYSnG4arwXli354w045wZ-ABA6OCxheEhLViV494gqjNsV-x9enNH1miHsk4aW1yhGJCFOhg6pYy4Hz8srFO95XioLhPmGK2DqrCN28xBDkw_6nO9Jy8TA45aVPPasQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJuVtLO6JfwokR7PsurFf4-UA.jpg",
     "address": "67-14 Fresh Pond Rd, Ridgewood, NY 11385, USA",
     "phone": "(917) 909-0257",
     "website": "https://varenykhouse.com/",
@@ -59821,7 +59821,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Long-standing eatery featuring hearty plates of classic Italian cuisine in a comfortable atmosphere.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7XYBGZ1ewokRCKXcLmlVdMY/photos/AcnlKN2HCb2OpoW24l01RlJv0ZJpM9x7T-aTwkzXzye7PDVvmZfsEfRJFa-GIXi9JwOAk86zs1yFJXZ7JlU2HCgfrSA3zYceuX9q_se5pmsAG4SDMnWiLPidPz9z1uGVER-IvszRYn95JzzQesybExPFlWjUQsECLLJTgPCNuUHjfIQkX9nUFu1OcMjekF974XJktQ2Joa4Ro2PBUEdTwsS43nO8-oh2LC6kGaKPRBHdkhblpVyKzEEoFfpBXB-RXAadlm9x0m7ffYhHWpFnfJFXdHhYbJhcVG8c5CDdZgjMZbMGdSJWgQoWIwdr2TXCGD9YaJ4QLYjo9T9d9-z0otFcxiU0lFaAIjiVeXV4UYMfb36HZxrd3XXQF1UzehIDmGkyBpVe_czZx7Z0WtK99jt_gH6Ww6qNZxN_FC6r6na1cmoj2HII/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7XYBGZ1ewokRCKXcLmlVdMY.jpg",
     "address": "66-11 Forest Ave, Ridgewood, NY 11385, USA",
     "phone": "(718) 497-1300",
     "website": "http://www.joesrestaurantny.com/",
@@ -59855,7 +59855,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJl-QwDnxdwokRUoS7oTlwK0Q/photos/AcnlKN0wh3nL9WEKxS0cZgN5GFVDq7TJ2erlQmLA3h3UlUTw_JZZvxOE9i_JoloyOk2nhEvwut2X8bxU9AE9E0OQn7wE7WehRr8qTWmzKCghJWdawZ3jghMvcmbhx_8DWAiQY-OFMoMujEoWR2mkYMoLQNZZ002h3s7BzXgfw06ysEWS7cpjnHmTerB9VMlFSCnlsgb-pYrF8NHOpr5FKnKgs9oF0YlbFnrF7C4yF9bB3MIW3cpZ0FFMXk4-KAE0w9OkIi7u2CENoTxOy3QemgzacYGRlQHq1b__1pE7XTBFNoK1Eg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJl-QwDnxdwokRUoS7oTlwK0Q.jpg",
     "address": "5-84 Seneca Ave, Queens, NY 11385, USA",
     "phone": "(347) 798-4303",
     "website": "http://velmarestaurant.com/",
@@ -59889,7 +59889,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJqRapAiVfwokRxeEtL4jvBCI/photos/AcnlKN0Js3kqp5SxVo4TuO5xNXy2I2efi0gyB7OItzrFcN-h8Lk4ISOCE96cc6BoPfNXiKVimcX6GcT3H81pmJkKiH620lHISPQxi6mhadxwDPnnxX4tQqeM7wkbP0wiIIwI3P-zi3y-VOqpXhPLGJOnt5mfc2syvt7ImAqaJ_eEkEol39olujgta_aLKb8j0n-rOI8dAz-cKZ0gbf3OP9JJSN0cxvsjQ4Y1VuCTVTWXuLxJ7HXT8I5eFkTaDTBQbgojMRGDpFJ2sIET3Ztd9hwQMOYmsQ1oJIiN8e8JBeKaFUqV6g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJqRapAiVfwokRxeEtL4jvBCI.jpg",
     "address": "65-17 Fresh Pond Rd, Ridgewood, NY 11385, USA",
     "phone": "(347) 799-2880",
     "website": "https://www.rusticotaverna.com/",
@@ -59923,7 +59923,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJRRxg9y5dwokRSeT-3Z1_cv8/photos/AcnlKN1G6ggZSON50Ydi_K5haMCw5krGeMNqqmfe1HmxOXcCTQaGhbFWz5nb_MHM8bmd4pF27wkSK3w9IGVa_ZduzcyQzPxX_95NjsPL5kyIrOuLC1q6cigqdUm5GQJorvFzRmpKIzRRxNuLqtbV-gfj7VKsWhH6s6wIIWhwYUpZf8BD9MM66yjcCpKVWxA4HYrZyn7siyqmPHcE1cPR8Ir5z16q8w-dcXdWLi8jLFxHtpWiraUz2CqO4Dw1ZuS2Mn0ia4HklnIcPBPBKyruBeDGYKmeXuEvs9W5Bb-zMfsgzpuqEobrgyrpwh5KoYRWHrfHbS2eVerjLx92tNYeg-gF61Ge_uIl3Cdyr3Kg6DZYr4dEL0Zo1hPl08ctBdkG4Rp2kq6_eJp5WttgihZBs_VEanAvhQXFAXr6yzW4OMr-vUeXfqY/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJRRxg9y5dwokRSeT-3Z1_cv8.jpg",
     "address": "71-20 Fresh Pond Rd, Ridgewood, NY 11385, USA",
     "phone": "(347) 599-0858",
     "website": "https://www.pupusasridgewood.com/",
@@ -59957,7 +59957,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJXfle5lhdwokRwSKHDHKL8-I/photos/AcnlKN1zlL6YTcvZcLWocDzPHioKpb9jXmyCSqVMDXQ4GADtZVBv-DqBBAGMIPyUEXU17tDzdCz0hBNTUyUrNUNID4EF2W_jYGMFJNlMXkFZ44DkO7ad8rm2fGJAt1xeJF28TdibXKQ5o3QKXVK-P4G19JiTKipaRaCPHsewZLY-0gVd811j3cnyCfpWk-pfrbmg9VKhfeG4PSCoSSo-aYe-bIDRrUbh-vvkHTZPX1e8p7ZWt7TXNFxi7XDz3qsToPDvxcAlL5UM3s--b5xGgLr8QzzalZr8DS4UXIjADFuCRrVQgQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJXfle5lhdwokRwSKHDHKL8-I.jpg",
     "address": "18-19 Palmetto St, Ridgewood, NY 11385, USA",
     "phone": "(347) 457-5896",
     "website": "https://www.saffronindianny.com/",
@@ -59991,7 +59991,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ67RBP6NdwokRwvAkVsAFfag/photos/AcnlKN3v_p4PHeESgfKoaSby3hzB70wpR_319KEA4obVlMYRDOMOski2CQ6WYVa-2NBSfYbH_kwJ28EU1ZZWyBmDBv71GQzyf9FM0vDNPJ2ScQvMWKVb8DVvlFRhG88E455eNojWfURFTGr6oU3XLi5ftuEu7Co_0Q7LGp4nc-OOKRzcKHLEPDzMCPDCS3ce2OrNbHyBeYs1Gga8xpWBObnsa0ETMKwbVHas41XDfxw9H48fjqV7VI-SR5RUJkNkTRyLA7y2k3Z0wFGxndBRp3FnX4s0vy-ZLIV_oze34E4pC49Z-w/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ67RBP6NdwokRwvAkVsAFfag.jpg",
     "address": "68-38 Forest Ave, Ridgewood, NY 11385, USA",
     "phone": "(929) 488-3538",
     "website": "https://www.hi-nodeny.com/",
@@ -60025,7 +60025,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ7-fOQQBdwokRQW4_LOdpK1Y/photos/AcnlKN1IDSrCqKLJMOgIxKmkLnmQdaHP4v5fXqCeSU05w7QGW7HAlnWtfm_dCIukkL63b9UYddPBhTyZ7W-sChMZd1KmRxCLmITNj4oBkgzxtYzKeCMlDVkclQwsh-s-4reF7pLUJ6goFg_qrk6TuoVdQehoA15zW8nfdeag6JqPL1Oits_bpocR8Tmm4grK5USDhfE079J6JpsHwWMYG0ylKYYh02iplRFWu7UXDQMa2s2TpK7LgREDw8V6TIJYroCn303wW87Jy7S3nTBil0WVsE2mCJppsrVV9fgykOz-I6qYCqMtoZLKlHJSd8r5t-AtWLk2bQboWGhrm7uiONT2tUrodlZcLB2lxtZCJ3omDcar1JncQiubAGGdGTsh6_8FGkcnNhhzXh9yiLP-4A2GzmI07ExRPEn5HWW-xDZKLHUM39nBGCMWktTxta6yqw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ7-fOQQBdwokRQW4_LOdpK1Y.jpg",
     "address": "59-15 71st Avenue STOL, Ridgewood, NY 11385, USA",
     "phone": "(646) 375-5739",
     "website": "https://bestbudsburgers.com/",
@@ -60059,7 +60059,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJu51VB-nlwokRiHYkk4DYGPg/photos/AcnlKN0S0nw_xsegxte_BjkrByIeRoHWYpqIaCh41th-rWxJ8P3gnI0VLFb-8KxYxbBGyO7Pcajd1jn51nSusVNc2fDUwygclhH9COeI-vDqYbbxRWE350QsYLJIQOjSquqb_y7r9g47JbOaYGnpJCrNK646rliUsVB-WEB8aBfuR-uP8NfQkLMNqUDQL_B4Iv2RTeB_1ooo6A-Th6mhW2udRuk0K3N2UzE9Pv6EJMA45eAVPtm0RSBb58q-g9_JZMMT5F5_sON2VtHjJ2OUqRMMwyo98U9fpehe7sZqLK6wTxYiJA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJu51VB-nlwokRiHYkk4DYGPg.jpg",
     "address": "28 Oak St, Ridgewood, NJ 07450, USA",
     "phone": "(201) 301-0301",
     "website": "https://www.lulanj.com/",
@@ -60093,7 +60093,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJtxFgYDRdwokRmR1IiWUh8j8/photos/AcnlKN05EO4bDaUMs8PEiasmPpkkq9LNRcKLvq5Krrtyz0ADizvGAFKuye0Q0CAmKUZndMGPIryojyIa_OXef-3QkVNJds0awvPm5GH-fUzsGt2fIRANSIu2kNvLXTWsHED-zBcamuJDwqHAvCaF2PMJtSiTS_383GKtAp7iweCkRhPL0DhpT_fVtBNPyCGHrORPm_x3ba310ERRFTq7Lrn-TSgPjSj1LhuuZzloGGgTyhT31Splb5nAOR7Tm9CgHJAoD-6JLzZWn_MLV-3tJ6fexq5ZwmEFWFXLUYKqnMZkt7XQHw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJtxFgYDRdwokRmR1IiWUh8j8.jpg",
     "address": "8-80 Woodward Ave, Ridgewood, NY 11385, USA",
     "phone": "(516) 927-0041",
     "website": "https://www.ilgigantenyc.com/",
@@ -60127,7 +60127,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJWzMFxSldwokRzBdwfpnGLz4/photos/AcnlKN0ltJR8HxbL9iRwZ454tmvqSdCE65_AqmysGg2s8JB3pqmI8BaVTgUBSR1fMxNU1svNkRTa0pYvSPhGK4rzxEwVm2gZqCxZW-ZfduSLIwpQDZ0flPRzrnfRrhZNxq-UAcEzCpS2JHPsq-7u3YK5EHFWf-snt17hF8QTy-K469q8wtX5KKvWrsqzcgSiwIlNvjC4I-eFtpYUS3t97ED5LBpLFL7NS64Akh4NRVs-1wuXjkNB8r-o3JOqwXSyBVgZp9Co7kMVsj3YYrRzDtmqWPbMnwudpEl3EcXDrMd6HfLH2g/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJWzMFxSldwokRzBdwfpnGLz4.jpg",
     "address": "10-80 Cypress Ave, Queens, NY 11385, USA",
     "phone": "(718) 395-4944",
     "website": "https://www.grubhub.com/restaurant/kafe-10-80-cypress-ave-queens/4539912?proof=true",
@@ -60161,7 +60161,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Iconic pastry shop & dine-in cafe features free WiFi, an espresso bar & vegan/gluten-free treats.",
-    "image": "https://places.googleapis.com/v1/places/ChIJUb8S9SZcwokRPNHJbS7rWqU/photos/AcnlKN1fQZPmqI8H9Kg5LWDY9njATU88NPkM060GxsU3R2qzoAtOKgzX54tB9-HZ1raRj1yurTTmv3psAbyfI_B3LHOvWMdFJDQ48wO9WdoM8dyjsk6mjnadCM8OpnWcVkQE40Yl2WpTb0nqnngH-GQWYiyCYcIrYn1pUdVryc9JBGSSBykx_25B-rPTF0nIwvV1EP8BCGZQjEP1kmqz1WquEdQf6CRgxIbIsR8XCrEn3uROLqznW2tdnhI3-kK6XT_gkbT8wgFP0d_8h-_Njbv4Hi-_TtKzYJ_Z3CodzrHAaTRvHV1BZ949XbT8ocq8aKqE-UMBEqieEwy2tjXe07VsGemqSAlPXDVZ_48FbiyEFLnqWfFZyS8U3P2GdvGtMst_S4qFZ0UZVUqFrS-7qJQ-AeRpscP3eE0031MXDSlc-Y_L9iLZD6RVt7E-f4b2Ag/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJUb8S9SZcwokRPNHJbS7rWqU.jpg",
     "address": "9-05 Seneca Ave, Ridgewood, NY 11385, USA",
     "phone": "(718) 821-5890",
     "website": "http://www.rudysbakeryandcafe.com/",
@@ -60195,7 +60195,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Elegant, candlelit BYOB showcasing French fare with a relaxed vibe & fixed price menu some nights.",
-    "image": "https://places.googleapis.com/v1/places/ChIJxR-W-qjkwokRVpAMWVZc5Wo/photos/AcnlKN0104CNVuPg2MnmznR7TxApm8XdpwTtHFllq4P3sdxw60Z3E0nAMzFEUTNmaSQ_1IhJRi_ke_ojR0INiy-7ki5zXErQa1uiTfeQIWFt2rmXRRIMOVXY77N1qTIJnIToZ8sLEtCxeEAI92ihn4NL360CI7QmDsryFre4Qh_NIbmUgHroNkJpUd7cgUpLSnFXNi7O_LDqD0qPMcb8wYMJ2ZmzNL6xDRfXMrwoJtKKmF8spu4bVyEwwImYOtFIXsId8P3g6eYQIgujB90zmn09V09Nx8x1WsuI9nGHKFa4g3e9radgjmXFYsd7XC7gGRPrpsGTYyE4O7M6N5XEAMfJ0BdxfrbsWccXztkzxtoa5TVWzRWLJPy61SHHIJiGatT2InGua75X3Bh26vqUJZU83qC_ydQw6rx7L-DP6MjvWMSlXA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJxR-W-qjkwokRVpAMWVZc5Wo.jpg",
     "address": "6 E Ridgewood Ave, Ridgewood, NJ 07450, USA",
     "phone": "(201) 445-5056",
     "website": "http://latourridgewood.com/",
@@ -60229,7 +60229,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVVVl3qjkwokRVlJ6TXlnSo4/photos/AcnlKN3UAbMW_EM3Ph2q16P8eVN9QFrjO-j9XlyxeVIUtsSJUQzRqgk8jt2Zn77lGD5HXb6mb-nlCphnON2OHiTMrGAzBWvBOIPFLbW2-CWO2r5cKnbfesevVyxGWEAGjG0JwB4eZnnmZCgaG00QpV3Bb3z0Q7-SEwErmpGTnyosdagSWiPhHAuyDDD-yfUfBa8rK-ucybOQp2PNwpJ0t-5a3vSZ4SLYQp-ZWvI8kENJtKhShGBPAGASQzfXxXZvifbcbRBq2MeVWXwbdNL8sDStKdsvm5EyLW192bwVhEnD0URnSA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVVVl3qjkwokRVlJ6TXlnSo4.jpg",
     "address": "18 Prospect St, Ridgewood, NJ 07450, USA",
     "phone": "(551) 276-5454",
     "website": "http://bylandmark.com/felina-ridgewood/",
@@ -60263,7 +60263,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHXrjZ39dwokR9UFcBDodTjU/photos/AcnlKN3uPJfxRetXDPpn46Nn5ZVqVqSkz6ou6Ys0k_CZ0-IlbJ0CVdSxmvViXK21o0O6Ypz9DkikGKu5kaGuEHYhF_Mnrw7nX3PyRResPKLcJInWJHvTdag1ywtmEvDsdJDIhu9RbGD4ZFxNO-dTOnjpDS_7KjKB3lYmQWQB6Mj-Kmc6e-pH09SGuP4CGfoE4lO8HRPqmiYzUM1bCSrMSxucozvZEbW1bZVUM8dsXW90sCI91u6FpF--Y-HYvmXxmsaSDEaioqUFisovl5ST74-iyVnqe92EbUbR6Ihds3Pi1V14OQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHXrjZ39dwokR9UFcBDodTjU.jpg",
     "address": "57-36 Myrtle Ave, Ridgewood, NY 11385, USA",
     "phone": "(646) 431-9059",
     "website": "https://district385nyc.com/",
@@ -60297,7 +60297,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJdcj03CdcwokRbKx-Q1ldpNE/photos/AcnlKN32FQ28xSUg6okzDiucZ7tcVZhylFih6pC-xrRQmYblLuDwACtsjTRlAzKpn-H0X9o8_EEHIppEiynNHmE9RAX5DC2gqH8QUQx6K9qX8nipAH2et53VqXG0bkST9ob0sTfdZyga251ypuMpZmXtOOVwDyl_B1_ZuD_KuZrZzaILzondvBu6sO3IDkfS-RxGe9p1ep-zLpZIqlD9n8u-0T49ghUMTc9lNvSJiuEq6qZCWk2zx-K42D3h8iP8fqJyXso_5UHaPPyvfaJHiT_fSFmoX1lzli9PrU9-lTgkCU79YQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJdcj03CdcwokRbKx-Q1ldpNE.jpg",
     "address": "68-38 Forest Ave storefront B, Flushing, NY 11385, USA",
     "phone": "(917) 966-6078",
     "website": "https://www.barcassettenyc.com/",
@@ -60331,7 +60331,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJT-rGNTFdwokRCo3dSLTy3wM/photos/AcnlKN3kOc08seT_vt-BLkVYcN6fQpz_59dVvjTjLdE7PrcoPKUfdrQhUmm8zOCHyo-YAr6vPdmcyqeGzuuhSWMzrQg4Nfs4qUvgFAr7-vZ0KtCbHerK-MNEdg5xOLhNBsqXJTMQyMpGg0d8NxtxLZ8clOX_LxgoaV2XEUb-hYXKAYtNj3dR2-WeCqHzdypCKT_H3OyNkyxU5Hz8zWDB8VHLEPoxfyODh4XOKdeQ6ewyrS-JPxVNZWrcI7_V5Rd_FAKFNyty_CTsDC3TE5iWqWZ9rfk5jNOy7gXXvv9dHyIIbzlW_A/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJT-rGNTFdwokRCo3dSLTy3wM.jpg",
     "address": "68-17 Forest Ave, Queens, NY 11385, USA",
     "phone": "(347) 720-8826",
     "website": "https://relaxloungenyc.com/",
@@ -60365,7 +60365,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "Long-standing tavern serving domestic & imported beers alongside a small menu of German pub eats.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQbogzJ1ewokRUJAowaUOLnM/photos/AcnlKN1ERyPCDsZzeJcKHSV7hPLpdYZf5IMqznhTtKffYsr_aXKk1USkBPWHcpdGuidk8hHTFnAj8ZsbMLz1_atSgBWFDLXv1X2VqGjBWmnkR-_3J1-xS4WfJJFu7-e3tURr-6JG8e1A3Z0cflNtGb14fW6OCzyb6D0aZWp3zB5h0WZGVAR0HBpWSMQBBrdeJ4o_mrgdYXb8tx5ItpZs8gC_v8FpNw2TTcIW7erlkpmVVc4uxbPazWKsmRyA5ongPBS9HzmG-kCO5VgSMcVuEJxMtS7t8_l1m15lxwFz6Ydris6Vxtcm2OqKHwaB5Lj1DfE4D-8P1KgI0X5sO1fWdOP1HXaxc9t-FZMvLXCD3DB3wiG-R_JIGlPo8xhTIz1-_jKzQfoxcvHNkhaBKQnAvVofXx4Cb3NTiz0ZB7cIk0kgMoP8ZRbs8zgv5npSCKqcbsaK/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQbogzJ1ewokRUJAowaUOLnM.jpg",
     "address": "6-57 Fairview Ave, Ridgewood, NY 11385, USA",
     "phone": "(718) 366-3030",
     "website": "https://gottscheerhall.com/",
@@ -60399,7 +60399,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJrQ6IbQBdwokRy16J9OIMrUo/photos/AcnlKN2h2KfZorFzixdC21kPjFFswiRrszSBwMsZolDAyC015XLUgw8U1QJguGezax3w60f5wBvS7eWhJBwpJKijlhW3LdO2xE6Omv4CCxtGF7mJOrmtRwB47fdmfedCYs2VgViQUMinwHV0ExBASsUgaEaopVfNQGSSARQCh1PrEOGExO38FU6Sd12_DrDTjT5CgRphW5fSiXEZXnNGILXwFaKlT0vE8w2Wr1xX9dGLkA53n4XWJ6HFAduWBfgWKReOk-51KME6nwiYtD_vGVMI0Ua-GDmtGFOoaHuapdLFsKzfQ-UYQa8p7QfMl1u004FftNdaldxeEyizZZEfhsNnRw_pXEZWEZRtgAQfFimT3btfR35YO4ElfF9qtrNzwrSQyIUw5mYaHV_uZBguAvjPoF8NAedOV7RFeMLwA1y_0MV5LtEYRFxuCElELf7hXA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJrQ6IbQBdwokRy16J9OIMrUo.jpg",
     "address": "7-02 Seneca Ave, Ridgewood, NY 11385, USA",
     "phone": "(347) 578-2647",
     "website": "https://www.instagram.com/mrnancys",
@@ -60433,7 +60433,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVdrsFABdwokROE-4U9i-6v8/photos/AcnlKN3ozypWsElcAHP34qcgFLn8t9yOBgRWeUK5Cpj3IO9vb4z3UkcssxiOeZw3yCSaNQK57_KBZ1DxXFFz6OgXqNvBqzyi-rwTrUJkjvU9ipIwSowYhpIJhMasvbhw-QEh6DW5e9x8hT4Q0mBNztC8f6jmVLGhB5sytF9G6zplheFM4rtDmFqcZdtBIRrSZKOUtrovt8EW-ALGMP0cjNBS0XAwFPUuCS7Oj-1f0BGd_UtOhJdWRF0AaqvRBwlJsGG7DaXSan9GbERL-HnXZA4LERUXU6wGezfUE_bMynzq_yXbagLtTppGQpK7oiMpFvFNfhgTbvJRJBa-TmzTXfggVrctb4RJZSLyA4pgPS_4FeDOxB5lpV_KHTo2lQZxgBBJAZoWNRPiVDEptBgOgpJuPMYjlCaxjMMlDdiFW3H8BAodxI31uil1liBTrs1vuQYf/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVdrsFABdwokROE-4U9i-6v8.jpg",
     "address": "7-88 Cypress Ave, Ridgewood, NY 11385, USA",
     "phone": "(718) 821-9463",
     "website": "https://www.instagram.com/breadandwinenyc?igsh=bWJjd2JzOHAyeHdh",
@@ -60467,7 +60467,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJQzE0zjpcwokRB9nr5utX66g/photos/AcnlKN2Xk1gdyZ49nAQ1nnNuO40MF7cs6Fau_6wm_3Rqg_TK4vRBP6mrxgCM6gkf21eLzwuxZxA7TL55dGXJqWtN1swtRIkZVT9CJDFDk-HAy-eF1WAvpRvO77Y1uh6SYosnhkWtEqfdNq4LU49AaqYLo3gB6L5q0ASNms0jPOjpV_pO4kco4CvpUo-WAm5yU-jMfk1sX1BZJP6d-bUE4mKh-QNwLy2DLDoKT-6lzUWY2ZsEnm0CgB242lfvJzObxJwgX9g-k99X6Z52CHbKCC3IfnXL2Gjynsf9DEEfetgCY43SQXboCu0W4_4iIn9lbiDSp9jM_N5NA23_qPY1q8j3dZOc_QLviU-VF2NHf2VCsXJl5mJueW0-qBiAjxZffIz3xOy0Ifzdt8YKsGSpzYoUoGn6IbGdX2QejFSkudHT_u9c1oY/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJQzE0zjpcwokRB9nr5utX66g.jpg",
     "address": "15-35 Decatur St, Ridgewood, NY 11385, USA",
     "phone": "(347) 392-8593",
     "website": "http://www.bridgeandtunnelbrewery.com/",
@@ -60501,7 +60501,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "Warm pick for New American cuisine, including steaks & seafood, plus a full bar with craft brews.",
-    "image": "https://places.googleapis.com/v1/places/ChIJVUqyS6_kwokRGxtUcl8L-ok/photos/AcnlKN0Rz72uiytqLcvMa-VnmNWSAMFegJ4bsAsjtxJio65poEIJ2ImH7XfeBaDENbo32YH36gha1BQr8tMx7rD38lmY9BXVNLKtUG7bIZ4td8A8O0z0QzggFsLWcdDB1bHkIwvpSRRCZL9LRA7tHLYjBNkJ7VsqM-L0DFxFVb3nEwrUdReK5teBsddpWshLuMBsxPFgakWhgqo1dEOYYQtzMWluUFjpHJzRzCUfYPU8cwS_EgGkpY94TpyIXs3_vCn-yqhdUsnhiswnwJASNZkL5oMR75uhf4XlFM9Rcu4w2LVpRQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJVUqyS6_kwokRGxtUcl8L-ok.jpg",
     "address": "30 Oak St, Ridgewood, NJ 07450, USA",
     "phone": "(201) 445-5400",
     "website": "http://parkwesttavern.com/",
@@ -60535,7 +60535,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ9wTuBotdwokRznr4NDd4A64/photos/AcnlKN35Sup7eM7Woj1BdXTkhGEcbudTLX46kNEbaxHEGNGDncBKlCqGOD90rIYiDbWPLRxMJWn58C3PdigItOpZvhIcJa-4GsqEoMNMq9It9EczU4pMOni5tHfQxhiqHRlA1ntCnfBpBDZrtngIiiFkdCvfrsnLcSlTqsw4AsXMHFbADNvRIt_94V4dgktBbUnn87njnXoLO0aZtMYP_40sBvFGpbd9kNEUWgahGXRSbAZkcQvAWHYHCxhq3wTN8Kn7uLnfPzzvnHC_sVjisH7lWHxewLLpSIieCwGOgc0i6IMVHg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ9wTuBotdwokRznr4NDd4A64.png",
     "address": "67-14 Forest Ave, Ridgewood, NY 11385, USA",
     "phone": "(347) 227-8136",
     "website": "https://nomadcafeandeatery.netlify.app/",
@@ -60569,7 +60569,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJ43a3DftdwokRWD4ReR9f0mE/photos/AcnlKN0V5c1wC-z5An9LFMoOAszvce8XBrct4NqcXNCYvnqn1n17IG9eWYeR3gTBg7CRR1Bvbd_2SYAmaxKVWzj_nPPcTxB3iDuqN71Ioyh1-ix3DNoxqbKMBH1VMTl9Ta72AUxAsGOitEObalV6uxoLhF20WbtvAogah53_wWF_kAekcGXxnxEO0lbs9_jq8wCSMXyYw9ZLFJoHwA7558ubOZAGqTR7CRJGg7qo0yQMKcBx5dDRjHoK-mAT7Z3CZvWE4ptmFFtmYcLC1SSMfyE6E5xCddFjp31B9HO2LlLRCrOJSQ/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJ43a3DftdwokRWD4ReR9f0mE.jpg",
     "address": "16-47 Weirfield St, Ridgewood, NY 11385, USA",
     "phone": "(917) 727-2442",
     "website": "https://luthersnyc.square.site/",
@@ -60603,7 +60603,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJHWNVl05dwokRzjuopunBWx8/photos/AcnlKN18PodsTGyoayKSg3o2Ct_LSv1PP_uF4emFBXU5YhQhqaSZuIAZB5wM7LrvKFw85QECIsDEqsR5n4WfohYuKPCwPalzOZyMoLgpF56U0cZB-9_TDxi4E30lrTYNRbMeF-K6K2SO6i-DswsQKys9vrn2_4EkDVRofdcyH2RYGH_g5LW8Tp_tElsXSVro2JSNZ5d_rpaw2ml3yDcvuy-7TuxvVloSP0v_1MapCMfYdpx-HlP7Aa6rM5Fbz7vWRkVMIaxb_yLJH5vahZZDnl-yEo6CZ-2qMQ3WHn1Z0gogF10jIA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJHWNVl05dwokRzjuopunBWx8.jpg",
     "address": "60-59 Myrtle Ave, Ridgewood, NY 11385, USA",
     "phone": "(347) 987-3540",
     "website": "https://thecagerestaurant.com/",
@@ -60637,7 +60637,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Elevated, contemporary Italian cuisine & classic baked goods offered in a chic, bright space.",
-    "image": "https://places.googleapis.com/v1/places/ChIJGau556jkwokRhpW8fW3Czq0/photos/AcnlKN3RND6HDLi7D8ZN79NzdsHvx9Q-7LN4FOum-DOKwEO3FUsRv5WhEOT5kvK6FXYmAKwva9fBuRCmD2RzvCuDr2so3ZmbGErcUbZ5z6EIAovF8LXzz4jB1xVzH38wMn-Nt7YN8-AB3Umx_5_dJtnUDvEpkJuTDBu8hvTSUJFSmbnmZpP9f9lVDe0r5I7PINpJak5r5rSJcQSLktZIDI7oZApUBaq6kJ7FknxOiOMIic5VvgE8UGa_2jgxAhkIYgczTd7tnmF1i6o6RGlAc_kh6IWeuLyUNQTDAqSJKZImrVtsLw/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJGau556jkwokRhpW8fW3Czq0.jpg",
     "address": "44 E Ridgewood Ave, Ridgewood, NJ 07450, USA",
     "phone": "(201) 857-5188",
     "website": "https://fromscratchpasta.com/?utm_source=google",
@@ -60671,7 +60671,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "Sleek Japanese-Peruvian spot from Nobu Matsuhisa frequented by business types & celebs.",
-    "image": "https://places.googleapis.com/v1/places/ChIJPX5iCfpYwokRACnACAf2pJw/photos/AcnlKN3Vzq03yJRw5iz1FL5udaRzxIO5p5x8xIlYO2udtokyMBSoRoMZNd9NcF41rG_xrRaaUB5u-IvC9AQ8A-o-UcECUucxR45MIuOtgFDx25EaeXCg4qgkK1QyInc0DW_B4eGaETRp3rnd0VLFXK7Z7IQBTkLQsgiDWKj5sKCY6NUrhpt89OCCAMMdl2meC7D8ntpF-oQIwYNgwig3vA9X095rBM0WDTM0SaIpHNLmV5Rn-cISe-mL7lzw1rqZ0OIS_XwsQyMGZHc5pVgv5aOLluA9WLbkgXS7AFA3WCfIiB_dlA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJPX5iCfpYwokRACnACAf2pJw.jpg",
     "address": "40 W 57th St, New York, NY 10019, USA",
     "phone": "(212) 757-3000",
     "website": "https://www.noburestaurants.com/fifty-seven/home/?utm_source=google&utm_medium=Yext",
@@ -60705,7 +60705,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJs_VIQQBdwokRhJ9KL8ExAro/photos/AcnlKN0q4EWDnz0hmu55DOLycEkpni-LxMFf_JC9x_YD6-fSBdcEdBgy_I1ck5G4YDp8MHMed1PhY7pqtXWt1_yrM_erLF_Yv7johMzwni809zxstKbj69khEM-XaLSqMJfvGmVmu0SfVlolEEys-vDJTMKGlc6moW4O213u0bXV6IgNuhJikIGbA1BPvkh_jLa6uHqtVLZyNOY2wzJSj2cyXnGTdEUhQm02PNox4LjkeFQYlrnJqTvmfv4OhjNXHokt2DiYxHhsysdW1Xp6nC-UtvF6W2CMW8ObrLiKeQ9bJhC7PA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJs_VIQQBdwokRhJ9KL8ExAro.jpg",
     "address": "8-59 Wyckoff Ave, Ridgewood, NY 11385, USA",
     "phone": "(347) 457-5511",
     "website": "https://laparrilladacolombiana.com/es",
@@ -60739,7 +60739,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJb5wbROVdwokRrAMyKMac278/photos/AcnlKN0QVqIVRxjsypMPZE-vdlVVCkAlGEkMLMHi_ep_9G4C4nD1lOZBSJKO6jhejrvUnhrNUBGocINES_Jxq0HQw-xi-TdZpewdDvIqx2RHXyEEIVOMsr19hDScwslnwgc4_SHQLwaqMpiGYsPF0oxRkPeINgpf9zFSEDOEhj_RzvR-64ktRt_T91TKR5jU_0H8X4INam60NGD_QyzTCswprbNjKV0vFQtqehoBT3lqoAd6kPy-3qI9plsOTVlBPDy_msH8rrZYTMkPVVourRt_i2h4TOFd5c_6dTDpagPzbKIVfcl_RS3Edi0t9JdCwEevhPi4eruzNOiaiVju1WUoLxKRQ0XCE2C9rSYAR4QfMmL3kkYbdrIkyP8s1DEKkEt6k3UGsp40tjx2g3mKs0NrALzm-G15IqPQ-bqDh0qy3AqhYqHxmJcZGRG-1iYFHoHP/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJb5wbROVdwokRrAMyKMac278.jpg",
     "address": "71-08 Fresh Pond Rd, Flushing, NY 11385, USA",
     "phone": "(917) 620-6978",
     "website": "https://www.arrigosnyc.com/",
@@ -60773,7 +60773,7 @@ export const GENERATED_PLACES: Place[] = [
       "Dancing"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJP78OpbflwokRSD_PEdnBSEI/photos/AcnlKN1F1eDSSlTRfTIcOJo2avdGjFVS49Uzo6-jNSqCIoOTDXSCSOSl_qeQf6T0uvLWYTPzUhi8_18UahDaDsUtj5gOSG4daNemeqRwB_ScO7ha-QOaEeD8KsoZgkklSpcMMAznAJt4k1K1oW5x_mUv5FmR4C9afVtY9LPCxn0-FSOLUgOTO958nYQEj0oOv9f6-nLudq58NR0jeiJ0LdLGkrk_zcg6sLJRT_bSLb-IrN-N2vAUxt3UH5CtTr88YROv7TYabQj1vp4gLrsUvEJacEoq1E4-ZRncQWRlKjDREg7cSAC0XRP-Ehea0ThTgjLy3lXeBEUrMYhd1auzqkIhSmaMPZYA9ns-WIf55mjb3J8rmdPgDJpPew-wKIhpBd2yI-yBRQvjsVFYtf9zv2v0aYVP8bPz6FbVQ-Xsd_QA97n-vi4sEakLnOK_G10wdA/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJP78OpbflwokRSD_PEdnBSEI.jpg",
     "address": "12 E Ridgewood Ave, Ridgewood, NJ 07450, USA",
     "phone": "(201) 272-6472",
     "website": "https://speakeasyno12.com/",
@@ -60807,7 +60807,7 @@ export const GENERATED_PLACES: Place[] = [
       "Meet New People"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJPU-YKtVdwokRt8eLKbyyie8/photos/AcnlKN2B8Euyx5C_k0Hem3DCUusz6c9d-hELfSbXouNRWnnQQbwvETks1cJN0_ySZAea2T6dCYJPz1zLS2Dt_I5F4LCQFrrF_qxgPglc05doXVfCIq8CgbrkhewBFOmJwK1muF6_dCn1SVFbeD3TvCoDj_QUBVT_2V8A1q85iSYEOoC0ZsQivBvsZJtkdBMDQI1a1bJk2Wrf1ZRawbvyOOCdR7Mh8nrPb-hv-QPKGfc8yIMtLgkoeBxLpg-plri-rCgIG1VI39vpfegSdBMCnStrcmTDTqIB-Ze42T9GzsrQsFKX50d86JZ7fdlyB1v6NnB5BopD7XnI3cM_g6ga4_hWWGC5zDCvuOClGtAd0p72EbyP88svGwbEyckEhBipNO07-NOeOmkDjwOUQvyPH8D0qmwQMlRa0w3MLmsjkmk9GtnFSg/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJPU-YKtVdwokRt8eLKbyyie8.jpg",
     "address": "72-54 65th Pl, Glendale, NY 11385, USA",
     "phone": "(718) 821-9875",
     "website": "https://www.facebook.com/SerbianANY/",
@@ -60841,7 +60841,7 @@ export const GENERATED_PLACES: Place[] = [
       "Group Fun"
     ],
     "editorial": "A popular local spot.",
-    "image": "https://places.googleapis.com/v1/places/ChIJTzq8HCH7wokRf3f47Yqclgc/photos/AcnlKN2sjl-CeFpg0XcF6XS5jasSRBlBrJq2tak2W4QxaBmwbu3_NmVw8C5W8zKpuX-XzTpUTe4-RU4ZgjrpsLYUHsGuRDGJkTJuJi2ouJ5afjPpOCb_ILSKkmbcFvQXoj9SU-IIhaeoXWxiqxu0d6enCnSP0ASd_ZuVxnKa1lreqnYmqnM7aenMUTOs0E5avm-gFogGXKQuw_1mmGbu_5cu85_Sqjgpbl9G8TzL0jURLZx4mG78V3nIPaqfbQ-RvgUbKPq45HfP2qBf3BhNDqiZgjnI8yajeyYUIUAbDkn_2q2AOtCoN4rbanscnx0x1r4s__zSc6UVKOdxuQf479PKy5JhshemtR2PscJ8756zOi1BQDHaBNSBUtlJ9UifYZ2oOIP6RlsgE5kXh74jgRAQWCuJDKqPOwjLZy2-Uujt2Dx2XORo/media?maxHeightPx=1200&maxWidthPx=1200&key=AIzaSyCkYoALgKHv7JZ24-17WKj2Fn1yMSxXtUs",
+    "image": "/images/venues/ChIJTzq8HCH7wokRf3f47Yqclgc.jpg",
     "address": "96 W Midland Ave, Paramus, NJ 07652, USA",
     "phone": "(201) 599-3900",
     "website": "http://www.rcc1890.com/",

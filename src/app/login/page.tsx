@@ -51,10 +51,50 @@ export default function LoginPage() {
         setResendSuccess(false);
 
         try {
-            const { error } = await supabase.auth.signInWithPassword({
-                email,
+            const input = email.trim();
+            const isPhone = /^\+?\d[\d\s\-()]+$/.test(input);
+
+            let loginEmail = input;
+
+            if (isPhone) {
+                // Convert phone to the generated email format used during signup
+                const digits = input.replace(/\D/g, "");
+                const normalizedDigits = input.startsWith("+") ? digits : `1${digits}`;
+                loginEmail = `${normalizedDigits}@thescene.app`;
+            }
+
+            // Try login with the determined email
+            let signInResult = await supabase.auth.signInWithPassword({
+                email: loginEmail,
                 password,
             });
+
+            // If that failed and input was a phone, look up the real email from profiles
+            if (signInResult.error && isPhone) {
+                const digits = input.replace(/\D/g, "");
+
+                // Query profiles table for the phone to find the associated user
+                const { data: profile } = await supabase
+                    .from("profiles")
+                    .select("id")
+                    .eq("phone", digits)
+                    .single();
+
+                if (profile) {
+                    // Use RPC to get the email for this user ID
+                    const { data: userEmail } = await supabase
+                        .rpc("get_user_email_by_id", { user_id: profile.id });
+
+                    if (userEmail) {
+                        signInResult = await supabase.auth.signInWithPassword({
+                            email: userEmail,
+                            password,
+                        });
+                    }
+                }
+            }
+
+            const { error } = signInResult;
 
             if (error) {
                 setError(error.message);

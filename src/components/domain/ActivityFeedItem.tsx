@@ -1,6 +1,6 @@
 "use client";
 
-import { Heart, MessageCircle, Send, Plus, Bookmark } from "lucide-react";
+import { Heart, MessageCircle, Send, Plus, Bookmark, UsersRound } from "lucide-react";
 import Link from "next/link";
 import { useState } from "react";
 import { ActionDrawer } from "../ui/ActionDrawer";
@@ -25,6 +25,7 @@ interface ActivityFeedItemProps {
     comments?: number;
     bookmarks?: number;
     price?: string;
+    isCircleMember?: boolean;
 }
 
 export function ActivityFeedItem({
@@ -41,6 +42,7 @@ export function ActivityFeedItem({
     comments = 0,
     bookmarks = 0,
     price = "$$",
+    isCircleMember = false,
 }: ActivityFeedItemProps) {
     const [drawerOpen, setDrawerOpen] = useState(false);
     const [drawerMode, setDrawerMode] = useState<"rank" | "bookmark">("rank");
@@ -71,6 +73,12 @@ export function ActivityFeedItem({
                                     : "bg-zinc-100 text-zinc-600 border border-zinc-200"
                                     }`}>
                                     {user.badge}
+                                </span>
+                            )}
+                            {isCircleMember && (
+                                <span className="inline-flex items-center gap-0.5 px-1.5 py-0.5 ml-1 rounded-full text-[9px] font-bold uppercase tracking-wider bg-emerald-50 text-emerald-600 border border-emerald-100">
+                                    <UsersRound className="w-2.5 h-2.5" />
+                                    Circle
                                 </span>
                             )}
                             {" "}

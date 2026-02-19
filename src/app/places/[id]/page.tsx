@@ -7,6 +7,7 @@ import { ArrowLeft, MapPin, Globe, Phone, Star } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { PlaceActions } from "@/components/domain/PlaceActions";
+import { CircleTrustBadge } from "@/components/domain/CircleTrustBadge";
 
 interface PlacePageProps {
     params: {
@@ -133,6 +134,9 @@ export default async function PlacePage({ params }: PlacePageProps) {
                         {/* Right Column: Reviews & Forms (Sticky on Desktop?) */}
                         <div className="md:col-span-5 space-y-8 md:sticky md:top-6">
                             <div className="h-px bg-zinc-100 w-full md:hidden" />
+
+                            {/* Circle Trust Score */}
+                            <CircleTrustBadge venueId={place.id} />
 
                             <section className="space-y-6">
                                 <div className="flex justify-between items-center">
